@@ -8,45 +8,49 @@ tags:
   - physics/9702/mechanics
 ---
 
-# 03 动力学
+# 03 Dynamics
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapters 3, 6
-- 参考范围：3.1 Momentum and Newton's laws of motion, 3.2 Non-uniform motion, 3.3 Linear momentum and its conservation
+Dynamics explains changes in motion using force, mass, momentum, and system boundaries.
 
-## 需要掌握
+## Source Alignment
 
-- 理解质量是物体抗拒运动状态改变的性质。
-- 使用 $F = ma$，并知道合力与加速度方向一致。
-- 定义线动量：$p = mv$。
-- 定义力为动量变化率。
-- 陈述并应用牛顿运动定律。
-- 理解重力是引力场对质量的作用，$W = mg$。
-- 定性理解摩擦力、黏滞力和阻力。
-- 解释有空气阻力时物体在重力场中的运动。
-- 理解终端速度的形成条件。
-- 陈述并应用动量守恒。
-- 处理一维和二维中的弹性/非弹性相互作用。
-- 理解弹性碰撞中动能守恒。
+- Primary syllabus source: CAIE Physics 9702.
+- 3 Dynamics
+- 3.1 Momentum and Newton’s laws of motion
+- 3.2 Non-uniform motion
+- 3.3 Linear momentum and its conservation
+- Coursebook route: Physics Coursebook Chapters 3 and 6: Dynamics, momentum, collisions, and Newton's laws.
 
-## 练习方向
+## What to Learn
 
-- 画受力图并找合力。
-- 用 $F = ma$ 和 $F = \Delta p / \Delta t$ 连接力和动量变化。
-- 用动量守恒处理碰撞、爆炸和分离。
-- 判断碰撞中动能是否守恒。
-- 解释终端速度：重力、阻力和合力的变化。
+- Use mass as the property that resists change in motion, and use $F = ma$ with acceleration in the direction of resultant force.
+- Define linear momentum as mass times velocity and force as rate of change of momentum.
+- State and apply Newton's laws of motion.
+- Describe frictional, viscous, and drag forces qualitatively, including terminal velocity.
+- Apply conservation of momentum to elastic and inelastic interactions in one and two dimensions.
 
-## 实验或观察连接
+## How to Study
 
-- 用小车、光电门或气垫导轨研究碰撞。
-- 比较实验前后动量，并讨论摩擦力、计时和质量测量的误差。
+- Draw the system boundary before applying a conservation law.
+- Use free-body diagrams to separate real forces from resultant force.
+- Compare the force route and momentum route for the same collision.
 
-## 易错点
+## Practice Directions
 
-- 把作用力与反作用力当成同一物体上的平衡力。
-- 在有外力的系统中误用动量守恒。
-- 忘记动量是矢量。
-- 把终端速度理解为“没有力”，实际是合力为 0。
+- Use $F = ma$ with components.
+- Calculate impulse and changes in momentum.
+- Solve collision problems and interpret kinetic energy changes.
 
+## Connections
+
+- [[10 Physics/01 Topics/02 Kinematics|Kinematics]]
+- [[10 Physics/01 Topics/05 Work Energy and Power|Work, Energy and Power]]
+- [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse|Momentum, Collisions and Impulse]]
+
+## Common Traps
+
+- Calling centripetal force or resultant force a new physical force.
+- Using momentum conservation when an external impulse is not negligible.
+- Confusing mass, weight, and inertia.

@@ -1,5 +1,5 @@
 ---
-title: 学习内容清单
+title: Learning Checklist
 subject: Physics
 syllabus: 9702
 status: draft
@@ -8,242 +8,206 @@ tags:
   - checklist
 ---
 
-# 学习内容清单
+# Learning Checklist
 
-这份清单回答两个问题：**要学哪些东西**，以及每类内容**应该学到什么程度**。勾选不代表“做完题”，而是代表你能解释、计算、画图、联系实验，并知道模型边界。
+This checklist follows CAIE Physics 9702 topic wording. A checked item means you can explain the idea, use it in calculation, connect it to a graph or measurement, and state the assumptions.
 
-## 基础工具
+## [[10 Physics/01 Topics/01 Physical Quantities and Units|Physical Quantities and Units]]
 
-### [[10 Physics/01 Topics/01 Physical Quantities and Units|物理量与单位]]
+- [ ] Use physical quantities as numerical magnitude plus unit, and make reasonable order-of-magnitude estimates.
+- [ ] Use SI base units, derived units, prefixes, and dimensional homogeneity checks.
+- [ ] Distinguish systematic errors, random errors, precision, accuracy, and simple uncertainty propagation.
+- [ ] Distinguish scalar and vector quantities, then add, subtract, and resolve coplanar vectors.
 
-- [ ] 理解物理量由数值和单位组成。
-- [ ] 会用 SI 基本单位和导出单位。
-- [ ] 会用量纲检查公式是否可能成立。
-- [ ] 会处理数量级估算和常用单位前缀。
-- [ ] 理解系统误差、随机误差、精密度、准确度。
-- [ ] 会估算和传播简单不确定度。
-- [ ] 会区分标量和矢量，并做矢量合成、相减和分解。
+## [[10 Physics/01 Topics/02 Kinematics|Kinematics]]
 
-### [[10 Physics/04 Reference/Math Tools and Formulae|数学工具与公式表]]
+- [ ] Define and use distance, displacement, speed, velocity, and acceleration.
+- [ ] Read displacement from area under a velocity-time graph, velocity from the gradient of a displacement-time graph, and acceleration from the gradient of a velocity-time graph.
+- [ ] Derive and use equations for uniformly accelerated motion in a straight line.
+- [ ] Describe free fall in a uniform gravitational field without air resistance.
+- [ ] Analyse projectile motion as uniform velocity in one direction and uniform acceleration in a perpendicular direction.
 
-- [ ] 会代数变形，能把目标量变成公式主语。
-- [ ] 会用三角函数和矢量分解处理方向问题。
-- [ ] 会从图像读斜率、截距、面积和切线。
-- [ ] 会处理指数、对数和线性化。
-- [ ] 每条公式都能说出适用条件和单位。
+## [[10 Physics/01 Topics/03 Dynamics|Dynamics]]
 
-## 力学与材料
+- [ ] Use mass as the property that resists change in motion, and use $F = ma$ with acceleration in the direction of resultant force.
+- [ ] Define linear momentum as mass times velocity and force as rate of change of momentum.
+- [ ] State and apply Newton's laws of motion.
+- [ ] Describe frictional, viscous, and drag forces qualitatively, including terminal velocity.
+- [ ] Apply conservation of momentum to elastic and inelastic interactions in one and two dimensions.
 
-### [[10 Physics/01 Topics/02 Kinematics|运动学]]
+## [[10 Physics/01 Topics/04 Forces Density and Pressure|Forces, Density and Pressure]]
 
-- [ ] 用路程、位移、速率、速度、加速度描述运动。
-- [ ] 在文字、公式和图像之间转换。
-- [ ] 用匀加速模型处理直线运动和自由落体。
-- [ ] 把抛体运动分解为水平和竖直方向。
-- [ ] 知道空气阻力什么时候会破坏模型。
+- [ ] Use centre of gravity, moment of a force, couple, and torque of a couple.
+- [ ] Apply the principle of moments and the condition of no resultant force and no resultant torque for equilibrium.
+- [ ] Define and use density and pressure.
+- [ ] Derive and use hydrostatic pressure $\Delta p = \rho g \Delta h$.
+- [ ] Explain upthrust from pressure difference and use $F = \rho gV$ as Archimedes' principle.
 
-### [[10 Physics/01 Topics/03 Dynamics|动力学]]
+## [[10 Physics/01 Topics/05 Work Energy and Power|Work, Energy and Power]]
 
-- [ ] 用牛顿运动定律解释运动变化。
-- [ ] 会画受力图。
-- [ ] 用合力连接加速度。
-- [ ] 用动量和冲量理解碰撞。
-- [ ] 判断一个系统是否可用动量守恒。
-- [ ] 用终端速度解释阻力与重力的平衡。
+- [ ] Use work done as force times displacement in the direction of the force.
+- [ ] Apply conservation of energy and efficiency as useful output over total input.
+- [ ] Define power as work done per unit time and use $P = W/t$ and $P = Fv$.
+- [ ] Use $\Delta E_p = mg\Delta h$ for gravitational potential energy changes in a uniform gravitational field.
+- [ ] Use $E_k = \frac{1}{2}mv^2$ for kinetic energy.
 
-### [[10 Physics/01 Topics/04 Forces Density and Pressure|力、密度与压强]]
+## [[10 Physics/01 Topics/06 Deformation of Solids|Deformation of Solids]]
 
-- [ ] 用力矩和转矩理解转动趋势。
-- [ ] 理解平衡需要合力和合力矩同时为零。
-- [ ] 用密度和压强描述连续物质。
-- [ ] 从静水压强理解深度、密度和压强差。
-- [ ] 用阿基米德原理理解浮力。
+- [ ] Use load, extension, compression, and limit of proportionality for one-dimensional deformation.
+- [ ] Use Hooke's law and the spring constant $k = F/x$.
+- [ ] Define stress, strain, and the Young modulus.
+- [ ] Distinguish elastic deformation, plastic deformation, and elastic limit.
+- [ ] Use area under a force-extension graph and $E_p = \frac{1}{2}Fx = \frac{1}{2}kx^2$ within the limit of proportionality.
 
-### [[10 Physics/01 Topics/05 Work Energy and Power|功、能量与功率]]
+## [[10 Physics/01 Topics/07 Waves|Waves]]
 
-- [ ] 用功连接力和能量转移。
-- [ ] 用能量守恒简化力学问题。
-- [ ] 理解动能和引力势能。
-- [ ] 用功率描述能量转移速率。
-- [ ] 会解释效率和能量耗散。
+- [ ] Use displacement, amplitude, phase difference, period, frequency, wavelength, and speed.
+- [ ] Use the wave equation $v = f\lambda$ and intensity relationships for progressive waves.
+- [ ] Distinguish transverse and longitudinal waves and understand polarisation as evidence for transverse waves.
+- [ ] Describe Doppler effect for sound waves.
+- [ ] Know the main regions and order of the electromagnetic spectrum.
 
-### [[10 Physics/01 Topics/06 Deformation of Solids|固体形变]]
+## [[10 Physics/01 Topics/08 Superposition|Superposition]]
 
-- [ ] 理解胡克定律和弹簧劲度系数。
-- [ ] 用应力、应变、杨氏模量描述材料。
-- [ ] 从力-伸长量和应力-应变图像读材料性质。
-- [ ] 区分弹性形变和塑性形变。
-- [ ] 用图像面积理解弹性势能。
+- [ ] Use the principle of superposition for waves meeting at a point.
+- [ ] Describe stationary waves using nodes, antinodes, phase, and harmonic modes.
+- [ ] Understand diffraction at a slit or edge and the role of aperture size relative to wavelength.
+- [ ] Use path difference, phase difference, and coherence for two-source interference.
+- [ ] Use diffraction grating relationships to connect spectra with wavelength.
 
-### [[10 Physics/01 Topics/12 Motion in a Circle|圆周运动]]
+## [[10 Physics/01 Topics/09 Electricity|Electricity]]
 
-- [ ] 用弧度、角速度和周期描述圆周运动。
-- [ ] 理解向心加速度的方向和来源。
-- [ ] 知道向心力是合力角色，不是一种新力。
-- [ ] 能把圆周运动连接到引力、磁学和振动。
+- [ ] Use electric current as rate of flow of charge.
+- [ ] Use potential difference as energy transferred per unit charge.
+- [ ] Use electrical power relationships in circuits.
+- [ ] Use resistance and resistivity, and interpret $I$-$V$ characteristics.
+- [ ] Understand Ohm's law as a condition, not a universal rule.
 
-### [[10 Physics/01 Topics/13 Gravitational Fields|引力场]]
+## [[10 Physics/01 Topics/10 DC Circuits|D.C. Circuits]]
 
-- [ ] 把引力理解为场。
-- [ ] 使用牛顿万有引力定律。
-- [ ] 用圆周运动分析轨道。
-- [ ] 理解引力场强和引力势。
-- [ ] 会比较引力场与电场。
+- [ ] Use circuit symbols and draw practical circuits clearly.
+- [ ] Use Kirchhoff's first law as conservation of charge and Kirchhoff's second law as conservation of energy.
+- [ ] Analyse series, parallel, and mixed resistor networks.
+- [ ] Use electromotive force, internal resistance, and terminal potential difference.
+- [ ] Use potential dividers in sensing and control circuits.
 
-## 波、叠加与振动
+## [[10 Physics/01 Topics/11 Particle Physics|Particle Physics]]
 
-### [[10 Physics/01 Topics/07 Waves|波]]
+- [ ] Use the nuclear model of the atom and evidence from alpha-particle scattering.
+- [ ] Describe alpha, beta, and gamma radiation in terms of nuclear change and emitted particles or photons.
+- [ ] Use nucleon number, proton number, isotopes, and nuclear equations.
+- [ ] Distinguish hadrons, baryons, mesons, leptons, quarks, and antiquarks.
+- [ ] Use conservation of charge, baryon number, lepton number, and energy in particle interactions.
 
-- [ ] 用振幅、周期、频率、波长、相位描述波。
-- [ ] 理解行波传递能量。
-- [ ] 区分横波和纵波。
-- [ ] 用多普勒效应解释相对运动导致的频率变化。
-- [ ] 理解电磁波谱和偏振。
+## [[10 Physics/01 Topics/12 Motion in a Circle|Motion in a Circle]]
 
-### [[10 Physics/01 Topics/08 Superposition|叠加]]
+- [ ] Use radian measure, angular displacement, angular speed, period, and frequency.
+- [ ] Use $v = r\omega$ for uniform circular motion.
+- [ ] Use centripetal acceleration and centripetal force directed towards the centre.
+- [ ] Identify the real force or resultant force that supplies the centripetal role.
+- [ ] Connect circular motion to orbits, charged-particle motion, and oscillations.
 
-- [ ] 理解叠加是波现象的核心规则。
-- [ ] 用光程差和相位理解干涉。
-- [ ] 理解衍射与孔径大小的关系。
-- [ ] 用波节和波腹理解驻波。
-- [ ] 用衍射光栅理解光谱测量。
+## [[10 Physics/01 Topics/13 Gravitational Fields|Gravitational Fields]]
 
-### [[10 Physics/01 Topics/17 Oscillations|振动]]
-
-- [ ] 理解简谐运动（SHM）的回复加速度。
-- [ ] 用图像理解位移、速度、加速度的相位关系。
-- [ ] 理解简谐运动（SHM）中能量的来回转化。
-- [ ] 区分阻尼、受迫振动和共振。
-- [ ] 能把振动与波、电路和现实中的共振联系起来。
-
-## 电、磁与场
-
-### [[10 Physics/01 Topics/09 Electricity|电学基础]]
-
-- [ ] 从载流子的运动理解电流。
-- [ ] 用单位电荷能量理解电势差。
-- [ ] 用功率解释电路中的能量转移。
-- [ ] 理解电阻、电阻率和伏安特性（伏安特性（伏安特性s））。
-- [ ] 解释光敏电阻（LDR）、热敏电阻、二极管和灯丝灯泡的行为。
-
-### [[10 Physics/01 Topics/10 DC Circuits|直流电路]]
-
-- [ ] 用电荷守恒理解基尔霍夫第一定律。
-- [ ] 用能量守恒理解基尔霍夫第二定律。
-- [ ] 会分析串联、并联和混合电路。
-- [ ] 理解电动势、内阻和路端电压。
-- [ ] 用分压电路理解传感器电路。
-
-### [[10 Physics/01 Topics/18 Electric Fields|电场]]
-
-- [ ] 把电场理解为每一点的力的规则。
-- [ ] 区分场强、势和势能。
-- [ ] 理解匀强场和径向场。
-- [ ] 用库仑定律连接电荷间相互作用。
-- [ ] 用势的斜率理解场强。
-
-### [[10 Physics/01 Topics/19 Capacitance|电容]]
-
-- [ ] 理解电容器储存电荷和能量。
-- [ ] 会分析电容器的串联/并联。
-- [ ] 从 Q-V 图像理解储存能量。
-- [ ] 用指数衰减理解电容器放电。
-- [ ] 把 RC 时间常量与实际电路行为联系起来。
-
-### [[10 Physics/01 Topics/20 Magnetic Fields|磁场]]
-
-- [ ] 理解磁场来自运动电荷或磁体。
-- [ ] 会判断通电导体和运动电荷的受力方向。
-- [ ] 理解霍尔效应。
-- [ ] 把磁力与圆周运动联系起来。
-- [ ] 理解磁通量、磁链、法拉第电磁感应定律和楞次定律。
-
-### [[10 Physics/01 Topics/21 Alternating Currents|交流电]]
-
-- [ ] 用正弦图像描述 AC。
-- [ ] 理解峰值、均方根值和均值功率。
-- [ ] 理解半波/全波整流。
-- [ ] 理解平滑电容器对输出波形的影响。
-
-## 热、物质与现代物理
-
-### [[10 Physics/01 Topics/14 Temperature|温度]]
-
-- [ ] 区分温度、热能和内能。
-- [ ] 理解热力学温标。
-- [ ] 用比热容和潜热处理能量转移。
-- [ ] 从加热/冷却曲线读物理过程。
-
-### [[10 Physics/01 Topics/15 Ideal Gases|理想气体]]
-
-- [ ] 用物质的量和阿伏伽德罗常量连接宏观量与粒子数。
-- [ ] 使用理想气体方程。
-- [ ] 用气体分子运动论解释压强和温度。
-- [ ] 理解方均根速率和分子动能。
-
-### [[10 Physics/01 Topics/16 Thermodynamics|热力学]]
-
-- [ ] 理解内能是状态量。
-- [ ] 区分传热和做功。
-- [ ] 用热力学第一定律分析能量流动。
-- [ ] 用 p-V 图像理解气体做功。
-
-### [[10 Physics/01 Topics/11 Particle Physics|粒子物理]]
-
-- [ ] 理解原子核式结构模型。
-- [ ] 区分质子、中子、电子、夸克、轻子、强子。
-- [ ] 用守恒量写衰变方程。
-- [ ] 理解 α、β、γ 辐射的本质。
-- [ ] 从粒子模型看 β 衰变和反粒子。
-
-### [[10 Physics/01 Topics/22 Quantum Physics|量子物理]]
-
-- [ ] 理解光子是能量量子。
-- [ ] 用光电效应理解光的粒子性。
-- [ ] 用衍射理解粒子的波动性。
-- [ ] 理解德布罗意波长。
-- [ ] 用能级解释发射光谱和吸收光谱。
-
-### [[10 Physics/01 Topics/23 Nuclear Physics|核物理]]
-
-- [ ] 用质能等价理解核能。
-- [ ] 理解质量亏损和结合能。
-- [ ] 从平均每核子结合能图像理解聚变和裂变。
-- [ ] 理解放射性衰变的随机性和指数规律。
-- [ ] 用半衰期和衰变常量连接模型与数据。
-
-## 应用与宇宙
-
-### [[10 Physics/01 Topics/24 Medical Physics|医学物理]]
-
-- [ ] 理解超声的产生、反射和衰减。
-- [ ] 理解 X 射线产生、对比度和衰减。
-- [ ] 理解 CT 如何从多角度图像重建结构。
-- [ ] 理解 PET 中示踪剂、湮灭和 γ 光子。
-- [ ] 能比较不同医学成像方法的物理依据。
-
-### [[10 Physics/01 Topics/25 Astronomy and Cosmology|天文与宇宙学]]
-
-- [ ] 用光度和辐射通量强度理解距离测量。
-- [ ] 理解标准烛光。
-- [ ] 用维恩位移定律和斯特藩-玻尔兹曼定律估算恒星性质。
-- [ ] 用红移理解宇宙膨胀。
-- [ ] 用哈勃定律建立宇宙尺度的数量感。
-
-## 实验思维
-
-### [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation|实验操作与数据表达]]
-
-- [ ] 会选择合适仪器和读数精度。
-- [ ] 会组织原始数据和计算量。
-- [ ] 会用合理有效数字表达结果。
-- [ ] 会画清晰图像并读出斜率、截距和面积。
-- [ ] 会识别主要误差来源。
-
-### [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis|实验设计与数据分析]]
-
-- [ ] 会定义独立、因变量和控制变量。
-- [ ] 会设计可执行的测量方法。
-- [ ] 会选择线性化图像。
-- [ ] 会处理不确定度和误差棒。
-- [ ] 会用数据判断模型是否可信。
+- [ ] Use gravitational field strength as force per unit mass.
+- [ ] Use Newton's law of gravitation for point masses.
+- [ ] Use radial field expressions and compare field strength with potential.
+- [ ] Use gravitational potential as work done per unit mass from infinity.
+- [ ] Analyse orbital motion by combining gravity with circular motion.
+
+## [[10 Physics/01 Topics/14 Temperature|Temperature]]
+
+- [ ] Use thermal equilibrium as the basis for temperature measurement.
+- [ ] Use thermodynamic temperature and convert between Celsius and kelvin scales.
+- [ ] Use specific heat capacity for temperature changes.
+- [ ] Use specific latent heat for changes of state.
+- [ ] Interpret heating and cooling processes using energy transfer and state changes.
+
+## [[10 Physics/01 Topics/15 Ideal Gases|Ideal Gases]]
+
+- [ ] Use amount of substance, mole, Avogadro constant, and number of particles.
+- [ ] Use the ideal gas equation for state changes.
+- [ ] Explain gas pressure using molecular collisions with container walls.
+- [ ] Use kinetic theory to connect thermodynamic temperature with mean translational kinetic energy.
+- [ ] Recognise the assumptions and limitations of the ideal gas model.
+
+## [[10 Physics/01 Topics/16 Thermodynamics|Thermodynamics]]
+
+- [ ] Use internal energy as the sum of random kinetic and potential energies of particles.
+- [ ] Distinguish heating from work done.
+- [ ] Use the first law of thermodynamics with a clear sign convention.
+- [ ] Use $p$-$V$ graphs to interpret work done by or on a gas.
+- [ ] Connect macroscopic energy changes with particle-level models.
+
+## [[10 Physics/01 Topics/17 Oscillations|Oscillations]]
+
+- [ ] Recognise SHM from acceleration proportional to displacement and directed towards equilibrium.
+- [ ] Use displacement, velocity, acceleration, period, frequency, and angular frequency in SHM.
+- [ ] Interpret phase relationships and energy exchange in SHM.
+- [ ] Distinguish damping, forced oscillation, and resonance.
+- [ ] Connect resonance to energy transfer and real systems.
+
+## [[10 Physics/01 Topics/18 Electric Fields|Electric Fields]]
+
+- [ ] Use electric field strength as force per unit positive charge.
+- [ ] Represent electric fields with field lines and distinguish uniform and radial fields.
+- [ ] Use force on a charge in a uniform electric field.
+- [ ] Use Coulomb's law for point charges and field strength due to a point charge.
+- [ ] Use electric potential and potential gradient to connect energy and field strength.
+
+## [[10 Physics/01 Topics/19 Capacitance|Capacitance]]
+
+- [ ] Define capacitance using $C = Q/V$.
+- [ ] Use equivalent capacitance for capacitors in series and in parallel.
+- [ ] Use area under a charge-potential graph to find energy stored in a capacitor.
+- [ ] Use $W = \frac{1}{2}QV = \frac{1}{2}CV^2$.
+- [ ] Analyse capacitor discharge graphs for current, charge, and potential difference.
+- [ ] Use the time constant $\tau = RC$ and exponential form $x = x_0 e^{-t/RC}$.
+
+## [[10 Physics/01 Topics/20 Magnetic Fields|Magnetic Fields]]
+
+- [ ] Use magnetic flux density and field-line representations.
+- [ ] Find the force on a current-carrying conductor and on a moving charge in a magnetic field.
+- [ ] Analyse circular motion of charged particles in a magnetic field.
+- [ ] Use magnetic fields due to currents and the force between current-carrying conductors.
+- [ ] Use magnetic flux, flux linkage, Faraday's law, and Lenz's law for electromagnetic induction.
+
+## [[10 Physics/01 Topics/21 Alternating Currents|Alternating Currents]]
+
+- [ ] Describe sinusoidal alternating current and voltage using peak value, period, frequency, and phase.
+- [ ] Use root-mean-square values to compare AC power with DC power.
+- [ ] Use mean power relationships for resistive circuits.
+- [ ] Describe half-wave and full-wave rectification.
+- [ ] Explain smoothing with a capacitor.
+
+## [[10 Physics/01 Topics/22 Quantum Physics|Quantum Physics]]
+
+- [ ] Use photon energy and photon momentum relationships.
+- [ ] Explain photoelectric effect using photons, threshold frequency, and work function.
+- [ ] Use de Broglie wavelength for matter waves.
+- [ ] Understand wave-particle duality as model choice supported by evidence.
+- [ ] Use discrete energy levels to explain emission and absorption line spectra.
+
+## [[10 Physics/01 Topics/23 Nuclear Physics|Nuclear Physics]]
+
+- [ ] Use mass-energy equivalence to connect mass defect with released energy.
+- [ ] Use nuclear binding energy and binding energy per nucleon to discuss stability, fission, and fusion.
+- [ ] Understand radioactive decay as random at the level of individual nuclei but exponential for large samples.
+- [ ] Use decay constant, activity, half-life, and exponential decay equations.
+- [ ] Interpret decay graphs and linearised forms.
+
+## [[10 Physics/01 Topics/24 Medical Physics|Medical Physics]]
+
+- [ ] Explain ultrasound production, reflection, acoustic impedance, attenuation, and echo timing.
+- [ ] Explain X-ray production, attenuation, image contrast, and computed tomography principles.
+- [ ] Describe PET scanning using tracers, positron emission, annihilation, and gamma-ray detection.
+- [ ] Compare imaging methods by resolution, contrast mechanism, penetration, risk, and information produced.
+- [ ] Use exponential attenuation models where appropriate.
+
+## [[10 Physics/01 Topics/25 Astronomy and Cosmology|Astronomy and Cosmology]]
+
+- [ ] Use luminosity and radiant flux intensity to relate brightness and distance.
+- [ ] Use standard candles as distance indicators.
+- [ ] Use Wien's displacement law and Stefan-Boltzmann law to estimate stellar temperature, radius, and luminosity.
+- [ ] Use redshift to infer recession speed for distant galaxies.
+- [ ] Use Hubble's law as evidence for the expanding universe and Big Bang model.

@@ -8,46 +8,48 @@ tags:
   - physics/9702/electricity
 ---
 
-# 09 电学基础
+# 09 Electricity
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapters 8, 10
-- 参考范围：9.1 Electric current, 9.2 Potential difference and power, 9.3 Resistance and resistivity
+Electric circuits are models of charge flow and energy transfer.
 
-## 需要掌握
+## Source Alignment
 
-- 理解电流是载流子的流动。
-- 理解电荷是量子化的。
-- 使用 $Q = It$。
-- 对导体使用 $I = Anvq$。
-- 定义电势差为每单位电荷转移的能量。
-- 使用 $V = W/Q$。
-- 使用 $P = VI$、$P = I^2R$、$P = V^2/R$。
-- 定义电阻，并使用 $V = IR$。
-- 画金属导体、半导体二极管和灯丝灯泡的伏安特性（伏安特性（伏安特性s））。
-- 解释灯丝灯泡电阻随温度升高而增加。
-- 陈述欧姆定律。
-- 使用电阻率：$R = \rho L/A$。
-- 理解光敏电阻（LDR）和热敏电阻的电阻变化趋势。
+- Primary syllabus source: CAIE Physics 9702.
+- 9 Electricity
+- 9.1 Electric current
+- 9.2 Potential difference and power
+- 9.3 Resistance and resistivity
+- Coursebook route: Physics Coursebook Chapters 8 and 10: Electric current, potential difference, resistance, and resistivity.
 
-## 练习方向
+## What to Learn
 
-- 从电荷-时间图像或电流-时间图像求电荷。
-- 用漂移模型连接电流、数密度、面积和漂移速度。
-- 从 I-V 图像判断元件类型。
-- 计算电阻率或导线长度、面积变化对电阻的影响。
-- 处理电功率和能量转移。
+- Use electric current as rate of flow of charge.
+- Use potential difference as energy transferred per unit charge.
+- Use electrical power relationships in circuits.
+- Use resistance and resistivity, and interpret $I$-$V$ characteristics.
+- Understand Ohm's law as a condition, not a universal rule.
 
-## 实验或观察连接
+## How to Study
 
-- 搭建伏安特性实验电路。
-- 用可变电阻器改变电流，记录电势差和电流。
-- 比较金属导体、灯丝灯泡、二极管、光敏电阻（LDR）和热敏电阻的图像。
+- Trace charge conservation and energy transfer separately.
+- Read $I$-$V$ curves as component behaviour.
+- Keep microscopic charge carriers connected to macroscopic current.
 
-## 易错点
+## Practice Directions
 
-- I-V 图中电阻不一定等于曲线斜率，要看坐标轴是哪一个。
-- 欧姆定律只适用于温度等物理条件恒定时。
-- 电流方向与电子漂移方向相反。
-- $I = Anvq$ 中 $A$ 是横截面积，不是电流表读数。
+- Calculate current, charge, p.d., resistance, resistivity, and power.
+- Interpret non-ohmic component graphs.
+- Compare metallic conductors, filament lamps, thermistors, LDRs, and diodes.
+
+## Connections
+
+- [[10 Physics/01 Topics/10 DC Circuits|D.C. Circuits]]
+- [[10 Physics/01 Topics/18 Electric Fields|Electric Fields]]
+
+## Common Traps
+
+- Equating potential difference with current.
+- Assuming every component obeys Ohm's law.
+- Forgetting that resistance can depend on temperature.

@@ -2,42 +2,53 @@
 title: 07 Chi-Squared, Non-Parametric Tests and PGF
 subject: Mathematics
 syllabus:
+  - 9709
   - 9231
 status: draft
 tags:
   - mathematics/statistics
 ---
 
-# 07 卡方、非参数检验与 PGF
+# 07 Chi-Squared, Non-Parametric Tests and PGF
 
-## 教材对应
+## Core Idea
 
-- 9231：Chi-squared tests，non-parametric tests，probability generating functions
+Further statistics adds inference methods for categorical or rank data and algebraic tools for discrete distributions.
 
-## 需要掌握
+## Source Alignment
 
-- 使用卡方拟合优度检验和独立性检验。
-- 理解观测频数、期望频数、自由度和检验统计量。
-- 知道什么时候需要合并类别。
-- 理解非参数检验的意义：不依赖强正态假设。
-- 使用符号检验、Wilcoxon 符号秩检验、Wilcoxon 秩和检验。
-- 理解概率母函数（PGF），并用它求均值、方差和独立随机变量之和。
+- 9231 4.3 Chi-squared tests
+- 9231 4.4 Non-parametric tests
+- 9231 4.5 Probability generating functions
+- Coursebook route: 9231 Further Probability and Statistics content on chi-squared tests, non-parametric tests, and probability generating functions.
 
-## 练习方向
+## What to Learn
 
-- 卡方题先写类别、假设和期望频数。
-- 检查期望频数是否足够大。
-- 非参数检验先判断数据类型和配对关系。
-- PGF 题先从分布写出母函数，再做代数操作。
+- Chi-squared goodness-of-fit and contingency-style reasoning where included.
+- Degrees of freedom and expected frequencies.
+- Non-parametric tests such as Wilcoxon signed-rank and rank-sum tests where required.
+- Probability generating functions for discrete random variables.
+- Using PGFs to find probabilities, expectation, variance, and sums of independent variables.
 
-## 连接
+## How to Study
 
-- 卡方和非参数检验扩展了 [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|假设检验]]。
-- PGF 是 [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables|离散随机变量]] 的高阶工具。
+- Match the test to the data type.
+- Check assumptions before calculating a statistic.
+- Use PGFs as functions that encode a distribution, not as arbitrary algebra.
 
-## 易错点
+## Practice Directions
 
-- 自由度算错。
-- 拟合优度和独立性检验混用。
-- Wilcoxon 检验没检查配对关系或对称性条件。
-- PGF 求导后忘记在 $t = 1$ 处代入。
+- Carry out chi-squared tests.
+- Apply non-parametric tests to ranked or paired data.
+- Manipulate PGFs and interpret coefficients.
+
+## Connections
+
+- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|Sampling, Estimation and Hypothesis Tests]]
+- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions|Sequences, Series and Binomial Expansions]]
+
+## Common Traps
+
+- Using chi-squared tests with too-small expected frequencies.
+- Forgetting degrees of freedom adjustments.
+- Reading PGF coefficients from the wrong power.

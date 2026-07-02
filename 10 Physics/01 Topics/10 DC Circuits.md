@@ -1,5 +1,5 @@
 ---
-title: 10 DC Circuits
+title: 10 D.C. Circuits
 subject: Physics
 syllabus: 9702
 status: draft
@@ -8,47 +8,48 @@ tags:
   - physics/9702/electricity
 ---
 
-# 10 直流电路
+# 10 D.C. Circuits
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapters 8-11
-- 参考范围：10.1 Practical circuits, 10.2 Kirchhoff's laws, 10.3 Potential dividers
+D.C. circuit analysis is conservation of charge and conservation of energy written as equations.
 
-## 需要掌握
+## Source Alignment
 
-- 记住大纲中给出的电路符号。
-- 能画和解释含常见元件的电路图。
-- 定义电动势为波源驱动电荷绕完整回路时每单位电荷转移的能量。
-- 从能量角度区分电动势和电势差。
-- 理解内阻对路端电压的影响。
-- 陈述基尔霍夫第一定律，并连接电荷守恒。
-- 陈述基尔霍夫第二定律，并连接能量守恒。
-- 用基尔霍夫定律推导串联和并联电阻器的等效电阻。
-- 用基尔霍夫定律解简单电路。
-- 理解分压电路的原理。
-- 理解电位差计比较电势差的原理。
-- 理解检流计在零示法中的用途。
-- 解释热敏电阻和光敏电阻（LDR）在分压电路中如何产生随温度或光强变化的电势差。
+- Primary syllabus source: CAIE Physics 9702.
+- 10 D.C. circuits
+- 10.1 Practical circuits
+- 10.2 Kirchhoff’s laws
+- 10.3 Potential dividers
+- Coursebook route: Physics Coursebook Chapters 9-11: Kirchhoff's laws, resistor combinations, internal resistance, potential dividers, sensors, and potentiometer circuits.
 
-## 练习方向
+## What to Learn
 
-- 计算路端电压、内阻损失电压和内阻。
-- 处理串并联混合电路。
-- 用基尔霍夫定律列方程。
-- 设计或解释分压电路传感器电路。
-- 判断电压表、电流表和检流计的连接方式。
+- Use circuit symbols and draw practical circuits clearly.
+- Use Kirchhoff's first law as conservation of charge and Kirchhoff's second law as conservation of energy.
+- Analyse series, parallel, and mixed resistor networks.
+- Use electromotive force, internal resistance, and terminal potential difference.
+- Use potential dividers in sensing and control circuits.
 
-## 实验或观察连接
+## How to Study
 
-- 用电源、电表和可变电阻器测内阻。
-- 用电位差计做零示法比较电势差。
-- 用光敏电阻（LDR） / 热敏电阻做分压器传感器。
+- Mark junctions and loops before writing equations.
+- Decide whether a meter is ideal enough for the model.
+- Use limiting cases to check circuit answers.
 
-## 易错点
+## Practice Directions
 
-- 电动势不是“电池两端总是测到的电压”。
-- 内阻变大时，负载电流越大路端电压下降越明显。
-- 基尔霍夫第一、第二定律本质分别是电荷和能量守恒。
-- 分压器输出端接负载后会改变原本分压比例。
+- Solve resistor-network problems.
+- Use $V = IR$ with Kirchhoff equations.
+- Design and analyse potential divider circuits.
 
+## Connections
+
+- [[10 Physics/01 Topics/09 Electricity|Electricity]]
+- [[10 Physics/01 Topics/19 Capacitance|Capacitance]]
+
+## Common Traps
+
+- Applying series rules to parallel branches.
+- Treating e.m.f. and terminal p.d. as always equal.
+- Ignoring the loading effect of a connected component.

@@ -5,39 +5,50 @@ syllabus: 9702
 status: draft
 tags:
   - physics/9702/topic
-  - physics/9702/thermal
+  - physics/9702/thermal-physics
 ---
 
-# 16 热力学
+# 16 Thermodynamics
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 19
-- 参考范围：16.1 Internal energy, 16.2 The first law of thermodynamics
+Thermodynamics describes energy transfer into, out of, and within a system.
 
-## 需要掌握
+## Source Alignment
 
-- 理解内能是系统状态量。
-- 理解内能可表示为分子随机动能和势能的总和。
-- 将温度升高与内能增加联系起来。
-- 使用常量压强下气体体积变化做功：$W = p\Delta V$。
-- 区分气体对外做功和外界对气体做功。
-- 使用热力学第一定律：$\Delta U = q + W$，其中 $q$ 是加热进入系统的能量，$W$ 是外界对系统做功。
+- Primary syllabus source: CAIE Physics 9702.
+- 16 Thermodynamics
+- 16.1 Internal energy
+- 16.2 The first law of thermodynamics
+- Coursebook route: Physics Coursebook Chapter 19: Internal energy and the first law of thermodynamics.
 
-## 练习方向
+## What to Learn
 
-- 判断过程中的加热、做功和内能变化符号。
-- 用 p-V 图像的面积理解气体做功。
-- 区分等温、常量压强、体积恒定等过程的能量转移。
-- 用热力学第一定律解释真实情境中的能量去向。
+- Use internal energy as the sum of random kinetic and potential energies of particles.
+- Distinguish heating from work done.
+- Use the first law of thermodynamics with a clear sign convention.
+- Use $p$-$V$ graphs to interpret work done by or on a gas.
+- Connect macroscopic energy changes with particle-level models.
 
-## 实验或观察连接
+## How to Study
 
-- 可用气体注射器、压强传感器和温度传感器分析气体过程。
-- 可以练习从图像或表格推断能量转移和不确定度。
+- Declare the system and sign convention before calculation.
+- Read area under a $p$-$V$ graph as work.
+- Compare constant-volume and constant-pressure processes.
 
-## 易错点
+## Practice Directions
 
-- 这份大纲的符号约定是 $W$ 表示做功对系统做功。
-- 体积恒定时 $\Delta V = 0$，所以气体边界做功为 0。
-- 内能是状态量，热和功是能量转移路径。
+- Calculate changes in internal energy.
+- Interpret thermodynamic process graphs.
+- Explain heating, expansion, compression, and cooling in energy terms.
+
+## Connections
+
+- [[10 Physics/01 Topics/14 Temperature|Temperature]]
+- [[10 Physics/01 Topics/15 Ideal Gases|Ideal Gases]]
+
+## Common Traps
+
+- Switching sign conventions mid-problem.
+- Treating heat as a substance rather than energy transfer.
+- Ignoring work done during expansion or compression.

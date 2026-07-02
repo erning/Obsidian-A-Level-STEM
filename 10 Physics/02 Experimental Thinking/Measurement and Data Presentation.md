@@ -1,5 +1,5 @@
 ---
-title: 实验操作与数据表达
+title: Measurement and Data Presentation
 subject: Physics
 syllabus: 9702
 status: draft
@@ -8,73 +8,47 @@ tags:
   - experimental-thinking
 ---
 
-# 实验操作与数据表达
+# Measurement and Data Presentation
 
-实验思维的第一层，是把一个现象变成可信的数据。即使暂时没有实验室，也要知道一个量怎样被测出来，以及数据为什么值得相信。
+## Core Idea
 
-## 测量前先问
+Measurement turns a physical idea into evidence. A result is incomplete unless it includes units, uncertainty, and a clear representation of the data.
 
-- 我要测的物理量是什么？
-- 它能不能直接测？如果不能，需要先测哪些量？
-- 仪器的量程是否足够？
-- 仪器的分辨率是否足够？
-- 哪些变量会偷偷影响结果？
+## Source Alignment
 
-## 常见测量工具
+- CAIE Physics 9702 practical skills content.
+- Physics Coursebook Practical Skills at AS Level: practical work, apparatus, evidence, precision, accuracy, errors, uncertainties, recording results, analysing results, and testing relationships.
 
-| 工具 | 适合测什么 | 注意点 |
-|---|---|---|
-| 米尺 | 长度、位移、伸长量 | 视差、零点、读数精度。 |
-| 游标卡尺/数显卡尺 | 直径、厚度、小长度 | 多点测量并取平均。 |
-| 千分尺 | 细线直径、小厚度 | 注意零误差。 |
-| 秒表 | 时间间隔、周期 | 人反应时间大，周期测量应测多次振动。 |
-| 天平 | 质量 | 读数精度和校零。 |
-| 测力计 | 力 | 注意量程和弹簧零点。 |
-| 电流表/电压表 | 电流、电压 | 连接方式、内阻影响和量程。 |
-| 示波器 | 电压随时间变化 | 时基、垂直增益、触发稳定性。 |
-| 光电门/数据记录仪 | 时间、速度、加速度 | 遮光片长度和采样设置。 |
+## What to Learn
 
-## 表格怎么写
+- Choose measuring instruments with suitable range and precision.
+- Record raw data, processed data, units, and uncertainties clearly.
+- Use significant figures consistently with the measurement precision.
+- Plot graphs with labelled axes, sensible scales, and appropriate best-fit lines.
+- Interpret gradient, intercept, area, and uncertainty in graphical work.
+- Distinguish random error, systematic error, precision, accuracy, and uncertainty.
 
-一张好表格应该让别人不看正文也能理解数据：
+## How to Study
 
-- 原始数据和计算量放在同一张表里。
-- 表头写成 $\text{quantity}/\text{unit}$，例如 $I/\mathrm{mA}$。
-- 同一列原始读数保持相同精度。
-- 计算量使用合理有效数字。
-- 如果计算步骤关键，要在表格下方写一个样本计算。
+- For each topic, ask what can actually be measured and what must be calculated.
+- Practise turning formulae into straight-line graph forms when possible.
+- Keep example graphs in the relevant topic note, especially for exponential, inverse-square, and proportional relationships.
 
-## 图像怎么画
+## Practice Directions
 
-图像不是装饰，是实验中的推理工具：
+- Build tables from raw data and calculated columns.
+- Draw best-fit lines and estimate gradients with large triangles.
+- Use uncertainty bars where they help judge the fit.
+- Compare percentage uncertainties to identify the dominant source of uncertainty.
 
-- 坐标轴写清物理量和单位。
-- 数据点尽量占满图纸的有效范围。
-- 选择容易读数的比例，例如 1、2、5 的倍数。
-- 最佳拟合直线要反映整体趋势，而不是机械连点。
-- 曲线需要时画切线，用切线求局部斜率。
-- 如果有异常点，标出并说明为什么可能异常。
+## Connections
 
-## 结果怎么表达
+- [[10 Physics/01 Topics/01 Physical Quantities and Units|Physical Quantities and Units]]
+- [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis|Experimental Design and Data Analysis]]
+- [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]
 
-一个物理测量结果至少要包括：
+## Common Traps
 
-- 数值。
-- 单位。
-- 合理有效数字。
-- 不确定度或误差来源。
-- 简短判断：结果是否支持原模型。
-
-例如不要只写“弹簧常量是 24.8”。更完整的表达是：
-
-> 弹簧劲度系数约为 $25\,\mathrm{N\,m^{-1}}$; 主要不确定度来自用刻度尺测量很小的伸长量.
-
-## 日常练习
-
-每学一个主题，补一个“怎么测”问题：
-
-- 学速率：怎样测一个小车的瞬时速度？
-- 学杨氏模量：怎样测细金属丝的直径和伸长量？
-- 学电阻率：怎样测导线的电阻率？
-- 学电容器放电：怎样从电压随时间变化求时间常量？
-- 学天文学：怎样从图像数据估算恒星温度或距离？
+- Reporting too many significant figures.
+- Drawing a line through every point instead of a best-fit line.
+- Treating a calculated value as more precise than the measurements that produced it.

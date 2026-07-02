@@ -1,5 +1,5 @@
 ---
-title: 学习地图
+title: Learning Map
 subject: Mathematics
 syllabus:
   - 9709
@@ -9,58 +9,34 @@ tags:
   - mathematics/learning-map
 ---
 
-# 学习地图
+# Learning Map
 
-这份地图把 CAIE 数学 9709 和 CAIE 进阶数学 9231 合并成一条数学学习路线。9709 提供基础语言，9231 提供更高阶的结构和问题；学习时关注概念依赖、模型能力和解题方法，而不是把两个大纲切成彼此孤立的课程。
+This map combines CAIE Mathematics 9709 and CAIE Further Mathematics 9231 as one route. 9709 builds the core language; 9231 deepens the same language through further pure mathematics, further mechanics, and further probability and statistics.
 
-## 总路线
+## Route
 
-1. **先建立代数和函数语言**：表达式、方程、不等式、函数、图像、变换和建模。
-2. **补齐几何与三角工具**：坐标几何、圆度量、三角函数、三角恒等式和参数化表示。
-3. **进入微积分主线**：极限直觉、导数、积分、数值方法、微分方程和曲线分析。
-4. **扩展线性与空间语言**：向量、直线、平面、矩阵、线性变换、特征值和特征向量。
-5. **学习复数与极坐标**：复平面、极坐标形式、棣莫弗定理、极坐标曲线。
-6. **建立概率统计模型**：数据表达、概率、随机变量、分布、估计和假设检验。
-7. **把数学用于运动建模**：受力、运动、能量、动量、弹性、圆周运动、刚体和变量力。
-8. **最后做连接**：把微积分接到力学，把概率分布接到数据，把矩阵接到变换，把复数接到三角和级数。
+1. Algebra and functions: quadratics, functions, graph transformations, modulus, polynomials, rational functions, and partial fractions.
+2. Geometry and trigonometry: coordinate geometry, circular measure, trigonometric graphs, identities, equations, polar coordinates, and parametric curves.
+3. Calculus: differentiation, integration, logarithmic and exponential functions, numerical methods, further calculus, and differential equations.
+4. Linear and spatial structure: vectors, lines, planes, matrices, transformations, eigenvalues, and eigenvectors.
+5. Complex and advanced functions: complex numbers, loci, hyperbolic functions, series, and proof by induction.
+6. Mechanics: equilibrium, kinematics, Newton's laws, momentum, work, energy, power, elasticity, projectiles, circular motion, rigid bodies, and variable forces.
+7. Probability and statistics: data representation, probability, random variables, normal and Poisson distributions, continuous variables, sampling, estimation, hypothesis tests, chi-squared tests, non-parametric tests, and probability generating functions.
 
-## 模块地图
+## Learning Questions
 
-| 模块 | 要学什么 | 怎么学 |
-|---|---|---|
-| 基础代数与函数 | 方程、不等式、函数、图像、复合与反函数、模函数 | 每个表达式都问“它描述什么变换”；每张图都读定义域、值域、截距、渐近线和单调性。 |
-| 三角、坐标与曲线 | 坐标几何、圆度量、三角函数、极坐标、参数方程 | 一边画图一边算；把角、弧长、面积、周期和对称性连起来。 |
-| 微积分 | 导数、积分、数值方法、微分方程、弧长和曲面面积 | 先理解变化率和累积量，再学技巧；每个技巧都配一个模型场景。 |
-| 线性代数与向量 | 二维/三维向量、直线、平面、矩阵、线性变换、特征向量 | 把代数方程和几何图像同时保留，不只做机械计算。 |
-| 复数与高阶函数 | 复平面、极式、棣莫弗定理、双曲函数、功率级数 | 把代数、三角、指数函数看成同一套语言的不同投影。 |
-| 概率统计 | 数据、计数、概率、随机变量、分布、抽样、估计、检验 | 把每个分布理解成一个生成数据的模型；不要只记公式。 |
-| 力学建模 | 平衡、运动、牛顿定律、动量、能量、弹性、刚体、圆周运动 | 每题先画模型和受力，再选择方程；用单位、极端情况和能量检查结果。 |
+Use these questions for every topic:
 
-## 每个主题的学习循环
+- What object is being studied?
+- What representation makes the object easiest to understand?
+- What method is available, and what conditions does it require?
+- How can the result be checked?
+- How does this connect to physics, statistics, geometry, or a later mathematics topic?
 
-1. **对象**：这个主题研究什么对象，函数、曲线、向量、随机变量还是运动系统？
-2. **语言**：用什么符号表达它，哪些定义必须精确？
-3. **图像**：能不能画出图像、几何结构或数据形状？
-4. **方法**：核心操作是什么，解方程、求导、积分、投影、估计还是检验？
-5. **条件**：这个方法在什么条件下成立？
-6. **应用**：它能解释什么模型，能和物理或统计场景怎么连接？
-7. **反思**：错题暴露的是概念、代数、图像、建模还是计算问题？
+## Three Passes
 
-## 三轮学习
+First pass: build the map. Learn what each topic does and what it depends on.
 
-1. **第一轮：建地图**  
-   按 [[20 Mathematics/00 Overview/Integrated Sequence|合并学习顺序]] 快速过完主题。每个主题只要求知道它解决什么问题、依赖哪些旧知识。
+Second pass: build methods. Work through coursebook examples and write conditions, checks, and common traps.
 
-2. **第二轮：做方法**  
-   回到教材例题，手算关键例题。每个方法都写出适用条件、常见变形和一条最小例子。
-
-3. **第三轮：做连接**  
-   把同一思想在不同模块里连接起来，例如求导与速度，积分与面积/概率，复数与三角学，矩阵与变换。
-
-## 学完后应该具备的能力
-
-- 能把一个问题翻译成函数、方程、图像、向量、矩阵、分布或运动模型。
-- 能在计算前判断需要哪类方法，并说明理由。
-- 能把结果放回图像、单位、数量级或概率语境中检查。
-- 能解释一个公式的来源、条件和失效边界。
-- 能用数学工具支持物理学习，而不是把数学当成孤立技巧。
+Third pass: build connections. Link differentiation to velocity, integration to area and probability, vectors to mechanics, matrices to transformations, and distributions to inference.

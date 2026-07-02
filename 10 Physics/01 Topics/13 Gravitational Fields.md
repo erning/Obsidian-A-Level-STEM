@@ -8,41 +8,49 @@ tags:
   - physics/9702/fields
 ---
 
-# 13 引力场
+# 13 Gravitational Fields
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 17
-- 参考范围：13.1 Gravitational field, 13.2 Gravitational force between point masses, 13.3 Gravitational field of a point mass, 13.4 Gravitational potential
+A gravitational field describes how a mass affects space around it through force and potential energy.
 
-## 需要掌握
+## Source Alignment
 
-- 理解引力场是力场，并定义引力场强为单位质量所受的力。
-- 用场线表示引力场。
-- 理解在均匀球体外部，可把球体质量视为集中在中心的质点。
-- 使用牛顿万有引力定律：$F = Gm_1m_2/r^2$。
-- 将引力与向心加速度连接，分析圆轨道。
-- 理解地球同步轨道的条件：24 h、自西向东、赤道上空、相对地表固定。
-- 从万有引力和场强定义推导 $g = GM/r^2$。
-- 理解近地小高度变化时 $g$ 近似恒定。
-- 定义引力势，并使用 $\phi = -GM/r$。
-- 使用引力势能：$E_p = -GMm/r$。
+- Primary syllabus source: CAIE Physics 9702.
+- 13 Gravitational fields
+- 13.1 Gravitational field
+- 13.2 Gravitational force between point masses
+- 13.3 Gravitational field of a point mass
+- 13.4 Gravitational potential
+- Coursebook route: Physics Coursebook Chapter 17: Gravitational fields and orbits.
 
-## 练习方向
+## What to Learn
 
-- 比较场强、势和势能。
-- 计算卫星轨道速率、周期和半径。
-- 解释为什么引力势取负值。
-- 画径向场的 $g\text{-}r$ 或 $\phi\text{-}r$ 图像。
+- Use gravitational field strength as force per unit mass.
+- Use Newton's law of gravitation for point masses.
+- Use radial field expressions and compare field strength with potential.
+- Use gravitational potential as work done per unit mass from infinity.
+- Analyse orbital motion by combining gravity with circular motion.
 
-## 实验或观察连接
+## How to Study
 
-- 这个主题多为理论和数据分析，可用天体轨道数据验证 $T^2 \propto r^3$ 关系。
-- 可以设计一个用图像验证引力或圆周运动关系的实验模型。
+- Draw field lines and equipotential ideas separately.
+- Track signs carefully because gravitational potential is conventionally zero at infinity.
+- Compare each concept with the corresponding electric-field concept.
 
-## 易错点
+## Practice Directions
 
-- $r$ 是到质量中心的距离，不是离地高度。
-- 场强 $g$ 与自由落体加速度量纲不同写法相同，但语境要分清。
-- 地球同步轨道与极轨道不能混淆。
-- 势的斜率的方向和符号容易错。
+- Calculate field strength, potential, and orbital speed.
+- Interpret graphs of field strength and potential against distance.
+- Solve satellite and planetary motion problems.
+
+## Connections
+
+- [[10 Physics/01 Topics/12 Motion in a Circle|Motion in a Circle]]
+- [[10 Physics/01 Topics/18 Electric Fields|Electric Fields]]
+
+## Common Traps
+
+- Confusing field strength with potential.
+- Forgetting inverse-square dependence.
+- Using uniform-field equations in a radial field without justification.

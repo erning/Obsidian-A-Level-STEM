@@ -9,38 +9,48 @@ tags:
   - mathematics/pure
 ---
 
-# 01 代数与函数
+# 01 Algebra and Functions
 
-## 教材对应
+## Core Idea
 
-- 9709：Pure Mathematics 1 Chapters 1-2；Pure Mathematics 2 and 3 Chapters 1, 7
-- 9231：Further Pure 中 polynomial roots、rational functions 和 partial fractions 相关内容
+Algebra and functions provide the language for equations, transformations, domains, ranges, and structural reasoning.
 
-## 需要掌握
+## Source Alignment
 
-- 处理线性、二次式、多项式、有理式和绝对值表达式。
-- 用配方法、因式分解、二次式公式和判别式分析二次函数。
-- 理解函数的定义域、值域、复合函数、反函数和图像变换。
-- 会解方程和不等式，包括多项式、有理式、绝对值和简单变换方程。
-- 用因式定理、余式定理和根与系数关系理解多项式结构。
-- 使用部分分式，把有理函数拆成可积分、可展开或可分析的形式。
+- 9709 1.1 Quadratics
+- 9709 1.2 Functions
+- 9709 2.1 Algebra
+- 9709 3.1 Algebra
+- 9231 1.1 Roots of polynomial equations
+- 9231 1.2 Rational functions and graphs
+- Coursebook route: 9709 Pure Mathematics 1 Chapters 1-2; 9709 Pure Mathematics 2 and 3 Chapters 1 and 7; 9231 Further Mathematics sections on roots of polynomial equations and rational functions.
 
-## 练习方向
+## What to Learn
 
-- 每次解方程都先写允许的定义域。
-- 把方程的解和图像交点联系起来。
-- 对同一个二次式同时写标准式、因式分解式和配方式。
-- 对有理函数先找铅直、水平或斜渐近线，再画草图。
-- 做部分分式后用通分检查。
+- Quadratics, completing the square, discriminant, roots, inequalities, and simultaneous equations.
+- Function, domain, range, one-one function, inverse function, composition of functions, and graph transformations.
+- Modulus functions, polynomial division, factor theorem, remainder theorem, and partial fractions.
+- Root-coefficient relationships and rational-function graphs including asymptotes.
 
-## 连接
+## How to Study
 
-- 代数是 [[20 Mathematics/01 Pure Mathematics/06 Integration|积分法]]、[[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods|数值方法]] 和 [[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations|矩阵]] 的底层工具。
-- 多项式根会自然通向 [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers|复数]]。
+- Treat every expression as a function or relation with a domain.
+- Move between algebraic form, graph, and verbal description.
+- Use factorisation, completed square form, and discriminant as different views of the same quadratic.
 
-## 易错点
+## Practice Directions
 
-- 忘记检查定义域，尤其是分母、平方根式和对数。
-- 把反函数和倒数混淆。
-- 解不等式时乘除负数忘记改变方向。
-- 对绝对值方程不分区间，直接把绝对值“去掉”。
+- Solve equations and inequalities with domain checks.
+- Sketch functions and rational functions from key features.
+- Use partial fractions and then verify by recombining.
+
+## Connections
+
+- [[20 Mathematics/01 Pure Mathematics/06 Integration|Integration]]
+- [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers|Complex Numbers]]
+
+## Common Traps
+
+- Confusing inverse function with reciprocal.
+- Forgetting domain restrictions before solving.
+- Losing roots when multiplying by an expression that may be zero.

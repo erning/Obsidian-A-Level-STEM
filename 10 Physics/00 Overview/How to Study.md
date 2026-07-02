@@ -1,5 +1,5 @@
 ---
-title: 学习方法
+title: How to Study
 subject: Physics
 syllabus: 9702
 status: draft
@@ -8,110 +8,60 @@ tags:
   - learning-method
 ---
 
-# 学习方法
+# How to Study
 
-目标不是“刷题拿分”，而是把物理变成一种看世界的工具。学习时可以把每章当成一个小研究项目：我观察到什么？我怎样抽象？我怎样计算？我怎样验证？
+Study physics as a way of modelling the world, not as a list of formulae. Each topic should answer four questions: what is the phenomenon, what is the model, what can be measured, and what evidence would change your mind?
 
-## 一章怎么学
+## The Study Loop
 
-### 1. 先问现象
+1. Start with the phenomenon.
+   Ask what the topic is trying to describe: motion, force, wave transfer, field interaction, thermal change, radiation, imaging, or cosmic scale.
 
-不要先背公式。先用自己的话写：
+2. Build the model.
+   Name the object, the system boundary, the assumptions, and the conditions under which the model fails.
 
-- 这个章节想解释什么现象？
-- 哪些量会变，哪些量可以近似不变？
-- 这个问题发生在什么尺度：日常、实验室、原子、天体？
+3. Translate into quantities.
+   Write the relevant physical quantities, units, directions, and uncertainty. A formula is only useful after the quantities are clear.
 
-例如学运动学时，先问“怎样描述运动”；学场时，先问“没有接触时为什么还能发生作用”。
+4. Use graphs as physics.
+   For every graph, identify the axes, gradient, intercept, area, and curve shape. Many physical relationships are easier to see graphically than algebraically.
 
-### 2. 再建模型
+5. Return to measurement.
+   Ask how the relationship could be measured. Identify the independent variable, dependent variable, control variables, likely uncertainties, and a graph that would test the model.
 
-每个模型都要写清楚：
+## Notes Structure
 
-- 对象是什么？
-- 忽略了什么？
-- 假设了什么？
-- 哪些条件下模型会失效？
+Each topic note should stay close to the CAIE wording but should not copy the syllabus or coursebook. Use this structure:
 
-例如抛体运动通常忽略空气阻力；理想气体忽略分子间相互作用；点电荷和质点都是理想化。
+- Core Idea: the one-sentence physical point.
+- Source Alignment: the exact syllabus and coursebook route.
+- What to Learn: concepts, definitions, relationships, models, and graphs.
+- How to Study: the order in which to build understanding.
+- Practice Directions: the kinds of problems that reveal whether the model is usable.
+- Connections: links to earlier and later topics.
+- Common Traps: errors that should be watched for in future work.
 
-### 3. 公式只作为压缩后的语言
+## Practice Method
 
-每条公式都补 4 件事：
+After each worked example or exercise, classify any mistake:
 
-- 公式表达的物理关系。
-- 每个符号的含义和单位。
-- 适用条件。
-- 一个最小例子。
+- Concept error: the definition, model, or system boundary was wrong.
+- Graph error: gradient, area, intercept, or curve shape was misread.
+- Unit error: dimensions, unit conversion, or prefix handling failed.
+- Condition error: the formula was used outside its assumptions.
+- Algebra error: rearrangement, trigonometry, exponentials, or logarithms failed.
+- Estimation error: the order of magnitude was not checked.
 
-如果一条公式不能用语言解释，它就还没有真正学会。
+Put the correction back into the relevant topic note. The notebook should become a map of your own understanding, not a copy of the book.
 
-### 4. 图像要当作第二语言
+## A Weekly Rhythm
 
-物理里很多理解藏在图像里。每看到一张图，都问：
+- Read one or two coursebook sections slowly.
+- Work through a small number of examples by hand.
+- Add the model, formula conditions, graphs, and traps to Obsidian.
+- Write one short experimental note: how would this be measured?
+- Link the topic to at least one earlier topic and one mathematical tool.
 
-- 横轴和纵轴是什么？
-- 斜率代表什么？
-- 截距代表什么？
-- 面积代表什么？
-- 曲线形状说明什么物理过程？
+## Self-Check
 
-这比单纯代数计算更能训练直觉。
-
-### 5. 实验和误差不能跳过
-
-即使不真的做实验，也要知道“如果要测它，我该怎么测”。每个主题至少补一条：
-
-- 可测量的量是什么？
-- 自变量和因变量是什么？
-- 控制变量是什么？
-- 最大误差来源是什么？
-- 什么图像能验证这个关系？
-
-## 笔记怎么写
-
-每个主题的笔记建议分成 5 块：
-
-1. **一句话核心**：这个主题的核心观念。
-2. **模型与假设**：适用条件和失效边界。
-3. **关键量与公式**：单位、量纲、推导思路。
-4. **图像与实验**：怎样测、怎样画、怎样判断。
-5. **连接**：它和前后哪些主题相连。
-
-不要把教材改写成另一份教材。更好的笔记是你的理解地图。
-
-## 练习怎么做
-
-练习不是为了凑数量，而是为了暴露理解漏洞。每道题做完后分到一种错误类型：
-
-- 概念错：模型或定义没懂。
-- 图像错：斜率、面积、截距理解错。
-- 单位错：量纲或单位换算错。
-- 条件错：用了不适用的公式。
-- 数学错：代数、三角、指数或对数处理错。
-- 估算错：数量级判断失灵。
-
-每类错误都要反向补到主题笔记里。
-
-## 每周节奏
-
-一周可以按这个节奏：
-
-- 2 次教材阅读：每次 45-60 分钟，只读一个小节或半章。
-- 2 次练习：以例题和基础题为主。
-- 1 次整理：把公式、图像、易错点写回 Obsidian。
-- 1 次实验思维：选一个主题，写“如果要验证它，我会怎么测”。
-- 1 次连接复盘：把本周主题和旧主题连一条边。
-
-## 什么时候算学会
-
-不用分数判断。可以用这些问题自测：
-
-- 我能不用公式先解释这个现象吗？
-- 我能画出关键图像吗？
-- 我能从图像读出物理量吗？
-- 我能用单位检查公式吗？
-- 我能设计一个粗略测量方法吗？
-- 我知道这个模型什么时候会失败吗？
-
-如果这些都能回答，这个主题就真正开始属于你了。
+A topic is becoming yours when you can explain the phenomenon without starting from a formula, draw the key graph, check the units, design a rough measurement, and say clearly when the model stops working.

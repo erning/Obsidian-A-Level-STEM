@@ -2,43 +2,52 @@
 title: 10 Matrices and Transformations
 subject: Mathematics
 syllabus:
+  - 9709
   - 9231
 status: draft
 tags:
   - mathematics/pure
 ---
 
-# 10 矩阵与变换
+# 10 Matrices and Transformations
 
-## 教材对应
+## Core Idea
 
-- 9231：Further Pure Matrices；9231 Coursebook Chapters 4, 20
-- Hodder FP1 Chapters 1, 6；Hodder FP2 Chapter 5
+Matrices organise linear operations, transformations, systems of equations, and eigenstructure.
 
-## 需要掌握
+## Source Alignment
 
-- 做矩阵加法、减法、乘法和标量乘法。
-- 理解零矩阵、单位矩阵、逆矩阵、奇异/非奇异和行列式。
-- 用矩阵表示线性变换，包括反射、旋转、放缩、剪切。
-- 处理联立线性方程。
-- 理解特征值、特征向量、对角化和 Cayley-Hamilton 定理。
-- 把行列式看成面积/体积缩放因子，把逆矩阵看成逆变换。
+- 9231 1.4 Matrices
+- 9231 2.2 Matrices
+- Coursebook route: 9231 Further Mathematics Coursebook matrix and transformation chapters; Hodder FP1/FP2 matrix chapters.
 
-## 练习方向
+## What to Learn
 
-- 每个 $2 \times 2$ 变换都画一个单位正方形看变化。
-- 乘矩阵时注意顺序代表变换复合的顺序。
-- 求逆矩阵后用 $AA^{-1} = I$ 检查。
-- 对特征向量，直接代回看方向是否保持。
+- Matrix addition, subtraction, multiplication, zero matrix, and identity matrix.
+- Determinants, singular and non-singular matrices, and inverses.
+- Matrices as two-dimensional geometric transformations, including rotation, reflection, enlargement, stretch, and shear.
+- Invariant points, invariant lines, and area scale factor.
+- Linear systems, consistency, eigenvalues, eigenvectors, diagonalisation, and characteristic equation.
 
-## 连接
+## How to Study
 
-- 矩阵和 [[20 Mathematics/01 Pure Mathematics/08 Vectors|向量]] 共同构成线性代数语言。
-- 特征值在微分方程、动力系统和数据方法中都会再次出现。
+- View each matrix both as an array and as a transformation.
+- Track multiplication order because transformations compose right to left.
+- Use geometry to interpret determinant and invariant objects.
 
-## 易错点
+## Practice Directions
 
-- 以为矩阵乘法可以交换。
-- 行列式为 0 仍然尝试求逆矩阵。
-- 把行向量和列向量混用。
-- 只算特征值，不解释特征向量的几何意义。
+- Find inverses and solve matrix equations.
+- Build transformation matrices from geometric descriptions.
+- Find eigenvalues, eigenvectors, and diagonal forms.
+
+## Connections
+
+- [[20 Mathematics/01 Pure Mathematics/08 Vectors|Vectors]]
+- [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs|Coordinate Geometry and Graphs]]
+
+## Common Traps
+
+- Assuming matrix multiplication is commutative.
+- Ignoring singular cases.
+- Confusing rows and columns when applying a transformation.

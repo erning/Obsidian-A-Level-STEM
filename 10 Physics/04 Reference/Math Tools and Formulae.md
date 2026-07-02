@@ -1,5 +1,5 @@
 ---
-title: 数学工具与公式表
+title: Math Tools and Formulae
 subject: Physics
 syllabus: 9702
 status: draft
@@ -8,126 +8,50 @@ tags:
   - reference
 ---
 
-# 数学工具与公式表
+# Math Tools and Formulae
 
-物理里的数学不是另一个负担，而是压缩和检验想法的语言。学公式时，不要只记结果；要知道它来自什么模型、用了什么近似、能从图像中读出什么。
+This reference collects the mathematical tools that repeatedly appear in CAIE Physics 9702. Formulae are written in LaTeX so they render cleanly in Obsidian.
 
-## 必备数学工具
+## Algebra and Units
 
-### 代数
+- Rearrange equations before substituting numbers.
+- Check dimensions by reducing each side to SI base units.
+- Keep units attached to intermediate results.
+- Use prefixes consistently: pico, nano, micro, milli, centi, deci, kilo, mega, giga, and tera.
 
-- 改变公式主语。
-- 解简单方程和二元一次联立方程。
-- 处理平方、平方根、负指数和科学记数法。
-- 用近似估算检查答案数量级。
-- 用百分比表达变化和不确定度。
+## Graph Tools
 
-### 三角与矢量
+- Gradient: $\Delta y / \Delta x$.
+- Area under a graph: often an accumulated physical quantity, such as displacement from a velocity-time graph or work from a force-displacement graph.
+- Intercept: often an initial value or systematic offset.
+- Tangent: instantaneous gradient for a curve.
+- Linearisation: choose axes so a relationship becomes $y = mx + c$.
 
-- 用 $\sin$、$\cos$、$\tan$ 分解矢量。
-- 用勾股定理求合量。
-- 用正弦定理和余弦定理处理非直角三角形。
-- 会在度和弧度之间转换。
-- 在圆周运动和振动中优先使用弧度。
+## Trigonometry and Vectors
 
-### 图像
+- Resolve a vector into perpendicular components before applying scalar equations.
+- Use $F_x = F \cos\theta$ and $F_y = F \sin\theta$ only after defining the angle clearly.
+- For uniform circular motion, use radians for angular quantities.
+- For small-angle work, state the approximation before using it.
 
-- 斜率：变化率，常对应速度、加速度、电阻、场强斜率或衰变常量。
-- 截距：初始值、常量项或系统误差。
-- 面积：累积量，常对应位移、做功、能量或电荷。
-- 切线：曲线某点瞬时变化率。
-- 线性化：把复杂关系变成直线，方便判断模型是否成立。
+## Exponentials and Logarithms
 
-### 指数与对数
+- Capacitor discharge and radioactive decay both use the form $x = x_0 e^{-t/\tau}$ or $x = x_0 e^{-\lambda t}$.
+- A plot of $\ln x$ against $t$ gives a straight line when the decay is exponential.
+- The half-life relationship is $t_{1/2} = \ln 2 / \lambda$.
 
-- $e^{-t/RC}$：电容器放电。
-- $e^{-\lambda t}$：放射性衰变。
-- $\ln y$ 对 $x$：检验指数关系。
-- $\log y$ 对 $\log x$：检验幂律关系。
+## Common Formula Patterns
 
-## 公式学习卡片
+- Rate: $\text{rate} = \Delta(\text{quantity}) / \Delta t$.
+- Density: $\rho = m/V$.
+- Pressure: $p = F/A$.
+- Work: $W = Fs\cos\theta$.
+- Power: $P = W/t = Fv$ for force and velocity in the same direction.
+- Kinetic energy: $E_k = \frac{1}{2}mv^2$.
+- Gravitational potential energy in a uniform field: $\Delta E_p = mg\Delta h$.
+- Capacitance: $C = Q/V$.
+- Energy stored in a capacitor: $W = \frac{1}{2}QV = \frac{1}{2}CV^2$.
 
-每条公式建议写成这种格式：
+## How to Use This Reference
 
-```markdown
-## Formula
-
-- Relationship:
-- Meaning of symbols:
-- Units:
-- Assumptions:
-- Graph connection:
-- Common mistakes:
-- One worked example:
-```
-
-## 常量
-
-- $g = 9.81\,\mathrm{m\,s^{-2}}$
-- $c = 3.00 \times 10^8\,\mathrm{m\,s^{-1}}$
-- $e = 1.60 \times 10^{-19}\,\mathrm{C}$
-- $1\,\mathrm{u} = 1.66 \times 10^{-27}\,\mathrm{kg}$
-- $N_A = 6.02 \times 10^{23}\,\mathrm{mol^{-1}}$
-- $R = 8.31\,\mathrm{J\,K^{-1}\,mol^{-1}}$
-- $k = 1.38 \times 10^{-23}\,\mathrm{J\,K^{-1}}$
-- $G = 6.67 \times 10^{-11}\,\mathrm{N\,m^2\,kg^{-2}}$
-- $\varepsilon_0 = 8.85 \times 10^{-12}\,\mathrm{F\,m^{-1}}$
-- $h = 6.63 \times 10^{-34}\,\mathrm{J\,s}$
-- $\sigma = 5.67 \times 10^{-8}\,\mathrm{W\,m^{-2}\,K^{-4}}$
-
-## 需要特别熟悉的关系
-
-### 力学
-
-- 匀加速度：$s = ut + \frac{1}{2}at^2$，$v^2 = u^2 + 2as$
-- 牛顿第二定律：$F = ma$
-- Momentum：$p = mv$
-- Work：$W = Fs$
-- 动能：$E_k = \frac{1}{2}mv^2$
-- 近地引力势能：$\Delta E_p = mg\Delta h$
-- Power：$P = \frac{W}{t}$，$P = Fv$
-
-### 波与振动
-
-- 波动方程：$v = f\lambda$
-- Intensity：$I = \frac{P}{A}$
-- 马吕斯定律（Malus's law）：$I = I_0\cos^2\theta$
-- Double-slit：$\lambda = \frac{ax}{D}$
-- 衍射光栅：$d\sin\theta = n\lambda$
-- 简谐运动（SHM）：$a = -\omega^2x$
-
-### 电磁学
-
-- Charge flow：$Q = It$
-- Potential difference：$V = \frac{W}{Q}$
-- 欧姆定律：$V = IR$
-- Resistivity：$R = \frac{\rho L}{A}$
-- 电场：$F = qE$
-- 匀强电场：$E = \frac{\Delta V}{\Delta d}$
-- 库仑定律：$F = \frac{Q_1Q_2}{4\pi\varepsilon_0r^2}$
-- Capacitance：$C = \frac{Q}{V}$
-- 电容器能量：$W = \frac{1}{2}QV = \frac{1}{2}CV^2$
-- 通电导线所受磁力：$F = BIL\sin\theta$
-- 运动电荷所受磁力：$F = BQv\sin\theta$
-- 法拉第电磁感应定律和楞次定律：变化的磁通量会感生反抗该变化的电动势.
-
-### 热、量子与宇宙
-
-- Ideal gas：$pV = nRT = NkT$
-- Kinetic theory：$pV = \frac{1}{3}Nm\langle c^2 \rangle$
-- 热力学第一定律：$\Delta U = q + W$
-- 光子能量：$E = hf$
-- 德布罗意波长：$\lambda = \frac{h}{p}$
-- 质能：$E = mc^2$
-- 放射性衰变：$x = x_0e^{-\lambda t}$
-- 平方反比光度：$F = \frac{L}{4\pi d^2}$
-- Stefan-Boltzmann：$L = 4\pi\sigma r^2T^4$
-- 哈勃定律：$v \approx H_0d$
-
-## 使用原则
-
-- 先理解模型，再背公式。
-- 先检查单位，再相信数值。
-- 先画图像，再做复杂代数。
-- 先估算数量级，再按计算器。
-- 先问适用条件，再迁移到新情境。
+Do not memorise this file as a formula sheet. Each formula should link back to a topic note where the model, assumptions, graph interpretation, and experimental context are explained.

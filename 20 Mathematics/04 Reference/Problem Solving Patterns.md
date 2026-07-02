@@ -1,5 +1,5 @@
 ---
-title: 解题模式
+title: Problem Solving Patterns
 subject: Mathematics
 syllabus:
   - 9709
@@ -9,44 +9,54 @@ tags:
   - mathematics/reference
 ---
 
-# 解题模式
+# Problem Solving Patterns
 
-这份笔记收集可以反复迁移的解题模式。它不是题型清单，而是“看到什么信号，就想到什么结构”的索引。
+This note records reusable approaches across CAIE 9709 and 9231. Add to it whenever a mistake repeats.
 
-## 通用流程
+## Before Solving
 
-1. 写出对象：函数、方程、向量、矩阵、随机变量还是力学系统。
-2. 写出已知和目标。
-3. 画图或结构图。
-4. 选择方法，并说明条件。
-5. 执行计算。
-6. 用图像、定义域、单位、概率范围或极端情况检查。
+- Identify the object: function, equation, graph, vector, matrix, distribution, or mechanical system.
+- State the domain, interval, support, or physical constraints.
+- Choose the representation that makes structure visible.
+- Estimate what the answer should roughly look like.
 
-## 常见信号
+## Algebra Problems
 
-| 信号 | 常见方法 | 检查 |
-|---|---|---|
-| 二次式顶点 | 配方法 | 顶点和对称轴是否正确 |
-| 重根 / 切线 | 判别式或联立方程 | 图像是否相切 |
-| 乘积积分 | 分部积分法 | 反求导检查 |
-| 复合表达式 | 链式法则或换元法 | 内函数是否完整出现 |
-| 有理函数 | 部分分式或渐近线 | 分母零点和长期行为 |
-| 极大值/极小值 | 导数 = 0，加二阶或符号检查 | 图像形状是否符合 |
-| 路程/空间中的角度 | 点积、叉积、投影 | 长度非负，角度范围合理 |
-| 变换 | 矩阵表示 | 行列式和图像方向 |
-| 独立重复试验 | 二项分布/几何分布模型 | 参数和事件定义 |
-| 区间内稀有计数 | 泊松分布模型 | 单位时间/空间的率 |
-| 样本推断 | 置信区间或假设检验 | 假设、样本和条件 |
-| 力问题 | 受力图 | 合力方向和单位 |
-| 能量问题 | 守恒/功-能量 | 初末状态是否清楚 |
+- Factor where possible, but check domains first.
+- Use the discriminant for root-counting and tangency conditions.
+- For inequalities, mark critical values on a number line.
+- After solving, substitute into the original equation, not a transformed equation only.
 
-## 错题归档
+## Graph and Geometry Problems
 
-每道错题不要只写正确答案。至少标一个错误类型：
+- Sketch before calculating.
+- Label intercepts, asymptotes, stationary points, tangents, centres, radii, and domains.
+- Use geometry to check algebraic answers.
 
-- `concept`：定义或对象错。
-- `representation`：代数、图像、语言之间转换错。
-- `condition`：方法适用条件错。
-- `algebra`：符号、展开、整理错。
-- `model`：情境翻译错。
-- `check`：没有发现明显不合理。
+## Calculus Problems
+
+- Decide whether the task concerns gradient, area, rate of change, accumulated change, or optimisation.
+- State the variable of differentiation or integration.
+- Differentiate an antiderivative to check it.
+- For definite integrals, check the sign and the region.
+
+## Probability and Statistics Problems
+
+- Define the random variable in words.
+- State the distribution and parameters.
+- Check assumptions such as independence, fixed interval, or normality approximation.
+- Interpret the final probability or test conclusion in context.
+
+## Mechanics Problems
+
+- Draw the model and forces before writing equations.
+- Choose axes and sign convention.
+- Decide whether to use forces, energy, momentum, or calculus.
+- Check units and limiting cases.
+
+## After Solving
+
+- Does the result have the right sign, unit, and magnitude?
+- Does it fit the graph or physical situation?
+- Would an alternative method give the same answer?
+- What mistake would this problem expose if it appeared again?

@@ -5,46 +5,51 @@ syllabus: 9702
 status: draft
 tags:
   - physics/9702/topic
-  - physics/9702/units
+  - physics/9702/foundations
 ---
 
-# 01 物理量与单位
+# 01 Physical Quantities and Units
 
-## 教材对应
+## Core Idea
 
-- 教材：Appendix 1, P1, Chapter 1, Chapter 3
-- 参考范围：1.1 Physical quantities, 1.2 SI units, 1.3 Errors and uncertainties, 1.4 Scalars and vectors
+Physics starts by making quantities measurable: a numerical magnitude, a unit, an uncertainty, and, when needed, a direction.
 
-## 需要掌握
+## Source Alignment
 
-- 理解所有物理量都由数值和单位组成。
-- 会估算大纲内常见物理量的数量级。
-- 记住 SI 基本量：质量、长度、时间、电流、温度。
-- 会把导出单位表示为基本单位的乘积或商。
-- 会用基本单位做量纲一致性检查。
-- 熟悉常用单位前缀：皮、纳、微、毫、厘、分、千、兆、吉、太等单位前缀。
-- 区分系统误差、零点误差和随机误差。
-- 区分精密度和准确度。
-- 会用绝对不确定度或百分比不确定度处理简单导出量。
-- 区分标量和矢量，并能做共面矢量的加减与正交分解。
+- Primary syllabus source: CAIE Physics 9702.
+- 1 Physical quantities and units
+- 1.1 Physical quantities
+- 1.2 SI units
+- 1.3 Errors and uncertainties
+- 1.4 Scalars and vectors
+- Coursebook route: Appendix 1, Practical Skills sections, and early coursebook chapters where units and vectors are used.
 
-## 练习方向
+## What to Learn
 
-- 从公式推导某个物理量的单位。
-- 判断方程是否量纲一致。
-- 对实验读数给出合理不确定度。
-- 合成两个斜向矢量，或把一个矢量分解到水平和竖直方向。
-- 用数量级估算排除明显不合理答案。
+- Use physical quantities as numerical magnitude plus unit, and make reasonable order-of-magnitude estimates.
+- Use SI base units, derived units, prefixes, and dimensional homogeneity checks.
+- Distinguish systematic errors, random errors, precision, accuracy, and simple uncertainty propagation.
+- Distinguish scalar and vector quantities, then add, subtract, and resolve coplanar vectors.
 
-## 实验或观察连接
+## How to Study
 
-- 所有实验表格的表头都要写成 $\text{quantity}/\text{unit}$。
-- 每个原始读数都要与仪器精度一致。
-- 计算量的不确定度要能从原始量的不确定度传递过来。
+- For every new equation, rewrite all quantities in SI base units before trusting it.
+- Keep a running list of typical magnitudes: masses, lengths, times, currents, temperatures, and field strengths.
+- Practise vector diagrams before component algebra, so direction remains visible.
 
-## 易错点
+## Practice Directions
 
-- 把准确度和精密度混用。
-- 写单位时把 $\mathrm{N\,m}$、$\mathrm{N\,m^{-2}}$、$\mathrm{kg\,m\,s^{-2}}$ 等混淆。
-- 矢量相减时忘记方向。
-- 对百分比不确定度做加法时，忘记先确认公式是乘除形式。
+- Convert derived units into base units.
+- Estimate percentage uncertainties in derived quantities.
+- Resolve vectors into perpendicular components and reconstruct the resultant.
+
+## Connections
+
+- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation|Measurement and Data Presentation]]
+- [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]
+
+## Common Traps
+
+- Treating units as decoration instead of part of the quantity.
+- Confusing accuracy with precision.
+- Adding vector magnitudes without checking direction.

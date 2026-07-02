@@ -3,41 +3,51 @@ title: 04 Normal and Poisson Distributions
 subject: Mathematics
 syllabus:
   - 9709
+  - 9231
 status: draft
 tags:
   - mathematics/statistics
 ---
 
-# 04 正态分布与泊松分布
+# 04 Normal and Poisson Distributions
 
-## 教材对应
+## Core Idea
 
-- 9709：Probability and Statistics 1 Chapter 7；Probability and Statistics 2 Chapter 5
+Normal and Poisson distributions are standard models for continuous variation and random counts.
 
-## 需要掌握
+## Source Alignment
 
-- 理解正态分布是连续变量的钟形模型。
-- 会标准化：把 $X$ 转换为标准正态变量。
-- 使用正态分布表或计算器求概率、百分位数和参数。
-- 理解连续性修正，用正态近似处理离散情形。
-- 理解泊松分布作为固定区间内随机计数模型。
-- 处理泊松和、用泊松分布近似二项分布和简单均值检验。
+- 9709 5.5 The normal distribution
+- 9709 6.1 The Poisson distribution
+- 9709 6.2 Linear combinations of random variables
+- Coursebook route: 9709 Probability and Statistics 1 normal distribution chapter; 9709 Probability and Statistics 2 Poisson and linear combinations chapters.
 
-## 练习方向
+## What to Learn
 
-- 每道正态分布题都画曲线并标出阴影面积。
-- 标准化后检查方向：$P(X < x)$ 和 $P(Z < z)$ 是否一致。
-- 泊松分布题明确率和区间，必要时调整均值。
-- 近似题说明为什么近似合理。
+- Normal distribution, standardisation, areas, and inverse probability problems.
+- Poisson distribution as a model for random counts in a fixed interval.
+- Mean and variance for Poisson variables.
+- Linear combinations of random variables.
+- Approximations and model conditions where included.
 
-## 连接
+## How to Study
 
-- 正态分布是 [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|推断]] 的中心模型。
-- 泊松分布和指数等待时间、随机事件流有自然联系。
+- Sketch the distribution before using tables or technology.
+- State parameters and units.
+- Check whether the random mechanism matches the distribution.
 
-## 易错点
+## Practice Directions
 
-- 忘记标准差不是方差。
-- 连续性修正方向错误。
-- 泊松分布均值没按时间/空间区间缩放。
-- 把正态密度的高度当作概率。
+- Standardise normal variables.
+- Calculate Poisson probabilities.
+- Use linear combinations of independent random variables.
+
+## Connections
+
+- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|Sampling, Estimation and Hypothesis Tests]]
+
+## Common Traps
+
+- Using variance where standard deviation is required.
+- Forgetting continuity correction where appropriate.
+- Using Poisson for counts that are not plausibly independent over the interval.

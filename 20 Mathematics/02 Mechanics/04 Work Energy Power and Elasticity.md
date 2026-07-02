@@ -9,37 +9,45 @@ tags:
   - mathematics/mechanics
 ---
 
-# 04 功、能量、功率与弹性
+# 04 Work, Energy, Power and Elasticity
 
-## 教材对应
+## Core Idea
 
-- 9709：Mechanics Chapters 8-9；Energy, work and power
-- 9231：Hooke's law and elastic potential energy
+Energy methods solve motion problems by tracking work, kinetic energy, potential energy, and elastic energy.
 
-## 需要掌握
+## Source Alignment
 
-- 理解力做功，尤其是力与位移不平行时的分量。
-- 使用动能、引力势能和能量守恒。
-- 理解功-能量原理和非保守力。
-- 使用功率作为做功率，以及 $P = Fv$。
-- 理解胡克定律、弹性模量和弹性势能。
-- 能在力方法和能量方法之间选择。
+- 9709 4.5 Energy, work and power
+- 9231 3.4 Hooke’s law
+- Coursebook route: 9709 Mechanics energy, work, and power chapters; 9231 Further Mechanics Hooke's law and elastic energy content.
 
-## 练习方向
+## What to Learn
 
-- 先写初态和末态，再写能量方程。
-- 对非保守力明确做功的符号。
-- 弹性题先写伸长量/压缩量，再写弹性势能。
-- 用单位检查能量和功率。
+- Work done by a force and gravitational potential energy.
+- Kinetic energy and conservation of mechanical energy where appropriate.
+- Power as rate of doing work.
+- Hooke's law, modulus of elasticity, and elastic potential energy.
+- Energy methods for variable force contexts where appropriate.
 
-## 连接
+## How to Study
 
-- 与 [[10 Physics/01 Topics/05 Work Energy and Power|物理中的功、能量与功率]] 和 [[10 Physics/01 Topics/06 Deformation of Solids|固体形变]] 对接。
-- 弹性会连接 [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations|微分方程]] 和振动模型。
+- Choose a zero level for potential energy.
+- List conservative and non-conservative work separately.
+- Use energy to check force-based solutions.
 
-## 易错点
+## Practice Directions
 
-- 把力乘总路程当功，而不是用位移分量。
-- 忽略摩擦力做负功。
-- 胡克定律中自然长度、伸长量和实际长度混淆。
-- 功率题忘记瞬时速度。
+- Solve work-energy problems.
+- Use power relationships.
+- Analyse elastic strings or springs.
+
+## Connections
+
+- [[10 Physics/01 Topics/05 Work Energy and Power|Physics Work, Energy and Power]]
+- [[10 Physics/01 Topics/06 Deformation of Solids|Physics Deformation of Solids]]
+
+## Common Traps
+
+- Forgetting energy losses.
+- Using extension instead of natural length in elastic formulae.
+- Mixing force and energy units.

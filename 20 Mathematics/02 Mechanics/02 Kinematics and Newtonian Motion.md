@@ -3,42 +3,51 @@ title: 02 Kinematics and Newtonian Motion
 subject: Mathematics
 syllabus:
   - 9709
+  - 9231
 status: draft
 tags:
   - mathematics/mechanics
 ---
 
-# 02 运动学与牛顿运动
+# 02 Kinematics and Newtonian Motion
 
-## 教材对应
+## Core Idea
 
-- 9709：Mechanics Chapters 1, 6；Kinematics and Newton's laws
-- Physics：[[10 Physics/01 Topics/02 Kinematics|运动学]]，[[10 Physics/01 Topics/03 Dynamics|动力学]]
+Kinematics describes motion, and Newtonian motion explains it with force and acceleration.
 
-## 需要掌握
+## Source Alignment
 
-- 使用位移、速度、加速度和时间描述一维运动。
-- 读 $s\text{-}t$、$v\text{-}t$ 图像，理解斜率和面积。
-- 使用恒定加速度方程。
-- 理解速度是位移的导数，加速度是速度的导数。
-- 使用牛顿运动定律分析常量力下的运动。
-- 处理连接体、升降机、绳、杆和滑轮。
+- 9709 4.2 Kinematics of motion in a straight line
+- 9709 4.4 Newton’s laws of motion
+- Coursebook route: 9709 Mechanics kinematics and Newton's laws chapters; linked to Physics kinematics and dynamics.
 
-## 练习方向
+## What to Learn
 
-- 图像题先标斜率、面积和关键时间点。
-- 运动分段时写清每一段的初末状态。
-- 连接粒子先分别画受力图，再用共同加速度连接。
-- 一般运动题先判断用 $a = dv/dt$ 还是积分关系。
+- Displacement, velocity, acceleration, and motion graphs.
+- Constant-acceleration formulae and calculus relationships.
+- Newton's laws of motion for particles.
+- Connected particles and pulley-style models where required.
+- Solving motion problems with clear sign conventions.
 
-## 连接
+## How to Study
 
-- 与 [[20 Mathematics/01 Pure Mathematics/05 Differentiation|微分法]] 和 [[20 Mathematics/01 Pure Mathematics/06 Integration|积分法]] 直接相连。
-- 后续 [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion|抛体与圆周运动]] 会把一维运动推广到二维。
+- Decide whether to use graph, formula, or calculus form.
+- Draw the force diagram before applying $F = ma$.
+- Keep constraints between connected particles explicit.
 
-## 易错点
+## Practice Directions
 
-- 把速率和速度混用。
-- 忘记位移可以为负。
-- 多阶段运动中重复使用错误的初速度。
-- 连接粒子中把张力当成外部总力处理。
+- Solve straight-line motion problems.
+- Use $s$-$t$, $v$-$t$, and $a$-$t$ graphs.
+- Apply Newton's second law to connected particles.
+
+## Connections
+
+- [[10 Physics/01 Topics/02 Kinematics|Physics Kinematics]]
+- [[10 Physics/01 Topics/03 Dynamics|Physics Dynamics]]
+
+## Common Traps
+
+- Changing sign convention halfway through.
+- Using constant-acceleration formulae when acceleration varies.
+- Forgetting that connected particles share acceleration magnitude under ideal string constraints.

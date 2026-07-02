@@ -9,37 +9,45 @@ tags:
   - mathematics/pure
 ---
 
-# 08 向量
+# 08 Vectors
 
-## 教材对应
+## Core Idea
 
-- 9709：Pure Mathematics 2 and 3 Chapter 9
-- 9231：Further Pure Vectors；Hodder FP1 Chapter 7
+Vectors describe magnitude and direction in two and three dimensions, then extend to lines, planes, distances, and angles.
 
-## 需要掌握
+## Source Alignment
 
-- 做二维和三维矢量加法、减法、标量乘法。
-- 理解大小、单位向量、位置向量和方向向量。
-- 使用点积求角度、投影和垂直条件。
-- 使用叉积求法向量、面积和方向关系。
-- 写直线和平面的矢量方程，并处理交事件、路程和角度。
-- 在几何问题中选择坐标、向量或矩阵表示。
+- 9709 3.7 Vectors
+- 9231 1.6 Vectors
+- Coursebook route: 9709 Pure Mathematics 2 and 3 Chapter 9; 9231 Further Mathematics vector content.
 
-## 练习方向
+## What to Learn
 
-- 每个空间问题先画草图。
-- 对直线/平面写出点 + 方向向量或点 + 法向量。
-- 用点积检查垂直，用叉积找法向量。
-- 距离问题优先想投影。
+- Position vectors, displacement vectors, and vector equations of lines.
+- Scalar product for angles, projections, and perpendicularity.
+- Vector product for area, normals, and three-dimensional geometry.
+- Equations of planes in scalar product, Cartesian, and parametric forms.
+- Distances, intersections, skew lines, and common perpendiculars.
 
-## 连接
+## How to Study
 
-- 向量是 [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium|力与平衡]]、[[10 Physics/01 Topics/03 Dynamics|动力学]] 和场主题的共同语言。
-- 叉积也会连接转矩、磁力和面积。
+- Draw geometric meaning before doing component algebra.
+- Name points, direction vectors, and normal vectors clearly.
+- Use scalar and vector products for different jobs.
 
-## 易错点
+## Practice Directions
 
-- 把点和向量混淆。
-- 直线交事件没检查参数是否同时满足。
-- 平面方程中法向量写错方向。
-- 距离公式直接套用，不理解它其实是投影。
+- Find line and plane equations.
+- Calculate angles and distances.
+- Solve intersection and skew-line problems.
+
+## Connections
+
+- [[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations|Matrices and Transformations]]
+- [[10 Physics/01 Topics/01 Physical Quantities and Units|Physics Vectors]]
+
+## Common Traps
+
+- Confusing a point vector with a direction vector.
+- Using scalar product when vector product is needed, or vice versa.
+- Assuming two non-intersecting 3D lines are parallel.

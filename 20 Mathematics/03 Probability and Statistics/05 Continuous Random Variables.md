@@ -9,37 +9,44 @@ tags:
   - mathematics/statistics
 ---
 
-# 05 连续随机变量
+# 05 Continuous Random Variables
 
-## 教材对应
+## Core Idea
 
-- 9709：Probability and Statistics 2 Chapter 2
-- 9231：Continuous random variables，transformations
+A continuous random variable uses density; probabilities are areas, not point heights.
 
-## 需要掌握
+## Source Alignment
 
-- 理解概率密度函数（PDF）和分布函数（CDF）。
-- 知道连续变量中 $P(X = a) = 0$，概率来自面积。
-- 会求概率、中位数、众数、期望和方差。
-- 处理分段密度函数。
-- 使用变换 $Y = g(X)$ 求新变量的分布。
-- 理解密度、微积分和面积的关系。
+- 9709 6.3 Continuous random variables
+- 9231 4.1 Continuous random variables
+- Coursebook route: 9709 Probability and Statistics 2 continuous random variable chapter; 9231 Further Probability and Statistics continuous random variable content.
 
-## 练习方向
+## What to Learn
 
-- 先画密度曲线，确认总面积为 1。
-- 求 CDF 时分区间写清。
-- 对期望和方差，写出积分范围。
-- 变换题先判断函数是否一一对应。
+- Probability density function and cumulative distribution function.
+- Using integration to find probabilities.
+- Expectation and variance for continuous variables.
+- Transformations or further continuous-variable content where included by 9231.
+- Interpreting density graphs.
 
-## 连接
+## How to Study
 
-- 连续随机变量是 [[20 Mathematics/01 Pure Mathematics/06 Integration|积分法]] 在概率中的直接应用。
-- 它也为 [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|抽样与推断]] 提供模型基础。
+- Check that total area under the density is 1.
+- Use intervals for probability statements.
+- Connect density shape to likely values.
 
-## 易错点
+## Practice Directions
 
-- 把密度值当概率。
-- 忘记 PDF 总面积必须为 1。
-- 分段函数的边界处理错误。
-- 变换后没有检查新变量的值域。
+- Find constants in density functions.
+- Calculate probabilities, expectation, and variance.
+- Use cumulative distribution functions.
+
+## Connections
+
+- [[20 Mathematics/01 Pure Mathematics/06 Integration|Integration]]
+
+## Common Traps
+
+- Treating $f(x)$ as $P(X=x)$.
+- Forgetting support intervals.
+- Dropping limits in density integrals.

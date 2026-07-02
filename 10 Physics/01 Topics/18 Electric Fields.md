@@ -8,44 +8,50 @@ tags:
   - physics/9702/fields
 ---
 
-# 18 电场
+# 18 Electric Fields
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapters 21-22
-- 参考范围：18.1 Electric fields and field lines, 18.2 Uniform electric fields, 18.3 Electric force between point charges, 18.4 Electric field of a point charge, 18.5 Electric potential
+An electric field describes the force and energy landscape experienced by charges.
 
-## 需要掌握
+## Source Alignment
 
-- 理解电场是力场，并定义为单位正试探电荷所受的力。
-- 使用 $F = qE$。
-- 用场线表示电场。
-- 使用平行板间的匀强场：$E = \Delta V/\Delta d$。
-- 描述均匀电场对带电粒子运动的影响。
-- 理解球形导体外部电荷可视为集中在中心的点电荷。
-- 使用库仑定律：$F = Q_1Q_2/(4\pi\epsilon_0 r^2)$。
-- 使用点电荷的电场强度：$E = Q/(4\pi\epsilon_0 r^2)$。
-- 定义电势。
-- 理解电场等于势的负斜率。
-- 使用点电荷电势：$V = Q/(4\pi\epsilon_0 r)$。
-- 使用电势能量：$E_p = Qq/(4\pi\epsilon_0 r)$。
+- Primary syllabus source: CAIE Physics 9702.
+- 18 Electric fields
+- 18.1 Electric fields and field lines
+- 18.2 Uniform electric fields
+- 18.3 Electric force between point charges
+- 18.4 Electric field of a point charge
+- 18.5 Electric potential
+- Coursebook route: Physics Coursebook Chapters 21-22: Uniform electric fields and Coulomb's law.
 
-## 练习方向
+## What to Learn
 
-- 比较匀强场和径向场。
-- 判断正电荷、负电荷在电场中的受力和运动方向。
-- 从电势-距离图像求场强。
-- 处理带电粒子在平行板间的偏转。
-- 对比电场和引力场的相同点与不同点。
+- Use electric field strength as force per unit positive charge.
+- Represent electric fields with field lines and distinguish uniform and radial fields.
+- Use force on a charge in a uniform electric field.
+- Use Coulomb's law for point charges and field strength due to a point charge.
+- Use electric potential and potential gradient to connect energy and field strength.
 
-## 实验或观察连接
+## How to Study
 
-- 可以用导电纸或电极模型绘制等势线。
-- 带电粒子运动常以数据分析或图像题出现。
+- Draw direction for positive test charge consistently.
+- Separate field strength from potential.
+- Compare electric fields with gravitational fields, noting sign differences.
 
-## 易错点
+## Practice Directions
 
-- 电场方向定义为正试探电荷受力方向。
-- 电势是标量，场强是矢量。
-- 库仑公式的符号要结合物理方向解释，不能只看数值。
-- $r$ 是到点电荷的距离。
+- Calculate electric force, field strength, potential, and work done.
+- Interpret field-line and equipotential diagrams.
+- Analyse charged-particle motion in uniform fields.
+
+## Connections
+
+- [[10 Physics/01 Topics/13 Gravitational Fields|Gravitational Fields]]
+- [[10 Physics/01 Topics/19 Capacitance|Capacitance]]
+
+## Common Traps
+
+- Forgetting the sign of charge.
+- Confusing electric potential with electric potential energy.
+- Using uniform-field equations for point-charge fields without checking.

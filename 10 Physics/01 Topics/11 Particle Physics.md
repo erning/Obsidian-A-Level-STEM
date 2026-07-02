@@ -5,54 +5,50 @@ syllabus: 9702
 status: draft
 tags:
   - physics/9702/topic
-  - physics/9702/particles
+  - physics/9702/modern-physics
 ---
 
-# 11 粒子物理
+# 11 Particle Physics
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 15
-- 参考范围：11.1 Atoms, nuclei and radiation, 11.2 Fundamental particles
+Particle physics uses evidence from scattering, radiation, and conservation laws to describe matter below the atomic scale.
 
-## 需要掌握
+## Source Alignment
 
-- 从 α 粒子散射实验推断原子核的存在和很小尺寸。
-- 描述原子核式结构模型：质子、中子和轨道电子。
-- 区分核子数和质子数。
-- 理解同位素是中子数不同的同种元素。
-- 使用核素符号。
-- 理解核过程中核子数和电荷守恒。
-- 描述 α、β 和 γ 辐射的组成、质量和电荷。
-- 理解反粒子与对应粒子质量相同、电荷相反。
-- 知道 β 负衰变产生反中微子，β 正衰变产生中微子。
-- 理解 α 粒子能量离散，β 粒子能量连续。
-- 用衰变方程表示 α 和 β 衰变。
-- 使用统一原子质量单位。
-- 理解夸克是基本粒子，知道 6 种味。
-- 记住夸克电荷，并理解反夸克电荷相反。
-- 用夸克组成描述质子和中子。
-- 区分重子和介子。
-- 描述 β 衰变中夸克组成的变化。
-- 知道电子和中微子是轻子。
+- Primary syllabus source: CAIE Physics 9702.
+- 11 Particle physics
+- 11.1 Atoms, nuclei and radiation
+- 11.2 Fundamental particles
+- Coursebook route: Physics Coursebook Chapter 15: Atomic structure, radiation, and fundamental particles.
 
-## 练习方向
+## What to Learn
 
-- 配平核反应方程。
-- 根据核子数和质子数判断粒子或核素。
-- 从衰变类型判断放出粒子。
-- 用夸克电荷推出强子电荷。
-- 解释 β 能谱为什么连续。
+- Use the nuclear model of the atom and evidence from alpha-particle scattering.
+- Describe alpha, beta, and gamma radiation in terms of nuclear change and emitted particles or photons.
+- Use nucleon number, proton number, isotopes, and nuclear equations.
+- Distinguish hadrons, baryons, mesons, leptons, quarks, and antiquarks.
+- Use conservation of charge, baryon number, lepton number, and energy in particle interactions.
 
-## 实验或观察连接
+## How to Study
 
-- AS 阶段主要是概念和数据解释，不要求实际使用放射源。
-- 题目中可能给计数率或散射证据，需要从证据推断模型。
+- Treat particle classification as a bookkeeping system for conservation laws.
+- Write every decay equation with before-and-after totals.
+- Connect beta decay to quark changes, not just symbols.
 
-## 易错点
+## Practice Directions
 
-- γ 辐射不改变核子数和质子数。
-- β 负衰变与 β 正衰变的中微子/反中微子容易反。
-- 质子和中子不是基本粒子。
-- 介子是夸克-反夸克，不是三个夸克。
+- Balance nuclear equations.
+- Classify simple particles.
+- Check conservation laws in particle reactions.
 
+## Connections
+
+- [[10 Physics/01 Topics/23 Nuclear Physics|Nuclear Physics]]
+- [[10 Physics/01 Topics/22 Quantum Physics|Quantum Physics]]
+
+## Common Traps
+
+- Using atomic mass number and proton number interchangeably.
+- Forgetting neutrinos in beta decay.
+- Treating quarks as optional labels rather than source terms in hadron structure.

@@ -8,40 +8,47 @@ tags:
   - physics/9702/electricity
 ---
 
-# 21 交流电
+# 21 Alternating Currents
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 27
-- 参考范围：21.1 Characteristics of alternating currents, 21.2 Rectification and smoothing
+Alternating current analysis connects sinusoidal time variation with power transfer and circuit processing.
 
-## 需要掌握
+## Source Alignment
 
-- 理解周期、频率和峰值在交流电/电压中的含义。
-- 使用 $x = x_0\sin\omega t$ 表示正弦交流电或电压。
-- 知道正弦交流电在电阻器中均值功率是极大值功率的一半。
-- 区分均方根值和峰值。
-- 使用 $I_{r.m.s.} = I_0/\sqrt{2}$ 和 $V_{r.m.s.} = V_0/\sqrt{2}$。
-- 图像区分半波整流和全波整流。
-- 解释单个二极管的半波整流。
-- 解释桥式整流器的全波整流。
-- 分析单个电容器的平滑作用，包括电容和负载电阻的影响。
+- Primary syllabus source: CAIE Physics 9702.
+- 21 Alternating currents
+- 21.1 Characteristics of alternating currents
+- 21.2 Rectification and smoothing
+- Coursebook route: Physics Coursebook Chapter 27: Alternating currents, alternating voltages, power, and rectification.
 
-## 练习方向
+## What to Learn
 
-- 从 AC 图像读周期、频率、峰值和均方根值。
-- 计算 AC 电路中电阻器的均值功率。
-- 画整流输出和平滑输出。
-- 解释负载电阻或电容改变时纹波的变化。
+- Describe sinusoidal alternating current and voltage using peak value, period, frequency, and phase.
+- Use root-mean-square values to compare AC power with DC power.
+- Use mean power relationships for resistive circuits.
+- Describe half-wave and full-wave rectification.
+- Explain smoothing with a capacitor.
 
-## 实验或观察连接
+## How to Study
 
-- 用示波器显示交流波形、整流和平滑。
-- 可以把输出电压图像用于数据解释。
+- Sketch the waveform before calculating.
+- Distinguish peak, peak-to-peak, mean, and r.m.s. values.
+- Connect rectification and smoothing to capacitor charge-discharge behaviour.
 
-## 易错点
+## Practice Directions
 
-- 均方根值不是平均值。
-- 全波整流后频率加倍。
-- 平滑电容器不能产生完美 DC，只是减小纹波。
+- Calculate r.m.s. values and power.
+- Interpret oscilloscope traces.
+- Sketch rectified and smoothed outputs.
 
+## Connections
+
+- [[10 Physics/01 Topics/19 Capacitance|Capacitance]]
+- [[10 Physics/01 Topics/20 Magnetic Fields|Magnetic Fields]]
+
+## Common Traps
+
+- Using peak voltage directly in mean power formulae.
+- Confusing frequency with angular frequency.
+- Forgetting ripple remains after smoothing.

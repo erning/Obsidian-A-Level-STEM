@@ -1,5 +1,5 @@
 ---
-title: 实验设计与数据分析
+title: Experimental Design and Data Analysis
 subject: Physics
 syllabus: 9702
 status: draft
@@ -8,72 +8,46 @@ tags:
   - experimental-thinking
 ---
 
-# 实验设计与数据分析
+# Experimental Design and Data Analysis
 
-实验思维的第二层，是从“我想知道什么”出发，设计一个可执行的测量方案，并让数据回答问题。
+## Core Idea
 
-## 设计实验的基本问题
+A good experiment makes the model testable: it controls variables, gathers enough evidence, and shows whether the data support the relationship.
 
-任何实验都先写清楚：
+## Source Alignment
 
-- 我要研究什么关系？
-- 自变量是什么？
-- 因变量是什么？
-- 控制变量是什么？
-- 我怎样改变自变量？
-- 我怎样测量因变量？
-- 怎样让数据范围足够大？
-- 最大不确定度可能来自哪里？
+- CAIE Physics 9702 practical skills content.
+- Physics Coursebook Practical Skills at AS Level and A Level: planning, analysis, uncertainty treatment, conclusions, and evaluation.
 
-## 变量控制
+## What to Learn
 
-控制变量不是列名词，而是说明做法：
+- Define independent, dependent, and control variables.
+- Choose a method that makes the relationship measurable and repeatable.
+- Identify major uncertainty sources and practical limitations.
+- Use linearisation when it gives a clearer test of a relationship.
+- Draw conclusions from data, not from the formula alone.
+- Evaluate procedures and suggest realistic improvements.
 
-- 不要只写“保持温度不变”，要写如何保持，例如使用恒温水浴或等待热平衡。
-- 不要只写“保持长度不变”，要说明固定方式和测量位置。
-- 不要只写“重复实验”，要说明重复哪个量、重复几次、如何取平均。
+## How to Study
 
-## 线性化
+- For every major topic, write one short experimental plan: apparatus, method, variables, graph, and likely errors.
+- Separate limitations that affect reliability from limitations that affect validity.
+- Explain why the chosen graph would confirm or challenge the model.
 
-很多物理关系不是直接直线。学习时要主动寻找能画成直线的方式：
+## Practice Directions
 
-| 原关系 | 可画图像 | 可读信息 |
-|---|---|---|
-| $y = mx + c$ | $y$ 对 $x$ | 斜率是 $m$，截距是 $c$。 |
-| $y = ax^n$ | $\log y$ 对 $\log x$ | 斜率是 $n$，截距给 $a$。 |
-| $y = ae^{kx}$ | $\ln y$ 对 $x$ | 斜率是 $k$，截距给 $a$。 |
-| 电容器放电 | $\ln V$ 对 $t$ | 斜率与 $RC$ 有关。 |
-| 放射性衰变 | $\ln A$ 对 $t$ | 斜率与衰变常量有关。 |
+- Convert relationships into straight-line graph forms.
+- Propose control variables for mechanics, waves, circuits, thermal physics, and radioactive decay contexts.
+- Write short evaluations using evidence from scatter, uncertainty bars, and residual patterns.
 
-线性化的目的不是凑数学形式，而是让数据更容易检验模型。
+## Connections
 
-## 不确定度
+- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation|Measurement and Data Presentation]]
+- [[10 Physics/01 Topics/19 Capacitance|Capacitance]]
+- [[10 Physics/01 Topics/23 Nuclear Physics|Nuclear Physics]]
 
-不确定度不是“麻烦的附加项”，而是判断结论可信度的核心：
+## Common Traps
 
-- 绝对不确定度：直接用单位表达。
-- 百分比不确定度：适合比较不同量的相对误差。
-- 重复读数：可用半极差估算不确定度。
-- 导出量：乘除关系中常要合并百分比不确定度。
-- 图像斜率：可用最佳拟合直线和可接受最差直线比较估算不确定度。
-
-## 判断模型是否可信
-
-一个实验结论不要只写“符合”或“不符合”。更好的判断是：
-
-- 数据趋势是否符合模型预测？
-- 图像是否接近直线？
-- 斜率或截距是否有合理物理意义？
-- 异常点是否能解释？
-- 差异是否落在不确定度范围内？
-- 如果不符合，是模型假设失效，还是实验方法问题？
-
-## 适合自学的小项目
-
-- 用手机视频分析自由落体或抛体运动。
-- 用声音软件观察拍频、频率和多普勒效应。
-- 用简单电路测量电阻器、灯丝灯泡、二极管的 I-V 图像。
-- 用在线天文数据做红移或哈勃定律图像。
-- 用 Python 画电容器放电、放射性衰变或简谐运动（SHM）图像。
-
-如果需要用 Python 处理数据或画图，按仓库的 `AGENTS.md` 使用本地 `.venv/`，并设置 Matplotlib 后端。
+- Listing generic improvements that do not address the actual limitation.
+- Calling a variable controlled without saying how it is controlled.
+- Using correlation as proof without checking the model assumptions.

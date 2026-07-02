@@ -1,5 +1,5 @@
 ---
-title: 04 Sequences Series and Binomial Expansions
+title: 04 Sequences, Series and Binomial Expansions
 subject: Mathematics
 syllabus:
   - 9709
@@ -9,37 +9,46 @@ tags:
   - mathematics/pure
 ---
 
-# 04 数列、级数与二项展开
+# 04 Sequences, Series and Binomial Expansions
 
-## 教材对应
+## Core Idea
 
-- 9709：Pure Mathematics 1 Chapter 6；Pure Mathematics 2 and 3 Chapter 7
-- 9231：Summation of series，proof by induction，Maclaurin series
+Sequences and series describe patterns, approximations, and accumulated sums.
 
-## 需要掌握
+## Source Alignment
 
-- 使用数列、级数、求和符号和递推语言。
-- 处理等差数列、等比数列、无穷和。
-- 使用二项式展开，包括正整数次幂和广义二项式展开。
-- 掌握常见求和公式，例如幂和。
-- 理解差分法和裂项级数。
-- 能把级数看成近似、模式和证明的工具。
+- 9709 1.6 Series
+- 9709 3.1 Algebra
+- 9231 1.3 Summation of series
+- Coursebook route: 9709 Pure Mathematics 1 Chapter 6; 9709 Pure Mathematics 2 and 3 Chapter 7; 9231 Further Mathematics content on summation of series.
 
-## 练习方向
+## What to Learn
 
-- 对每个数列写出前几项、通项和递推关系。
-- 对有限/无限级数检查是否收敛。
-- 做二项式展开前先检查适用条件，例如 $|x| < 1$。
-- 用归纳法证明求和公式，而不是只记结果。
+- Arithmetic and geometric progressions, including finite and infinite sums.
+- Binomial expansion for positive integer powers and later extended forms.
+- Partial fractions and binomial expansions for approximations.
+- Standard sums and method of differences for finite series.
+- Convergence and sum to infinity where appropriate.
 
-## 连接
+## How to Study
 
-- 级数会通向 [[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction|数学归纳法]] 和 [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations|进阶微积分]]。
-- 二项展开式在近似、概率和微分方程中都会出现。
+- Separate a sequence term from a series sum.
+- Look for structure before substituting numbers.
+- Use convergence conditions before applying an infinite sum.
 
-## 易错点
+## Practice Directions
 
-- 混淆项号和项值。
-- 忘记等比级数无穷和的收敛条件。
-- 展开时漏掉二项式系数。
-- 对广义展开不检查变量范围。
+- Find nth terms and sums.
+- Use binomial expansions with validity conditions.
+- Apply method of differences and standard summation results.
+
+## Connections
+
+- [[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction|Proof and Mathematical Induction]]
+- [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations|Further Calculus and Differential Equations]]
+
+## Common Traps
+
+- Confusing $u_n$ with $S_n$.
+- Using an infinite geometric sum when $|r| \ge 1$.
+- Ignoring the range of validity for non-integer binomial expansions.

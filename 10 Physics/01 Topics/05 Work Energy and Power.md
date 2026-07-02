@@ -5,44 +5,50 @@ syllabus: 9702
 status: draft
 tags:
   - physics/9702/topic
-  - physics/9702/energy
+  - physics/9702/mechanics
 ---
 
-# 05 功、能量与功率
+# 05 Work, Energy and Power
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 5
-- 参考范围：5.1 Energy conservation, 5.2 Gravitational potential energy and kinetic energy
+Energy methods compress a motion problem into transfers, stores, and conservation statements.
 
-## 需要掌握
+## Source Alignment
 
-- 理解做功是力在其方向上的位移所转移的能量。
-- 使用 $W = Fs$，注意只取力方向上的位移分量。
-- 陈述并应用能量守恒。
-- 定义效率，并用有用输出/总输入处理问题。
-- 定义功率为做功单位时间内。
-- 使用 $P = W/t$。
-- 推导并使用 $P = Fv$。
-- 从 $W = Fs$ 推导 $\Delta E_p = mg\Delta h$。
-- 从运动学公式推导并使用 $E_k = \frac{1}{2}mv^2$。
+- Primary syllabus source: CAIE Physics 9702.
+- 5 Work, energy and power
+- 5.1 Energy conservation
+- 5.2 Gravitational potential energy and kinetic energy
+- Coursebook route: Physics Coursebook Chapter 5: Work, energy and power.
 
-## 练习方向
+## What to Learn
 
-- 用能量守恒替代复杂受力分析。
-- 处理斜面、竖直运动、弹射和制动问题。
-- 计算机械效率、电功率和速度相关功率。
-- 比较动能变化和势能变化。
-- 解释能量转化中的耗散能量。
+- Use work done as force times displacement in the direction of the force.
+- Apply conservation of energy and efficiency as useful output over total input.
+- Define power as work done per unit time and use $P = W/t$ and $P = Fv$.
+- Use $\Delta E_p = mg\Delta h$ for gravitational potential energy changes in a uniform gravitational field.
+- Use $E_k = \frac{1}{2}mv^2$ for kinetic energy.
 
-## 实验或观察连接
+## How to Study
 
-- 用小车、斜面和光电门测量势能转化为动能。
-- 讨论摩擦力和空气阻力导致的能量损失。
+- Mark the initial and final states before writing energy equations.
+- Identify whether non-conservative forces transfer energy away from the system.
+- Use units to distinguish energy, power, and force.
 
-## 易错点
+## Practice Directions
 
-- 忘记功是标量，但力和位移的方向关系重要。
-- $P = Fv$ 只在力与速度方向一致时直接使用。
-- 把效率写成大于 100%。
-- 势能零点可任意选，但势能变化不能任意。
+- Solve mechanical energy problems with and without losses.
+- Use power for steady motion problems.
+- Compare an energy solution with a force-based solution.
+
+## Connections
+
+- [[10 Physics/01 Topics/03 Dynamics|Dynamics]]
+- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity|Work, Energy, Power and Elasticity]]
+
+## Common Traps
+
+- Assuming kinetic energy is conserved whenever momentum is conserved.
+- Forgetting the direction factor in work done.
+- Using power as total energy instead of rate of transfer.

@@ -5,52 +5,52 @@ syllabus: 9702
 status: draft
 tags:
   - physics/9702/topic
-  - physics/9702/quantum
+  - physics/9702/modern-physics
 ---
 
-# 22 量子物理
+# 22 Quantum Physics
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 28
-- 参考范围：22.1 Energy and momentum of a photon, 22.2 Photoelectric effect, 22.3 Wave-particle duality, 22.4 Energy levels in atoms and line spectra
+Quantum physics uses particle and wave models together because experiments demand both.
 
-## 需要掌握
+## Source Alignment
 
-- 理解电磁辐射具有粒子性。
-- 理解光子是电磁能量的量子。
-- 使用 $E = hf$。
-- 使用电子伏特作为能量单位。
-- 理解光子动量：$p = E/c$。
-- 理解光电子可由金属表面在电磁辐射照射下释放。
-- 使用截止频率和截止波长。
-- 用光子能量和逸出功解释光电子发射。
-- 使用光电方程：$hf = \Phi + \frac{1}{2}mv_{max}^2$。
-- 解释极大值动能与强度无关，而光电流与强度成正比。
-- 理解光电效应证明光的粒子性，干涉和衍射证明波动性。
-- 定性描述电子衍射作为粒子波动性的证据。
-- 理解德布罗意波长，并使用 $\lambda = h/p$。
-- 理解孤立原子中存在离散电子能级。
-- 解释发射和吸收线光谱的形成。
-- 使用 $hf = E_1 - E_2$。
+- Primary syllabus source: CAIE Physics 9702.
+- 22 Quantum physics
+- 22.1 Energy and momentum of a photon
+- 22.2 Photoelectric effect
+- 22.3 Wave-particle duality
+- 22.4 Energy levels in atoms and line spectra
+- Coursebook route: Physics Coursebook Chapter 28: Quantum physics.
 
-## 练习方向
+## What to Learn
 
-- 在波长、频率、光子能量和 eV 之间转换。
-- 从遏止电势或动能推逸出功。
-- 解释截止频率以下为什么没有发射。
-- 用能级图判断发射 / 吸收光子。
-- 计算电子德布罗意波长。
+- Use photon energy and photon momentum relationships.
+- Explain photoelectric effect using photons, threshold frequency, and work function.
+- Use de Broglie wavelength for matter waves.
+- Understand wave-particle duality as model choice supported by evidence.
+- Use discrete energy levels to explain emission and absorption line spectra.
 
-## 实验或观察连接
+## How to Study
 
-- 光电效应可通过遏止电势-频率图像求普朗克常量。
-- 线光谱可用衍射光栅和能级数据联系。
+- Tie every model to an experiment: photoelectric effect, diffraction, or line spectra.
+- Keep energy units consistent between joules and electronvolts.
+- Use diagrams for energy levels and transitions.
 
-## 易错点
+## Practice Directions
 
-- 增大强度不会增大单个光子能量。
-- 截止频率和截止波长变化方向相反。
-- eV 是能量单位，不是电压。
-- 吸收对应电子上跃，发射是电子下跃。
+- Calculate photon energy, wavelength, momentum, and electron kinetic energy.
+- Interpret photoelectric graphs.
+- Use energy-level differences to find spectral wavelengths.
 
+## Connections
+
+- [[10 Physics/01 Topics/08 Superposition|Superposition]]
+- [[10 Physics/01 Topics/23 Nuclear Physics|Nuclear Physics]]
+
+## Common Traps
+
+- Explaining photoelectric effect with intensity alone.
+- Treating wave-particle duality as two simultaneous pictures rather than context-dependent models.
+- Dropping the work function in energy equations.

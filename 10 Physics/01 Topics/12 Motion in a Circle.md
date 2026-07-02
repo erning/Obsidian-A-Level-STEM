@@ -8,38 +8,47 @@ tags:
   - physics/9702/mechanics
 ---
 
-# 12 圆周运动
+# 12 Motion in a Circle
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 16
-- 参考范围：12.1 Kinematics of uniform circular motion, 12.2 Centripetal acceleration
+Uniform circular motion has constant speed but changing velocity, so acceleration is directed towards the centre.
 
-## 需要掌握
+## Source Alignment
 
-- 定义弧度，并用弧度表示角位移。
-- 理解并使用角速度。
-- 使用 $\omega = 2\pi/T$ 和 $v = r\omega$。
-- 理解大小恒定且始终垂直运动方向的力会造成向心加速度。
-- 理解向心加速度使物体以常量角速度做圆周运动。
-- 使用 $a = r\omega^2$ 和 $a = v^2/r$。
-- 使用 $F = mr\omega^2$ 和 $F = mv^2/r$。
+- Primary syllabus source: CAIE Physics 9702.
+- 12 Motion in a circle
+- 12.1 Kinematics of uniform circular motion
+- 12.2 Centripetal acceleration
+- Coursebook route: Physics Coursebook Chapter 16: Circular motion.
 
-## 练习方向
+## What to Learn
 
-- 在频率、周期、角速度和线性速率之间转换。
-- 找出向心力来源，例如张力、摩擦力、重力或磁力。
-- 处理水平圆周运动、竖直圆周运动的基本受力问题。
-- 判断速度方向、加速度方向和合力方向。
+- Use radian measure, angular displacement, angular speed, period, and frequency.
+- Use $v = r\omega$ for uniform circular motion.
+- Use centripetal acceleration and centripetal force directed towards the centre.
+- Identify the real force or resultant force that supplies the centripetal role.
+- Connect circular motion to orbits, charged-particle motion, and oscillations.
 
-## 实验或观察连接
+## How to Study
 
-- 用旋转橡皮塞或转台测向心力关系。
-- 重点记录半径、周期、质量和力，并讨论计时不确定度。
+- Draw the instantaneous velocity tangent and acceleration inward.
+- Name the actual force before writing centripetal-force equations.
+- Check whether speed is constant and whether radius is fixed.
 
-## 易错点
+## Practice Directions
 
-- 均匀圆周运动中速率不变，但速度一直变。
-- 向心力不是新力，而是合力指向圆心的名称。
-- 角度代入圆周公式时必须用弧度。
+- Solve vertical and horizontal circular-motion contexts.
+- Relate angular speed to period and frequency.
+- Use circular motion in gravitational and magnetic-field problems.
 
+## Connections
+
+- [[10 Physics/01 Topics/13 Gravitational Fields|Gravitational Fields]]
+- [[10 Physics/01 Topics/20 Magnetic Fields|Magnetic Fields]]
+
+## Common Traps
+
+- Thinking acceleration is zero because speed is constant.
+- Treating centripetal force as an extra force in the free-body diagram.
+- Mixing radians with degrees in angular calculations.

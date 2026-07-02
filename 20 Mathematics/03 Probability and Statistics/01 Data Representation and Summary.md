@@ -3,40 +3,49 @@ title: 01 Data Representation and Summary
 subject: Mathematics
 syllabus:
   - 9709
+  - 9231
 status: draft
 tags:
   - mathematics/statistics
 ---
 
-# 01 数据表示与概括
+# 01 Data Representation and Summary
 
-## 教材对应
+## Core Idea
 
-- 9709：Probability and Statistics 1 Chapters 1-2
+Data representation turns raw observations into shapes, summaries, and questions.
 
-## 需要掌握
+## Source Alignment
 
-- 区分分类变量、数值变量、离散、连续、原始数据和分组数据。
-- 选择并解释茎叶图、箱线图、直方图、累计频率图。
-- 计算和解释均值、中位数、众数、四分位数、百分位数、值域、四分位距（IQR）和标准差。
-- 理解频率密度，尤其是不等组距的直方图。
-- 能比较两组数据的中心位置、离散程度、形状和离群值。
+- 9709 5.1 Representation of data
+- Coursebook route: 9709 Probability and Statistics 1 chapters on representation and summary of data.
 
-## 练习方向
+## What to Learn
 
-- 先判断数据类型，再选图表。
-- 读图时同时说中心位置、离散程度和形状。
-- 对分组数据，明确估计的性质。
-- 用累积频数图估计中位数、四分位数和百分位数。
+- Types of data and suitable displays.
+- Histograms, cumulative frequency graphs, box-and-whisker plots, and summary statistics.
+- Measures of central tendency and spread.
+- Interpreting outliers, skew, and grouping effects.
+- Choosing representation based on the data type and question.
 
-## 连接
+## How to Study
 
-- 数据表达是 [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|抽样与推断]] 的入口。
-- 物理实验数据也需要这些图像和描述统计量。
+- Ask what the data are measuring before choosing a graph.
+- Describe shape before calculating.
+- Compare median/IQR with mean/standard deviation.
 
-## 易错点
+## Practice Directions
 
-- 直方图中用频率而不是频率密度。
-- 把标准差当作“平均距离”简单解释。
-- 比较数据时只看均值，不看离散程度。
-- 分组数据的估计结果写得过于精确。
+- Draw and interpret statistical diagrams.
+- Calculate summary statistics.
+- Compare two data sets using centre and spread.
+
+## Connections
+
+- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|Sampling, Estimation and Hypothesis Tests]]
+
+## Common Traps
+
+- Using a histogram like a bar chart.
+- Ignoring class width.
+- Quoting summaries without interpreting them in context.

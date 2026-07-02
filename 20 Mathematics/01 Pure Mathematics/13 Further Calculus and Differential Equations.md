@@ -9,38 +9,49 @@ tags:
   - mathematics/pure
 ---
 
-# 13 进阶微积分与微分方程
+# 13 Further Calculus and Differential Equations
 
-## 教材对应
+## Core Idea
 
-- 9709：Differential equations，further integration，numerical methods
-- 9231：Hyperbolic functions、further differentiation/integration、differential equations、Maclaurin series
+Further calculus links advanced functions, series, integration techniques, and differential equations into a language for change.
 
-## 需要掌握
+## Source Alignment
 
-- 使用反三角函数、双曲函数和反双曲函数。
-- 理解麦克劳林级数作为局部多项式近似。
-- 使用递推公式、弧长、曲面面积和面积极限。
-- 建立可分离变量微分方程，并用初始条件求特解。
-- 求解一阶和二阶线性微分方程且系数为常数。
-- 理解互补函数、特解积分和边界条件/初始条件。
+- 9709 3.8 Differential equations
+- 9231 2.1 Hyperbolic functions
+- 9231 2.3 Differentiation
+- 9231 2.4 Integration
+- 9231 2.6 Differential equations
+- Coursebook route: 9709 Pure Mathematics 2 and 3 Chapter 10; 9231 Further Mathematics Coursebook chapters on hyperbolic functions, further calculus, and differential equations.
 
-## 练习方向
+## What to Learn
 
-- 每个微分方程先用语言说明它描述什么变化关系。
-- 求解前先判断类型：可分离变量、一阶线性、二阶线性。
-- 解完后代回原方程。
-- 对级数近似检查展开点和误差方向。
-- 对二阶方程画出解的形态：增长、衰减、振动或混合行为。
+- Hyperbolic functions, inverse hyperbolic functions, identities, and logarithmic forms.
+- Further differentiation and integration techniques.
+- Differential equations by separation of variables and other syllabus methods.
+- First-order and second-order differential equations where included by 9231.
+- Modelling situations through differential equations and interpreting constants.
 
-## 连接
+## How to Study
 
-- 微分方程是 [[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces|变力]]、物理中衰减、简谐运动（SHM）和电路的共同语言。
-- 麦克劳林级数连接数值方法、近似和复指数函数。
+- Start from what quantity changes with respect to what.
+- Solve symbolically, then interpret the solution behaviour.
+- Use initial or boundary conditions as physical or geometric information.
 
-## 易错点
+## Practice Directions
 
-- 分离变量时把 $dx$、$dy$ 当作普通符号乱移，但没有保持等价关系。
-- 忘记初始条件。
-- 辅助方程根的类型判断错误。
-- 特解积分选形时没有处理和互补函数重合的情况。
+- Solve separable differential equations.
+- Use hyperbolic identities.
+- Model growth, decay, motion, or oscillation with differential equations.
+
+## Connections
+
+- [[20 Mathematics/01 Pure Mathematics/05 Differentiation|Differentiation]]
+- [[20 Mathematics/01 Pure Mathematics/06 Integration|Integration]]
+- [[10 Physics/01 Topics/17 Oscillations|Physics Oscillations]]
+
+## Common Traps
+
+- Dropping arbitrary constants.
+- Solving the equation but not interpreting the domain.
+- Using a standard form without checking whether the equation matches it.

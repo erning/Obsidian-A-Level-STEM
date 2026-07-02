@@ -3,41 +3,50 @@ title: 02 Counting and Probability
 subject: Mathematics
 syllabus:
   - 9709
+  - 9231
 status: draft
 tags:
   - mathematics/statistics
 ---
 
-# 02 计数与概率
+# 02 Counting and Probability
 
-## 教材对应
+## Core Idea
 
-- 9709：Probability and Statistics 1 Chapters 3, 5
+Probability starts with describing the sample space and counting outcomes without double counting.
 
-## 需要掌握
+## Source Alignment
 
-- 理解样本空间、事件、对立事件、并事件、交事件和条件概率。
-- 使用加法公式、乘法公式、树状图和文氏图。
-- 区分互斥和独立。
-- 使用阶乘、排列、组合和二项式系数。
-- 处理限制条件、重复和排列安排。
-- 把计数和概率连接起来：概率常常就是“合适情况数 / 总情况数”。
+- 9709 5.2 Permutations and combinations
+- 9709 5.3 Probability
+- Coursebook route: 9709 Probability and Statistics 1 chapters on permutations, combinations, and probability.
 
-## 练习方向
+## What to Learn
 
-- 每题先定义事件。
-- 对条件概率写出条件改变后的样本空间。
-- 计数题先判断顺序是否重要、是否允许重复。
-- 复杂排列安排用“先放受限制对象”的策略。
+- Permutations and combinations.
+- Sample space, events, complements, mutually exclusive events, and independent events.
+- Addition and multiplication rules.
+- Conditional probability.
+- Tree diagrams, Venn diagrams, and probability notation.
 
-## 连接
+## How to Study
 
-- 计数是 [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables|离散随机变量]] 和二项分布的基础。
-- 条件概率是统计推断和现实决策中很容易误解的核心概念。
+- Define the experiment and event before calculating.
+- Use diagrams to make overlap and conditioning visible.
+- Check whether order matters.
 
-## 易错点
+## Practice Directions
 
-- 把独立和互斥混淆。
-- 忘记条件概率改变分母。
-- 排列组合中重复计数。
-- 概率结果没有检查是否在 0 到 1 之间。
+- Count arrangements and selections.
+- Use conditional probability.
+- Solve multi-stage probability problems.
+
+## Connections
+
+- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables|Discrete Random Variables]]
+
+## Common Traps
+
+- Using permutations when combinations are needed.
+- Assuming events are independent without evidence.
+- Counting the same outcome twice.

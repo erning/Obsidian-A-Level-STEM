@@ -8,43 +8,49 @@ tags:
   - physics/9702/waves
 ---
 
-# 08 叠加
+# 08 Superposition
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapters 13-14
-- 参考范围：8.1 Stationary waves, 8.2 Diffraction, 8.3 Interference, 8.4 The diffraction grating
+Superposition explains how overlapping waves produce stationary waves, diffraction, and interference patterns.
 
-## 需要掌握
+## Source Alignment
 
-- 解释并使用叠加原理。
-- 理解微波、拉伸弦和空气柱中的驻波。
-- 用图像解释驻波的形成，并识别波节和波腹。
-- 从波节或波腹间距确定波长。
-- 解释衍射，理解缝宽相对波长的影响。
-- 理解干涉和相干性。
-- 知道产生双源干涉条纹需要相干、稳定相位差和合适几何条件。
-- 使用双缝公式：$\lambda = ax/D$。
-- 使用衍射光栅公式：$d\sin\theta = n\lambda$。
-- 描述用衍射光栅测光波长的方法。
+- Primary syllabus source: CAIE Physics 9702.
+- 8 Superposition
+- 8.1 Stationary waves
+- 8.2 Diffraction
+- 8.3 Interference
+- 8.4 The diffraction grating
+- Coursebook route: Physics Coursebook Chapters 13-14: Superposition of waves and stationary waves.
 
-## 练习方向
+## What to Learn
 
-- 判断相长干涉和相消干涉。
-- 从驻波图判断谐波、波长和频率关系。
-- 比较单缝衍射、双缝干涉和光栅光谱。
-- 用条纹间距求波长或缝间距。
-- 用光栅方程求谱线角度或级次。
+- Use the principle of superposition for waves meeting at a point.
+- Describe stationary waves using nodes, antinodes, phase, and harmonic modes.
+- Understand diffraction at a slit or edge and the role of aperture size relative to wavelength.
+- Use path difference, phase difference, and coherence for two-source interference.
+- Use diffraction grating relationships to connect spectra with wavelength.
 
-## 实验或观察连接
+## How to Study
 
-- 用微波发射器/接收器或水波槽展示干涉。
-- 用拉伸弦或空气柱展示驻波。
-- 用衍射光栅和激光测波长。
+- Draw wavefronts and displacement patterns, not only algebra.
+- Track phase and path difference explicitly.
+- Relate boundary conditions to allowed stationary wave modes.
 
-## 易错点
+## Practice Directions
 
-- 把驻波当成能量沿波传播方向传输。
-- 波节间距是 $\lambda/2$，不是 $\lambda$。
-- 双缝中 $a$ 是缝间距，$x$ 是条纹间距。
-- 光栅中 $d$ 是光栅间距，不是整块光栅宽度。
+- Find node and antinode spacing.
+- Calculate fringe spacing and grating angles.
+- Explain how changing wavelength or slit separation changes the pattern.
+
+## Connections
+
+- [[10 Physics/01 Topics/07 Waves|Waves]]
+- [[10 Physics/01 Topics/22 Quantum Physics|Quantum Physics]]
+
+## Common Traps
+
+- Confusing stationary waves with waves that have no energy in the medium at all.
+- Ignoring coherence in interference.
+- Using small-angle approximations without checking the geometry.

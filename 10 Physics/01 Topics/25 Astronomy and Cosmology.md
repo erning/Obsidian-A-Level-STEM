@@ -5,46 +5,51 @@ syllabus: 9702
 status: draft
 tags:
   - physics/9702/topic
-  - physics/9702/astronomy
+  - physics/9702/applications
 ---
 
-# 25 天文与宇宙学
+# 25 Astronomy and Cosmology
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 31
-- 参考范围：25.1 Standard candles, 25.2 Stellar radii, 25.3 Hubble's law and the Big Bang theory
+Astronomy and cosmology turn light measurements into distances, stellar properties, and evidence for cosmic expansion.
 
-## 需要掌握
+## Source Alignment
 
-- 理解光度是恒星发出辐射的总功率。
-- 使用平方反比定律：$F = L/(4\pi d^2)$。
-- 理解已知光度的天体可作为标准烛光。
-- 理解标准烛光可用于测定星系距离。
-- 使用维恩位移定律：$\lambda_{max} \propto 1/T$ 估算恒星表面温度。
-- 使用斯特藩-玻尔兹曼定律：$L = 4\pi\sigma r^2T^4$。
-- 结合维恩位移定律和斯特藩-玻尔兹曼定律估算恒星半径。
-- 理解遥远天体发射 / 吸收光谱的波长增加，即红移。
-- 使用红移近似：$\Delta\lambda/\lambda \approx \Delta f/f \approx v/c$。
-- 解释红移如何支持膨胀宇宙。
-- 使用哈勃定律：$v \approx H_0d$，并解释它如何导向大爆炸理论。
+- Primary syllabus source: CAIE Physics 9702.
+- 25 Astronomy and cosmology
+- 25.1 Standard candles
+- 25.2 Stellar radii
+- 25.3 Hubble’s law and the Big Bang theory
+- Coursebook route: Physics Coursebook Chapter 31: Astronomy and cosmology.
 
-## 练习方向
+## What to Learn
 
-- 由辐射通量强度和光度求距离。
-- 由峰值波长求温度。
-- 由光度和温度求恒星半径。
-- 从谱线位移求退行速度。
-- 用哈勃图像的斜率求哈勃常数。
+- Use luminosity and radiant flux intensity to relate brightness and distance.
+- Use standard candles as distance indicators.
+- Use Wien's displacement law and Stefan-Boltzmann law to estimate stellar temperature, radius, and luminosity.
+- Use redshift to infer recession speed for distant galaxies.
+- Use Hubble's law as evidence for the expanding universe and Big Bang model.
 
-## 实验或观察连接
+## How to Study
 
-- 这个主题主要是数据处理，可用天文数据做图像拟合。
-- 可以训练从图像斜率得到常量并处理单位。
+- Keep scale visible: astronomical quantities often require order-of-magnitude thinking.
+- Distinguish intrinsic luminosity from observed flux.
+- Connect every formula to the actual observable quantity.
 
-## 易错点
+## Practice Directions
 
-- 光度是光源总功率，辐射通量强度是接收处单位面积功率。
-- $d$ 需要使用 SI 单位，尤其是哈勃定律中大纲要求使用 SI。
-- 红移不是普通声波多普勒公式。
-- 哈勃常数的单位是 $\mathrm{s^{-1}}$，即使常见天文单位写法不同。
+- Calculate distances from luminosity and flux.
+- Estimate stellar radii and temperatures.
+- Use redshift and Hubble's law for cosmological scale estimates.
+
+## Connections
+
+- [[10 Physics/01 Topics/07 Waves|Waves]]
+- [[10 Physics/01 Topics/22 Quantum Physics|Quantum Physics]]
+
+## Common Traps
+
+- Calling an object bright without distinguishing luminosity from flux.
+- Using redshift formulae outside their intended range without care.
+- Forgetting that standard candles rely on calibrated intrinsic luminosity.

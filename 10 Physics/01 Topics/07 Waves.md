@@ -8,46 +8,50 @@ tags:
   - physics/9702/waves
 ---
 
-# 07 波
+# 07 Waves
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 12
-- 参考范围：7.1 Progressive waves, 7.2 Transverse and longitudinal waves, 7.3 Doppler effect for sound waves, 7.4 Electromagnetic spectrum, 7.5 Polarisation
+A progressive wave transfers energy while the medium or field oscillates.
 
-## 需要掌握
+## Source Alignment
 
-- 用绳、弹簧和水波槽描述波动。
-- 使用位移、振幅、相位差、周期、频率、波长和速率。
-- 会用 CRO 的时基和垂直增益求频率和振幅。
-- 推导并使用波方程：$v = f\lambda$。
-- 理解行波会传递能量。
-- 使用强度：$I = P/A$，并理解强度与振幅平方成正比。
-- 比较横波和纵波。
-- 解释运动声源相对静止观察者的多普勒效应。
-- 使用多普勒公式处理声波频率变化。
-- 知道电磁波是横波，在真空中以 $c$ 传播。
-- 记住电磁波谱主要波段的大致波长范围。
-- 理解偏振只属于横波。
-- 使用马吕斯定律（Malus's law）：$I = I_0 \cos^2\theta$。
+- Primary syllabus source: CAIE Physics 9702.
+- 7 Waves
+- 7.1 Progressive waves
+- 7.2 Transverse and longitudinal waves
+- 7.3 Doppler effect for sound waves
+- 7.4 Electromagnetic spectrum
+- 7.5 Polarisation
+- Coursebook route: Physics Coursebook Chapter 12: Waves, electromagnetic waves, Doppler effect, and polarisation.
 
-## 练习方向
+## What to Learn
 
-- 从波形图或时间图读振幅、周期、波长和相位差。
-- 判断波传播方向与粒子振动方向。
-- 用强度和振幅比例做计算。
-- 判断多普勒频移后的频率增大还是减小。
-- 解释偏振片后强度变化。
+- Use displacement, amplitude, phase difference, period, frequency, wavelength, and speed.
+- Use the wave equation $v = f\lambda$ and intensity relationships for progressive waves.
+- Distinguish transverse and longitudinal waves and understand polarisation as evidence for transverse waves.
+- Describe Doppler effect for sound waves.
+- Know the main regions and order of the electromagnetic spectrum.
 
-## 实验或观察连接
+## How to Study
 
-- 用 CRO 测声波频率和幅度。
-- 用水波槽展示水波波速、衍射和干涉。
-- 用偏振片验证马吕斯定律（Malus's law）。
+- Draw both a displacement-position graph and a displacement-time graph.
+- Use phase language whenever two oscillations are being compared.
+- Connect electromagnetic spectrum regions to order of magnitude of wavelength and frequency.
 
-## 易错点
+## Practice Directions
 
-- 把波速率和质点速率混淆。
-- 相位差的单位可以是度或弧度，但计算中要一致。
-- 多普勒公式的正负号取决于波源向观察者靠近还是远离。
-- 非偏振光经过第一个偏振片的强度变化不在本大纲计算要求内。
+- Calculate wavelength, frequency, speed, period, and phase difference.
+- Interpret CRO-style wave traces.
+- Explain Doppler shifts qualitatively.
+
+## Connections
+
+- [[10 Physics/01 Topics/08 Superposition|Superposition]]
+- [[10 Physics/01 Topics/17 Oscillations|Oscillations]]
+
+## Common Traps
+
+- Thinking the medium travels with the wave.
+- Mixing up period and wavelength.
+- Treating intensity as proportional to amplitude instead of amplitude squared.

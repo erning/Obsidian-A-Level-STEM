@@ -1,5 +1,5 @@
 ---
-title: 数学工具与公式表
+title: Mathematical Tools and Formulae
 subject: Mathematics
 syllabus:
   - 9709
@@ -9,82 +9,46 @@ tags:
   - mathematics/reference
 ---
 
-# 数学工具与公式表
+# Mathematical Tools and Formulae
 
-数学公式不是要背的墙纸，而是压缩后的结构。每条公式都要知道它来自什么定义、解决什么问题、需要什么条件，以及能用什么方式检查。
+This reference collects reusable mathematical tools from CAIE 9709 and 9231. Formulae are written in LaTeX for Obsidian rendering.
 
-## 公式卡片
+## Algebra
 
-每条公式建议写成这种格式：
+- Complete the square: $ax^2 + bx + c = a(x-h)^2 + k$.
+- Discriminant: $b^2 - 4ac$.
+- Factor theorem: if $f(a)=0$, then $(x-a)$ is a factor of $f(x)$.
+- Remainder theorem: the remainder on division by $(x-a)$ is $f(a)$.
 
-```markdown
-## Formula
+## Functions
 
-- Object:
-- Relationship:
-- Conditions:
-- Graph or geometric meaning:
-- Typical use:
-- Check:
-- Common mistakes:
-```
+- Composite functions require the range of the inner function to lie within the domain of the outer function.
+- An inverse function exists on a domain where the function is one-one.
+- Graph transformations should be checked with test points and domain/range changes.
 
-## 常用检查
+## Calculus
 
-- **代回检查**：解方程后代回原式。
-- **定义域检查**：对数、根式、分式、反函数都先看定义域。
-- **图像检查**：根、极值、渐近线、面积和概率都能在图像上看出大致范围。
-- **极端情况检查**：参数趋近 0、1、无穷大或边界值时，结果是否合理。
-- **单位检查**：力学中每个量都带单位。
-- **概率检查**：概率在 0 到 1 之间，密度下的总面积为 1。
+- Product rule: $\frac{d}{dx}(uv)=u\frac{dv}{dx}+v\frac{du}{dx}$.
+- Quotient rule: $\frac{d}{dx}\left(\frac{u}{v}\right)=\frac{v\frac{du}{dx}-u\frac{dv}{dx}}{v^2}$.
+- Chain rule: $\frac{dy}{dx}=\frac{dy}{du}\frac{du}{dx}$.
+- Definite integral as area or accumulated change: $\int_a^b f(x)\,dx$.
+- Integration by parts: $\int u\,dv = uv - \int v\,du$.
 
-## 核心工具
+## Vectors and Matrices
 
-### Algebra
+- Scalar product: $\mathbf{a}\cdot\mathbf{b}=|\mathbf{a}||\mathbf{b}|\cos\theta$.
+- Vector equation of a line: $\mathbf{r}=\mathbf{a}+\lambda\mathbf{b}$.
+- Plane forms include $ax+by+cz=d$ and $\mathbf{r}\cdot\mathbf{n}=p$.
+- Matrix product order matters; $AB$ usually represents applying $B$ first and then $A$.
+- A non-singular matrix has an inverse; a singular matrix does not.
 
-- 配方法：把二次式写成顶点形式。
-- 因式定理：用根和因式连接多项式。
-- 部分分式：把有理函数拆成可积分或可展开的形式。
-- 模：表示距离，解题时常分区间讨论。
+## Probability and Statistics
 
-### 函数与图像
+- Expected value for a discrete random variable: $E(X)=\sum xP(X=x)$.
+- Variance: $\operatorname{Var}(X)=E(X^2)-[E(X)]^2$.
+- For a continuous random variable, probabilities are areas: $P(a<X<b)=\int_a^b f(x)\,dx$.
+- Standardisation for a normal variable: $Z=\frac{X-\mu}{\sigma}$.
 
-- 复合函数：$fg(x) = f(g(x))$
-- 反函数：交换输入输出，图像关于 $y = x$ 对称。
-- 变换：平移、伸缩、反射都应能从表达式读出。
-- 渐近线：铅直、水平、斜渐近线说明函数边界行为。
+## How to Use This Reference
 
-### Calculus
-
-- 导数：局部变化率和切线斜率。
-- 积分：累积量、面积和反导数。
-- 链式法则：复合结构的求导。
-- 乘积法则/商法则：乘积和商的求导。
-- 换元积分法：变量替换，把复杂结构还原成已知积分。
-- 分部积分法：来自乘积法则，适合乘积积分。
-
-### 向量与矩阵
-
-- 点积：长度、夹角、投影。
-- 叉积：垂直方向、面积、法向量。
-- 矩阵乘法：复合线性变换。
-- 行列式：面积/体积缩放和可逆性。
-- 特征向量：在线性变换后方向不变的向量。
-
-### 概率与统计
-
-- 期望：长期平均或分布中心。
-- 方差：离散程度。
-- 标准化：把正态变量转成标准正态变量。
-- 置信区间：用样本估计总体参数的不确定范围。
-- 假设检验：用数据判断一个假设是否与观察冲突。
-- PGF：用函数编码离散分布。
-
-## 和物理的连接
-
-- 微分法：速度、加速度、变化率。
-- 积分法：位移、功、电荷、概率。
-- 指数函数：衰减、电容器放电、冷却模型。
-- 向量：力分量、场、相对运动。
-- 微分方程：增长/衰减、简谐运动（SHM）、变量-力运动。
-- 统计学：实验误差、数据判断和模型拟合。
+Use this file as a quick reminder only. The relevant topic note should contain the assumptions, method conditions, examples, and traps.

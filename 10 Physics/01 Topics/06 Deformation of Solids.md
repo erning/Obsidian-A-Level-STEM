@@ -5,46 +5,50 @@ syllabus: 9702
 status: draft
 tags:
   - physics/9702/topic
-  - physics/9702/materials
+  - physics/9702/mechanics
 ---
 
-# 06 固体形变
+# 06 Deformation of Solids
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 7
-- 参考范围：6.1 Stress and strain, 6.2 Elastic and plastic behaviour
+Deformation links forces to material response through extension, stress, strain, and energy storage.
 
-## 需要掌握
+## Source Alignment
 
-- 理解拉力和压力会造成形变。
-- 使用载荷、伸长量、压缩量和比例极限。
-- 陈述并使用胡克定律。
-- 使用弹簧劲度系数：$k = F/x$。
-- 定义应力、应变和杨氏模量。
-- 描述测定金属丝的杨氏模量的实验。
-- 区分弹性形变、塑性形变和弹性限度。
-- 理解力-伸长量图像下方面积表示做功。
-- 在比例极限内使用 $E_p = \frac{1}{2}Fx = \frac{1}{2}kx^2$。
+- Primary syllabus source: CAIE Physics 9702.
+- 6 Deformation of solids
+- 6.1 Stress and strain
+- 6.2 Elastic and plastic behaviour
+- Coursebook route: Physics Coursebook Chapter 7: Stretching materials and elastic potential energy.
 
-## 练习方向
+## What to Learn
 
-- 从力-伸长量图像求弹簧劲度系数。
-- 从应力-应变图像求杨氏模量。
-- 判断材料处于弹性区还是塑性区。
-- 用面积计算弹性势能。
-- 解释为什么测量细金属丝需要长金属丝和千分尺。
+- Use load, extension, compression, and limit of proportionality for one-dimensional deformation.
+- Use Hooke's law and the spring constant $k = F/x$.
+- Define stress, strain, and the Young modulus.
+- Distinguish elastic deformation, plastic deformation, and elastic limit.
+- Use area under a force-extension graph and $E_p = \frac{1}{2}Fx = \frac{1}{2}kx^2$ within the limit of proportionality.
 
-## 实验或观察连接
+## How to Study
 
-- 杨氏模量实验需要测金属丝长度、直径、载荷和伸长量。
-- 直径要多点测量并取平均，因为横截面积对结果影响很大。
-- 伸长量常用基准标记和移测显微镜或游标尺测量。
+- Read force-extension and stress-strain graphs as experimental evidence.
+- Keep geometry visible: stress uses cross-sectional area, strain uses original length.
+- Connect the energy area to work done during deformation.
 
-## 易错点
+## Practice Directions
 
-- 把应力和压强都写成 Pa，但物理意义不同。
-- 应变无单位。
-- 用直径代替半径计算面积。
-- 超过比例极限后继续使用 $E_p = \frac{1}{2}kx^2$。
+- Calculate stress, strain, and Young modulus.
+- Determine spring constant from a graph.
+- Interpret loading and unloading curves.
 
+## Connections
+
+- [[10 Physics/01 Topics/05 Work Energy and Power|Work, Energy and Power]]
+- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity|Work, Energy, Power and Elasticity]]
+
+## Common Traps
+
+- Confusing extension with strain.
+- Using Hooke's law beyond the proportional region.
+- Forgetting that graph area has energy units.

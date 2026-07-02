@@ -5,50 +5,51 @@ syllabus: 9702
 status: draft
 tags:
   - physics/9702/topic
-  - physics/9702/medical
+  - physics/9702/applications
 ---
 
-# 24 医学物理
+# 24 Medical Physics
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 30
-- 参考范围：24.1 Production and use of ultrasound, 24.2 Production and use of X-rays, 24.3 PET scanning
+Medical physics applies wave, attenuation, detection, and nuclear ideas to imaging inside the body.
 
-## 需要掌握
+## Source Alignment
 
-- 理解压电晶体在电势差作用下变形，形变时也能产生电动势。
-- 解释超声波如何由压电换能器产生和探测。
-- 理解超声脉冲在组织边界反射可提供内部结构信息。
-- 定义特性声阻抗：$Z = \rho c$。
-- 使用强度反射系数：$I_R/I_0 = (Z_1-Z_2)^2/(Z_1+Z_2)^2$。
-- 使用超声衰减：$I = I_0e^{-\mu x}$。
-- 解释 X 射线由电子轰击金属靶产生。
-- 计算 X 射线的极小值波长。
-- 理解对比度在 X 射线成像中的意义。
-- 使用 X 射线衰减：$I = I_0e^{-\mu x}$。
-- 理解 CT 扫描如何由多角度 X 射线图像构建三维图像。
-- 理解示踪剂、β 正衰变和 PET 扫描。
-- 理解湮灭中质能和动量守恒。
-- 解释 PET 中一对 γ 光子如何被探测并形成图像。
+- Primary syllabus source: CAIE Physics 9702.
+- 24 Medical physics
+- 24.1 Production and use of ultrasound
+- 24.2 Production and use of X-rays
+- 24.3 PET scanning
+- Coursebook route: Physics Coursebook Chapter 30: Medical imaging.
 
-## 练习方向
+## What to Learn
 
-- 计算超声或 X 射线衰减。
-- 比较不同组织边界的反射强度。
-- 用加速电势差求 X 射线极小值波长。
-- 解释超声、X 射线、CT 和 PET 的优缺点。
-- 计算电子-正电子湮灭中 γ 光子能量。
+- Explain ultrasound production, reflection, acoustic impedance, attenuation, and echo timing.
+- Explain X-ray production, attenuation, image contrast, and computed tomography principles.
+- Describe PET scanning using tracers, positron emission, annihilation, and gamma-ray detection.
+- Compare imaging methods by resolution, contrast mechanism, penetration, risk, and information produced.
+- Use exponential attenuation models where appropriate.
 
-## 实验或观察连接
+## How to Study
 
-- 该主题多为应用题和数据解释。
-- 可用脉冲回波模型训练飞行时间、衰减和反射计算。
+- Treat each imaging method as a chain: source, interaction, detection, reconstruction.
+- Connect contrast to a physical property such as acoustic impedance or attenuation coefficient.
+- Use diagrams for paths, echoes, or detector pairs.
 
-## 易错点
+## Practice Directions
 
-- 超声反射取决于声阻抗不匹配。
-- X 射线衰减和超声衰减公式形式相同，但物理机制不同。
-- PET 用 β 正衰变示踪剂，不是 β 负衰变。
-- 湮灭产生的两个 γ 光子方向相反，用于定位事件线。
+- Calculate echo distances and attenuation.
+- Compare X-ray and ultrasound image formation.
+- Explain PET coincidence detection qualitatively.
 
+## Connections
+
+- [[10 Physics/01 Topics/07 Waves|Waves]]
+- [[10 Physics/01 Topics/23 Nuclear Physics|Nuclear Physics]]
+
+## Common Traps
+
+- Confusing CT with a single X-ray image.
+- Ignoring impedance mismatch in ultrasound reflection.
+- Treating PET as ordinary photography rather than tracer-based detection.

@@ -2,42 +2,52 @@
 title: 06 Rigid Bodies and Variable Forces
 subject: Mathematics
 syllabus:
+  - 9709
   - 9231
 status: draft
 tags:
   - mathematics/mechanics
 ---
 
-# 06 刚体与变力
+# 06 Rigid Bodies and Variable Forces
 
-## 教材对应
+## Core Idea
 
-- 9231：Equilibrium of a rigid body；linear motion under a variable force
+Rigid bodies require moments and geometry; variable forces require calculus.
 
-## 需要掌握
+## Source Alignment
 
-- 理解刚体和质点模型的区别。
-- 求均匀杆、薄片和简单立体的质心。
-- 使用力矩分析刚体平衡。
-- 建立变力下的运动方程。
-- 根据问题选择 $a = dv/dt$ 或 $a = v\,dv/dx$。
-- 求解可分离变量微分方程并解释运动过程。
+- 9231 3.2 Equilibrium of a rigid body
+- 9231 3.5 Linear motion under a variable force
+- Coursebook route: 9231 Further Mechanics rigid-body and variable-force content.
 
-## 练习方向
+## What to Learn
 
-- 刚体题先标所有力的作用点。
-- 选取力矩中心位置时优先消掉未知力。
-- 变量力题先写清力依赖 $t$、$x$ 还是 $v$。
-- 解微分方程后检查初始条件和单位。
+- Rigid-body equilibrium with forces and moments.
+- Centre of mass and stability-style reasoning where relevant.
+- Variable force as a function of position, time, or velocity.
+- Using integration for work done by a variable force.
+- Using differential equations for motion under variable force.
 
-## 连接
+## How to Study
 
-- 刚体连接 [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium|力与平衡]]。
-- 变力连接 [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations|进阶微积分与微分方程]]。
+- Keep dimensions and pivot points visible in diagrams.
+- Choose the variable before writing a differential equation.
+- Use units to check force, work, and acceleration functions.
 
-## 易错点
+## Practice Directions
 
-- 把把质心当成几何中心，但对象并不均匀。
-- 力矩的力臂取错。
-- 变量力问题使用恒定加速度方程。
-- 微分方程解完不解释运动方向和速度符号。
+- Solve rigid-body equilibrium problems.
+- Find work from a force-displacement integral.
+- Set up and solve simple variable-force motion equations.
+
+## Connections
+
+- [[20 Mathematics/01 Pure Mathematics/06 Integration|Integration]]
+- [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations|Further Calculus and Differential Equations]]
+
+## Common Traps
+
+- Treating an extended body as a particle when moments matter.
+- Integrating with the wrong variable.
+- Forgetting initial conditions in motion equations.

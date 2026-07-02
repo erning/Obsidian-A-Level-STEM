@@ -1,5 +1,5 @@
 ---
-title: 学习方法
+title: How to Study
 subject: Mathematics
 syllabus:
   - 9709
@@ -9,101 +9,50 @@ tags:
   - mathematics/learning-method
 ---
 
-# 学习方法
+# How to Study
 
-数学学习的目标不是把题型背熟，而是让你能看见结构、选择语言、执行方法，并检查结果。可以把每章看作一个小工具的发明史：为什么需要它？它解决什么旧方法解决不了的问题？它和哪些已有工具相连？
+Study mathematics as a language for structure, change, space, uncertainty, and motion. The aim is not to memorise question types, but to understand objects, representations, methods, and checks.
 
-## 一章怎么学
+## The Study Loop
 
-### 1. 先问对象
+1. Identify the object.
+   Is the topic about a function, equation, graph, vector, matrix, distribution, sample, or mechanical system?
 
-不要先抄公式。先写清楚：
+2. List the representations.
+   Use algebraic form, graph or diagram, verbal interpretation, and, where useful, a physical or statistical model.
 
-- 这个章节研究的对象是什么？
-- 它是函数、图像、方程、空间对象、随机变量还是运动系统？
-- 这个对象有哪些可观察特征，例如根、极值、面积、方向、概率或期望？
+3. State method conditions.
+   Every method needs conditions: domain, differentiability, independence, distribution assumptions, convergence, or physical modelling assumptions.
 
-### 2. 再问表示
+4. Work examples by hand.
+   Do not only read worked examples. Rebuild the solution and write why that method was chosen.
 
-数学中的困难常常来自“同一个对象有多种表示”。每学一个主题，都试着列出：
+5. Check the result.
+   Substitute back, inspect the graph, check signs and units, test an extreme case, or check that probabilities lie between 0 and 1.
 
-- 代数表示：公式、方程、矩阵或分布函数。
-- 图像表示：曲线、向量图、树图、直方图或概率密度图。
-- 语言表示：用一句自然语言解释它在说什么。
-- 应用表示：它能对应什么物理或数据场景。
+## Notes Structure
 
-### 3. 方法要写适用条件
+Each topic note should include:
 
-每个方法都补 4 件事：
+- Core Idea: the mathematical role of the topic.
+- Source Alignment: official CAIE 9709/9231 topic wording and coursebook route.
+- What to Learn: definitions, theorems, methods, and model assumptions.
+- How to Study: the conceptual order of attack.
+- Practice Directions: exercises that reveal whether the tool is usable.
+- Connections: links to dependent topics and physics applications.
+- Common Traps: errors to watch for later.
 
-- 用来解决什么问题。
-- 需要什么前提条件。
-- 操作步骤是什么。
-- 结果怎么检查。
+## Practice Method
 
-例如配方法可以找二次式顶点；分部积分法适合处理乘积；正态近似需要先判断模型和参数条件是否合理。
+Classify mistakes after each worked example or problem:
 
-### 4. 图像是理解，不是装饰
+- Definition error: the object or condition was not understood.
+- Representation error: algebra, graph, diagram, or language did not match.
+- Method error: the chosen method did not apply.
+- Algebra error: manipulation, sign, expansion, factorisation, or simplification failed.
+- Modelling error: a probability, mechanics, or data context was translated incorrectly.
+- Checking error: an unreasonable result was not detected.
 
-每看到函数图像、向量图、直方图或分布图，都问：
+## Self-Check
 
-- 横轴和纵轴是什么？
-- 关键点在哪里？
-- 斜率、面积、截距、渐近线或对称性代表什么？
-- 如果参数改变，图像怎样变？
-
-数学直觉很大一部分来自这种图像追踪。
-
-### 5. 计算要有验算习惯
-
-每次算完至少做一个检查：
-
-- 代回原式。
-- 看单位或量纲。
-- 看符号是否合理。
-- 看极端情况是否合理。
-- 看图像位置是否合理。
-- 看概率是否在 0 到 1 之间。
-
-## 笔记怎么写
-
-每个主题建议分成 5 块：
-
-1. **一句话核心**：这个主题的核心想法。
-2. **对象与表示**：代数、图像、语言和应用表示。
-3. **关键方法**：步骤、条件和最小例子。
-4. **连接**：它和前后主题、物理或统计学的关系。
-5. **易错点**：把错题归因到概念、图像、代数、条件或计算。
-
-不要把教材抄成另一份教材。最有价值的笔记是“我为什么这样做”的地图。
-
-## 练习怎么做
-
-练习用来暴露理解漏洞。做完题以后标记错误类型：
-
-- 概念错：定义或对象没弄清。
-- 表示错：代数式、图像或语言之间没转对。
-- 条件错：用了不适用的方法。
-- 代数错：展开、因式分解、符号或整理错误。
-- 图像错：斜率、面积、截距、渐近线或范围判断错。
-- 建模错：概率、力学或数据情境没有翻译成正确数学对象。
-- 检查错：答案明显不合理但没有发现。
-
-## 每周节奏
-
-- 2 次教材阅读：每次 45-60 分钟，只读一个小节或半章。
-- 2 次例题：手算教材例题，写出选方法的理由。
-- 1 次主题整理：把公式、条件、图像和易错点写回 Obsidian。
-- 1 次跨主题连接：把数学和物理、数据或旧主题连起来。
-- 1 次复盘：只看错题分类，决定下周补哪个基础。
-
-## 什么时候算学会
-
-可以用这些问题自测：
-
-- 我能说出这个主题研究的对象吗？
-- 我能画出关键图像或结构图吗？
-- 我能解释方法为什么成立吗？
-- 我知道方法什么时候不能用吗？
-- 我能用另一种表示检查结果吗？
-- 我能把它连接到一个物理、数据或几何场景吗？
+A topic is becoming usable when you can explain what object it studies, draw its main representation, state the method conditions, carry out the calculation, and check the answer in another representation.

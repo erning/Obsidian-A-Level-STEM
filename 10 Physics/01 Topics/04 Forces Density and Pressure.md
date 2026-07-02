@@ -8,43 +8,48 @@ tags:
   - physics/9702/mechanics
 ---
 
-# 04 力、密度与压强
+# 04 Forces, Density and Pressure
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapters 4, 7
-- 参考范围：4.1 Turning effects of forces, 4.2 Equilibrium of forces, 4.3 Density and pressure
+This topic extends force from translation to rotation and from point objects to fluids and materials.
 
-## 需要掌握
+## Source Alignment
 
-- 理解物体重量可视为作用在重心。
-- 定义并使用力矩。
-- 理解力偶只产生旋转，并定义力偶矩。
-- 陈述并应用力矩原理。
-- 理解平衡需要合力和合力矩都为 0。
-- 用矢量三角形表示共面力平衡。
-- 定义并使用密度和压强。
-- 从压强和密度推导静水压强：$\Delta p = \rho g \Delta h$。
-- 理解浮力来自流体压强差。
-- 使用阿基米德原理：$F = \rho g V$。
+- Primary syllabus source: CAIE Physics 9702.
+- 4 Forces, density and pressure
+- 4.1 Turning effects of forces
+- 4.2 Equilibrium of forces
+- 4.3 Density and pressure
+- Coursebook route: Physics Coursebook Chapters 4 and 7: Forces, matter, materials, density, pressure, and upthrust.
 
-## 练习方向
+## What to Learn
 
-- 计算力矩、力偶矩和支点反力。
-- 判断物体是否满足平衡条件。
-- 用力三角形处理三力平衡。
-- 计算液体深度变化导致的压强差。
-- 用浮力判断物体在流体中的受力。
+- Use centre of gravity, moment of a force, couple, and torque of a couple.
+- Apply the principle of moments and the condition of no resultant force and no resultant torque for equilibrium.
+- Define and use density and pressure.
+- Derive and use hydrostatic pressure $\Delta p = \rho g \Delta h$.
+- Explain upthrust from pressure difference and use $F = \rho gV$ as Archimedes' principle.
 
-## 实验或观察连接
+## How to Study
 
-- 用刻度尺、支点和砝码验证力矩原理。
-- 用量筒、天平和位移方法测密度。
-- 用液体深度和压强传感器研究 $p\text{-}h$ 关系。
+- Separate translational equilibrium from rotational equilibrium.
+- Draw force positions as well as directions; moments depend on perpendicular distance.
+- Use pressure as force per unit area, not as total force.
 
-## 易错点
+## Practice Directions
 
-- 力矩距离应为垂直距离。
-- 只检查合力为 0，却忘记合力矩也要为 0。
-- 把压强和力混淆。
-- 浮力中的 $V$ 是被排开流体的体积。
+- Solve moment and torque problems.
+- Use vector triangles for coplanar forces in equilibrium.
+- Calculate hydrostatic pressure and upthrust.
+
+## Connections
+
+- [[10 Physics/01 Topics/03 Dynamics|Dynamics]]
+- [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium|Forces and Equilibrium]]
+
+## Common Traps
+
+- Checking only net force and forgetting net torque.
+- Using volume where area is required for pressure.
+- Treating upthrust as a mysterious upward force rather than a pressure difference.

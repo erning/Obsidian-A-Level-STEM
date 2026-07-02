@@ -1,5 +1,5 @@
 ---
-title: 教材章节映射
+title: Textbook Chapter Map
 subject: Physics
 syllabus: 9702
 status: draft
@@ -8,74 +8,56 @@ tags:
   - textbook
 ---
 
-# 教材章节映射
+# Textbook Chapter Map
 
-来源：[[assets/course-books/9702 - Physics/9702 - Physics Coursebook.pdf|Physics Coursebook]]。这份映射不是为了按等级层级学习，而是为了知道每个物理主题在教材中从哪里读起。
+Source: [[assets/course-books/9702 - Physics/9702 - Physics Coursebook.pdf|Physics Coursebook]]. Use this as a reading map, not as an examination sequence.
 
-## 基础工具
+## Foundations
 
-| 主题 | 教材位置 | 读法 |
-|---|---|---|
-| 物理量、单位、量纲 | Appendix 1，Chapter 1，Chapter 3 | 边读边做单位检查。看到新公式先问单位是否匹配。 |
-| 误差与不确定度 | P1，P2 | 和实验笔记一起学，不要孤立背术语。 |
-| 矢量 | Chapter 1，Chapter 4 | 用位移、速度、力三个例子反复练习分解和合成。 |
-| 图像与数学工具 | 全书例题，Appendix 3 | 每个图像都标出斜率、截距、面积的意义。 |
+- Physical quantities, SI units, and dimensional checks: Appendix 1, early worked examples, and practical skills sections.
+- Errors, uncertainties, and data handling: Practical Skills at AS Level and Practical Skills at A Level.
+- Vectors and graphs: Chapters 1, 4, worked examples throughout the coursebook, and Appendix 3.
 
-## 力学与材料
+## Mechanics and Materials
 
-| 主题 | 教材位置 | 读法 |
-|---|---|---|
-| 运动描述 | Chapters 1-2 | 先从图像理解运动，再用公式压缩。 |
-| 力与牛顿定律 | Chapter 3 | 每道题先画对象和受力，不急着代公式。 |
-| 动量与碰撞 | Chapter 6 | 重点理解“系统”和“外力”。 |
-| 力矩、平衡、压强 | Chapters 4, 7 | 把平衡看成合力和合力矩同时为零。 |
-| 功、能量、功率 | Chapter 5 | 练习在力学问题中选择能量方法。 |
-| 材料形变 | Chapter 7 | 结合力-伸长量和应力-应变图像学习。 |
-| 圆周运动与引力 | Chapters 16-17 | 把圆周运动当作连接力学和场的桥。 |
+- Kinematics: Chapters 1-2.
+- Dynamics and Newton's laws: Chapter 3.
+- Momentum and collisions: Chapter 6.
+- Turning effects, equilibrium, density, pressure, and upthrust: Chapters 4 and 7.
+- Work, energy, and power: Chapter 5.
+- Deformation of solids: Chapter 7.
+- Circular motion: Chapter 16.
+- Gravitational fields: Chapter 17.
 
-## 波、叠加与振动
+## Waves and Oscillations
 
-| 主题 | 教材位置 | 读法 |
-|---|---|---|
-| 波的基本描述 | Chapter 12 | 同时看空间图像和时间图像。 |
-| 多普勒、偏振和电磁谱 | Chapter 12 | 多用真实例子建立直觉。 |
-| 叠加、干涉、衍射 | Chapter 13 | 重点理解相位和路径差。 |
-| 驻波 | Chapter 14 | 画波节、波腹和波长。 |
-| 振动与共振 | Chapter 18 | 把简谐运动（SHM）和波联系起来。 |
+- Progressive waves, Doppler effect, electromagnetic spectrum, and polarisation: Chapter 12.
+- Superposition, diffraction, interference, and diffraction gratings: Chapter 13.
+- Stationary waves: Chapter 14.
+- Oscillations, SHM, damping, forced oscillations, and resonance: Chapter 18.
 
-## 电、磁与场
+## Electricity, Magnetism and Fields
 
-| 主题 | 教材位置 | 读法 |
-|---|---|---|
-| 电流、电压、功率 | Chapter 8 | 用能量和电荷流动来理解电路。 |
-| 基尔霍夫定律与电路 | Chapters 9-11 | 先判断守恒，再列方程。 |
-| 电场与电势 | Chapters 21-22 | 和引力场对照学习。 |
-| 电容与 RC 过程 | Chapter 23 | 把指数衰减和图像线性化一起学。 |
-| 磁场与电磁感应 | Chapters 24-26 | 用方向规则和能量守恒检查答案。 |
-| 交流电 | Chapter 27 | 把时域图像、r.m.s. 和能量联系起来。 |
+- Electric current, potential difference, resistance, and resistivity: Chapters 8 and 10.
+- Kirchhoff's laws, internal resistance, potential dividers, sensors, and potentiometer circuits: Chapters 9 and 11.
+- Uniform electric fields and Coulomb's law: Chapters 21-22.
+- Capacitance and capacitor discharge: Chapter 23.
+- Magnetic fields, charged-particle motion, Hall effect, and electromagnetic induction: Chapters 24-26.
+- Alternating currents, rectification, and smoothing: Chapter 27.
 
-## 热、物质与现代物理
+## Thermal, Quantum, Nuclear and Applications
 
-| 主题 | 教材位置 | 读法 |
-|---|---|---|
-| 温度、比热容、潜热 | Chapter 19 | 先区分温度、热能和内能。 |
-| 理想气体 | Chapter 20 | 在宏观公式和微观模型之间来回翻译。 |
-| 热力学 | Chapter 19 | 特别注意气体对外做功和外界对气体做功的符号约定。 |
-| 粒子物理 | Chapter 15 | 先建立粒子分类，再处理衰变方程。 |
-| 量子物理 | Chapter 28 | 用证据学习模型：光电效应、干涉、电子衍射。 |
-| 核物理 | Chapter 29 | 把结合能图像作为核心图像。 |
+- Temperature, thermal physics, and internal energy: Chapter 19.
+- Ideal gases and kinetic theory: Chapter 20.
+- Atomic structure and particle physics: Chapter 15.
+- Quantum physics: Chapter 28.
+- Nuclear physics: Chapter 29.
+- Medical imaging: Chapter 30.
+- Astronomy and cosmology: Chapter 31.
 
-## 应用与宇宙
+## Reading Method
 
-| 主题 | 教材位置 | 读法 |
-|---|---|---|
-| 医学物理 | Chapter 30 | 把公式放进成像场景：超声、X 射线、CT、PET。 |
-| 天文与宇宙学 | Chapter 31 | 多做数量级估算，理解宇宙尺度的测量方法。 |
-
-## 使用教材的方式
-
-- 先读每章开头的学习目标，转写成自己的问题。
-- 读正文时只抓模型、公式、图像和实验，不必逐句摘抄。
-- 例题要手算一遍，再写出“为什么这样选公式”。
-- 章节总结用来补清单，不要替代自己的理解。
-- 考试风格题目可以当练习题使用，但不需要让它决定学习目标。
+- Read the chapter opening and section headings first to identify the model.
+- Work through selected examples by hand; write why the method was chosen.
+- Copy only definitions, assumptions, graph meanings, and common traps into your notes.
+- Use exercises to expose gaps, then repair the relevant topic note.

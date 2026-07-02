@@ -5,44 +5,51 @@ syllabus: 9702
 status: draft
 tags:
   - physics/9702/topic
-  - physics/9702/thermal
+  - physics/9702/thermal-physics
 ---
 
-# 15 理想气体
+# 15 Ideal Gases
 
-## 教材对应
+## Core Idea
 
-- 教材：Chapter 20
-- 参考范围：15.1 The mole, 15.2 Equation of state, 15.3 Kinetic theory of gases
+The ideal gas model connects macroscopic pressure, volume, temperature, and amount of substance to microscopic molecular motion.
 
-## 需要掌握
+## Source Alignment
 
-- 理解物质的量是 SI 基本量，单位是 mol。
-- 使用阿伏伽德罗常量连接物质的量和粒子数。
-- 理解满足 $pV \propto T$ 的气体称为理想气体。
-- 使用 $pV = nRT$ 和 $pV = NkT$。
-- 知道 $k = R/N_A$。
-- 陈述气体分子运动论的基本假设。
-- 从分子碰撞解释气体压强。
-- 推导并使用 $pV = \frac{1}{3}Nm\langle c^2\rangle$。
-- 理解方均根速率。
-- 比较气体分子运动论模型与理想气体方程，推出分子平均平动动能为 $\frac{3}{2}kT$。
+- Primary syllabus source: CAIE Physics 9702.
+- 15 Ideal gases
+- 15.1 The mole
+- 15.2 Equation of state
+- 15.3 Kinetic theory of gases
+- Coursebook route: Physics Coursebook Chapter 20: Ideal gases.
 
-## 练习方向
+## What to Learn
 
-- 在 $n$、$N$、$N_A$、$R$、$k$ 之间转换。
-- 处理常量压强、体积恒定或常量温度的气体变化。
-- 用气体分子运动论解释压强与温度的关系。
-- 计算方均根速率或平均平动动能。
+- Use amount of substance, mole, Avogadro constant, and number of particles.
+- Use the ideal gas equation for state changes.
+- Explain gas pressure using molecular collisions with container walls.
+- Use kinetic theory to connect thermodynamic temperature with mean translational kinetic energy.
+- Recognise the assumptions and limitations of the ideal gas model.
 
-## 实验或观察连接
+## How to Study
 
-- 用注射器 / 压强传感器做波义耳定律实验。
-- 讨论温度恒定和读数滞后的误差来源。
+- Move deliberately between macroscopic variables and particle-level explanations.
+- Write temperature in kelvin before using gas equations.
+- List model assumptions before applying kinetic theory.
 
-## 易错点
+## Practice Directions
 
-- 理想气体方程中温度必须用开尔文。
-- $N$ 是分子数，$n$ 是物质的量。
-- 方均根速率不是平均速率。
-- 气体分子运动论的假设是模型条件，不能无条件套到高压低温真实气体。
+- Solve ideal-gas state problems.
+- Calculate particle number and amount of substance.
+- Use kinetic theory relationships for molecular speeds and energy.
+
+## Connections
+
+- [[10 Physics/01 Topics/14 Temperature|Temperature]]
+- [[10 Physics/01 Topics/16 Thermodynamics|Thermodynamics]]
+
+## Common Traps
+
+- Using degrees Celsius in $pV = nRT$.
+- Forgetting that ideal gas assumptions can fail at high pressure or low temperature.
+- Confusing mean speed with r.m.s. speed.
