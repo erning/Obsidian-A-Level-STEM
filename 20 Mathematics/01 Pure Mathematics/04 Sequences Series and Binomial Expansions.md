@@ -29,7 +29,7 @@ tags:
 
 - 对每个 sequence 写出前几项、通项和递推关系。
 - 对 finite/infinite series 检查是否收敛。
-- 做 binomial expansion 前先检查适用条件，例如 `|x| < 1`。
+- 做 binomial expansion 前先检查适用条件，例如 $|x| < 1$。
 - 用 induction 证明求和公式，而不是只记结果。
 
 ## 连接

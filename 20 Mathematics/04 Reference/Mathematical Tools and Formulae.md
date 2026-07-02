@@ -49,8 +49,8 @@ tags:
 
 ### Functions and Graphs
 
-- Composite function：`fg(x) = f(g(x))`
-- Inverse function：交换输入输出，图像关于 `y = x` 对称。
+- Composite function：$fg(x) = f(g(x))$
+- Inverse function：交换输入输出，图像关于 $y = x$ 对称。
 - Transformations：平移、伸缩、反射都应能从表达式读出。
 - Asymptotes：vertical、horizontal、oblique asymptotes 说明函数边界行为。
 

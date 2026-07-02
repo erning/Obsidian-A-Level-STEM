@@ -26,9 +26,9 @@ tags:
 
 ## 练习方向
 
-- 每个 `2 x 2` transformation 都画一个单位正方形看变化。
+- 每个 $2 \times 2$ transformation 都画一个单位正方形看变化。
 - 乘矩阵时注意顺序代表 transformation composition 的顺序。
-- 求 inverse 后用 `AA^-1 = I` 检查。
+- 求 inverse 后用 $AA^{-1} = I$ 检查。
 - 对 eigenvector，直接代回看方向是否保持。
 
 ## 连接

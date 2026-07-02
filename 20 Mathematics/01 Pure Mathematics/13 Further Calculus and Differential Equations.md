@@ -40,7 +40,7 @@ tags:
 
 ## 易错点
 
-- 分离变量时把 `dx`、`dy` 当作普通符号乱移，但没有保持等价关系。
+- 分离变量时把 $dx$、$dy$ 当作普通符号乱移，但没有保持等价关系。
 - 忘记 initial condition。
 - Auxiliary equation 根的类型判断错误。
 - Particular integral 选形时没有处理和 complementary function 重合的情况。

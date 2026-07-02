@@ -20,16 +20,16 @@ tags:
 - 用 ropes、springs 和 ripple tanks 描述 wave motion。
 - 使用 displacement、amplitude、phase difference、period、frequency、wavelength 和 speed。
 - 会用 CRO 的 time-base 和 y-gain 求 frequency 和 amplitude。
-- 推导并使用 wave equation：`$v = f\lambda$`。
+- 推导并使用 wave equation：$v = f\lambda$。
 - 理解 progressive wave 会传递能量。
-- 使用 intensity：`$I = P/A$`，并理解 intensity 与 amplitude squared 成正比。
+- 使用 intensity：$I = P/A$，并理解 intensity 与 amplitude squared 成正比。
 - 比较 transverse waves 和 longitudinal waves。
 - 解释 moving sound source 相对 stationary observer 的 Doppler effect。
 - 使用 Doppler 公式处理声波频率变化。
-- 知道 electromagnetic waves 是 transverse waves，在真空中以 `c` 传播。
+- 知道 electromagnetic waves 是 transverse waves，在真空中以 $c$ 传播。
 - 记住 principal regions of electromagnetic spectrum 的大致 wavelength range。
 - 理解 polarisation 只属于 transverse waves。
-- 使用 Malus's law：`$I = I_0 \cos^2\theta$`。
+- 使用 Malus's law：$I = I_0 \cos^2\theta$。
 
 ## 练习方向
 
@@ -51,4 +51,3 @@ tags:
 - phase difference 的单位可以是 degree 或 radian，但计算中要一致。
 - Doppler 公式的正负号取决于 source 向 observer 靠近还是远离。
 - unpolarised light 经过第一个 polariser 的强度变化不在本 syllabus 计算要求内。
-

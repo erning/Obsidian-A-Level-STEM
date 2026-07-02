@@ -20,13 +20,13 @@ tags:
 - 理解 piezo-electric crystal 在 p.d. 作用下变形，形变时也能产生 e.m.f.。
 - 解释 ultrasound waves 如何由 piezoelectric transducer 产生和探测。
 - 理解 ultrasound pulse 在组织边界反射可提供内部结构信息。
-- 定义 specific acoustic impedance：`$Z = \rho c$`。
-- 使用 intensity reflection coefficient：`$I_R/I_0 = (Z_1-Z_2)^2/(Z_1+Z_2)^2$`。
-- 使用 ultrasound attenuation：`$I = I_0e^{-\mu x}$`。
+- 定义 specific acoustic impedance：$Z = \rho c$。
+- 使用 intensity reflection coefficient：$I_R/I_0 = (Z_1-Z_2)^2/(Z_1+Z_2)^2$。
+- 使用 ultrasound attenuation：$I = I_0e^{-\mu x}$。
 - 解释 X-rays 由 electrons bombard metal target 产生。
 - 计算 X-rays 的 minimum wavelength。
 - 理解 contrast 在 X-ray imaging 中的意义。
-- 使用 X-ray attenuation：`$I = I_0e^{-\mu x}$`。
+- 使用 X-ray attenuation：$I = I_0e^{-\mu x}$。
 - 理解 CT scanning 如何由多角度 X-ray images 构建 3D image。
 - 理解 tracer、beta plus decay 和 PET scanning。
 - 理解 annihilation 中 mass-energy 和 momentum 守恒。

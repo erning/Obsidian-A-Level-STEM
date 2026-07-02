@@ -19,11 +19,11 @@ tags:
 
 - 定义 radian，并用 radian 表示 angular displacement。
 - 理解并使用 angular speed。
-- 使用 `$\omega = 2\pi/T$` 和 `$v = r\omega$`。
+- 使用 $\omega = 2\pi/T$ 和 $v = r\omega$。
 - 理解大小恒定且始终垂直运动方向的力会造成 centripetal acceleration。
 - 理解 centripetal acceleration 使物体以 constant angular speed 做圆周运动。
-- 使用 `$a = r\omega^2$` 和 `$a = v^2/r$`。
-- 使用 `$F = mr\omega^2$` 和 `$F = mv^2/r$`。
+- 使用 $a = r\omega^2$ 和 $a = v^2/r$。
+- 使用 $F = mr\omega^2$ 和 $F = mv^2/r$。
 
 ## 练习方向
 

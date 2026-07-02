@@ -17,18 +17,18 @@ tags:
 
 ## 需要掌握
 
-- 理解 mass-energy equivalence，并使用 `$E = mc^2$`。
+- 理解 mass-energy equivalence，并使用 $E = mc^2$。
 - 用 nuclear equations 表示简单核反应。
 - 定义并使用 mass defect 和 binding energy。
 - 画 binding energy per nucleon 随 nucleon number 变化的图像。
 - 解释 nuclear fusion 和 nuclear fission。
 - 用 binding energy per nucleon 解释 fusion / fission 为什么释放能量。
-- 使用 `$E = c^2\Delta m$` 计算核反应释放能量。
+- 使用 $E = c^2\Delta m$ 计算核反应释放能量。
 - 理解 count rate fluctuations 证明 radioactive decay 的随机性。
 - 理解 radioactive decay 是 spontaneous 和 random。
-- 定义 activity 和 decay constant，并使用 `$A = \lambda N$`。
-- 定义 half-life，并使用 `$\lambda = 0.693/t_{1/2}$`。
-- 理解指数衰变，并使用 `$x = x_0e^{-\lambda t}$`。
+- 定义 activity 和 decay constant，并使用 $A = \lambda N$。
+- 定义 half-life，并使用 $\lambda = 0.693/t_{1/2}$。
+- 理解指数衰变，并使用 $x = x_0e^{-\lambda t}$。
 
 ## 练习方向
 

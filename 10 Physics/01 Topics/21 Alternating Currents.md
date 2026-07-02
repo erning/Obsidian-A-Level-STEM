@@ -18,10 +18,10 @@ tags:
 ## 需要掌握
 
 - 理解 period、frequency 和 peak value 在 alternating current / voltage 中的含义。
-- 使用 `$x = x_0\sin\omega t$` 表示 sinusoidal alternating current 或 voltage。
+- 使用 $x = x_0\sin\omega t$ 表示 sinusoidal alternating current 或 voltage。
 - 知道 sinusoidal alternating current 在 resistor 中 mean power 是 maximum power 的一半。
 - 区分 r.m.s. 和 peak values。
-- 使用 `$I_{r.m.s.} = I_0/\sqrt{2}$` 和 `$V_{r.m.s.} = V_0/\sqrt{2}$`。
+- 使用 $I_{r.m.s.} = I_0/\sqrt{2}$ 和 $V_{r.m.s.} = V_0/\sqrt{2}$。
 - 图像区分 half-wave rectification 和 full-wave rectification。
 - 解释 single diode 的 half-wave rectification。
 - 解释 bridge rectifier 的 full-wave rectification。

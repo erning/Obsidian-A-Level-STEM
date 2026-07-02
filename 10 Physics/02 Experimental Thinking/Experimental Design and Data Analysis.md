@@ -39,11 +39,11 @@ tags:
 
 | 原关系 | 可画图像 | 可读信息 |
 |---|---|---|
-| `y = mx + c` | `y` against `x` | gradient 是 `m`，intercept 是 `c`。 |
-| `y = ax^n` | `log y` against `log x` | gradient 是 `n`，intercept 给 `a`。 |
-| `y = ae^(kx)` | `ln y` against `x` | gradient 是 `k`，intercept 给 `a`。 |
-| capacitor discharge | `ln V` against `t` | gradient 与 `RC` 有关。 |
-| radioactive decay | `ln A` against `t` | gradient 与 decay constant 有关。 |
+| $y = mx + c$ | $y$ against $x$ | gradient 是 $m$，intercept 是 $c$。 |
+| $y = ax^n$ | $\log y$ against $\log x$ | gradient 是 $n$，intercept 给 $a$。 |
+| $y = ae^{kx}$ | $\ln y$ against $x$ | gradient 是 $k$，intercept 给 $a$。 |
+| capacitor discharge | $\ln V$ against $t$ | gradient 与 $RC$ 有关。 |
+| radioactive decay | $\ln A$ against $t$ | gradient 与 decay constant 有关。 |
 
 线性化的目的不是凑数学形式，而是让数据更容易检验模型。
 
@@ -77,4 +77,3 @@ tags:
 - 用 Python 画 capacitor discharge、radioactive decay 或 SHM 图像。
 
 如果需要用 Python 处理数据或画图，按仓库的 `AGENTS.md` 使用本地 `.venv/`，并设置 Matplotlib backend。
-

@@ -19,10 +19,10 @@ tags:
 ## 需要掌握
 
 - 理解 probability density function（PDF）和 cumulative distribution function（CDF）。
-- 知道连续变量中 `P(X = a) = 0`，概率来自面积。
+- 知道连续变量中 $P(X = a) = 0$，概率来自面积。
 - 会求 probabilities、median、mode、expectation 和 variance。
 - 处理 piecewise density functions。
-- 使用 transformation `Y = g(X)` 求新变量的 distribution。
+- 使用 transformation $Y = g(X)$ 求新变量的 distribution。
 - 理解 density、calculus 和 area 的关系。
 
 ## 练习方向

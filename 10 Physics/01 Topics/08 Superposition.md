@@ -24,8 +24,8 @@ tags:
 - 解释 diffraction，理解 gap width 相对 wavelength 的影响。
 - 理解 interference 和 coherence。
 - 知道产生双源干涉条纹需要相干、稳定相位差和合适几何条件。
-- 使用 double-slit 公式：`$\lambda = ax/D$`。
-- 使用 diffraction grating 公式：`$d\sin\theta = n\lambda$`。
+- 使用 double-slit 公式：$\lambda = ax/D$。
+- 使用 diffraction grating 公式：$d\sin\theta = n\lambda$。
 - 描述用 diffraction grating 测 light wavelength 的方法。
 
 ## 练习方向
@@ -45,7 +45,6 @@ tags:
 ## 易错点
 
 - 把 stationary wave 当成能量沿波传播方向传输。
-- node 间距是 `lambda / 2`，不是 `lambda`。
-- double-slit 中 `a` 是 slit separation，`x` 是 fringe spacing。
-- grating 中 `d` 是 grating spacing，不是整块光栅宽度。
-
+- node 间距是 $\lambda/2$，不是 $\lambda$。
+- double-slit 中 $a$ 是 slit separation，$x$ 是 fringe spacing。
+- grating 中 $d$ 是 grating spacing，不是整块光栅宽度。

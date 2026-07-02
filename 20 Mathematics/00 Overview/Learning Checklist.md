@@ -62,7 +62,7 @@ tags:
 ### [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods|Logarithms, Exponentials and Numerical Methods]]
 
 - [ ] 理解 logarithm 和 exponential 的反函数关系。
-- [ ] 会用 `e^x`、`ln x` 和 logarithm laws 解方程。
+- [ ] 会用 $e^x$、$\ln x$ 和 logarithm laws 解方程。
 - [ ] 能用指数函数建模增长、衰减和比例变化。
 - [ ] 会用 sign change、fixed-point iteration 和图像定位近似根。
 
@@ -149,7 +149,7 @@ tags:
 
 - [ ] 会用 centre of mass 和 moments 处理刚体。
 - [ ] 会建立变量力下的微分方程。
-- [ ] 能根据 `a = dv/dt` 或 `a = v dv/dx` 选择方程形式。
+- [ ] 能根据 $a = dv/dt$ 或 $a = v\,dv/dx$ 选择方程形式。
 - [ ] 理解模型限制，例如粒子模型、刚体模型和无空气阻力假设。
 
 ## Probability and Statistics
@@ -186,7 +186,7 @@ tags:
 
 - [ ] 理解 probability density function 和 cumulative distribution function。
 - [ ] 会求概率、期望、方差、median 和 mode。
-- [ ] 会处理 transformation `Y = g(X)` 的 density。
+- [ ] 会处理 transformation $Y = g(X)$ 的 density。
 - [ ] 能用积分解释连续概率。
 
 ### [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|Sampling, Estimation and Hypothesis Tests]]

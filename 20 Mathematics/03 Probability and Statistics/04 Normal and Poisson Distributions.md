@@ -17,7 +17,7 @@ tags:
 ## 需要掌握
 
 - 理解 normal distribution 是连续变量的钟形模型。
-- 会 standardise：把 `X` 转换为 standard normal variable。
+- 会 standardise：把 $X$ 转换为 standard normal variable。
 - 使用 normal tables 或 calculator 求 probabilities、percentiles 和 parameters。
 - 理解 continuity correction，用 normal approximation 处理 discrete situations。
 - 理解 Poisson distribution 作为 fixed interval 内随机计数模型。
@@ -26,7 +26,7 @@ tags:
 ## 练习方向
 
 - 每道 normal 题都画 curve 并标 shade area。
-- Standardisation 后检查方向：`P(X < x)` 和 `P(Z < z)` 是否一致。
+- Standardisation 后检查方向：$P(X < x)$ 和 $P(Z < z)$ 是否一致。
 - Poisson 题明确 rate 和 interval，必要时调整 mean。
 - Approximation 题说明为什么近似合理。
 

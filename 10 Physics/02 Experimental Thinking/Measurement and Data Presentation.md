@@ -39,7 +39,7 @@ tags:
 一张好表格应该让别人不看正文也能理解数据：
 
 - 原始数据和计算量放在同一张表里。
-- 表头写成 `quantity / unit`，例如 `I / mA`。
+- 表头写成 $\text{quantity}/\text{unit}$，例如 $I/\mathrm{mA}$。
 - 同一列原始读数保持相同精度。
 - 计算量使用合理有效数字。
 - 如果计算步骤关键，要在表格下方写一个 sample calculation。
@@ -67,7 +67,7 @@ tags:
 
 例如不要只写“弹簧常量是 24.8”。更完整的表达是：
 
-> The spring constant is approximately `25 N m^-1`; the main uncertainty comes from measuring small extensions with a ruler.
+> The spring constant is approximately $25\,\mathrm{N\,m^{-1}}$; the main uncertainty comes from measuring small extensions with a ruler.
 
 ## 日常练习
 
@@ -78,4 +78,3 @@ tags:
 - 学 resistivity：怎样测导线的电阻率？
 - 学 capacitor discharge：怎样从电压随时间变化求 time constant？
 - 学 astronomy：怎样从图像数据估算恒星温度或距离？
-

@@ -19,7 +19,7 @@ tags:
 
 - 把 projectile motion 分解为 horizontal uniform motion 和 vertical constant-acceleration motion。
 - 求 trajectory equation、range、time of flight、maximum height 和 velocity direction。
-- 理解 angular speed、`v = r omega`、centripetal acceleration 和 centripetal force。
+- 理解 angular speed、$v = r\omega$、centripetal acceleration 和 centripetal force。
 - 处理 horizontal circle、vertical circle 和 conical pendulum。
 - 用 energy 判断 vertical circle 中 tension 或 normal contact force 的变化。
 - 理解 circular motion 的 force 指向中心，速度方向沿 tangent。

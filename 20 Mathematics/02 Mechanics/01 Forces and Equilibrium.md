@@ -21,7 +21,7 @@ tags:
 - 理解 particle model、force diagram、resultant force 和 equilibrium。
 - 会分解 forces，处理 horizontal/vertical components 和 inclined planes。
 - 理解 weight、normal contact force、tension、thrust、friction 和 limiting friction。
-- 使用 `F = ma` 前先判断是否 equilibrium。
+- 使用 $F = ma$ 前先判断是否 equilibrium。
 - 进一步处理 rigid body equilibrium、moments 和 centre of mass。
 - 能判断模型假设，例如 light string、smooth pulley、rough plane、uniform rod。
 

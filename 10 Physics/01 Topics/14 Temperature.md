@@ -21,7 +21,7 @@ tags:
 - 理解 equal temperature 表示 thermal equilibrium。
 - 知道可随 temperature 改变的物理性质可用于测温，例如 liquid density、gas volume、metal resistance、thermocouple e.m.f.。
 - 理解 thermodynamic temperature scale 不依赖某个具体物质的性质。
-- 在 kelvin 与 degree Celsius 之间转换：`$T/K = \theta/^\circ C + 273.15$`。
+- 在 kelvin 与 degree Celsius 之间转换：$T/K = \theta/^\circ C + 273.15$。
 - 理解 absolute zero 是 thermodynamic temperature scale 的最低温度。
 - 定义并使用 specific heat capacity。
 - 定义并使用 specific latent heat，区分 fusion 和 vaporisation。
@@ -29,8 +29,8 @@ tags:
 ## 练习方向
 
 - 解释 thermal equilibrium 的判断。
-- 用 `$E = mc\Delta T$` 处理温度变化。
-- 用 `$E = mL$` 处理相变。
+- 用 $E = mc\Delta T$ 处理温度变化。
+- 用 $E = mL$ 处理相变。
 - 分析 heating / cooling curve。
 - 处理混合热量和能量守恒题。
 

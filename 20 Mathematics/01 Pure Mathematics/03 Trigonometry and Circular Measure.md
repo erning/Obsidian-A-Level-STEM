@@ -20,7 +20,7 @@ tags:
 
 - 在 degree 和 radian 之间转换，理解 radian 和 arc length 的关系。
 - 使用 arc length、sector area、sine rule、cosine rule 和 basic trig ratios。
-- Sketch `sin x`、`cos x`、`tan x` 以及 transformed trigonometric graphs。
+- Sketch $\sin x$、$\cos x$、$\tan x$ 以及 transformed trigonometric graphs。
 - 掌握 exact values、reciprocal functions、compound-angle formulae、double-angle formulae。
 - 解 trigonometric equations，写出 general solutions。
 - 理解三角函数作为周期模型，而不是只在直角三角形中使用。
@@ -42,4 +42,4 @@ tags:
 - 微积分中忘记角必须用 radian。
 - 解三角方程只给一个解，漏掉周期解。
 - 使用 identities 时符号错误。
-- 把 `sin^-1 x` 误解成 `1 / sin x`。
+- 把 $\sin^{-1}x$ 误解成 $1/\sin x$。

@@ -20,9 +20,9 @@ tags:
 - 理解 internal energy 是系统状态量。
 - 理解 internal energy 可表示为分子随机 kinetic energies 和 potential energies 的总和。
 - 将温度升高与 internal energy 增加联系起来。
-- 使用 constant pressure 下气体体积变化做功：`$W = p\Delta V$`。
+- 使用 constant pressure 下气体体积变化做功：$W = p\Delta V$。
 - 区分 work done by the gas 和 work done on the gas。
-- 使用 first law of thermodynamics：`$\Delta U = q + W$`，其中 `q` 是加热进入系统的能量，`W` 是外界对系统做功。
+- 使用 first law of thermodynamics：$\Delta U = q + W$，其中 $q$ 是加热进入系统的能量，$W$ 是外界对系统做功。
 
 ## 练习方向
 
@@ -38,7 +38,6 @@ tags:
 
 ## 易错点
 
-- 这份 syllabus 的符号约定是 `W` 表示 work done on the system。
-- constant volume 时 `\Delta V = 0`，所以气体边界做功为 0。
+- 这份 syllabus 的符号约定是 $W$ 表示 work done on the system。
+- constant volume 时 $\Delta V = 0$，所以气体边界做功为 0。
 - internal energy 是状态量，heat 和 work 是能量转移路径。
-

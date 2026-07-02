@@ -18,7 +18,7 @@ tags:
 
 ## 需要掌握
 
-- 理解 complex number 是扩展数系，用来处理 `x^2 + 1 = 0` 这类方程。
+- 理解 complex number 是扩展数系，用来处理 $x^2 + 1 = 0$ 这类方程。
 - 在 Cartesian form、modulus-argument form 和 exponential form 之间转换。
 - 在 Argand diagram 上表示 addition、subtraction、multiplication、division 和 conjugate。
 - 使用 de Moivre's theorem、roots of unity 和 general complex roots。

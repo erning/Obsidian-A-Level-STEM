@@ -18,17 +18,17 @@ tags:
 ## 需要掌握
 
 - 理解 electric field 是 force field，并定义为 force per unit positive charge。
-- 使用 `$F = qE$`。
+- 使用 $F = qE$。
 - 用 field lines 表示 electric field。
-- 使用 parallel plates 间的 uniform field：`$E = \Delta V/\Delta d$`。
+- 使用 parallel plates 间的 uniform field：$E = \Delta V/\Delta d$。
 - 描述 uniform electric field 对 charged particles motion 的影响。
 - 理解 spherical conductor 外部电荷可视为集中在中心的 point charge。
-- 使用 Coulomb's law：`$F = Q_1Q_2/(4\pi\epsilon_0 r^2)$`。
-- 使用 point charge 的 electric field strength：`$E = Q/(4\pi\epsilon_0 r^2)$`。
+- 使用 Coulomb's law：$F = Q_1Q_2/(4\pi\epsilon_0 r^2)$。
+- 使用 point charge 的 electric field strength：$E = Q/(4\pi\epsilon_0 r^2)$。
 - 定义 electric potential。
 - 理解 electric field 等于 negative potential gradient。
-- 使用 point charge potential：`$V = Q/(4\pi\epsilon_0 r)$`。
-- 使用 electric potential energy：`$E_p = Qq/(4\pi\epsilon_0 r)$`。
+- 使用 point charge potential：$V = Q/(4\pi\epsilon_0 r)$。
+- 使用 electric potential energy：$E_p = Qq/(4\pi\epsilon_0 r)$。
 
 ## 练习方向
 
@@ -48,5 +48,4 @@ tags:
 - electric field direction 定义为 positive test charge 受力方向。
 - potential 是 scalar，field strength 是 vector。
 - Coulomb 公式的符号要结合物理方向解释，不能只看数值。
-- `r` 是到 point charge 的距离。
-
+- $r$ 是到 point charge 的距离。

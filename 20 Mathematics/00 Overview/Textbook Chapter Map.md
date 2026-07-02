@@ -36,7 +36,7 @@ tags:
 | 主题 | 教材位置 | 读法 |
 |---|---|---|
 | Forces and Equilibrium | [[assets/course-books/9709 - Mathematics/9709 - Mechanics.pdf|9709 Mechanics]] Chapters 2-5；9231 Coursebook Chapter 14 | 每题先画受力图，再写分量方程；刚体问题还要写 moment equation。 |
-| Kinematics and Newtonian Motion | 9709 Mechanics Chapters 1, 6；[[10 Physics/01 Topics/02 Kinematics|Physics Kinematics]] | 从 `s-t`、`v-t` 图像开始，再过渡到微积分形式。 |
+| Kinematics and Newtonian Motion | 9709 Mechanics Chapters 1, 6；[[10 Physics/01 Topics/02 Kinematics|Physics Kinematics]] | 从 $s\text{-}t$、$v\text{-}t$ 图像开始，再过渡到微积分形式。 |
 | Momentum, Collisions and Impulse | 9709 Mechanics Chapter 7；9231 Coursebook Chapter 18 | 先定义系统边界，再判断是否守恒。 |
 | Work, Energy, Power and Elasticity | 9709 Mechanics Chapters 8-9；9231 Coursebook Chapter 16 | 能量方法要和受力方法互相检查。 |
 | Projectiles and Circular Motion | 9231 Coursebook Chapters 13, 15；[[10 Physics/01 Topics/12 Motion in a Circle|Physics Motion in a Circle]] | 把运动分解、向心加速度和能量条件放在同一张图里。 |

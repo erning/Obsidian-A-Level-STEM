@@ -18,7 +18,7 @@ tags:
 ## 需要掌握
 
 - 使用 displacement、velocity、acceleration 和 time 描述一维运动。
-- 读 `s-t`、`v-t` 图像，理解 gradient 和 area。
+- 读 $s\text{-}t$、$v\text{-}t$ 图像，理解 gradient 和 area。
 - 使用 constant acceleration equations。
 - 理解 velocity 是 displacement 的 derivative，acceleration 是 velocity 的 derivative。
 - 使用 Newton's laws 分析 constant force 下的 motion。
@@ -29,7 +29,7 @@ tags:
 - 图像题先标 gradient、area 和关键时间点。
 - 运动分段时写清每一段的初末状态。
 - Connected particles 先分别画受力图，再用共同 acceleration 连接。
-- General motion 题先判断用 `a = dv/dt` 还是积分关系。
+- General motion 题先判断用 $a = dv/dt$ 还是积分关系。
 
 ## 连接
 

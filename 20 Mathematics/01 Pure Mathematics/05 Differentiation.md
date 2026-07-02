@@ -29,7 +29,7 @@ tags:
 
 - 每次求导后写出它代表什么变化率。
 - 对 stationary point 做 sign table 或 second derivative check。
-- 对 parametric curve 同时保留 `dx/dt`、`dy/dt` 和 `dy/dx`。
+- 对 parametric curve 同时保留 $dx/dt$、$dy/dt$ 和 $dy/dx$。
 - 用 graph 检查 derivative 的正负和零点。
 
 ## 连接
@@ -40,6 +40,6 @@ tags:
 ## 易错点
 
 - 忘记 chain rule。
-- 把 `dy/dx = 0` 当作一定是 maximum。
-- Implicit differentiation 后忘记整理 `dy/dx`。
+- 把 $dy/dx = 0$ 当作一定是 maximum。
+- Implicit differentiation 后忘记整理 $dy/dx$。
 - Parametric differentiation 中把参数直接消掉，导致过程更复杂。

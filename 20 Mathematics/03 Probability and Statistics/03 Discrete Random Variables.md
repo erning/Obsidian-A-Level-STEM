@@ -38,6 +38,6 @@ tags:
 ## 易错点
 
 - 忘记概率总和为 1。
-- 把 `E(X^2)` 和 `[E(X)]^2` 混淆。
-- Binomial 参数 `n`、`p` 写错。
+- 把 $E(X^2)$ 和 $[E(X)]^2$ 混淆。
+- Binomial 参数 $n$、$p$ 写错。
 - Geometric distribution 的 trial count 定义不清。

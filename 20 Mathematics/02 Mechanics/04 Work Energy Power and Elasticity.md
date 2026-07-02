@@ -21,7 +21,7 @@ tags:
 - 理解 work done by a force，尤其是 force 与 displacement 不平行时的 component。
 - 使用 kinetic energy、gravitational potential energy 和 energy conservation。
 - 理解 work-energy principle 和 non-conservative forces。
-- 使用 power as rate of doing work，以及 `P = Fv`。
+- 使用 power as rate of doing work，以及 $P = Fv$。
 - 理解 Hooke's law、modulus of elasticity 和 elastic potential energy。
 - 能在 force method 和 energy method 之间选择。
 

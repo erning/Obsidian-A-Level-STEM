@@ -41,6 +41,6 @@ tags:
 ## 易错点
 
 - 漏写 constant of integration。
-- 换元后忘记改 limits 或 `dx`。
+- 换元后忘记改 limits 或 $dx$。
 - 把 area below x-axis 误当正面积。
 - 对 definite integral 只算代数值，不看图像意义。

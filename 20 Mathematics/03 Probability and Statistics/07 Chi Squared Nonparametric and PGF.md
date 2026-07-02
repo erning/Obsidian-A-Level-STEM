@@ -40,4 +40,4 @@ tags:
 - Degrees of freedom 算错。
 - Goodness of fit 和 independence test 混用。
 - Wilcoxon tests 没检查配对关系或对称性条件。
-- PGF 求导后忘记在 `t = 1` 处代入。
+- PGF 求导后忘记在 $t = 1$ 处代入。

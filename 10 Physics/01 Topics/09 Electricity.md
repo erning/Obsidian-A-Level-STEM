@@ -19,16 +19,16 @@ tags:
 
 - 理解 electric current 是 charge carriers 的流动。
 - 理解 charge is quantised。
-- 使用 `$Q = It$`。
-- 对导体使用 `$I = Anvq$`。
+- 使用 $Q = It$。
+- 对导体使用 $I = Anvq$。
 - 定义 potential difference 为每单位电荷转移的能量。
-- 使用 `$V = W/Q$`。
-- 使用 `$P = VI$`、`$P = I^2R$`、`$P = V^2/R$`。
-- 定义 resistance，并使用 `$V = IR$`。
+- 使用 $V = W/Q$。
+- 使用 $P = VI$、$P = I^2R$、$P = V^2/R$。
+- 定义 resistance，并使用 $V = IR$。
 - 画 metallic conductor、semiconductor diode 和 filament lamp 的 I-V characteristics。
 - 解释 filament lamp resistance 随温度升高而增加。
 - 陈述 Ohm's law。
-- 使用 resistivity：`$R = \rho L/A$`。
+- 使用 resistivity：$R = \rho L/A$。
 - 理解 LDR 和 thermistor 的电阻变化趋势。
 
 ## 练习方向
@@ -50,5 +50,4 @@ tags:
 - I-V 图中 resistance 不一定等于曲线 gradient，要看坐标轴是哪一个。
 - Ohm's law 只适用于温度等物理条件恒定时。
 - 电流方向与电子 drift direction 相反。
-- `$I = Anvq$` 中 `A` 是 cross-sectional area，不是电流表读数。
-
+- $I = Anvq$ 中 $A$ 是 cross-sectional area，不是电流表读数。

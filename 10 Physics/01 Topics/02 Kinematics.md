@@ -29,7 +29,7 @@ tags:
 
 ## 练习方向
 
-- 在 `s-t`、`v-t`、`a-t` 图像之间互相转换。
+- 在 $s\text{-}t$、$v\text{-}t$、$a\text{-}t$ 图像之间互相转换。
 - 用图像面积或斜率解决非直接公式题。
 - 判断初速度、末速度、位移和加速度的符号。
 - 把 projectile motion 分解成水平方向和竖直方向。
@@ -45,5 +45,4 @@ tags:
 - 把 speed 和 velocity 混用。
 - 忘记位移可以为负，distance 不能为负。
 - 在有空气阻力的问题里继续套用匀加速公式。
-- projectile motion 中把水平加速度误写成 `g`。
-
+- projectile motion 中把水平加速度误写成 $g$。

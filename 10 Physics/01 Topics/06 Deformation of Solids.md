@@ -20,12 +20,12 @@ tags:
 - 理解 tensile 和 compressive forces 会造成 deformation。
 - 使用 load、extension、compression 和 limit of proportionality。
 - 陈述并使用 Hooke's law。
-- 使用 spring constant：`$k = F/x$`。
+- 使用 spring constant：$k = F/x$。
 - 定义 stress、strain 和 Young modulus。
 - 描述测定 metal wire 的 Young modulus 的实验。
 - 区分 elastic deformation、plastic deformation 和 elastic limit。
 - 理解 force-extension graph 下方面积表示 work done。
-- 在比例极限内使用 `$E_p = \frac{1}{2}Fx = \frac{1}{2}kx^2$`。
+- 在比例极限内使用 $E_p = \frac{1}{2}Fx = \frac{1}{2}kx^2$。
 
 ## 练习方向
 
@@ -46,5 +46,5 @@ tags:
 - 把 stress 和 pressure 都写成 Pa，但物理意义不同。
 - strain 无单位。
 - 用直径代替半径计算面积。
-- 超过 limit of proportionality 后继续使用 `$E_p = \frac{1}{2}kx^2$`。
+- 超过 limit of proportionality 后继续使用 $E_p = \frac{1}{2}kx^2$。
 

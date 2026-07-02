@@ -26,7 +26,7 @@ tags:
 
 ## 练习方向
 
-- 对 polar curve 先检查 `theta = 0`、`pi/2`、`pi` 等关键方向。
+- 对 polar curve 先检查 $\theta = 0$、$\pi/2$、$\pi$ 等关键方向。
 - 用 symmetry 减少绘图工作。
 - 对 parametric curve 画参数增加时点的运动方向。
 - 曲线面积和弧长都要先标清积分范围。
@@ -38,7 +38,7 @@ tags:
 
 ## 易错点
 
-- Polar graph 中把 negative `r` 的方向画错。
-- 积分面积时漏掉 `1/2 r^2`。
-- Parametric derivative 中忘记除以 `dx/dt`。
+- Polar graph 中把 negative $r$ 的方向画错。
+- 积分面积时漏掉 $\frac{1}{2}r^2$。
+- Parametric derivative 中忘记除以 $dx/dt$。
 - 只消去参数，不看参数本身的意义。

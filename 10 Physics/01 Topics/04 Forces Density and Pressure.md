@@ -24,9 +24,9 @@ tags:
 - 理解 equilibrium 需要 resultant force 和 resultant torque 都为 0。
 - 用 vector triangle 表示共面力平衡。
 - 定义并使用 density 和 pressure。
-- 从 pressure 和 density 推导 hydrostatic pressure：`$\Delta p = \rho g \Delta h$`。
+- 从 pressure 和 density 推导 hydrostatic pressure：$\Delta p = \rho g \Delta h$。
 - 理解 upthrust 来自流体压强差。
-- 使用 Archimedes' principle：`$F = \rho g V$`。
+- 使用 Archimedes' principle：$F = \rho g V$。
 
 ## 练习方向
 
@@ -40,12 +40,11 @@ tags:
 
 - 用 ruler、pivot 和 masses 验证 principle of moments。
 - 用 measuring cylinder、balance 和 displacement 方法测密度。
-- 用液体深度和 pressure sensor 研究 `p-h` 关系。
+- 用液体深度和 pressure sensor 研究 $p\text{-}h$ 关系。
 
 ## 易错点
 
 - 力矩距离应为 perpendicular distance。
 - 只检查合力为 0，却忘记合力矩也要为 0。
 - 把 pressure 和 force 混淆。
-- 浮力中的 `V` 是 displaced fluid 的体积。
-
+- 浮力中的 $V$ 是 displaced fluid 的体积。

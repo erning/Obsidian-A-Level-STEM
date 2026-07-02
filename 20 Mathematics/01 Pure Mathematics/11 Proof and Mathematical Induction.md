@@ -25,7 +25,7 @@ tags:
 
 ## 练习方向
 
-- 每个 induction proof 都明确命题 `P(n)`。
+- 每个 induction proof 都明确命题 $P(n)$。
 - Base case 不只写结果，要说明命题成立。
 - Inductive step 中必须使用 hypothesis，而不是重新计算。
 - 结尾要说明由 induction 得到对所有目标整数成立。
