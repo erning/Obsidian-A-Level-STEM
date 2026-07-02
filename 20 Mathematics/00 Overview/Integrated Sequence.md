@@ -15,7 +15,7 @@ tags:
 
 ## Stage 1: Algebraic and Graphical Language
 
-1. [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions|Algebra and Functions]]
+1. [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]
 2. [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs|Coordinate Geometry and Graphs]]
 3. [[20 Mathematics/01 Pure Mathematics/03 Trigonometry and Circular Measure|Trigonometry and Circular Measure]]
 4. [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions|Sequences, Series and Binomial Expansions]]

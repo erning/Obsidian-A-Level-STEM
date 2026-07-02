@@ -35,7 +35,7 @@ PDF sources are kept under `assets/`:
 
 ## Pure Mathematics
 
-- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions|Algebra and Functions]]
+- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]
 - [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs|Coordinate Geometry and Graphs]]
 - [[20 Mathematics/01 Pure Mathematics/03 Trigonometry and Circular Measure|Trigonometry and Circular Measure]]
 - [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions|Sequences, Series and Binomial Expansions]]

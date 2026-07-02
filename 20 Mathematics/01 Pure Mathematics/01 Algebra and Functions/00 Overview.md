@@ -44,6 +44,15 @@ Algebra and functions provide the language for equations, transformations, domai
 - Sketch functions and rational functions from key features.
 - Use partial fractions and then verify by recombining.
 
+## Learning Materials
+
+- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/10 Lecture Notes|Lecture Notes]]
+- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/11 Lecture Notes.zh-CN|中文讲义]]
+- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/20 Worked Examples|Worked Examples]]
+- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/30 Key Practice Problems|Key Practice Problems]]
+- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/31 Key Practice Solutions|Key Practice Solutions]]
+- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/80 Review Checklist|Review Checklist]]
+
 ## Connections
 
 - [[20 Mathematics/01 Pure Mathematics/06 Integration|Integration]]

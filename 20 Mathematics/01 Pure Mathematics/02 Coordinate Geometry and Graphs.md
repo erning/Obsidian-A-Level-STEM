@@ -43,7 +43,7 @@ Coordinate geometry turns geometric relationships into algebraic equations and g
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions|Algebra and Functions]]
+- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]
 - [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves|Polar Coordinates and Parametric Curves]]
 
 ## Common Traps

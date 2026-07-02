@@ -13,7 +13,7 @@ tags:
 
 This checklist follows CAIE 9709 and 9231 topic wording. A checked item means you can define the object, use the method, state conditions, and check the result in another representation.
 
-## [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions|Algebra and Functions]]
+## [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]
 
 - [ ] Quadratics, completing the square, discriminant, roots, inequalities, and simultaneous equations.
 - [ ] Function, domain, range, one-one function, inverse function, composition of functions, and graph transformations.
