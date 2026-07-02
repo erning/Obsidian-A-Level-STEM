@@ -61,14 +61,14 @@ Use this section while studying. Add examples from your own work.
 
 ## Ready to Move On?
 
-You are ready to connect this topic to [[20 Mathematics/01 Pure Mathematics/06 Integration|Integration]] when you can:
+You are ready to connect this topic to [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]] when you can:
 
 - use partial fractions reliably;
 - recognise useful algebraic substitutions;
 - control domain restrictions;
 - read graph features from algebraic form.
 
-You are ready to connect it to [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers|Complex Numbers]] when you can:
+You are ready to connect it to [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]] when you can:
 
 - use polynomial roots as algebraic objects;
 - work with root-coefficient relations;
