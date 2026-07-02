@@ -24,7 +24,7 @@ tags:
 
 ### 三角与矢量
 
-- 用 `sin`、`cos`、`tan` 分解矢量。
+- 用 $\sin$、$\cos$、$\tan$ 分解矢量。
 - 用 Pythagoras theorem 求合量。
 - 用 sine rule 和 cosine rule 处理非直角三角形。
 - 会在 degree 和 radian 之间转换。
@@ -40,10 +40,10 @@ tags:
 
 ### 指数与对数
 
-- `e^(-t/RC)`：capacitor discharge。
-- `e^(-lambda t)`：radioactive decay。
-- `ln y` against `x`：检验指数关系。
-- `log y` against `log x`：检验幂律关系。
+- $e^{-t/RC}$：capacitor discharge。
+- $e^{-\lambda t}$：radioactive decay。
+- $\ln y$ against $x$：检验指数关系。
+- $\log y$ against $\log x$：检验幂律关系。
 
 ## 公式学习卡片
 
@@ -63,66 +63,66 @@ tags:
 
 ## 常量
 
-- `g = 9.81 m s^-2`
-- `c = 3.00 x 10^8 m s^-1`
-- `e = 1.60 x 10^-19 C`
-- `1 u = 1.66 x 10^-27 kg`
-- `N_A = 6.02 x 10^23 mol^-1`
-- `R = 8.31 J K^-1 mol^-1`
-- `k = 1.38 x 10^-23 J K^-1`
-- `G = 6.67 x 10^-11 N m^2 kg^-2`
-- `epsilon_0 = 8.85 x 10^-12 F m^-1`
-- `h = 6.63 x 10^-34 J s`
-- `sigma = 5.67 x 10^-8 W m^-2 K^-4`
+- $g = 9.81\,\mathrm{m\,s^{-2}}$
+- $c = 3.00 \times 10^8\,\mathrm{m\,s^{-1}}$
+- $e = 1.60 \times 10^{-19}\,\mathrm{C}$
+- $1\,\mathrm{u} = 1.66 \times 10^{-27}\,\mathrm{kg}$
+- $N_A = 6.02 \times 10^{23}\,\mathrm{mol^{-1}}$
+- $R = 8.31\,\mathrm{J\,K^{-1}\,mol^{-1}}$
+- $k = 1.38 \times 10^{-23}\,\mathrm{J\,K^{-1}}$
+- $G = 6.67 \times 10^{-11}\,\mathrm{N\,m^2\,kg^{-2}}$
+- $\varepsilon_0 = 8.85 \times 10^{-12}\,\mathrm{F\,m^{-1}}$
+- $h = 6.63 \times 10^{-34}\,\mathrm{J\,s}$
+- $\sigma = 5.67 \times 10^{-8}\,\mathrm{W\,m^{-2}\,K^{-4}}$
 
 ## 需要特别熟悉的关系
 
 ### 力学
 
-- Uniform acceleration：`s = ut + 1/2 at^2`，`v^2 = u^2 + 2as`
-- Newton's second law：`F = ma`
-- Momentum：`p = mv`
-- Work：`W = Fs`
-- Kinetic energy：`E_k = 1/2 mv^2`
-- Gravitational potential energy near Earth：`Delta E_p = mg Delta h`
-- Power：`P = W/t`，`P = Fv`
+- Uniform acceleration：$s = ut + \frac{1}{2}at^2$，$v^2 = u^2 + 2as$
+- Newton's second law：$F = ma$
+- Momentum：$p = mv$
+- Work：$W = Fs$
+- Kinetic energy：$E_k = \frac{1}{2}mv^2$
+- Gravitational potential energy near Earth：$\Delta E_p = mg\Delta h$
+- Power：$P = \frac{W}{t}$，$P = Fv$
 
 ### 波与振动
 
-- Wave equation：`v = f lambda`
-- Intensity：`I = P/A`
-- Malus's law：`I = I_0 cos^2 theta`
-- Double-slit：`lambda = ax/D`
-- Diffraction grating：`d sin theta = n lambda`
-- SHM：`a = -omega^2 x`
+- Wave equation：$v = f\lambda$
+- Intensity：$I = \frac{P}{A}$
+- Malus's law：$I = I_0\cos^2\theta$
+- Double-slit：$\lambda = \frac{ax}{D}$
+- Diffraction grating：$d\sin\theta = n\lambda$
+- SHM：$a = -\omega^2x$
 
 ### 电磁学
 
-- Charge flow：`Q = It`
-- Potential difference：`V = W/Q`
-- Ohm's law：`V = IR`
-- Resistivity：`R = rho L/A`
-- Electric field：`F = qE`
-- Uniform field：`E = Delta V / Delta d`
-- Coulomb's law：`F = Q_1 Q_2 / (4 pi epsilon_0 r^2)`
-- Capacitance：`C = Q/V`
-- Capacitor energy：`W = 1/2 QV = 1/2 CV^2`
-- Magnetic force on wire：`F = BIL sin theta`
-- Magnetic force on charge：`F = BQv sin theta`
+- Charge flow：$Q = It$
+- Potential difference：$V = \frac{W}{Q}$
+- Ohm's law：$V = IR$
+- Resistivity：$R = \frac{\rho L}{A}$
+- Electric field：$F = qE$
+- Uniform field：$E = \frac{\Delta V}{\Delta d}$
+- Coulomb's law：$F = \frac{Q_1Q_2}{4\pi\varepsilon_0r^2}$
+- Capacitance：$C = \frac{Q}{V}$
+- Capacitor energy：$W = \frac{1}{2}QV = \frac{1}{2}CV^2$
+- Magnetic force on wire：$F = BIL\sin\theta$
+- Magnetic force on charge：$F = BQv\sin\theta$
 - Faraday's law and Lenz's law：changing flux induces e.m.f. opposing the change.
 
 ### 热、量子与宇宙
 
-- Ideal gas：`pV = nRT = NkT`
-- Kinetic theory：`pV = 1/3 Nm<c^2>`
-- First law：`Delta U = q + W`
-- Photon energy：`E = hf`
-- de Broglie wavelength：`lambda = h/p`
-- Mass-energy：`E = mc^2`
-- Radioactive decay：`x = x_0 e^(-lambda t)`
-- Inverse square luminosity：`F = L / (4 pi d^2)`
-- Stefan-Boltzmann：`L = 4 pi sigma r^2 T^4`
-- Hubble's law：`v ≈ H_0 d`
+- Ideal gas：$pV = nRT = NkT$
+- Kinetic theory：$pV = \frac{1}{3}Nm\langle c^2 \rangle$
+- First law：$\Delta U = q + W$
+- Photon energy：$E = hf$
+- de Broglie wavelength：$\lambda = \frac{h}{p}$
+- Mass-energy：$E = mc^2$
+- Radioactive decay：$x = x_0e^{-\lambda t}$
+- Inverse square luminosity：$F = \frac{L}{4\pi d^2}$
+- Stefan-Boltzmann：$L = 4\pi\sigma r^2T^4$
+- Hubble's law：$v \approx H_0d$
 
 ## 使用原则
 
@@ -131,4 +131,3 @@ tags:
 - 先画图像，再做复杂代数。
 - 先估算数量级，再按计算器。
 - 先问适用条件，再迁移到新情境。
-
