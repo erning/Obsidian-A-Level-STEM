@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 14,
+  "accentColor": "",
+  "theme": "system",
+  "showRibbon": true,
+  "cssTheme": "Things",
+  "textFontFamily": "Maple Mono Normal NF CN,Libertinus Sans,LXGW WenKai",
+  "monospaceFontFamily": "Maple Mono Normal NF CN,JetBrainsMono Nerd Font,LXGW WenKai Mono",
+  "enabledCssSnippets": []
+}

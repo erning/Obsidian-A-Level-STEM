@@ -1,0 +1,5 @@
+.env
+.obsidian/workspace*
+
+# macOS
+.DS_Store
