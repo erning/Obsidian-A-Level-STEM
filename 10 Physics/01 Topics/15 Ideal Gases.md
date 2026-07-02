@@ -8,7 +8,7 @@ tags:
   - physics/9702/thermal
 ---
 
-# 15 Ideal Gases
+# 15 理想气体
 
 ## 教材对应
 
@@ -17,32 +17,32 @@ tags:
 
 ## 需要掌握
 
-- 理解 amount of substance 是 SI base quantity，单位是 mol。
-- 使用 Avogadro constant 连接 mole 和 particles number。
-- 理解满足 $pV \propto T$ 的气体称为 ideal gas。
+- 理解物质的量是 SI 基本量，单位是 mol。
+- 使用阿伏伽德罗常量连接物质的量和粒子数。
+- 理解满足 $pV \propto T$ 的气体称为理想气体。
 - 使用 $pV = nRT$ 和 $pV = NkT$。
 - 知道 $k = R/N_A$。
-- 陈述 kinetic theory of gases 的基本假设。
-- 从分子碰撞解释 gas pressure。
+- 陈述气体分子运动论的基本假设。
+- 从分子碰撞解释气体压强。
 - 推导并使用 $pV = \frac{1}{3}Nm\langle c^2\rangle$。
-- 理解 root-mean-square speed。
-- 比较 kinetic model 与 ideal gas equation，推出分子平均平动动能为 $\frac{3}{2}kT$。
+- 理解方均根速率。
+- 比较气体分子运动论模型与理想气体方程，推出分子平均平动动能为 $\frac{3}{2}kT$。
 
 ## 练习方向
 
 - 在 $n$、$N$、$N_A$、$R$、$k$ 之间转换。
-- 处理 constant pressure、constant volume 或 constant temperature 的气体变化。
-- 用 kinetic theory 解释 pressure 与 temperature 的关系。
-- 计算 r.m.s. speed 或 average translational kinetic energy。
+- 处理常量压强、体积恒定或常量温度的气体变化。
+- 用气体分子运动论解释压强与温度的关系。
+- 计算方均根速率或平均平动动能。
 
 ## 实验或观察连接
 
-- 用 syringe / pressure sensor 做 Boyle's law 实验。
+- 用注射器 / 压强传感器做波义耳定律实验。
 - 讨论温度恒定和读数滞后的误差来源。
 
 ## 易错点
 
-- ideal gas equation 中 temperature 必须用 kelvin。
-- $N$ 是 molecules number，$n$ 是 amount of substance。
-- r.m.s. speed 不是 average speed。
-- kinetic theory 的假设是模型条件，不能无条件套到高压低温真实气体。
+- 理想气体方程中温度必须用开尔文。
+- $N$ 是分子数，$n$ 是物质的量。
+- 方均根速率不是平均速率。
+- 气体分子运动论的假设是模型条件，不能无条件套到高压低温真实气体。

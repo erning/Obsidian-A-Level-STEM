@@ -8,37 +8,37 @@ tags:
   - mathematics/mechanics
 ---
 
-# 02 Kinematics and Newtonian Motion
+# 02 运动学与牛顿运动
 
 ## 教材对应
 
 - 9709：Mechanics Chapters 1, 6；Kinematics and Newton's laws
-- Physics：[[10 Physics/01 Topics/02 Kinematics|Kinematics]]，[[10 Physics/01 Topics/03 Dynamics|Dynamics]]
+- Physics：[[10 Physics/01 Topics/02 Kinematics|运动学]]，[[10 Physics/01 Topics/03 Dynamics|动力学]]
 
 ## 需要掌握
 
-- 使用 displacement、velocity、acceleration 和 time 描述一维运动。
-- 读 $s\text{-}t$、$v\text{-}t$ 图像，理解 gradient 和 area。
-- 使用 constant acceleration equations。
-- 理解 velocity 是 displacement 的 derivative，acceleration 是 velocity 的 derivative。
-- 使用 Newton's laws 分析 constant force 下的 motion。
-- 处理 connected particles、lifts、strings、rods 和 pulleys。
+- 使用位移、速度、加速度和时间描述一维运动。
+- 读 $s\text{-}t$、$v\text{-}t$ 图像，理解斜率和面积。
+- 使用恒定加速度方程。
+- 理解速度是位移的导数，加速度是速度的导数。
+- 使用牛顿运动定律分析常量力下的运动。
+- 处理连接体、升降机、绳、杆和滑轮。
 
 ## 练习方向
 
-- 图像题先标 gradient、area 和关键时间点。
+- 图像题先标斜率、面积和关键时间点。
 - 运动分段时写清每一段的初末状态。
-- Connected particles 先分别画受力图，再用共同 acceleration 连接。
-- General motion 题先判断用 $a = dv/dt$ 还是积分关系。
+- 连接粒子先分别画受力图，再用共同加速度连接。
+- 一般运动题先判断用 $a = dv/dt$ 还是积分关系。
 
 ## 连接
 
-- 与 [[20 Mathematics/01 Pure Mathematics/05 Differentiation|Differentiation]] 和 [[20 Mathematics/01 Pure Mathematics/06 Integration|Integration]] 直接相连。
-- 后续 [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion|Projectiles and Circular Motion]] 会把一维运动推广到二维。
+- 与 [[20 Mathematics/01 Pure Mathematics/05 Differentiation|微分法]] 和 [[20 Mathematics/01 Pure Mathematics/06 Integration|积分法]] 直接相连。
+- 后续 [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion|抛体与圆周运动]] 会把一维运动推广到二维。
 
 ## 易错点
 
-- 把 speed 和 velocity 混用。
-- 忘记 displacement 可以为负。
+- 把速率和速度混用。
+- 忘记位移可以为负。
 - 多阶段运动中重复使用错误的初速度。
-- Connected particles 中把 tension 当成外部总力处理。
+- 连接粒子中把张力当成外部总力处理。

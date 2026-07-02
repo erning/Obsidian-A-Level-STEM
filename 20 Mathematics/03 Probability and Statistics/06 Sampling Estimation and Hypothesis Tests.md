@@ -9,7 +9,7 @@ tags:
   - mathematics/statistics
 ---
 
-# 06 Sampling, Estimation and Hypothesis Tests
+# 06 抽样、估计与假设检验
 
 ## 教材对应
 
@@ -18,28 +18,28 @@ tags:
 
 ## 需要掌握
 
-- 理解 population、sample、parameter、statistic 和 estimator。
-- 认识 common sampling techniques 和 possible bias。
-- 理解 central limit idea、standard error 和 sampling distribution。
-- 构造 confidence intervals，包括 mean、proportion 和 difference in means。
-- 理解 hypothesis test 的 null hypothesis、alternative hypothesis、significance level、critical region 和 p-value。
-- 使用 normal、t 和 binomial contexts 做推断，并用语境解释结论。
+- 理解总体、样本、参数、统计量和估计量。
+- 认识常见抽样方法和可能的偏差。
+- 理解中心极限定理思想、标准误和抽样分布。
+- 构造置信区间，包括均值、比例和均值差。
+- 理解假设检验的原假设、备择假设、显著性水平、拒绝域和 p 值。
+- 使用正态、t 和二项分布语境做推断，并用语境解释结论。
 
 ## 练习方向
 
 - 每题先写总体和参数。
 - 推断前检查模型条件和样本信息。
-- Confidence interval 要解释为估计方法的不确定性，不是“参数随机落在区间里”。
-- Hypothesis test 结论要回到原问题语言。
+- 置信区间要解释为估计方法的不确定性，不是“参数随机落在区间里”。
+- 假设检验结论要回到原问题语言。
 
 ## 连接
 
-- 这部分和实验数据、科学判断很接近，可连接 Physics 实验笔记。
-- 它依赖 [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions|Normal Distribution]] 和 [[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables|Continuous Random Variables]]。
+- 这部分和实验数据、科学判断很接近，可连接物理实验笔记。
+- 它依赖 [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions|正态分布]] 和 [[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables|连续随机变量]]。
 
 ## 易错点
 
-- Hypotheses 写成关于样本统计量，而不是总体参数。
-- One-tailed 和 two-tailed test 混淆。
-- 把 failure to reject 误说成证明 null hypothesis。
-- Confidence interval 的语义解释不准确。
+- 假设写成关于样本统计量，而不是总体参数。
+- 单侧检验和双侧检验混淆。
+- 把未拒绝误说成证明原假设。
+- 置信区间的语义解释不准确。

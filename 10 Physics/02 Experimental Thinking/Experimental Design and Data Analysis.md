@@ -17,11 +17,11 @@ tags:
 任何实验都先写清楚：
 
 - 我要研究什么关系？
-- independent variable 是什么？
-- dependent variable 是什么？
-- control variables 是什么？
-- 我怎样改变 independent variable？
-- 我怎样测量 dependent variable？
+- 自变量是什么？
+- 因变量是什么？
+- 控制变量是什么？
+- 我怎样改变自变量？
+- 我怎样测量因变量？
 - 怎样让数据范围足够大？
 - 最大不确定度可能来自哪里？
 
@@ -29,7 +29,7 @@ tags:
 
 控制变量不是列名词，而是说明做法：
 
-- 不要只写“保持温度不变”，要写如何保持，例如使用 water bath 或等待热平衡。
+- 不要只写“保持温度不变”，要写如何保持，例如使用恒温水浴或等待热平衡。
 - 不要只写“保持长度不变”，要说明固定方式和测量位置。
 - 不要只写“重复实验”，要说明重复哪个量、重复几次、如何取平均。
 
@@ -39,11 +39,11 @@ tags:
 
 | 原关系 | 可画图像 | 可读信息 |
 |---|---|---|
-| $y = mx + c$ | $y$ against $x$ | gradient 是 $m$，intercept 是 $c$。 |
-| $y = ax^n$ | $\log y$ against $\log x$ | gradient 是 $n$，intercept 给 $a$。 |
-| $y = ae^{kx}$ | $\ln y$ against $x$ | gradient 是 $k$，intercept 给 $a$。 |
-| capacitor discharge | $\ln V$ against $t$ | gradient 与 $RC$ 有关。 |
-| radioactive decay | $\ln A$ against $t$ | gradient 与 decay constant 有关。 |
+| $y = mx + c$ | $y$ 对 $x$ | 斜率是 $m$，截距是 $c$。 |
+| $y = ax^n$ | $\log y$ 对 $\log x$ | 斜率是 $n$，截距给 $a$。 |
+| $y = ae^{kx}$ | $\ln y$ 对 $x$ | 斜率是 $k$，截距给 $a$。 |
+| 电容器放电 | $\ln V$ 对 $t$ | 斜率与 $RC$ 有关。 |
+| 放射性衰变 | $\ln A$ 对 $t$ | 斜率与衰变常量有关。 |
 
 线性化的目的不是凑数学形式，而是让数据更容易检验模型。
 
@@ -51,11 +51,11 @@ tags:
 
 不确定度不是“麻烦的附加项”，而是判断结论可信度的核心：
 
-- absolute uncertainty：直接用单位表达。
-- percentage uncertainty：适合比较不同量的相对误差。
-- repeated readings：可用半极差估算不确定度。
-- derived quantity：乘除关系中常要合并 percentage uncertainties。
-- graph gradient：可用 best-fit line 和 worst acceptable line 比较估算不确定度。
+- 绝对不确定度：直接用单位表达。
+- 百分比不确定度：适合比较不同量的相对误差。
+- 重复读数：可用半极差估算不确定度。
+- 导出量：乘除关系中常要合并百分比不确定度。
+- 图像斜率：可用最佳拟合直线和可接受最差直线比较估算不确定度。
 
 ## 判断模型是否可信
 
@@ -63,7 +63,7 @@ tags:
 
 - 数据趋势是否符合模型预测？
 - 图像是否接近直线？
-- gradient 或 intercept 是否有合理物理意义？
+- 斜率或截距是否有合理物理意义？
 - 异常点是否能解释？
 - 差异是否落在不确定度范围内？
 - 如果不符合，是模型假设失效，还是实验方法问题？
@@ -71,9 +71,9 @@ tags:
 ## 适合自学的小项目
 
 - 用手机视频分析自由落体或抛体运动。
-- 用声音软件观察 beat、frequency 和 Doppler effect。
-- 用简单电路测量 resistor、filament lamp、diode 的 I-V 图像。
-- 用在线天文数据做 redshift 或 Hubble law 图像。
-- 用 Python 画 capacitor discharge、radioactive decay 或 SHM 图像。
+- 用声音软件观察拍频、频率和多普勒效应。
+- 用简单电路测量电阻器、灯丝灯泡、二极管的 I-V 图像。
+- 用在线天文数据做红移或哈勃定律图像。
+- 用 Python 画电容器放电、放射性衰变或简谐运动（SHM）图像。
 
-如果需要用 Python 处理数据或画图，按仓库的 `AGENTS.md` 使用本地 `.venv/`，并设置 Matplotlib backend。
+如果需要用 Python 处理数据或画图，按仓库的 `AGENTS.md` 使用本地 `.venv/`，并设置 Matplotlib 后端。

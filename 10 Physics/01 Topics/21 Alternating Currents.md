@@ -8,7 +8,7 @@ tags:
   - physics/9702/electricity
 ---
 
-# 21 Alternating Currents
+# 21 交流电
 
 ## 教材对应
 
@@ -17,31 +17,31 @@ tags:
 
 ## 需要掌握
 
-- 理解 period、frequency 和 peak value 在 alternating current / voltage 中的含义。
-- 使用 $x = x_0\sin\omega t$ 表示 sinusoidal alternating current 或 voltage。
-- 知道 sinusoidal alternating current 在 resistor 中 mean power 是 maximum power 的一半。
-- 区分 r.m.s. 和 peak values。
+- 理解周期、频率和峰值在交流电/电压中的含义。
+- 使用 $x = x_0\sin\omega t$ 表示正弦交流电或电压。
+- 知道正弦交流电在电阻器中均值功率是极大值功率的一半。
+- 区分均方根值和峰值。
 - 使用 $I_{r.m.s.} = I_0/\sqrt{2}$ 和 $V_{r.m.s.} = V_0/\sqrt{2}$。
-- 图像区分 half-wave rectification 和 full-wave rectification。
-- 解释 single diode 的 half-wave rectification。
-- 解释 bridge rectifier 的 full-wave rectification。
-- 分析 single capacitor 的 smoothing effect，包括 capacitance 和 load resistance 的影响。
+- 图像区分半波整流和全波整流。
+- 解释单个二极管的半波整流。
+- 解释桥式整流器的全波整流。
+- 分析单个电容器的平滑作用，包括电容和负载电阻的影响。
 
 ## 练习方向
 
-- 从 AC 图像读 period、frequency、peak value 和 r.m.s. value。
-- 计算 AC 电路中 resistor 的 mean power。
-- 画 rectified output 和 smoothed output。
-- 解释 load resistance 或 capacitance 改变时 ripple 的变化。
+- 从 AC 图像读周期、频率、峰值和均方根值。
+- 计算 AC 电路中电阻器的均值功率。
+- 画整流输出和平滑输出。
+- 解释负载电阻或电容改变时纹波的变化。
 
 ## 实验或观察连接
 
-- 用 oscilloscope 显示 AC waveform、rectification 和 smoothing。
-- 可以把 output voltage graph 用于数据解释。
+- 用示波器显示交流波形、整流和平滑。
+- 可以把输出电压图像用于数据解释。
 
 ## 易错点
 
-- r.m.s. value 不是 average value。
-- full-wave rectification 后频率加倍。
-- smoothing capacitor 不能产生完美 DC，只是减小 ripple。
+- 均方根值不是平均值。
+- 全波整流后频率加倍。
+- 平滑电容器不能产生完美 DC，只是减小纹波。
 

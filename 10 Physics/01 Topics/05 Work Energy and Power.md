@@ -8,7 +8,7 @@ tags:
   - physics/9702/energy
 ---
 
-# 05 Work, Energy and Power
+# 05 功、能量与功率
 
 ## 教材对应
 
@@ -17,11 +17,11 @@ tags:
 
 ## 需要掌握
 
-- 理解 work done 是 force 在其方向上的 displacement 所转移的能量。
-- 使用 $W = Fs$，注意只取 force 方向上的位移分量。
-- 陈述并应用 conservation of energy。
-- 定义 efficiency，并用 useful output / total input 处理问题。
-- 定义 power 为 work done per unit time。
+- 理解做功是力在其方向上的位移所转移的能量。
+- 使用 $W = Fs$，注意只取力方向上的位移分量。
+- 陈述并应用能量守恒。
+- 定义效率，并用有用输出/总输入处理问题。
+- 定义功率为做功单位时间内。
 - 使用 $P = W/t$。
 - 推导并使用 $P = Fv$。
 - 从 $W = Fs$ 推导 $\Delta E_p = mg\Delta h$。
@@ -33,16 +33,16 @@ tags:
 - 处理斜面、竖直运动、弹射和制动问题。
 - 计算机械效率、电功率和速度相关功率。
 - 比较动能变化和势能变化。
-- 解释能量转化中的 dissipated energy。
+- 解释能量转化中的耗散能量。
 
 ## 实验或观察连接
 
-- 用 trolley、ramp 和 light gates 测量势能转化为动能。
-- 讨论 friction 和 air resistance 导致的能量损失。
+- 用小车、斜面和光电门测量势能转化为动能。
+- 讨论摩擦力和空气阻力导致的能量损失。
 
 ## 易错点
 
-- 忘记 work 是 scalar，但 force 和 displacement 的方向关系重要。
+- 忘记功是标量，但力和位移的方向关系重要。
 - $P = Fv$ 只在力与速度方向一致时直接使用。
-- 把 efficiency 写成大于 100%。
+- 把效率写成大于 100%。
 - 势能零点可任意选，但势能变化不能任意。

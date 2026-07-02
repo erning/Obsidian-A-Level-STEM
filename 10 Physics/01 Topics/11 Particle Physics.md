@@ -8,7 +8,7 @@ tags:
   - physics/9702/particles
 ---
 
-# 11 Particle Physics
+# 11 粒子物理
 
 ## 教材对应
 
@@ -17,42 +17,42 @@ tags:
 
 ## 需要掌握
 
-- 从 alpha-particle scattering experiment 推断 nucleus 的存在和很小尺寸。
-- 描述 nuclear atom model：protons、neutrons 和 orbital electrons。
-- 区分 nucleon number 和 proton number。
-- 理解 isotopes 是 neutron number 不同的同种元素。
-- 使用 nuclide notation。
-- 理解 nuclear processes 中 nucleon number 和 charge 守恒。
-- 描述 alpha、beta 和 gamma radiations 的 composition、mass 和 charge。
-- 理解 antiparticle 与对应粒子质量相同、电荷相反。
-- 知道 beta minus decay 产生 antineutrino，beta plus decay 产生 neutrino。
-- 理解 alpha particles 能量离散，beta particles 能量连续。
-- 用 decay equation 表示 alpha 和 beta decay。
-- 使用 unified atomic mass unit。
-- 理解 quark 是 fundamental particle，知道 6 种 flavour。
-- 记住 quark charges，并理解 antiquark charge 相反。
-- 用 quark composition 描述 proton 和 neutron。
-- 区分 baryon 和 meson。
-- 描述 beta decay 中 quark composition 的变化。
-- 知道 electron 和 neutrino 是 leptons。
+- 从 α 粒子散射实验推断原子核的存在和很小尺寸。
+- 描述原子核式结构模型：质子、中子和轨道电子。
+- 区分核子数和质子数。
+- 理解同位素是中子数不同的同种元素。
+- 使用核素符号。
+- 理解核过程中核子数和电荷守恒。
+- 描述 α、β 和 γ 辐射的组成、质量和电荷。
+- 理解反粒子与对应粒子质量相同、电荷相反。
+- 知道 β 负衰变产生反中微子，β 正衰变产生中微子。
+- 理解 α 粒子能量离散，β 粒子能量连续。
+- 用衰变方程表示 α 和 β 衰变。
+- 使用统一原子质量单位。
+- 理解夸克是基本粒子，知道 6 种味。
+- 记住夸克电荷，并理解反夸克电荷相反。
+- 用夸克组成描述质子和中子。
+- 区分重子和介子。
+- 描述 β 衰变中夸克组成的变化。
+- 知道电子和中微子是轻子。
 
 ## 练习方向
 
 - 配平核反应方程。
-- 根据 nucleon number 和 proton number 判断粒子或核素。
-- 从衰变类型判断 emitted particles。
-- 用 quark charges 推出 hadron charge。
-- 解释 beta spectrum 为什么连续。
+- 根据核子数和质子数判断粒子或核素。
+- 从衰变类型判断放出粒子。
+- 用夸克电荷推出强子电荷。
+- 解释 β 能谱为什么连续。
 
 ## 实验或观察连接
 
-- AS 阶段主要是概念和数据解释，不要求实际使用 radioactive source。
-- 题目中可能给 count rate 或 scattering evidence，需要从证据推断模型。
+- AS 阶段主要是概念和数据解释，不要求实际使用放射源。
+- 题目中可能给计数率或散射证据，需要从证据推断模型。
 
 ## 易错点
 
-- gamma radiation 不改变 nucleon number 和 proton number。
-- beta minus 与 beta plus 的 neutrino / antineutrino 容易反。
-- proton 和 neutron 不是 fundamental particles。
-- meson 是 quark-antiquark，不是 three quarks。
+- γ 辐射不改变核子数和质子数。
+- β 负衰变与 β 正衰变的中微子/反中微子容易反。
+- 质子和中子不是基本粒子。
+- 介子是夸克-反夸克，不是三个夸克。
 

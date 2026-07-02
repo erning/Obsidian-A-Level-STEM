@@ -8,7 +8,7 @@ tags:
   - mathematics/statistics
 ---
 
-# 03 Discrete Random Variables
+# 03 离散随机变量
 
 ## 教材对应
 
@@ -16,28 +16,28 @@ tags:
 
 ## 需要掌握
 
-- 理解 random variable 是把随机结果映射成数值。
-- 写出 probability distribution，并检查 probabilities sum to 1。
-- 计算 expectation、variance 和 standard deviation。
-- 使用 binomial distribution 和 geometric distribution。
-- 理解 parameters 对分布 centre 和 spread 的影响。
-- 处理 simple functions of random variables。
+- 理解随机变量是把随机结果映射成数值。
+- 写出概率分布，并检查概率之和为 1。
+- 计算期望、方差和标准差。
+- 使用二项分布和几何分布。
+- 理解参数对分布中心位置和离散程度的影响。
+- 处理随机变量的简单函数。
 
 ## 练习方向
 
 - 每个随机变量先写它代表什么。
 - 列表时检查所有可能值是否完整。
-- 对 binomial model 检查 fixed number of trials、independence、two outcomes 和 constant probability。
-- 对 geometric model 检查“直到第一次成功”的机制。
+- 对二项分布模型检查固定试验次数、独立性、两个结果和固定成功概率。
+- 对几何分布模型检查“直到第一次成功”的机制。
 
 ## 连接
 
-- Discrete random variables 连接 [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions|Normal and Poisson Distributions]]。
-- PGF 是这一主题的 further extension。
+- 离散随机变量连接 [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions|正态分布与泊松分布]]。
+- PGF 是这一主题的进阶延伸。
 
 ## 易错点
 
 - 忘记概率总和为 1。
 - 把 $E(X^2)$ 和 $[E(X)]^2$ 混淆。
-- Binomial 参数 $n$、$p$ 写错。
-- Geometric distribution 的 trial count 定义不清。
+- 二项分布参数 $n$、$p$ 写错。
+- 几何分布的试验次数定义不清。

@@ -8,7 +8,7 @@ tags:
   - mathematics/statistics
 ---
 
-# 07 Chi-Squared, Non-Parametric Tests and PGF
+# 07 卡方、非参数检验与 PGF
 
 ## 教材对应
 
@@ -16,28 +16,28 @@ tags:
 
 ## 需要掌握
 
-- 使用 chi-squared goodness of fit test 和 independence test。
-- 理解 observed frequency、expected frequency、degrees of freedom 和 test statistic。
+- 使用卡方拟合优度检验和独立性检验。
+- 理解观测频数、期望频数、自由度和检验统计量。
 - 知道什么时候需要合并类别。
-- 理解 non-parametric tests 的意义：不依赖强正态假设。
-- 使用 sign test、Wilcoxon signed-rank test、Wilcoxon rank-sum test。
-- 理解 probability generating function（PGF），并用它求 mean、variance 和 sum of independent random variables。
+- 理解非参数检验的意义：不依赖强正态假设。
+- 使用符号检验、Wilcoxon 符号秩检验、Wilcoxon 秩和检验。
+- 理解概率母函数（PGF），并用它求均值、方差和独立随机变量之和。
 
 ## 练习方向
 
-- Chi-squared 题先写类别、hypotheses 和 expected frequencies。
-- 检查 expected frequency 是否足够大。
-- Non-parametric test 先判断数据类型和配对关系。
-- PGF 题先从 distribution 写出 generating function，再做代数操作。
+- 卡方题先写类别、假设和期望频数。
+- 检查期望频数是否足够大。
+- 非参数检验先判断数据类型和配对关系。
+- PGF 题先从分布写出母函数，再做代数操作。
 
 ## 连接
 
-- Chi-squared 和 non-parametric tests 扩展了 [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|Hypothesis Tests]]。
-- PGF 是 [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables|Discrete Random Variables]] 的高阶工具。
+- 卡方和非参数检验扩展了 [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|假设检验]]。
+- PGF 是 [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables|离散随机变量]] 的高阶工具。
 
 ## 易错点
 
-- Degrees of freedom 算错。
-- Goodness of fit 和 independence test 混用。
-- Wilcoxon tests 没检查配对关系或对称性条件。
+- 自由度算错。
+- 拟合优度和独立性检验混用。
+- Wilcoxon 检验没检查配对关系或对称性条件。
 - PGF 求导后忘记在 $t = 1$ 处代入。

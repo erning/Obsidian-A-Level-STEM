@@ -26,19 +26,19 @@ tags:
 
 | 信号 | 常见方法 | 检查 |
 |---|---|---|
-| quadratic vertex | completing the square | 顶点和对称轴是否正确 |
-| repeated root / tangent | discriminant 或联立方程 | 图像是否相切 |
-| product to integrate | integration by parts | 反求导检查 |
-| composite expression | chain rule 或 substitution | 内函数是否完整出现 |
-| rational function | partial fractions 或 asymptotes | 分母零点和长期行为 |
-| maximum/minimum | derivative = 0，加二阶或符号检查 | 图像形状是否符合 |
-| distance/angle in space | dot product、cross product、projection | 长度非负，角度范围合理 |
-| transformation | matrix representation | determinant 和图像方向 |
-| independent repeated trials | binomial/geometric model | 参数和事件定义 |
-| rare counts in interval | Poisson model | 单位时间/空间的 rate |
-| sample inference | confidence interval 或 hypothesis test | 假设、样本和条件 |
-| force problem | free-body diagram | 合力方向和单位 |
-| energy problem | conservation / work-energy | 初末状态是否清楚 |
+| 二次式顶点 | 配方法 | 顶点和对称轴是否正确 |
+| 重根 / 切线 | 判别式或联立方程 | 图像是否相切 |
+| 乘积积分 | 分部积分法 | 反求导检查 |
+| 复合表达式 | 链式法则或换元法 | 内函数是否完整出现 |
+| 有理函数 | 部分分式或渐近线 | 分母零点和长期行为 |
+| 极大值/极小值 | 导数 = 0，加二阶或符号检查 | 图像形状是否符合 |
+| 路程/空间中的角度 | 点积、叉积、投影 | 长度非负，角度范围合理 |
+| 变换 | 矩阵表示 | 行列式和图像方向 |
+| 独立重复试验 | 二项分布/几何分布模型 | 参数和事件定义 |
+| 区间内稀有计数 | 泊松分布模型 | 单位时间/空间的率 |
+| 样本推断 | 置信区间或假设检验 | 假设、样本和条件 |
+| 力问题 | 受力图 | 合力方向和单位 |
+| 能量问题 | 守恒/功-能量 | 初末状态是否清楚 |
 
 ## 错题归档
 

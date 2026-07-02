@@ -32,59 +32,59 @@ tags:
 ## 常用检查
 
 - **代回检查**：解方程后代回原式。
-- **定义域检查**：logarithm、root、fraction、inverse function 都先看定义域。
+- **定义域检查**：对数、根式、分式、反函数都先看定义域。
 - **图像检查**：根、极值、渐近线、面积和概率都能在图像上看出大致范围。
 - **极端情况检查**：参数趋近 0、1、无穷大或边界值时，结果是否合理。
-- **单位检查**：Mechanics 中每个量都带单位。
-- **概率检查**：概率在 0 到 1 之间，density 下的总面积为 1。
+- **单位检查**：力学中每个量都带单位。
+- **概率检查**：概率在 0 到 1 之间，密度下的总面积为 1。
 
 ## 核心工具
 
 ### Algebra
 
-- Completing the square：把 quadratic 写成顶点形式。
-- Factor theorem：用根和因式连接 polynomial。
-- Partial fractions：把 rational function 拆成可积分或可展开的形式。
-- Modulus：表示距离，解题时常分区间讨论。
+- 配方法：把二次式写成顶点形式。
+- 因式定理：用根和因式连接多项式。
+- 部分分式：把有理函数拆成可积分或可展开的形式。
+- 模：表示距离，解题时常分区间讨论。
 
-### Functions and Graphs
+### 函数与图像
 
-- Composite function：$fg(x) = f(g(x))$
-- Inverse function：交换输入输出，图像关于 $y = x$ 对称。
-- Transformations：平移、伸缩、反射都应能从表达式读出。
-- Asymptotes：vertical、horizontal、oblique asymptotes 说明函数边界行为。
+- 复合函数：$fg(x) = f(g(x))$
+- 反函数：交换输入输出，图像关于 $y = x$ 对称。
+- 变换：平移、伸缩、反射都应能从表达式读出。
+- 渐近线：铅直、水平、斜渐近线说明函数边界行为。
 
 ### Calculus
 
-- Derivative：局部变化率和 tangent gradient。
-- Integral：累积量、面积和反导数。
-- Chain rule：复合结构的求导。
-- Product/quotient rules：乘积和商的求导。
-- Integration by substitution：变量替换，把复杂结构还原成已知积分。
-- Integration by parts：来自 product rule，适合乘积积分。
+- 导数：局部变化率和切线斜率。
+- 积分：累积量、面积和反导数。
+- 链式法则：复合结构的求导。
+- 乘积法则/商法则：乘积和商的求导。
+- 换元积分法：变量替换，把复杂结构还原成已知积分。
+- 分部积分法：来自乘积法则，适合乘积积分。
 
-### Vectors and Matrices
+### 向量与矩阵
 
-- Dot product：长度、夹角、投影。
-- Cross product：垂直方向、面积、法向量。
-- Matrix multiplication：复合线性变换。
-- Determinant：面积/体积缩放和 invertibility。
-- Eigenvectors：在线性变换后方向不变的向量。
+- 点积：长度、夹角、投影。
+- 叉积：垂直方向、面积、法向量。
+- 矩阵乘法：复合线性变换。
+- 行列式：面积/体积缩放和可逆性。
+- 特征向量：在线性变换后方向不变的向量。
 
-### Probability and Statistics
+### 概率与统计
 
-- Expectation：长期平均或分布中心。
-- Variance：离散程度。
-- Standardisation：把 normal variable 转成 standard normal。
-- Confidence interval：用样本估计总体参数的不确定范围。
-- Hypothesis test：用数据判断一个假设是否与观察冲突。
-- PGF：用函数编码 discrete distribution。
+- 期望：长期平均或分布中心。
+- 方差：离散程度。
+- 标准化：把正态变量转成标准正态变量。
+- 置信区间：用样本估计总体参数的不确定范围。
+- 假设检验：用数据判断一个假设是否与观察冲突。
+- PGF：用函数编码离散分布。
 
-## 和 Physics 的连接
+## 和物理的连接
 
-- Differentiation：velocity、acceleration、rate of change。
-- Integration：displacement、work、charge、probability。
-- Exponential functions：decay、capacitor discharge、cooling model。
-- Vectors：force components、fields、relative motion。
-- Differential equations：growth/decay、SHM、variable-force motion。
-- Statistics：实验误差、数据判断和模型拟合。
+- 微分法：速度、加速度、变化率。
+- 积分法：位移、功、电荷、概率。
+- 指数函数：衰减、电容器放电、冷却模型。
+- 向量：力分量、场、相对运动。
+- 微分方程：增长/衰减、简谐运动（SHM）、变量-力运动。
+- 统计学：实验误差、数据判断和模型拟合。

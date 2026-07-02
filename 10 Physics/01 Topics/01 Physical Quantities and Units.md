@@ -8,7 +8,7 @@ tags:
   - physics/9702/units
 ---
 
-# 01 Physical Quantities and Units
+# 01 物理量与单位
 
 ## 教材对应
 
@@ -18,15 +18,15 @@ tags:
 ## 需要掌握
 
 - 理解所有物理量都由数值和单位组成。
-- 会估算 syllabus 内常见物理量的数量级。
-- 记住 SI base quantities：mass、length、time、current、temperature。
-- 会把 derived units 表示为 base units 的乘积或商。
-- 会用 base units 做 homogeneity check。
-- 熟悉常用 prefix：pico、nano、micro、milli、centi、deci、kilo、mega、giga、tera。
-- 区分 systematic errors、zero errors 和 random errors。
-- 区分 precision 和 accuracy。
-- 会用 absolute uncertainty 或 percentage uncertainty 处理简单 derived quantity。
-- 区分 scalar 和 vector，并能做共面矢量的加减与正交分解。
+- 会估算大纲内常见物理量的数量级。
+- 记住 SI 基本量：质量、长度、时间、电流、温度。
+- 会把导出单位表示为基本单位的乘积或商。
+- 会用基本单位做量纲一致性检查。
+- 熟悉常用单位前缀：皮、纳、微、毫、厘、分、千、兆、吉、太等单位前缀。
+- 区分系统误差、零点误差和随机误差。
+- 区分精密度和准确度。
+- 会用绝对不确定度或百分比不确定度处理简单导出量。
+- 区分标量和矢量，并能做共面矢量的加减与正交分解。
 
 ## 练习方向
 
@@ -44,7 +44,7 @@ tags:
 
 ## 易错点
 
-- 把 accuracy 和 precision 混用。
+- 把准确度和精密度混用。
 - 写单位时把 $\mathrm{N\,m}$、$\mathrm{N\,m^{-2}}$、$\mathrm{kg\,m\,s^{-2}}$ 等混淆。
 - 矢量相减时忘记方向。
 - 对百分比不确定度做加法时，忘记先确认公式是乘除形式。

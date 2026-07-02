@@ -8,7 +8,7 @@ tags:
   - physics/9702/waves
 ---
 
-# 08 Superposition
+# 08 叠加
 
 ## 教材对应
 
@@ -17,34 +17,34 @@ tags:
 
 ## 需要掌握
 
-- 解释并使用 principle of superposition。
-- 理解 microwaves、stretched strings 和 air columns 中的 stationary waves。
-- 用图像解释 stationary wave 的形成，并识别 nodes 和 antinodes。
-- 从 nodes 或 antinodes 间距确定 wavelength。
-- 解释 diffraction，理解 gap width 相对 wavelength 的影响。
-- 理解 interference 和 coherence。
+- 解释并使用叠加原理。
+- 理解微波、拉伸弦和空气柱中的驻波。
+- 用图像解释驻波的形成，并识别波节和波腹。
+- 从波节或波腹间距确定波长。
+- 解释衍射，理解缝宽相对波长的影响。
+- 理解干涉和相干性。
 - 知道产生双源干涉条纹需要相干、稳定相位差和合适几何条件。
-- 使用 double-slit 公式：$\lambda = ax/D$。
-- 使用 diffraction grating 公式：$d\sin\theta = n\lambda$。
-- 描述用 diffraction grating 测 light wavelength 的方法。
+- 使用双缝公式：$\lambda = ax/D$。
+- 使用衍射光栅公式：$d\sin\theta = n\lambda$。
+- 描述用衍射光栅测光波长的方法。
 
 ## 练习方向
 
-- 判断 constructive 和 destructive interference。
-- 从驻波图判断 harmonic、wavelength 和频率关系。
-- 比较 single-slit diffraction、double-slit interference 和 grating spectra。
-- 用 fringe spacing 求 wavelength 或 slit separation。
-- 用 grating equation 求谱线角度或 order。
+- 判断相长干涉和相消干涉。
+- 从驻波图判断谐波、波长和频率关系。
+- 比较单缝衍射、双缝干涉和光栅光谱。
+- 用条纹间距求波长或缝间距。
+- 用光栅方程求谱线角度或级次。
 
 ## 实验或观察连接
 
-- 用 microwave transmitter / receiver 或 ripple tank 展示干涉。
-- 用 stretched string 或 air column 展示驻波。
-- 用 diffraction grating 和 laser 测 wavelength。
+- 用微波发射器/接收器或水波槽展示干涉。
+- 用拉伸弦或空气柱展示驻波。
+- 用衍射光栅和激光测波长。
 
 ## 易错点
 
-- 把 stationary wave 当成能量沿波传播方向传输。
-- node 间距是 $\lambda/2$，不是 $\lambda$。
-- double-slit 中 $a$ 是 slit separation，$x$ 是 fringe spacing。
-- grating 中 $d$ 是 grating spacing，不是整块光栅宽度。
+- 把驻波当成能量沿波传播方向传输。
+- 波节间距是 $\lambda/2$，不是 $\lambda$。
+- 双缝中 $a$ 是缝间距，$x$ 是条纹间距。
+- 光栅中 $d$ 是光栅间距，不是整块光栅宽度。

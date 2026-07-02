@@ -8,7 +8,7 @@ tags:
   - physics/9702/fields
 ---
 
-# 20 Magnetic Fields
+# 20 磁场
 
 ## 教材对应
 
@@ -17,41 +17,41 @@ tags:
 
 ## 需要掌握
 
-- 理解 magnetic field 可由 moving charges 或 permanent magnets 产生。
-- 用 field lines 表示 magnetic field。
-- 理解 current-carrying conductor 在 magnetic field 中可能受力。
-- 使用 $F = BIL\sin\theta$，并用 Fleming's left-hand rule 判断方向。
-- 定义 magnetic flux density。
-- 判断 moving charge 在 magnetic field 中受力方向。
+- 理解磁场可由运动电荷或永磁体产生。
+- 用场线表示磁场。
+- 理解通电导体在磁场中可能受力。
+- 使用 $F = BIL\sin\theta$，并用弗莱明左手定则判断方向。
+- 定义磁通量密度。
+- 判断运动电荷在磁场中受力方向。
 - 使用 $F = BQv\sin\theta$。
-- 理解 Hall voltage 的来源，推导并使用 $V_H = BI/(ntq)$。
-- 描述带电粒子垂直进入 uniform magnetic field 后的运动。
-- 解释 velocity selection。
-- 画 long straight wire、flat circular coil 和 long solenoid 的磁场。
-- 理解 ferrous core 增强 solenoid magnetic field。
-- 解释 current-carrying conductors 间力的来源和方向。
-- 定义 magnetic flux，并使用 $\Phi = BA$。
-- 理解 magnetic flux linkage。
-- 解释 changing magnetic flux 诱导 e.m.f. 的实验。
-- 使用 Faraday's law 和 Lenz's law。
+- 理解霍尔电压的来源，推导并使用 $V_H = BI/(ntq)$。
+- 描述带电粒子垂直进入均匀磁场后的运动。
+- 解释速度选择。
+- 画长直导线、扁平圆形线圈和长螺线管的磁场。
+- 理解铁芯增强螺线管磁场。
+- 解释通电导体s 间力的来源和方向。
+- 定义磁通量，并使用 $\Phi = BA$。
+- 理解磁通链。
+- 解释变化的磁通量诱导电动势的实验。
+- 使用法拉第电磁感应定律和楞次定律。
 
 ## 练习方向
 
-- 用 Fleming's left-hand rule 判断 force / field / current 方向。
-- 计算导线受力、带电粒子圆周半径、Hall voltage。
-- 解释 mass spectrometer 或 velocity selector 类问题。
-- 从 flux-time graph 求 induced e.m.f.。
-- 用 Lenz's law 判断 induced current direction。
+- 用弗莱明左手定则判断力/磁场/电流方向。
+- 计算导线受力、带电粒子圆周半径、霍尔电压。
+- 解释质谱仪或速度选择器类问题。
+- 从磁通量-时间图像求感应电动势。
+- 用楞次定律判断感应电流方向。
 
 ## 实验或观察连接
 
-- 用 current balance 测 magnetic flux density。
-- 用 Hall probe 测 magnetic field。
-- 用 coil 和 magnet 演示 electromagnetic induction。
+- 用电流天平测磁通量密度。
+- 用霍尔探头测磁场。
+- 用线圈和磁体演示电磁感应。
 
 ## 易错点
 
-- 磁场力始终垂直于 velocity 时不做功，只改变方向。
-- $BIL\sin\theta$ 中 $\theta$ 是 current 与 magnetic field 的夹角。
-- Lenz's law 判断的是反抗变化，不是反抗磁场本身。
-- magnetic flux 需要面积垂直于磁场方向。
+- 磁场力始终垂直于速度时不做功，只改变方向。
+- $BIL\sin\theta$ 中 $\theta$ 是电流与磁场的夹角。
+- 楞次定律判断的是反抗变化，不是反抗磁场本身。
+- 磁通量需要面积垂直于磁场方向。

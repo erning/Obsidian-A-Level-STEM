@@ -8,7 +8,7 @@ tags:
   - physics/9702/materials
 ---
 
-# 06 Deformation of Solids
+# 06 固体形变
 
 ## 教材对应
 
@@ -17,34 +17,34 @@ tags:
 
 ## 需要掌握
 
-- 理解 tensile 和 compressive forces 会造成 deformation。
-- 使用 load、extension、compression 和 limit of proportionality。
-- 陈述并使用 Hooke's law。
-- 使用 spring constant：$k = F/x$。
-- 定义 stress、strain 和 Young modulus。
-- 描述测定 metal wire 的 Young modulus 的实验。
-- 区分 elastic deformation、plastic deformation 和 elastic limit。
-- 理解 force-extension graph 下方面积表示 work done。
+- 理解拉力和压力会造成形变。
+- 使用载荷、伸长量、压缩量和比例极限。
+- 陈述并使用胡克定律。
+- 使用弹簧劲度系数：$k = F/x$。
+- 定义应力、应变和杨氏模量。
+- 描述测定金属丝的杨氏模量的实验。
+- 区分弹性形变、塑性形变和弹性限度。
+- 理解力-伸长量图像下方面积表示做功。
 - 在比例极限内使用 $E_p = \frac{1}{2}Fx = \frac{1}{2}kx^2$。
 
 ## 练习方向
 
-- 从 force-extension graph 求 spring constant。
-- 从 stress-strain graph 求 Young modulus。
-- 判断材料处于 elastic 还是 plastic region。
-- 用面积计算 elastic potential energy。
-- 解释为什么测量细金属丝需要长 wire 和 micrometer。
+- 从力-伸长量图像求弹簧劲度系数。
+- 从应力-应变图像求杨氏模量。
+- 判断材料处于弹性区还是塑性区。
+- 用面积计算弹性势能。
+- 解释为什么测量细金属丝需要长金属丝和千分尺。
 
 ## 实验或观察连接
 
-- Young modulus 实验需要测 wire length、diameter、load 和 extension。
-- diameter 要多点测量并取平均，因为 cross-sectional area 对结果影响很大。
-- extension 常用 fiducial marker 和 travelling microscope 或 vernier scale 测量。
+- 杨氏模量实验需要测金属丝长度、直径、载荷和伸长量。
+- 直径要多点测量并取平均，因为横截面积对结果影响很大。
+- 伸长量常用基准标记和移测显微镜或游标尺测量。
 
 ## 易错点
 
-- 把 stress 和 pressure 都写成 Pa，但物理意义不同。
-- strain 无单位。
+- 把应力和压强都写成 Pa，但物理意义不同。
+- 应变无单位。
 - 用直径代替半径计算面积。
-- 超过 limit of proportionality 后继续使用 $E_p = \frac{1}{2}kx^2$。
+- 超过比例极限后继续使用 $E_p = \frac{1}{2}kx^2$。
 

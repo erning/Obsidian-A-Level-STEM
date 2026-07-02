@@ -8,7 +8,7 @@ tags:
   - physics/9702/thermal
 ---
 
-# 16 Thermodynamics
+# 16 热力学
 
 ## 教材对应
 
@@ -17,27 +17,27 @@ tags:
 
 ## 需要掌握
 
-- 理解 internal energy 是系统状态量。
-- 理解 internal energy 可表示为分子随机 kinetic energies 和 potential energies 的总和。
-- 将温度升高与 internal energy 增加联系起来。
-- 使用 constant pressure 下气体体积变化做功：$W = p\Delta V$。
-- 区分 work done by the gas 和 work done on the gas。
-- 使用 first law of thermodynamics：$\Delta U = q + W$，其中 $q$ 是加热进入系统的能量，$W$ 是外界对系统做功。
+- 理解内能是系统状态量。
+- 理解内能可表示为分子随机动能和势能的总和。
+- 将温度升高与内能增加联系起来。
+- 使用常量压强下气体体积变化做功：$W = p\Delta V$。
+- 区分气体对外做功和外界对气体做功。
+- 使用热力学第一定律：$\Delta U = q + W$，其中 $q$ 是加热进入系统的能量，$W$ 是外界对系统做功。
 
 ## 练习方向
 
-- 判断过程中的 heating、work done 和 internal energy change 符号。
-- 用 p-V graph 的面积理解气体做功。
-- 区分 isothermal、constant pressure、constant volume 等过程的能量转移。
-- 用 first law 解释真实情境中的能量去向。
+- 判断过程中的加热、做功和内能变化符号。
+- 用 p-V 图像的面积理解气体做功。
+- 区分等温、常量压强、体积恒定等过程的能量转移。
+- 用热力学第一定律解释真实情境中的能量去向。
 
 ## 实验或观察连接
 
-- 可用 gas syringe、pressure sensor 和 temperature sensor 分析气体过程。
+- 可用气体注射器、压强传感器和温度传感器分析气体过程。
 - 可以练习从图像或表格推断能量转移和不确定度。
 
 ## 易错点
 
-- 这份 syllabus 的符号约定是 $W$ 表示 work done on the system。
-- constant volume 时 $\Delta V = 0$，所以气体边界做功为 0。
-- internal energy 是状态量，heat 和 work 是能量转移路径。
+- 这份大纲的符号约定是 $W$ 表示做功对系统做功。
+- 体积恒定时 $\Delta V = 0$，所以气体边界做功为 0。
+- 内能是状态量，热和功是能量转移路径。

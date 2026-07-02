@@ -8,7 +8,7 @@ tags:
   - physics/9702/medical
 ---
 
-# 24 Medical Physics
+# 24 医学物理
 
 ## 教材对应
 
@@ -17,38 +17,38 @@ tags:
 
 ## 需要掌握
 
-- 理解 piezo-electric crystal 在 p.d. 作用下变形，形变时也能产生 e.m.f.。
-- 解释 ultrasound waves 如何由 piezoelectric transducer 产生和探测。
-- 理解 ultrasound pulse 在组织边界反射可提供内部结构信息。
-- 定义 specific acoustic impedance：$Z = \rho c$。
-- 使用 intensity reflection coefficient：$I_R/I_0 = (Z_1-Z_2)^2/(Z_1+Z_2)^2$。
-- 使用 ultrasound attenuation：$I = I_0e^{-\mu x}$。
-- 解释 X-rays 由 electrons bombard metal target 产生。
-- 计算 X-rays 的 minimum wavelength。
-- 理解 contrast 在 X-ray imaging 中的意义。
-- 使用 X-ray attenuation：$I = I_0e^{-\mu x}$。
-- 理解 CT scanning 如何由多角度 X-ray images 构建 3D image。
-- 理解 tracer、beta plus decay 和 PET scanning。
-- 理解 annihilation 中 mass-energy 和 momentum 守恒。
-- 解释 PET 中一对 gamma photons 如何被探测并形成图像。
+- 理解压电晶体在电势差作用下变形，形变时也能产生电动势。
+- 解释超声波如何由压电换能器产生和探测。
+- 理解超声脉冲在组织边界反射可提供内部结构信息。
+- 定义特性声阻抗：$Z = \rho c$。
+- 使用强度反射系数：$I_R/I_0 = (Z_1-Z_2)^2/(Z_1+Z_2)^2$。
+- 使用超声衰减：$I = I_0e^{-\mu x}$。
+- 解释 X 射线由电子轰击金属靶产生。
+- 计算 X 射线的极小值波长。
+- 理解对比度在 X 射线成像中的意义。
+- 使用 X 射线衰减：$I = I_0e^{-\mu x}$。
+- 理解 CT 扫描如何由多角度 X 射线图像构建三维图像。
+- 理解示踪剂、β 正衰变和 PET 扫描。
+- 理解湮灭中质能和动量守恒。
+- 解释 PET 中一对 γ 光子如何被探测并形成图像。
 
 ## 练习方向
 
-- 计算 ultrasound 或 X-ray attenuation。
+- 计算超声或 X 射线衰减。
 - 比较不同组织边界的反射强度。
-- 用 accelerating p.d. 求 X-ray minimum wavelength。
-- 解释 ultrasound、X-ray、CT 和 PET 的优缺点。
-- 计算 electron-positron annihilation 中 gamma photon energy。
+- 用加速电势差求 X 射线极小值波长。
+- 解释超声、X 射线、CT 和 PET 的优缺点。
+- 计算电子-正电子湮灭中 γ 光子能量。
 
 ## 实验或观察连接
 
-- 该 topic 多为应用题和数据解释。
-- 可用 pulse-echo 模型训练 time-of-flight、attenuation 和 reflection calculations。
+- 该主题多为应用题和数据解释。
+- 可用脉冲回波模型训练飞行时间、衰减和反射计算。
 
 ## 易错点
 
-- ultrasound reflection 取决于 acoustic impedance mismatch。
-- X-ray attenuation 和 ultrasound attenuation 公式形式相同，但物理机制不同。
-- PET 用 beta plus tracer，不是 beta minus。
-- annihilation 产生的两个 gamma photons 方向相反，用于定位事件线。
+- 超声反射取决于声阻抗不匹配。
+- X 射线衰减和超声衰减公式形式相同，但物理机制不同。
+- PET 用 β 正衰变示踪剂，不是 β 负衰变。
+- 湮灭产生的两个 γ 光子方向相反，用于定位事件线。
 

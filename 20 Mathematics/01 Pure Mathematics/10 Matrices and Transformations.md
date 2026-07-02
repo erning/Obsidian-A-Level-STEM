@@ -8,7 +8,7 @@ tags:
   - mathematics/pure
 ---
 
-# 10 Matrices and Transformations
+# 10 矩阵与变换
 
 ## 教材对应
 
@@ -17,28 +17,28 @@ tags:
 
 ## 需要掌握
 
-- 做 matrix addition、subtraction、multiplication 和 scalar multiplication。
-- 理解 zero matrix、identity matrix、inverse、singular/non-singular 和 determinant。
-- 用 matrices 表示 linear transformations，包括 reflection、rotation、enlargement、shear。
-- 处理 simultaneous linear equations。
-- 理解 eigenvalues、eigenvectors、diagonalisation 和 Cayley-Hamilton theorem。
-- 把 determinant 看成 area/volume scale factor，把 inverse 看成 undo transformation。
+- 做矩阵加法、减法、乘法和标量乘法。
+- 理解零矩阵、单位矩阵、逆矩阵、奇异/非奇异和行列式。
+- 用矩阵表示线性变换，包括反射、旋转、放缩、剪切。
+- 处理联立线性方程。
+- 理解特征值、特征向量、对角化和 Cayley-Hamilton 定理。
+- 把行列式看成面积/体积缩放因子，把逆矩阵看成逆变换。
 
 ## 练习方向
 
-- 每个 $2 \times 2$ transformation 都画一个单位正方形看变化。
-- 乘矩阵时注意顺序代表 transformation composition 的顺序。
-- 求 inverse 后用 $AA^{-1} = I$ 检查。
-- 对 eigenvector，直接代回看方向是否保持。
+- 每个 $2 \times 2$ 变换都画一个单位正方形看变化。
+- 乘矩阵时注意顺序代表变换复合的顺序。
+- 求逆矩阵后用 $AA^{-1} = I$ 检查。
+- 对特征向量，直接代回看方向是否保持。
 
 ## 连接
 
-- Matrices 和 [[20 Mathematics/01 Pure Mathematics/08 Vectors|Vectors]] 共同构成线性代数语言。
-- Eigenvalues 在 differential equations、dynamical systems 和数据方法中都会再次出现。
+- 矩阵和 [[20 Mathematics/01 Pure Mathematics/08 Vectors|向量]] 共同构成线性代数语言。
+- 特征值在微分方程、动力系统和数据方法中都会再次出现。
 
 ## 易错点
 
-- 以为 matrix multiplication 可以交换。
-- determinant 为 0 仍然尝试求 inverse。
-- 把 row vector 和 column vector 混用。
-- 只算 eigenvalue，不解释 eigenvector 的几何意义。
+- 以为矩阵乘法可以交换。
+- 行列式为 0 仍然尝试求逆矩阵。
+- 把行向量和列向量混用。
+- 只算特征值，不解释特征向量的几何意义。

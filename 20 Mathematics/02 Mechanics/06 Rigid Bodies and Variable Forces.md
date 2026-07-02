@@ -8,7 +8,7 @@ tags:
   - mathematics/mechanics
 ---
 
-# 06 Rigid Bodies and Variable Forces
+# 06 刚体与变力
 
 ## 教材对应
 
@@ -16,28 +16,28 @@ tags:
 
 ## 需要掌握
 
-- 理解 rigid body 和 particle model 的区别。
-- 求 uniform rods、laminae 和 simple solids 的 centre of mass。
-- 使用 moments 分析 rigid body equilibrium。
-- 建立 variable force 下的 equation of motion。
+- 理解刚体和质点模型的区别。
+- 求均匀杆、薄片和简单立体的质心。
+- 使用力矩分析刚体平衡。
+- 建立变力下的运动方程。
 - 根据问题选择 $a = dv/dt$ 或 $a = v\,dv/dx$。
-- 求解 separable differential equations 并解释运动过程。
+- 求解可分离变量微分方程并解释运动过程。
 
 ## 练习方向
 
 - 刚体题先标所有力的作用点。
-- 选取 moment centre 时优先消掉未知力。
-- 变量力题先写清 force depends on $t$、$x$ 还是 $v$。
-- 解 differential equation 后检查 initial condition 和单位。
+- 选取力矩中心位置时优先消掉未知力。
+- 变量力题先写清力依赖 $t$、$x$ 还是 $v$。
+- 解微分方程后检查初始条件和单位。
 
 ## 连接
 
-- Rigid bodies 连接 [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium|Forces and Equilibrium]]。
-- Variable forces 连接 [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations|Further Calculus and Differential Equations]]。
+- 刚体连接 [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium|力与平衡]]。
+- 变力连接 [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations|进阶微积分与微分方程]]。
 
 ## 易错点
 
-- 把 centre of mass 当成几何中心，但对象并不 uniform。
-- Moments 的力臂取错。
-- 变量力问题使用 constant acceleration equations。
+- 把把质心当成几何中心，但对象并不均匀。
+- 力矩的力臂取错。
+- 变量力问题使用恒定加速度方程。
 - 微分方程解完不解释运动方向和速度符号。

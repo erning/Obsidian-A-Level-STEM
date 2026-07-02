@@ -9,7 +9,7 @@ tags:
   - mathematics/statistics
 ---
 
-# 05 Continuous Random Variables
+# 05 连续随机变量
 
 ## 教材对应
 
@@ -18,28 +18,28 @@ tags:
 
 ## 需要掌握
 
-- 理解 probability density function（PDF）和 cumulative distribution function（CDF）。
+- 理解概率密度函数（PDF）和分布函数（CDF）。
 - 知道连续变量中 $P(X = a) = 0$，概率来自面积。
-- 会求 probabilities、median、mode、expectation 和 variance。
-- 处理 piecewise density functions。
-- 使用 transformation $Y = g(X)$ 求新变量的 distribution。
-- 理解 density、calculus 和 area 的关系。
+- 会求概率、中位数、众数、期望和方差。
+- 处理分段密度函数。
+- 使用变换 $Y = g(X)$ 求新变量的分布。
+- 理解密度、微积分和面积的关系。
 
 ## 练习方向
 
-- 先画 density curve，确认总面积为 1。
+- 先画密度曲线，确认总面积为 1。
 - 求 CDF 时分区间写清。
-- 对 expectation 和 variance，写出积分范围。
-- Transformation 题先判断函数是否 one-to-one。
+- 对期望和方差，写出积分范围。
+- 变换题先判断函数是否一一对应。
 
 ## 连接
 
-- Continuous random variables 是 [[20 Mathematics/01 Pure Mathematics/06 Integration|Integration]] 在概率中的直接应用。
-- 它也为 [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|Sampling and Inference]] 提供模型基础。
+- 连续随机变量是 [[20 Mathematics/01 Pure Mathematics/06 Integration|积分法]] 在概率中的直接应用。
+- 它也为 [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests|抽样与推断]] 提供模型基础。
 
 ## 易错点
 
-- 把 density value 当 probability。
+- 把密度值当概率。
 - 忘记 PDF 总面积必须为 1。
-- Piecewise function 的边界处理错误。
-- Transformation 后没有检查新变量的 range。
+- 分段函数的边界处理错误。
+- 变换后没有检查新变量的值域。

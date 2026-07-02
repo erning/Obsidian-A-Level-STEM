@@ -8,7 +8,7 @@ tags:
   - physics/9702/electricity
 ---
 
-# 10 DC Circuits
+# 10 直流电路
 
 ## 教材对应
 
@@ -17,38 +17,38 @@ tags:
 
 ## 需要掌握
 
-- 记住 syllabus 中给出的 circuit symbols。
-- 能画和解释含常见元件的 circuit diagrams。
-- 定义 e.m.f. 为 source 驱动电荷绕完整回路时每单位电荷转移的能量。
-- 从能量角度区分 e.m.f. 和 p.d.。
-- 理解 internal resistance 对 terminal p.d. 的影响。
-- 陈述 Kirchhoff's first law，并连接 conservation of charge。
-- 陈述 Kirchhoff's second law，并连接 conservation of energy。
-- 用 Kirchhoff's laws 推导 series 和 parallel resistors 的等效电阻。
-- 用 Kirchhoff's laws 解简单电路。
-- 理解 potential divider circuit 的原理。
-- 理解 potentiometer 比较 potential differences 的原理。
-- 理解 galvanometer 在 null methods 中的用途。
-- 解释 thermistor 和 LDR 在 potential divider 中如何产生随温度或光强变化的 p.d.。
+- 记住大纲中给出的电路符号。
+- 能画和解释含常见元件的电路图。
+- 定义电动势为波源驱动电荷绕完整回路时每单位电荷转移的能量。
+- 从能量角度区分电动势和电势差。
+- 理解内阻对路端电压的影响。
+- 陈述基尔霍夫第一定律，并连接电荷守恒。
+- 陈述基尔霍夫第二定律，并连接能量守恒。
+- 用基尔霍夫定律推导串联和并联电阻器的等效电阻。
+- 用基尔霍夫定律解简单电路。
+- 理解分压电路的原理。
+- 理解电位差计比较电势差的原理。
+- 理解检流计在零示法中的用途。
+- 解释热敏电阻和光敏电阻（LDR）在分压电路中如何产生随温度或光强变化的电势差。
 
 ## 练习方向
 
-- 计算 terminal p.d.、lost volts 和 internal resistance。
+- 计算路端电压、内阻损失电压和内阻。
 - 处理串并联混合电路。
-- 用 Kirchhoff 定律列方程。
-- 设计或解释 potential divider 传感器电路。
-- 判断 voltmeter、ammeter 和 galvanometer 的连接方式。
+- 用基尔霍夫定律列方程。
+- 设计或解释分压电路传感器电路。
+- 判断电压表、电流表和检流计的连接方式。
 
 ## 实验或观察连接
 
-- 用电源、电表和 variable resistor 测内阻。
-- 用 potentiometer 做 null method 比较电势差。
-- 用 LDR / thermistor 做分压器传感器。
+- 用电源、电表和可变电阻器测内阻。
+- 用电位差计做零示法比较电势差。
+- 用光敏电阻（LDR） / 热敏电阻做分压器传感器。
 
 ## 易错点
 
-- e.m.f. 不是“电池两端总是测到的电压”。
-- internal resistance 变大时，负载电流越大 terminal p.d. 下降越明显。
-- Kirchhoff 第一、第二定律本质分别是 charge 和 energy conservation。
+- 电动势不是“电池两端总是测到的电压”。
+- 内阻变大时，负载电流越大路端电压下降越明显。
+- 基尔霍夫第一、第二定律本质分别是电荷和能量守恒。
 - 分压器输出端接负载后会改变原本分压比例。
 

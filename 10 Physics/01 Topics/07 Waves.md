@@ -8,7 +8,7 @@ tags:
   - physics/9702/waves
 ---
 
-# 07 Waves
+# 07 波
 
 ## 教材对应
 
@@ -17,37 +17,37 @@ tags:
 
 ## 需要掌握
 
-- 用 ropes、springs 和 ripple tanks 描述 wave motion。
-- 使用 displacement、amplitude、phase difference、period、frequency、wavelength 和 speed。
-- 会用 CRO 的 time-base 和 y-gain 求 frequency 和 amplitude。
-- 推导并使用 wave equation：$v = f\lambda$。
-- 理解 progressive wave 会传递能量。
-- 使用 intensity：$I = P/A$，并理解 intensity 与 amplitude squared 成正比。
-- 比较 transverse waves 和 longitudinal waves。
-- 解释 moving sound source 相对 stationary observer 的 Doppler effect。
-- 使用 Doppler 公式处理声波频率变化。
-- 知道 electromagnetic waves 是 transverse waves，在真空中以 $c$ 传播。
-- 记住 principal regions of electromagnetic spectrum 的大致 wavelength range。
-- 理解 polarisation 只属于 transverse waves。
-- 使用 Malus's law：$I = I_0 \cos^2\theta$。
+- 用绳、弹簧和水波槽描述波动。
+- 使用位移、振幅、相位差、周期、频率、波长和速率。
+- 会用 CRO 的时基和垂直增益求频率和振幅。
+- 推导并使用波方程：$v = f\lambda$。
+- 理解行波会传递能量。
+- 使用强度：$I = P/A$，并理解强度与振幅平方成正比。
+- 比较横波和纵波。
+- 解释运动声源相对静止观察者的多普勒效应。
+- 使用多普勒公式处理声波频率变化。
+- 知道电磁波是横波，在真空中以 $c$ 传播。
+- 记住电磁波谱主要波段的大致波长范围。
+- 理解偏振只属于横波。
+- 使用马吕斯定律（Malus's law）：$I = I_0 \cos^2\theta$。
 
 ## 练习方向
 
-- 从波形图或时间图读 amplitude、period、wavelength 和 phase difference。
+- 从波形图或时间图读振幅、周期、波长和相位差。
 - 判断波传播方向与粒子振动方向。
-- 用 intensity 和 amplitude 比例做计算。
-- 判断 Doppler frequency 增大还是减小。
-- 解释 polarising filters 后强度变化。
+- 用强度和振幅比例做计算。
+- 判断多普勒频移后的频率增大还是减小。
+- 解释偏振片后强度变化。
 
 ## 实验或观察连接
 
 - 用 CRO 测声波频率和幅度。
-- 用 ripple tank 展示水波波速、衍射和干涉。
-- 用 polarising filters 验证 Malus's law。
+- 用水波槽展示水波波速、衍射和干涉。
+- 用偏振片验证马吕斯定律（Malus's law）。
 
 ## 易错点
 
-- 把 wave speed 和 particle speed 混淆。
-- phase difference 的单位可以是 degree 或 radian，但计算中要一致。
-- Doppler 公式的正负号取决于 source 向 observer 靠近还是远离。
-- unpolarised light 经过第一个 polariser 的强度变化不在本 syllabus 计算要求内。
+- 把波速率和质点速率混淆。
+- 相位差的单位可以是度或弧度，但计算中要一致。
+- 多普勒公式的正负号取决于波源向观察者靠近还是远离。
+- 非偏振光经过第一个偏振片的强度变化不在本大纲计算要求内。

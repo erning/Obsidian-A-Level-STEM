@@ -8,7 +8,7 @@ tags:
   - physics/9702/electricity
 ---
 
-# 19 Capacitance
+# 19 电容
 
 ## 教材对应
 
@@ -17,31 +17,31 @@ tags:
 
 ## 需要掌握
 
-- 定义 capacitance，适用于 isolated spherical conductors 和 parallel plate capacitors。
+- 定义电容，适用于孤立球形导体和平行板电容器。
 - 使用 $C = Q/V$。
-- 从 $C = Q/V$ 推导 capacitors in series 和 parallel 的等效公式。
+- 从 $C = Q/V$ 推导电容器串联和并联的等效公式。
 - 使用串并联电容公式。
-- 从 potential-charge graph 下方面积求 capacitor stored energy。
+- 从电势-电荷图像下方面积求电容器储存能量。
 - 使用 $W = \frac{1}{2}QV = \frac{1}{2}CV^2$。
-- 分析 discharging capacitor 的 p.d.、charge 和 current 随时间变化图像。
-- 使用 time constant：$\tau = RC$。
-- 使用 $x = x_0 e^{-t/RC}$，其中 $x$ 可代表 current、charge 或 potential difference。
+- 分析电容器放电的电势差、电荷和电流随时间变化图像。
+- 使用时间常量：$\tau = RC$。
+- 使用 $x = x_0 e^{-t/RC}$，其中 $x$ 可代表电流、电荷或电势差。
 
 ## 练习方向
 
-- 计算串并联 capacitor networks。
-- 从 Q-V 图像求 stored energy。
-- 从 discharge graph 求 time constant。
-- 用指数方程求某时刻的 charge、current 或 p.d.。
+- 计算串并联电容器网络。
+- 从 Q-V 图像求储存能量。
+- 从放电图像求时间常量。
+- 用指数方程求某时刻的电荷、电流或电势差。
 - 解释 RC 电路中能量转移和热损失。
 
 ## 实验或观察连接
 
-- 用 capacitor、resistor、voltmeter 和 data logger 记录 discharge curve。
-- 通过 $\ln V$ against $t$ 的图像求 $RC$。
+- 用电容器、电阻器、电压表和数据记录仪记录放电曲线。
+- 通过 $\ln V$ 对 $t$ 的图像求 $RC$。
 
 ## 易错点
 
-- capacitors 串并联公式与 resistors 相反。
-- time constant 后电荷不是变成 0，而是变为初始值的 $1/e$。
-- 电流方向在 charging 和 discharging 中不同。
+- 电容器串并联公式与电阻器相反。
+- 时间常量后电荷不是变成 0，而是变为初始值的 $1/e$。
+- 电流方向在充电和放电中不同。

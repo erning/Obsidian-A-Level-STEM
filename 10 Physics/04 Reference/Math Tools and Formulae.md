@@ -25,25 +25,25 @@ tags:
 ### 三角与矢量
 
 - 用 $\sin$、$\cos$、$\tan$ 分解矢量。
-- 用 Pythagoras theorem 求合量。
-- 用 sine rule 和 cosine rule 处理非直角三角形。
-- 会在 degree 和 radian 之间转换。
-- 在 circular motion 和 oscillations 中优先使用 radian。
+- 用勾股定理求合量。
+- 用正弦定理和余弦定理处理非直角三角形。
+- 会在度和弧度之间转换。
+- 在圆周运动和振动中优先使用弧度。
 
 ### 图像
 
-- 斜率：变化率，常对应速度、加速度、resistance、field gradient 或 decay constant。
+- 斜率：变化率，常对应速度、加速度、电阻、场强斜率或衰变常量。
 - 截距：初始值、常量项或系统误差。
-- 面积：累积量，常对应 displacement、work done、energy 或 charge。
+- 面积：累积量，常对应位移、做功、能量或电荷。
 - 切线：曲线某点瞬时变化率。
 - 线性化：把复杂关系变成直线，方便判断模型是否成立。
 
 ### 指数与对数
 
-- $e^{-t/RC}$：capacitor discharge。
-- $e^{-\lambda t}$：radioactive decay。
-- $\ln y$ against $x$：检验指数关系。
-- $\log y$ against $\log x$：检验幂律关系。
+- $e^{-t/RC}$：电容器放电。
+- $e^{-\lambda t}$：放射性衰变。
+- $\ln y$ 对 $x$：检验指数关系。
+- $\log y$ 对 $\log x$：检验幂律关系。
 
 ## 公式学习卡片
 
@@ -79,50 +79,50 @@ tags:
 
 ### 力学
 
-- Uniform acceleration：$s = ut + \frac{1}{2}at^2$，$v^2 = u^2 + 2as$
-- Newton's second law：$F = ma$
+- 匀加速度：$s = ut + \frac{1}{2}at^2$，$v^2 = u^2 + 2as$
+- 牛顿第二定律：$F = ma$
 - Momentum：$p = mv$
 - Work：$W = Fs$
-- Kinetic energy：$E_k = \frac{1}{2}mv^2$
-- Gravitational potential energy near Earth：$\Delta E_p = mg\Delta h$
+- 动能：$E_k = \frac{1}{2}mv^2$
+- 近地引力势能：$\Delta E_p = mg\Delta h$
 - Power：$P = \frac{W}{t}$，$P = Fv$
 
 ### 波与振动
 
-- Wave equation：$v = f\lambda$
+- 波动方程：$v = f\lambda$
 - Intensity：$I = \frac{P}{A}$
-- Malus's law：$I = I_0\cos^2\theta$
+- 马吕斯定律（Malus's law）：$I = I_0\cos^2\theta$
 - Double-slit：$\lambda = \frac{ax}{D}$
-- Diffraction grating：$d\sin\theta = n\lambda$
-- SHM：$a = -\omega^2x$
+- 衍射光栅：$d\sin\theta = n\lambda$
+- 简谐运动（SHM）：$a = -\omega^2x$
 
 ### 电磁学
 
 - Charge flow：$Q = It$
 - Potential difference：$V = \frac{W}{Q}$
-- Ohm's law：$V = IR$
+- 欧姆定律：$V = IR$
 - Resistivity：$R = \frac{\rho L}{A}$
-- Electric field：$F = qE$
-- Uniform field：$E = \frac{\Delta V}{\Delta d}$
-- Coulomb's law：$F = \frac{Q_1Q_2}{4\pi\varepsilon_0r^2}$
+- 电场：$F = qE$
+- 匀强电场：$E = \frac{\Delta V}{\Delta d}$
+- 库仑定律：$F = \frac{Q_1Q_2}{4\pi\varepsilon_0r^2}$
 - Capacitance：$C = \frac{Q}{V}$
-- Capacitor energy：$W = \frac{1}{2}QV = \frac{1}{2}CV^2$
-- Magnetic force on wire：$F = BIL\sin\theta$
-- Magnetic force on charge：$F = BQv\sin\theta$
-- Faraday's law and Lenz's law：changing flux induces e.m.f. opposing the change.
+- 电容器能量：$W = \frac{1}{2}QV = \frac{1}{2}CV^2$
+- 通电导线所受磁力：$F = BIL\sin\theta$
+- 运动电荷所受磁力：$F = BQv\sin\theta$
+- 法拉第电磁感应定律和楞次定律：变化的磁通量会感生反抗该变化的电动势.
 
 ### 热、量子与宇宙
 
 - Ideal gas：$pV = nRT = NkT$
 - Kinetic theory：$pV = \frac{1}{3}Nm\langle c^2 \rangle$
-- First law：$\Delta U = q + W$
-- Photon energy：$E = hf$
-- de Broglie wavelength：$\lambda = \frac{h}{p}$
-- Mass-energy：$E = mc^2$
-- Radioactive decay：$x = x_0e^{-\lambda t}$
-- Inverse square luminosity：$F = \frac{L}{4\pi d^2}$
+- 热力学第一定律：$\Delta U = q + W$
+- 光子能量：$E = hf$
+- 德布罗意波长：$\lambda = \frac{h}{p}$
+- 质能：$E = mc^2$
+- 放射性衰变：$x = x_0e^{-\lambda t}$
+- 平方反比光度：$F = \frac{L}{4\pi d^2}$
 - Stefan-Boltzmann：$L = 4\pi\sigma r^2T^4$
-- Hubble's law：$v \approx H_0d$
+- 哈勃定律：$v \approx H_0d$
 
 ## 使用原则
 
