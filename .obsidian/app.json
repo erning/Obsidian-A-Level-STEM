@@ -11,5 +11,6 @@
   "defaultViewMode": "preview",
   "livePreview": false,
   "promptDelete": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "propertiesInDocument": "hidden"
 }
