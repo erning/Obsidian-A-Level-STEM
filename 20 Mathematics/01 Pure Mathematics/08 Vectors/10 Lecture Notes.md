@@ -13,7 +13,7 @@ tags:
 
 # Vectors Lecture Notes
 
-This note develops [[20 Mathematics/01 Pure Mathematics/08 Vectors/00 Overview|Vectors]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+Vectors describe magnitude and direction. In pure mathematics they give a compact language for position, displacement, straight lines, angles, perpendicularity, and three-dimensional geometry. The most important habit is to say what each vector represents: a point's position, a displacement from one point to another, a line's direction, or a plane's normal.
 
 ## Source Route
 
@@ -21,112 +21,219 @@ This note develops [[20 Mathematics/01 Pure Mathematics/08 Vectors/00 Overview|V
 - 9231 1.6 Vectors
 - Coursebook route: 9709 Pure Mathematics 2 and 3 Chapter 9; 9231 Further Mathematics vector content.
 
-## 1. Core Frame
-
-Vectors describe magnitude and direction in two and three dimensions, then extend to lines, planes, distances, and angles.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
-
 ## Visual Guide
 
 ![[assets/generated/mathematics/vectors.svg]]
 
-Figure: This guide highlights vector addition and a parametric line in space.
+Figure: The guide shows vector addition and a parametric line. Use it to keep the geometry visible while doing component algebra.
 
+## 1. Notation, Magnitude, and Unit Vectors
 
-## 2. Essential Knowledge
+A vector in two or three dimensions may be written as a column vector or in unit-vector notation:
 
-### Position vectors, displacement vectors, and vector equations of lines
+$$
+\begin{pmatrix}x\\y\end{pmatrix}=x\mathbf i+y\mathbf j,
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+or
 
-A useful self-check is to explain why this item belongs in Vectors: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+\begin{pmatrix}x\\y\\z\end{pmatrix}=x\mathbf i+y\mathbf j+z\mathbf k.
+$$
 
-### Scalar product for angles, projections, and perpendicularity
+Its magnitude is
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+|\mathbf a|=\sqrt{x^2+y^2}
+$$
 
-A useful self-check is to explain why this item belongs in Vectors: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+in two dimensions, and
 
-### Vector product for area, normals, and three-dimensional geometry
+$$
+|\mathbf a|=\sqrt{x^2+y^2+z^2}
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+in three dimensions.
 
-A useful self-check is to explain why this item belongs in Vectors: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+A unit vector in the direction of a non-zero vector $\mathbf a$ is
 
-### Equations of planes in scalar product, Cartesian, and parametric forms
+$$
+\frac{\mathbf a}{|\mathbf a|}.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+Unit vectors keep direction but scale the length to $1$.
 
-A useful self-check is to explain why this item belongs in Vectors: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+## 2. Position and Displacement
 
-### Distances, intersections, skew lines, and common perpendiculars
+If point $A$ has position vector $\mathbf a$ and point $B$ has position vector $\mathbf b$, then the displacement from $A$ to $B$ is
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+\overrightarrow{AB}=\mathbf b-\mathbf a.
+$$
 
-A useful self-check is to explain why this item belongs in Vectors: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+This is one of the most important distinctions in the topic. A position vector points from the origin to a point. A displacement vector points from one point to another and does not depend on the origin.
 
-## 3. Method Selection
+The midpoint of $AB$ has position vector
 
-Use these habits while studying:
+$$
+\frac{1}{2}(\mathbf a+\mathbf b).
+$$
 
-- Draw geometric meaning before doing component algebra.
-- Name points, direction vectors, and normal vectors clearly.
-- Use scalar and vector products for different jobs.
+Vector addition has a geometric meaning: follow one displacement, then the next. For a parallelogram $OABC$,
 
-Use these practice routes to turn the ideas into fluency:
+$$
+\overrightarrow{OB}=\overrightarrow{OA}+\overrightarrow{OC}
+$$
 
-- Find line and plane equations.
-- Calculate angles and distances.
-- Solve intersection and skew-line problems.
+when the vectors are arranged as adjacent sides from $O$.
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+## 3. Vector Equation of a Line
 
-## 4. Worked-Thinking Pattern
+A straight line in vector form is
 
-1. Read the question and name the relevant concept from Vectors.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+$$
+\mathbf r=\mathbf a+t\mathbf d.
+$$
 
-## 5. Connections
+Here $\mathbf a$ is the position vector of one point on the line, $\mathbf d$ is a direction vector, and $t$ is a real parameter. The equation means: start at $\mathbf a$ and move any scalar multiple of $\mathbf d$.
+
+If a line passes through points with position vectors $\mathbf a$ and $\mathbf b$, a direction vector is
+
+$$
+\mathbf b-\mathbf a,
+$$
+
+so the line can be written as
+
+$$
+\mathbf r=\mathbf a+t(\mathbf b-\mathbf a).
+$$
+
+To test whether two lines are parallel, compare their direction vectors. If the direction vectors are scalar multiples, the lines are parallel or identical. If not, solve the component equations to test for an intersection. In three dimensions, two lines can be neither parallel nor intersecting; such lines are skew.
+
+## 4. Scalar Product
+
+The scalar product, or dot product, connects vectors with angles:
+
+$$
+\mathbf a\cdot\mathbf b=|\mathbf a||\mathbf b|\cos\theta.
+$$
+
+In components,
+
+$$
+\mathbf a\cdot\mathbf b=a_1b_1+a_2b_2+a_3b_3.
+$$
+
+Therefore
+
+$$
+\cos\theta=\frac{\mathbf a\cdot\mathbf b}{|\mathbf a||\mathbf b|}.
+$$
+
+If $\mathbf a$ and $\mathbf b$ are non-zero and
+
+$$
+\mathbf a\cdot\mathbf b=0,
+$$
+
+then the vectors are perpendicular.
+
+The scalar product also finds projections. The scalar projection of $\mathbf a$ onto $\mathbf b$ is
+
+$$
+\frac{\mathbf a\cdot\mathbf b}{|\mathbf b|}.
+$$
+
+This supports problems such as finding the foot of the perpendicular from a point to a line.
+
+## 5. Further Vector Geometry
+
+The following ideas belong mainly to 9231 but fit naturally after 9709 vectors.
+
+The vector product $\mathbf a\times\mathbf b$ is perpendicular to both $\mathbf a$ and $\mathbf b$. Its magnitude is
+
+$$
+|\mathbf a\times\mathbf b|=|\mathbf a||\mathbf b|\sin\theta.
+$$
+
+It can be used for:
+
+- area of a parallelogram spanned by two vectors;
+- a normal vector to a plane;
+- shortest-distance problems in three dimensions.
+
+A plane can be written in normal form as
+
+$$
+(\mathbf r-\mathbf a)\cdot\mathbf n=0,
+$$
+
+where $\mathbf a$ is a point on the plane and $\mathbf n$ is a normal vector. It can also be written in Cartesian form
+
+$$
+ax+by+cz=d
+$$
+
+or in parametric form
+
+$$
+\mathbf r=\mathbf a+s\mathbf u+t\mathbf v.
+$$
+
+Here $\mathbf u$ and $\mathbf v$ are two non-parallel direction vectors lying in the plane.
+
+Distance from a point to a plane uses the normal direction. Intersections between lines and planes are found by substituting the line equation into the plane equation. The angle between a line and a plane is best handled by comparing the line direction with the plane normal.
+
+For two skew lines, the shortest distance is measured along a common perpendicular. A vector product of the two direction vectors gives a direction perpendicular to both lines.
+
+## Worked-Thinking Routines
+
+### Line Problems
+
+1. Identify a point on the line and a direction vector.
+2. Write $\mathbf r=\mathbf a+t\mathbf d$.
+3. For intersections, equate components and solve parameters.
+4. Check all components, not just two.
+5. Classify as intersecting, parallel, identical, or skew.
+
+### Angle or Perpendicularity
+
+1. Choose the two direction vectors.
+2. Use the scalar product.
+3. For perpendicularity, test whether the dot product is zero.
+4. For an angle, compute $\cos\theta$ and interpret the angle required by the problem.
+
+### Plane Problems
+
+1. Decide whether a normal vector or two direction vectors are given.
+2. Choose normal, Cartesian, or parametric form accordingly.
+3. Convert between forms using dot products or vector products.
+4. Use substitution for intersections.
+5. Check the geometry with a sketch.
+
+## Common Mistakes
+
+- Confusing a point with its position vector.
+- Confusing a position vector with a displacement vector.
+- Finding a unit vector but forgetting to divide by the magnitude.
+- Using only two components to prove that 3D lines intersect.
+- Assuming non-intersecting 3D lines are parallel.
+- Using scalar product when a normal vector from a vector product is needed.
+- Forgetting that a plane needs either one point and a normal, or one point and two independent directions.
+
+## Quick Self-Check
+
+You are ready to move on when you can:
+
+- Move between column-vector and unit-vector notation.
+- Find displacement vectors and midpoints from position vectors.
+- Write a vector equation of a line from two points or from one point and a direction.
+- Classify two 3D lines as parallel, intersecting, identical, or skew.
+- Use scalar products for angles, perpendicularity, and projections.
+- Explain what vector products and plane normals add in 9231.
+
+## Connections
 
 - [[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]]
 - [[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physics Vectors]]
-
-## 6. Common Traps
-
-- Confusing a point vector with a direction vector.
-- Using scalar product when vector product is needed, or vice versa.
-- Assuming two non-intersecting 3D lines are parallel.
-
-## Study Sequence
-
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.

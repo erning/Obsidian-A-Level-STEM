@@ -13,7 +13,7 @@ tags:
 
 # Sampling, Estimation and Hypothesis Tests Lecture Notes
 
-This note develops [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+Statistical inference uses a sample to say something uncertain but controlled about a population. The central idea is that a statistic such as $\bar X$ varies from sample to sample, and we use its sampling distribution to build intervals or tests.
 
 ## Source Route
 
@@ -22,112 +22,139 @@ This note develops [[20 Mathematics/03 Probability and Statistics/06 Sampling Es
 - 9231 4.2 Inference using normal and t-distributions
 - Coursebook route: 9709 Probability and Statistics 2 sampling, estimation, and hypothesis testing chapters; 9231 further inference content.
 
-## 1. Core Frame
-
-Statistical inference uses samples to make uncertain statements about populations.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
-
 ## Visual Guide
 
 ![[assets/generated/mathematics/sampling-estimation-and-hypothesis-tests.svg]]
 
-Figure: This guide highlights sampling distribution, confidence interval, and rejection regions.
+Figure: use the guide to connect sampling distributions, confidence intervals, and rejection regions.
 
+## 1. Population, Sample, and Sampling Distribution
 
-## 2. Essential Knowledge
+A population is the whole group or process of interest. A sample is the observed subset. A parameter, such as a population mean $\mu$ or population proportion $p$, describes the population. A statistic, such as $\bar X$ or $\hat p$, is calculated from the sample.
 
-### Population, sample, statistic, estimator, sampling distribution, and standard error
+Random sampling matters because it lets the statistic have a meaningful probability distribution. If the sample is biased, a neat formula cannot rescue the inference.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+For a sample of size $n$ from a population with mean $\mu$ and variance $\sigma^2$,
 
-A useful self-check is to explain why this item belongs in Sampling, Estimation and Hypothesis Tests: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+E(\bar X)=\mu,\qquad \operatorname{Var}(\bar X)=\frac{\sigma^2}{n}.
+$$
 
-### Confidence intervals and interpretation
+The standard error of $\bar X$ is
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+\frac{\sigma}{\sqrt n}.
+$$
 
-A useful self-check is to explain why this item belongs in Sampling, Estimation and Hypothesis Tests: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+The Central Limit Theorem says that for large samples, the sampling distribution of $\bar X$ is approximately normal, even when the original population is not exactly normal.
 
-### Null hypothesis, alternative hypothesis, significance level, critical region, and test statistic
+## 2. Estimation and Confidence Intervals
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+An estimator is a rule for estimating a parameter. The sample mean estimates $\mu$. The usual unbiased estimate of population variance from raw data is
 
-A useful self-check is to explain why this item belongs in Sampling, Estimation and Hypothesis Tests: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+s^2=\frac{\sum (x-\bar x)^2}{n-1}.
+$$
 
-### Hypothesis tests using normal, binomial, Poisson, or t-distribution methods where appropriate
+A confidence interval gives a range of plausible parameter values. If the population variance is known, or if a large-sample normal approximation is appropriate, a confidence interval for a population mean has the form
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+\bar x\pm z\frac{\sigma}{\sqrt n}.
+$$
 
-A useful self-check is to explain why this item belongs in Sampling, Estimation and Hypothesis Tests: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+For a large-sample population proportion,
 
-### Type I and Type II errors at a conceptual level
+$$
+\hat p\pm z\sqrt{\frac{\hat p(1-\hat p)}{n}}.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+A confidence level is about the long-run method, not about one fixed interval after it has been calculated. A 95% method produces intervals that contain the true parameter about 95% of the time in repeated sampling.
 
-A useful self-check is to explain why this item belongs in Sampling, Estimation and Hypothesis Tests: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+## 3. Hypothesis Test Structure
 
-## 3. Method Selection
+A hypothesis test asks whether the sample result is unusually far from what the null hypothesis predicts.
 
-Use these habits while studying:
+The null hypothesis $H_0$ is the model being tested. The alternative hypothesis $H_1$ states the direction or kind of departure:
 
-- State the population and parameter before calculating.
-- Write hypotheses in symbols and words.
-- Interpret conclusions in context instead of saying only reject or do not reject.
+- one-tailed: $H_1:\mu>\mu_0$ or $H_1:\mu<\mu_0$;
+- two-tailed: $H_1:\mu\ne\mu_0$.
 
-Use these practice routes to turn the ideas into fluency:
+The significance level $\alpha$ is the probability of rejecting $H_0$ when $H_0$ is true. The rejection region, also called the critical region, is the set of test statistic values that lead to rejection.
 
-- Construct confidence intervals.
-- Carry out hypothesis tests step by step.
-- Choose an inference method based on model assumptions.
+A $p$-value is the probability, assuming $H_0$ is true, of obtaining the observed result or something at least as extreme in the direction of $H_1$. If $p<\alpha$, reject $H_0$.
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+## 4. Choosing a Test
 
-## 4. Worked-Thinking Pattern
+The method depends on the statistic and the model.
 
-1. Read the question and name the relevant concept from Sampling, Estimation and Hypothesis Tests.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+- For a single observation from a binomial or Poisson population, use direct probabilities or a suitable normal approximation.
+- For a population mean with known variance, or a large sample, use a normal test statistic.
+- For a small sample from a normal population with unknown variance, use a $t$-test.
+- For paired data, reduce to the differences and use a paired $t$-test when the differences are modelled as normal.
+- For two independent normal samples with unknown but equal variances, use a pooled 2-sample $t$-test where appropriate.
+- For differences of means with known variances or large samples, a normal distribution may be appropriate.
 
-## 5. Connections
+For a normal test of a mean with known $\sigma$,
+
+$$
+Z=\frac{\bar X-\mu_0}{\sigma/\sqrt n}.
+$$
+
+For a one-sample $t$-test with sample standard deviation $s$,
+
+$$
+T=\frac{\bar X-\mu_0}{s/\sqrt n},
+$$
+
+with $n-1$ degrees of freedom.
+
+## 5. Type I and Type II Errors
+
+A Type I error is rejecting $H_0$ when $H_0$ is true. Its probability is the significance level, if the rejection region is set exactly to $\alpha$.
+
+A Type II error is not rejecting $H_0$ when $H_1$ is true. To calculate it, assume a particular alternative parameter value, then find the probability that the test statistic falls in the acceptance region under that alternative.
+
+These errors are not just vocabulary. They describe the trade-off between being too quick to reject and being too slow to detect a real change.
+
+## Worked-Thinking Routine
+
+1. Identify the population, parameter, sample statistic, and model assumptions.
+2. Decide whether the task is estimation or testing.
+3. For intervals, choose the standard error and critical value.
+4. For tests, write $H_0$ and $H_1$ in symbols and words.
+5. Select the distribution of the test statistic under $H_0$.
+6. Use a rejection region or $p$-value consistently.
+7. State the conclusion in context without saying $H_0$ has been proved.
+
+## Common Mistakes
+
+- Treating a biased sampling method as if it were random.
+- Confusing population standard deviation, sample standard deviation, and standard error.
+- Saying a fixed confidence interval has a 95% probability of containing the parameter.
+- Writing hypotheses after seeing the calculation.
+- Confusing one-tailed and two-tailed alternatives.
+- Saying the null hypothesis is proved.
+- Interpreting the significance level as the probability that $H_0$ is true.
+- Using a normal test when a small-sample $t$-test is required.
+
+## Quick Self-Check
+
+- Can you distinguish parameter, statistic, estimator, and estimate?
+- Can you explain why $\operatorname{Var}(\bar X)=\sigma^2/n$?
+- Can you construct and interpret a confidence interval?
+- Can you choose between normal, binomial, Poisson, and $t$ tests?
+- Can you define Type I and Type II errors for a specific context?
+
+## Connections
 
 - [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]
 - [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/00 Overview|Chi-Squared, Non-Parametric Tests and PGF]]
 
-## 6. Common Traps
-
-- Saying the null hypothesis is proved.
-- Confusing significance level with probability the null is true.
-- Ignoring one-tailed versus two-tailed alternatives.
-
 ## Study Sequence
 
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.
+1. Review samples, populations, and random sampling.
+2. Study the sampling distribution of $\bar X$.
+3. Build confidence intervals for means and proportions.
+4. Practise the structure of hypothesis tests.
+5. Add binomial, Poisson, normal, and $t$ tests.
+6. Finish with Type I and Type II error calculations.

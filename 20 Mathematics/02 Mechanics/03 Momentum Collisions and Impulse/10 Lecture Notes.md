@@ -13,7 +13,7 @@ tags:
 
 # Momentum, Collisions and Impulse Lecture Notes
 
-This note develops [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/00 Overview|Momentum, Collisions and Impulse]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+Momentum is the quantity that stays useful when interactions are brief and forces are hard to know in detail. In a collision, the contact force may be large and variable, but the total momentum of a suitable system can often be tracked before and after the impact.
 
 ## Source Route
 
@@ -21,111 +21,149 @@ This note develops [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impu
 - 9231 3.6 Momentum
 - Coursebook route: 9709 Mechanics momentum chapter; 9231 Further Mechanics momentum and impact content.
 
-## 1. Core Frame
-
-Momentum and impulse handle interactions where forces act over time, especially collisions.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
-
 ## Visual Guide
 
 ![[assets/generated/mathematics/momentum-collisions-and-impulse.svg]]
 
-Figure: This guide highlights before-and-after momentum and impulse as area under force-time graph.
+Figure: use the guide to separate before-and-after momentum from impulse as force accumulated over time.
 
+## 1. Momentum and System Boundaries
 
-## 2. Essential Knowledge
+Linear momentum is
 
-### Momentum, impulse, and conservation of momentum
+$$
+p=mv.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+It is a vector quantity. In one-dimensional problems, that means velocities must carry signs. A negative velocity after a collision is not a failure; it means the particle moves in the direction opposite to your chosen positive direction.
 
-A useful self-check is to explain why this item belongs in Momentum, Collisions and Impulse: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+For a system with no external impulse in a chosen direction, total momentum in that direction is conserved:
 
-### Direct impact and oblique impact where included by 9231
+$$
+\sum m u=\sum m v.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+The phrase "in a chosen direction" matters. Momentum can be conserved horizontally even if vertical external forces are present, and in oblique impact each component must be considered separately.
 
-A useful self-check is to explain why this item belongs in Momentum, Collisions and Impulse: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+## 2. Impulse
 
-### Coefficient of restitution
+Impulse is the effect of a force acting over a time interval. For a constant force,
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+I=Ft.
+$$
 
-A useful self-check is to explain why this item belongs in Momentum, Collisions and Impulse: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+For a variable force,
 
-### Energy changes in collisions
+$$
+I=\int F\,dt,
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+so impulse is the area under a force-time graph. The impulse-momentum relation is
 
-A useful self-check is to explain why this item belongs in Momentum, Collisions and Impulse: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+I=\Delta p=m(v-u).
+$$
 
-### System boundaries and external impulses
+During a collision between two bodies, the impulses they exert on each other are equal and opposite. This is why internal collision forces do not change the total momentum of the two-body system.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+## 3. Direct Impact
 
-A useful self-check is to explain why this item belongs in Momentum, Collisions and Impulse: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+A direct impact is one-dimensional along the line of motion or line of centres. Let two bodies of masses $m_1$ and $m_2$ have velocities $u_1,u_2$ before impact and $v_1,v_2$ after impact, all measured in the same positive direction. Momentum conservation gives
 
-## 3. Method Selection
+$$
+m_1u_1+m_2u_2=m_1v_1+m_2v_2.
+$$
 
-Use these habits while studying:
+For 9709-style direct impact, this equation may be enough, especially when the bodies coalesce. If they stick together, then
 
-- Define the system before using conservation.
-- Choose axes along and perpendicular to the line of impact.
-- Compare momentum conservation with kinetic energy behaviour.
+$$
+v_1=v_2.
+$$
 
-Use these practice routes to turn the ideas into fluency:
+For 9231 impact problems, momentum conservation is usually paired with Newton's experimental law through the coefficient of restitution.
 
-- Solve one-dimensional and two-dimensional collision problems.
-- Use impulse-momentum equations.
-- Apply coefficient of restitution.
+## 4. Coefficient of Restitution
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+The coefficient of restitution $e$ measures how much relative speed along the line of impact remains after a collision:
 
-## 4. Worked-Thinking Pattern
+$$
+e=\frac{\text{speed of separation}}{\text{speed of approach}},
+\qquad 0\le e\le 1.
+$$
 
-1. Read the question and name the relevant concept from Momentum, Collisions and Impulse.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+In a common one-dimensional setup where body 1 approaches body 2, this becomes
 
-## 5. Connections
+$$
+e=\frac{v_2-v_1}{u_1-u_2}.
+$$
 
-- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Physics Dynamics]]
+The numerator is the relative speed after impact, and the denominator is the relative speed before impact. Do not memorise only the positions of the symbols; identify which bodies are separating and approaching.
 
-## 6. Common Traps
+Special cases:
 
-- Assuming kinetic energy is conserved in every collision.
+- $e=1$: perfectly elastic impact.
+- $e=0$: inelastic impact, with no separation speed along the line of impact.
+- $0<e<1$: kinetic energy is lost from mechanical form during impact.
+
+## 5. Oblique Impact
+
+In oblique impact of smooth spheres, choose axes along the line of centres and perpendicular to it. Smooth contact means the impulse acts along the line of centres only. Therefore:
+
+- along the line of centres, use momentum conservation and restitution;
+- perpendicular to the line of centres, each sphere's velocity component is unchanged.
+
+For impact with a fixed smooth surface, resolve velocity into normal and tangential components. The tangential component is unchanged. The normal component reverses direction and is multiplied in magnitude by $e$:
+
+$$
+v_{\text{normal after}}=-e\,u_{\text{normal before}}.
+$$
+
+This component view is the cleanest way to avoid confusion about angles after impact.
+
+## 6. Energy as a Check
+
+Momentum conservation does not mean kinetic energy conservation. In a perfectly elastic collision, kinetic energy is conserved. In most impact models with $e<1$, kinetic energy decreases. The lost mechanical energy has gone into deformation, sound, heat, or internal energy.
+
+Use energy mainly as a check unless the problem explicitly gives an elastic collision. If your calculation gives a gain in kinetic energy with no external energy input, check your signs and restitution equation.
+
+## Worked-Thinking Routine
+
+1. Define the system and the direction or axes.
+2. Label all before-impact and after-impact velocities with signs.
+3. Decide whether external impulse can be ignored in the direction used.
+4. Write momentum conservation for the relevant direction.
+5. Add a second equation: coalescence, restitution, or an unchanged tangential component.
+6. Check whether the final velocities make physical sense.
+7. Use kinetic energy as a final reasonableness check.
+
+## Common Mistakes
+
 - Ignoring direction in momentum.
-- Using coefficient of restitution with the wrong relative velocities.
+- Treating momentum conservation as automatic when there is an external impulse.
+- Reversing speed of approach and speed of separation in the restitution equation.
+- Assuming every collision conserves kinetic energy.
+- Forgetting that smooth oblique impact leaves tangential components unchanged.
+- Deleting a negative velocity instead of interpreting it as direction.
+
+## Quick Self-Check
+
+- Can you explain why impulse equals change in momentum?
+- Can you choose a system where internal impulses cancel?
+- Can you write momentum conservation with signed velocities?
+- Can you form the restitution equation from approach and separation?
+- Can you resolve an oblique impact into normal and tangential components?
+
+## Connections
+
+- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
+- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
+- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Physics Dynamics]]
 
 ## Study Sequence
 
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.
+1. Start with one-dimensional momentum conservation.
+2. Add coalescence and signed velocities.
+3. Introduce impulse using force-time area.
+4. Add the coefficient of restitution.
+5. Move to oblique impact by resolving into normal and tangential components.

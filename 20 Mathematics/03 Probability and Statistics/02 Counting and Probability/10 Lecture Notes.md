@@ -13,7 +13,7 @@ tags:
 
 # Counting and Probability Lecture Notes
 
-This note develops [[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/00 Overview|Counting and Probability]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+Probability becomes reliable only after the sample space is clear. Counting is the craft of describing that sample space without omissions or double counting. In this topic, do not begin with a formula; begin with the experiment, the event, and the structure of the outcomes.
 
 ## Source Route
 
@@ -21,111 +21,139 @@ This note develops [[20 Mathematics/03 Probability and Statistics/02 Counting an
 - 9709 5.3 Probability
 - Coursebook route: 9709 Probability and Statistics 1 chapters on permutations, combinations, and probability.
 
-## 1. Core Frame
-
-Probability starts with describing the sample space and counting outcomes without double counting.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
-
 ## Visual Guide
 
 ![[assets/generated/mathematics/counting-and-probability.svg]]
 
-Figure: This guide highlights sample-space structure from a probability tree.
+Figure: use the probability tree to see how multi-stage sample spaces branch.
 
+## 1. Counting Decisions
 
-## 2. Essential Knowledge
+Most counting problems start with three questions.
 
-### Permutations and combinations
+1. Does order matter?
+2. Is repetition allowed?
+3. Are there restrictions such as "together", "not together", or fixed positions?
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+If order matters, use arrangements or permutations. If order does not matter, use combinations.
 
-A useful self-check is to explain why this item belongs in Counting and Probability: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+For $r$ ordered choices from $n$ distinct objects without repetition,
 
-### Sample space, events, complements, mutually exclusive events, and independent events
+$$
+{}^nP_r=\frac{n!}{(n-r)!}.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+For $r$ unordered choices from $n$ distinct objects,
 
-A useful self-check is to explain why this item belongs in Counting and Probability: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+{}^nC_r=\binom nr=\frac{n!}{r!(n-r)!}.
+$$
 
-### Addition and multiplication rules
+If objects repeat, divide by the factorials of repeated counts. For example, NEEDLESS has eight letters, with three Es and two Ss, so the number of different arrangements is
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+\frac{8!}{3!2!}.
+$$
 
-A useful self-check is to explain why this item belongs in Counting and Probability: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+## 2. Multiplication and Addition in Counting
 
-### Conditional probability
+The multiplication principle applies when a process is made of stages. If stage one has $a$ choices and stage two has $b$ choices for each first choice, there are $ab$ outcomes.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+The addition principle applies when cases are alternatives that do not overlap. If case A has $a$ outcomes, case B has $b$ outcomes, and no outcome is in both cases, there are $a+b$ outcomes.
 
-A useful self-check is to explain why this item belongs in Counting and Probability: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+Restrictions often become easier after splitting into cases. For "two people must sit together", treat them as a block first, then arrange within the block. For "two people must not sit together", it is often easier to count all arrangements and subtract the together case.
 
-### Tree diagrams, Venn diagrams, and probability notation
+## 3. Probability Language
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+The sample space is the set of possible outcomes. An event is a subset of the sample space. If all elementary outcomes are equally likely, then
 
-A useful self-check is to explain why this item belongs in Counting and Probability: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+P(A)=\frac{\text{number of outcomes in }A}{\text{number of outcomes in the sample space}}.
+$$
 
-## 3. Method Selection
+The complement of $A$ is $A'$, and
 
-Use these habits while studying:
+$$
+P(A')=1-P(A).
+$$
 
-- Define the experiment and event before calculating.
-- Use diagrams to make overlap and conditioning visible.
-- Check whether order matters.
+For two events,
 
-Use these practice routes to turn the ideas into fluency:
+$$
+P(A\cup B)=P(A)+P(B)-P(A\cap B).
+$$
 
-- Count arrangements and selections.
-- Use conditional probability.
-- Solve multi-stage probability problems.
+If $A$ and $B$ are mutually exclusive, they cannot happen together, so
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+$$
+P(A\cap B)=0.
+$$
 
-## 4. Worked-Thinking Pattern
+## 4. Conditional Probability and Independence
 
-1. Read the question and name the relevant concept from Counting and Probability.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+Conditional probability changes the sample space. The probability of $A$ given that $B$ has happened is
 
-## 5. Connections
+$$
+P(A\mid B)=\frac{P(A\cap B)}{P(B)}.
+$$
 
-- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]
+Events $A$ and $B$ are independent if knowing that one has occurred does not change the probability of the other. Equivalently,
 
-## 6. Common Traps
+$$
+P(A\cap B)=P(A)P(B),
+$$
+
+or
+
+$$
+P(A\mid B)=P(A).
+$$
+
+Mutually exclusive and independent are different ideas. Two non-empty mutually exclusive events are not independent, because one occurring makes the other impossible.
+
+## 5. Diagrams
+
+Use a Venn diagram when events overlap. It makes $A\cap B$, $A\cup B$, and complements visible.
+
+Use a tree diagram for multi-stage processes, especially when probabilities change after each stage. Along one path, multiply probabilities. Across alternative paths that lead to the same event, add the path probabilities.
+
+A table is useful for two dice, two categorical variables, or any situation where enumeration is safer than clever algebra.
+
+## Worked-Thinking Routine
+
+1. Define the experiment and event in words.
+2. Decide whether outcomes are equally likely.
+3. If counting is needed, decide whether order matters and whether repetition is allowed.
+4. Choose a representation: list, table, tree, Venn diagram, permutation, or combination.
+5. Check for overlap before adding cases.
+6. Interpret the probability in context.
+
+## Common Mistakes
 
 - Using permutations when combinations are needed.
 - Assuming events are independent without evidence.
 - Counting the same outcome twice.
+- Adding overlapping cases without subtracting the overlap.
+- Treating "without replacement" as if probabilities stay constant.
+- Forgetting to divide arrangements by repeated identical objects.
+- Confusing $P(A\mid B)$ with $P(B\mid A)$.
+
+## Quick Self-Check
+
+- Can you decide whether order matters?
+- Can you count arrangements with repeated letters?
+- Can you explain the difference between mutually exclusive and independent events?
+- Can you build a tree diagram for sampling without replacement?
+- Can you use conditional probability without changing the meaning of the event?
+
+## Connections
+
+- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]
 
 ## Study Sequence
 
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.
+1. Practise permutations and combinations separately.
+2. Add repeated objects and restrictions.
+3. Translate counting results into probabilities.
+4. Work with complements, unions, intersections, and conditional probability.
+5. Use tree diagrams for multi-stage probability.

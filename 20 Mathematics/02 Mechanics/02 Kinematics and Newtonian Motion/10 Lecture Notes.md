@@ -13,120 +13,166 @@ tags:
 
 # Kinematics and Newtonian Motion Lecture Notes
 
-This note develops [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+Kinematics describes motion. Newtonian motion explains motion by connecting force and acceleration. Keep those two jobs separate while learning: first describe how position and velocity change, then ask what resultant force would produce that acceleration.
 
 ## Source Route
 
 - 9709 4.2 Kinematics of motion in a straight line
-- 9709 4.4 Newton’s laws of motion
+- 9709 4.4 Newton's laws of motion
 - Coursebook route: 9709 Mechanics kinematics and Newton's laws chapters; linked to Physics kinematics and dynamics.
-
-## 1. Core Frame
-
-Kinematics describes motion, and Newtonian motion explains it with force and acceleration.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
 ## Visual Guide
 
 ![[assets/generated/mathematics/kinematics-and-newtonian-motion.svg]]
 
-Figure: This guide highlights motion graphs joined to the force-acceleration model.
+Figure: use the diagram to connect motion graphs, calculus relationships, and the force model.
 
+## 1. Quantities and Sign Conventions
 
-## 2. Essential Knowledge
+In one-dimensional motion, the first decision is the positive direction. After that, every displacement, velocity, acceleration, and force component must follow that sign convention.
 
-### Displacement, velocity, acceleration, and motion graphs
+Distance and speed are scalar quantities. They tell you how far or how fast without direction. Displacement, velocity, and acceleration are vector quantities in this syllabus context; in a straight-line problem that means they may be positive or negative.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+The basic calculus links are
 
-A useful self-check is to explain why this item belongs in Kinematics and Newtonian Motion: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+v=\frac{ds}{dt},\qquad a=\frac{dv}{dt}.
+$$
 
-### Constant-acceleration formulae and calculus relationships
+Going the other way,
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+s=\int v\,dt,\qquad v=\int a\,dt,
+$$
 
-A useful self-check is to explain why this item belongs in Kinematics and Newtonian Motion: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+with constants of integration found from the initial conditions.
 
-### Newton's laws of motion for particles
+## 2. Motion Graphs
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+Graphs are not decorations in kinematics. They are another form of the same information.
 
-A useful self-check is to explain why this item belongs in Kinematics and Newtonian Motion: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+For a displacement-time graph:
 
-### Connected particles and pulley-style models where required
+- the gradient is velocity;
+- a horizontal tangent means zero velocity at that instant;
+- increasing steepness means increasing speed in the positive direction.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+For a velocity-time graph:
 
-A useful self-check is to explain why this item belongs in Kinematics and Newtonian Motion: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+- the gradient is acceleration;
+- the area under the graph is displacement, with area below the time axis counted as negative;
+- a crossing of the time axis means the particle changes direction.
 
-### Solving motion problems with clear sign conventions
+Graph questions often become simple once you translate "gradient" and "area" before doing any algebra.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+## 3. Constant-Acceleration Formulae
 
-A useful self-check is to explain why this item belongs in Kinematics and Newtonian Motion: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+When acceleration is constant, the standard formulae are
 
-## 3. Method Selection
+$$
+v=u+at,
+$$
 
-Use these habits while studying:
+$$
+s=ut+\frac12at^2,
+$$
 
-- Decide whether to use graph, formula, or calculus form.
-- Draw the force diagram before applying $F = ma$.
-- Keep constraints between connected particles explicit.
+$$
+v^2=u^2+2as,
+$$
 
-Use these practice routes to turn the ideas into fluency:
+and
 
-- Solve straight-line motion problems.
-- Use $s$-$t$, $v$-$t$, and $a$-$t$ graphs.
-- Apply Newton's second law to connected particles.
+$$
+s=\frac12(u+v)t.
+$$
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+Here $u$ is initial velocity, $v$ is final velocity, $a$ is constant acceleration, $s$ is displacement, and $t$ is time.
 
-## 4. Worked-Thinking Pattern
+These formulae are powerful because they remove calculus, but only when $a$ is constant. If acceleration changes with time, return to $v=ds/dt$ and $a=dv/dt$.
 
-1. Read the question and name the relevant concept from Kinematics and Newtonian Motion.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+Vertical motion is just constant acceleration with gravity. If upward is positive, a freely moving particle has acceleration $-g$; if downward is positive, it has acceleration $g$. The sign is not a property of gravity alone, but of your coordinate choice.
 
-## 5. Connections
+## 4. From Kinematics to Dynamics
 
+Newton's second law is the bridge from forces to acceleration:
+
+$$
+\sum F=ma.
+$$
+
+The left side is the resultant force in the chosen direction, not just one convenient force. Before using the equation, draw a force diagram and resolve forces along the direction of motion.
+
+Mass and weight are connected by
+
+$$
+W=mg.
+$$
+
+Mass is the amount of matter and is measured in kilograms. Weight is a force and is measured in newtons.
+
+In this topic, the usual models are particles of constant mass under constant forces. Forces may include weight, tension, friction, normal contact force, thrust in a rod, or an applied force. If resistance such as air resistance is relevant, the question must specify it.
+
+## 5. Connected Particles
+
+Connected-particle questions test modelling as much as algebra. A light inextensible string gives connected particles the same magnitude of acceleration along the string. A smooth pulley changes the direction of tension without changing its magnitude in the ideal model.
+
+There are two useful viewpoints.
+
+- Treat each particle separately when you need the tension.
+- Treat the connected particles as one system when you want to eliminate internal tension.
+
+For example, if two particles are connected by a light string over a smooth pulley, write $\sum F=ma$ for each particle with a consistent direction of motion. The tension appears in both equations and can often be eliminated by adding them.
+
+## 6. Method Choice
+
+Start by identifying which information is given.
+
+- Use constant-acceleration formulae when acceleration is constant and the unknown is one of $u,v,a,s,t$.
+- Use graphs when slopes or areas are given or requested.
+- Use calculus when velocity or acceleration is given as a function of time.
+- Use Newton's second law when forces are given and acceleration is unknown.
+- Use the whole-system method when internal tensions are distracting.
+
+## Worked-Thinking Routine
+
+1. State the positive direction.
+2. Identify whether the problem is kinematics only, or whether forces are involved.
+3. For kinematics, choose graph, formula, or calculus.
+4. For dynamics, draw the force diagram before writing $\sum F=ma$.
+5. Keep units consistent: metres, seconds, kilograms, newtons.
+6. Interpret negative answers as direction information.
+
+## Common Mistakes
+
+- Changing the positive direction halfway through.
+- Using distance when the equation requires displacement.
+- Treating speed and velocity as interchangeable.
+- Using constant-acceleration formulae when acceleration varies.
+- Reading height instead of area on a velocity-time graph.
+- Writing $F=ma$ for a single force instead of the resultant force.
+- Forgetting that connected particles share acceleration magnitude only under the ideal string constraint.
+
+## Quick Self-Check
+
+- Can you explain the difference between distance and displacement?
+- Can you read velocity and acceleration from motion graphs?
+- Can you decide whether the constant-acceleration formulae are allowed?
+- Can you derive $s$ from $v(t)$, or $v$ from $a(t)$?
+- Can you draw a force diagram and turn it into $\sum F=ma$?
+
+## Connections
+
+- [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]]
+- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
 - [[10 Physics/01 Topics/02 Kinematics/00 Overview|Physics Kinematics]]
 - [[10 Physics/01 Topics/03 Dynamics/00 Overview|Physics Dynamics]]
 
-## 6. Common Traps
-
-- Changing sign convention halfway through.
-- Using constant-acceleration formulae when acceleration varies.
-- Forgetting that connected particles share acceleration magnitude under ideal string constraints.
-
 ## Study Sequence
 
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.
+1. Practise sign conventions with short straight-line examples.
+2. Translate displacement-time and velocity-time graphs into words.
+3. Use constant-acceleration formulae until you can choose the right equation quickly.
+4. Rework the same motion with calculus where possible.
+5. Add force diagrams and Newton's second law.
+6. Finish with connected-particle models.

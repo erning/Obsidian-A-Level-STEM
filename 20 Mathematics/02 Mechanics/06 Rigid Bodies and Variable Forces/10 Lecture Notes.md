@@ -13,7 +13,7 @@ tags:
 
 # Rigid Bodies and Variable Forces Lecture Notes
 
-This note develops [[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces/00 Overview|Rigid Bodies and Variable Forces]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+This topic extends mechanics in two directions. Rigid bodies make shape and rotation unavoidable. Variable forces make calculus unavoidable. In both cases, the main skill is choosing the right model before writing equations.
 
 ## Source Route
 
@@ -21,112 +21,152 @@ This note develops [[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Fo
 - 9231 3.5 Linear motion under a variable force
 - Coursebook route: 9231 Further Mechanics rigid-body and variable-force content.
 
-## 1. Core Frame
-
-Rigid bodies require moments and geometry; variable forces require calculus.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
-
 ## Visual Guide
 
 ![[assets/generated/mathematics/rigid-bodies-and-variable-forces.svg]]
 
-Figure: This guide highlights moments on a beam and work from a variable force.
+Figure: use the diagram to connect moment balance for an extended body with calculus for a variable force.
 
+## 1. Rigid Bodies Beyond Particles
 
-## 2. Essential Knowledge
+A particle model ignores size and rotation. A rigid body has shape, so forces can have turning effects. For coplanar forces, rigid-body equilibrium requires
 
-### Rigid-body equilibrium with forces and moments
+$$
+\sum F_x=0,\qquad \sum F_y=0,\qquad \sum M=0.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+The moment equation is not optional. A body can have zero resultant force and still rotate if the moments do not balance.
 
-A useful self-check is to explain why this item belongs in Rigid Bodies and Variable Forces: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+Choose the point for taking moments strategically. A force passing through the chosen point has zero moment, so taking moments about a hinge, contact point, or support often removes unknown reactions.
 
-### Centre of mass and stability-style reasoning where relevant
+## 2. Centre of Mass
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+The effect of gravity on a rigid body is equivalent to a single force $mg$ acting at the centre of mass. For uniform bodies, symmetry is the first method: the centre of mass lies on every line or plane of symmetry.
 
-A useful self-check is to explain why this item belongs in Rigid Bodies and Variable Forces: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+For composite bodies, replace each part by a particle at its own centre of mass. In one dimension,
 
-### Variable force as a function of position, time, or velocity
+$$
+\bar x=\frac{\sum m_i x_i}{\sum m_i}.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+For a uniform lamina, mass is proportional to area, so areas may replace masses:
 
-A useful self-check is to explain why this item belongs in Rigid Bodies and Variable Forces: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+\bar x=\frac{\sum A_i x_i}{\sum A_i}.
+$$
 
-### Using integration for work done by a variable force
+For composite shapes with holes, treat the removed part as negative area or negative mass. Keep the reference axis fixed throughout the calculation.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+## 3. Sliding and Toppling
 
-A useful self-check is to explain why this item belongs in Rigid Bodies and Variable Forces: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+Rigid-body questions often ask whether a body is about to slide or topple.
 
-### Using differential equations for motion under variable force
+For sliding, friction reaches its limiting value:
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+F=\mu R.
+$$
 
-A useful self-check is to explain why this item belongs in Rigid Bodies and Variable Forces: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+For toppling, the normal reaction shifts to an edge or pivot point. The limiting condition is usually found by taking moments about that edge. The line of action of the weight through the centre of mass is what decides the turning effect.
 
-## 3. Method Selection
+If both sliding and toppling are possible, calculate the condition for each and compare which occurs first.
 
-Use these habits while studying:
+## 4. Variable Forces and Newton's Second Law
 
-- Keep dimensions and pivot points visible in diagrams.
-- Choose the variable before writing a differential equation.
-- Use units to check force, work, and acceleration functions.
+When the force is not constant, acceleration is not usually constant, so the constant-acceleration formulae are no longer available. Start from Newton's second law:
 
-Use these practice routes to turn the ideas into fluency:
+$$
+m a=F.
+$$
 
-- Solve rigid-body equilibrium problems.
-- Find work from a force-displacement integral.
-- Set up and solve simple variable-force motion equations.
+Choose the form of acceleration that matches the variables in the force.
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+If force is given in terms of time, use
 
-## 4. Worked-Thinking Pattern
+$$
+a=\frac{dv}{dt}.
+$$
 
-1. Read the question and name the relevant concept from Rigid Bodies and Variable Forces.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+If force is given in terms of displacement, use the chain rule form
 
-## 5. Connections
+$$
+a=v\frac{dv}{dx}.
+$$
 
+The syllabus keeps these differential equations separable, so after writing the equation your job is usually to rearrange variables and integrate.
+
+## 5. Work Done by a Variable Force
+
+If a force depends on position, the work done from $x=a$ to $x=b$ is
+
+$$
+W=\int_a^b F(x)\,dx.
+$$
+
+This can be used with the work-energy principle
+
+$$
+W=\Delta KE.
+$$
+
+For example, if a particle of mass $m$ starts with speed $u$ at $x=a$ and reaches speed $v$ at $x=b$ under a single force $F(x)$, then
+
+$$
+\int_a^b F(x)\,dx=\frac12mv^2-\frac12mu^2.
+$$
+
+This energy method often avoids solving explicitly for $v(x)$ or $x(t)$.
+
+## 6. Solving Variable-Force Motion
+
+The sequence is:
+
+1. Choose the positive direction and variable.
+2. Write the resultant force in that direction.
+3. Replace $a$ by $dv/dt$ or $v\,dv/dx$.
+4. Separate variables.
+5. Integrate and use initial conditions.
+6. Interpret the result in the original physical context.
+
+For instance, if $m v\,dv/dx=F(x)$, then
+
+$$
+m v\,dv=F(x)\,dx,
+$$
+
+and integration gives a relationship between $v$ and $x$.
+
+## Common Mistakes
+
+- Treating an extended body as a particle when moments matter.
+- Taking moments with a non-perpendicular distance.
+- Moving the centre of mass calculation reference point halfway through.
+- Using $F=\mu R$ before establishing limiting friction.
+- Using constant-acceleration formulae under a variable force.
+- Choosing $dv/dt$ when the force is naturally a function of $x$, or choosing $v\,dv/dx$ when time is the natural variable.
+- Forgetting constants of integration and initial conditions.
+
+## Quick Self-Check
+
+- Can you decide whether a body must be treated as rigid rather than as a particle?
+- Can you choose a moment point that removes an unknown force?
+- Can you compute the centre of mass of a composite lamina using areas?
+- Can you distinguish sliding from toppling conditions?
+- Can you choose between $a=dv/dt$ and $a=v\,dv/dx$?
+- Can you connect variable-force work with change in kinetic energy?
+
+## Connections
+
+- [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]]
+- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
 - [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]
 - [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]
 
-## 6. Common Traps
-
-- Treating an extended body as a particle when moments matter.
-- Integrating with the wrong variable.
-- Forgetting initial conditions in motion equations.
-
 ## Study Sequence
 
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.
+1. Revisit rigid-body moment balance from equilibrium.
+2. Practise centre-of-mass calculations for simple composite bodies.
+3. Compare sliding and toppling thresholds.
+4. Review separable differential equations.
+5. Set up variable-force motion equations.
+6. Use work-energy as an alternative route where the force depends on position.

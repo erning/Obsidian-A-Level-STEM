@@ -13,7 +13,7 @@ tags:
 
 # Continuous Random Variables Lecture Notes
 
-This note develops [[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+A continuous random variable is described by density, not by point probabilities. The height of a density curve is not itself a probability; probability is area under the curve.
 
 ## Source Route
 
@@ -21,111 +21,176 @@ This note develops [[20 Mathematics/03 Probability and Statistics/05 Continuous 
 - 9231 4.1 Continuous random variables
 - Coursebook route: 9709 Probability and Statistics 2 continuous random variable chapter; 9231 Further Probability and Statistics continuous random variable content.
 
-## 1. Core Frame
-
-A continuous random variable uses density; probabilities are areas, not point heights.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
-
 ## Visual Guide
 
 ![[assets/generated/mathematics/continuous-random-variables.svg]]
 
-Figure: This guide highlights probability density and cumulative distribution as paired views.
+Figure: use the guide to connect density as local shape with cumulative distribution as accumulated area.
 
+## 1. Probability Density Functions
 
-## 2. Essential Knowledge
+For a continuous random variable $X$, a probability density function $f$ must satisfy
 
-### Probability density function and cumulative distribution function
+$$
+f(x)\ge 0
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+on its support, and
 
-A useful self-check is to explain why this item belongs in Continuous Random Variables: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+\int_{-\infty}^{\infty} f(x)\,dx=1.
+$$
 
-### Using integration to find probabilities
+The support is the set of values where the density is not zero. Always write it down, especially for piecewise density functions.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+For any interval,
 
-A useful self-check is to explain why this item belongs in Continuous Random Variables: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+P(a<X<b)=\int_a^b f(x)\,dx.
+$$
 
-### Expectation and variance for continuous variables
+For a single point,
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+P(X=a)=0.
+$$
 
-A useful self-check is to explain why this item belongs in Continuous Random Variables: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+This is why $P(a<X<b)$, $P(a\le X<b)$, and $P(a\le X\le b)$ are equal for continuous variables.
 
-### Transformations or further continuous-variable content where included by 9231
+## 2. Finding Constants and Probabilities
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+If a density function contains an unknown constant, use total area $1$. For example, if
 
-A useful self-check is to explain why this item belongs in Continuous Random Variables: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+f(x)=kx,\qquad 0\le x\le 2,
+$$
 
-### Interpreting density graphs
+then
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+\int_0^2 kx\,dx=1.
+$$
 
-A useful self-check is to explain why this item belongs in Continuous Random Variables: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+After $k$ is known, probabilities are found by integrating over the required interval. For piecewise functions, split the integral at the breakpoints. The most common mistake is integrating beyond the support or forgetting a piece.
 
-## 3. Method Selection
+## 3. Cumulative Distribution Functions
 
-Use these habits while studying:
+The cumulative distribution function is
 
-- Check that total area under the density is 1.
-- Use intervals for probability statements.
-- Connect density shape to likely values.
+$$
+F(x)=P(X\le x).
+$$
 
-Use these practice routes to turn the ideas into fluency:
+It accumulates area from the left:
 
-- Find constants in density functions.
-- Calculate probabilities, expectation, and variance.
-- Use cumulative distribution functions.
+$$
+F(x)=\int_{-\infty}^{x} f(t)\,dt.
+$$
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+Where differentiable,
 
-## 4. Worked-Thinking Pattern
+$$
+f(x)=F'(x).
+$$
 
-1. Read the question and name the relevant concept from Continuous Random Variables.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+CDFs are often the cleanest way to find percentiles:
 
-## 5. Connections
+$$
+F(m)=0.5
+$$
 
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]
+defines the median, and
 
-## 6. Common Traps
+$$
+F(x_p)=p
+$$
+
+defines the $p$th quantile.
+
+## 4. Expectation, Variance, and Functions of $X$
+
+For a continuous random variable,
+
+$$
+E(X)=\int_{-\infty}^{\infty}x f(x)\,dx.
+$$
+
+More generally, for a function $g(X)$,
+
+$$
+E(g(X))=\int_{-\infty}^{\infty}g(x)f(x)\,dx.
+$$
+
+In particular,
+
+$$
+E(X^2)=\int_{-\infty}^{\infty}x^2 f(x)\,dx,
+$$
+
+and
+
+$$
+\operatorname{Var}(X)=E(X^2)-[E(X)]^2.
+$$
+
+For piecewise density functions, every expectation integral must also be split over the pieces.
+
+## 5. Related Variables
+
+For a related variable $Y=g(X)$, a reliable method is to use the CDF:
+
+$$
+F_Y(y)=P(Y\le y).
+$$
+
+Rewrite the event in terms of $X$, use the CDF of $X$, and differentiate if the PDF of $Y$ is needed. For example, if $Y=X^3$ and the transformation is increasing on the support, then
+
+$$
+F_Y(y)=P(X^3\le y)=P(X\le \sqrt[3]{y})=F_X(\sqrt[3]{y}).
+$$
+
+The main care is the range of $Y$ and whether the transformation is one-to-one on the support.
+
+## Worked-Thinking Routine
+
+1. Write the support of the variable.
+2. Check that the density is non-negative on the support.
+3. Use total area $1$ to find unknown constants.
+4. For probabilities, integrate over the required interval or use the CDF.
+5. For percentiles, solve $F(x)=p$.
+6. For expectation and variance, integrate with the correct function of $x$.
+7. For related variables, convert the event about $Y$ into an event about $X$.
+
+## Common Mistakes
 
 - Treating $f(x)$ as $P(X=x)$.
-- Forgetting support intervals.
+- Forgetting that a density can be greater than $1$ while total area remains $1$.
+- Ignoring the support interval.
 - Dropping limits in density integrals.
+- Forgetting to split integrals for piecewise functions.
+- Confusing the PDF $f(x)$ with the CDF $F(x)$.
+- Finding a CDF but not checking that it starts at $0$ and tends to $1$.
+
+## Quick Self-Check
+
+- Can you find a density constant using total area $1$?
+- Can you explain why a point probability is zero?
+- Can you move between PDF and CDF?
+- Can you compute $E(X)$, $E(X^2)$, and $\operatorname{Var}(X)$?
+- Can you find a percentile by solving $F(x)=p$?
+- Can you find the CDF of a simple related variable?
+
+## Connections
+
+- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]
+- [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]
+- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
 
 ## Study Sequence
 
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.
+1. Practise reading support intervals.
+2. Find constants in single-interval density functions.
+3. Calculate interval probabilities and percentiles.
+4. Build CDFs from PDFs and PDFs from CDFs.
+5. Calculate expectation and variance.
+6. Add piecewise densities and simple related-variable transformations.

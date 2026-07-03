@@ -13,108 +13,176 @@ tags:
 
 # Proof and Mathematical Induction Lecture Notes
 
-This note develops [[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/00 Overview|Proof and Mathematical Induction]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+Proof is the part of mathematics where you explain why a statement must be true, not only that it works in examples. Mathematical induction is a proof method for statements indexed by integers. It turns one verified starting case and one repeatable implication into a result for every integer in the required range.
 
 ## Source Route
 
 - 9231 1.7 Proof by induction
 - Coursebook route: 9231 Further Mathematics Coursebook proof by induction sections; Hodder FP1 proof chapter.
 
-## 1. Core Frame
-
-Proof by induction turns a repeatable logical step into a proof for all positive integers in a domain.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
-
 ## Visual Guide
 
 ![[assets/generated/mathematics/proof-and-mathematical-induction.svg]]
 
-Figure: This guide highlights base case, induction step, and the chain of implications.
+Figure: The guide shows the logic of induction: a base case starts the chain, and the induction step passes truth from one integer to the next.
 
+## 1. Reading a Statement
 
-## 2. Essential Knowledge
+Before proving anything, identify the proposition and its quantifiers. A statement such as
 
-### Base case, induction hypothesis, induction step, and conclusion
+$$
+P(n)\text{ is true for all integers }n\ge1
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+is different from "there exists an integer $n$" or "for some values of $n$". Proof depends on the range and conditions.
 
-A useful self-check is to explain why this item belongs in Proof and Mathematical Induction: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+Useful words to mark:
 
-### Induction for sums, divisibility, recurrence relations, inequalities, and derivatives where appropriate
+- for all;
+- there exists;
+- if ... then;
+- if and only if;
+- positive integer;
+- non-zero;
+- real, rational, integer, or natural number.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+Examples can suggest a pattern, but they do not prove a universal statement.
 
-A useful self-check is to explain why this item belongs in Proof and Mathematical Induction: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+## 2. Direct Proof, Contradiction, and Counterexample
 
-### Using conjecture from limited trials before proving
+A direct proof starts from definitions and assumptions, then derives the conclusion. For example, to prove that the square of an even integer is even, write $n=2k$ for some integer $k$:
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+n^2=(2k)^2=4k^2=2(2k^2),
+$$
 
-A useful self-check is to explain why this item belongs in Proof and Mathematical Induction: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+so $n^2$ is even.
 
-### Writing proof with precise quantifiers and conditions
+A proof by contradiction assumes the opposite of what you want, then derives an impossibility. This is useful for irrationality, uniqueness, and "no solution" claims.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+A counterexample disproves a universal claim. If someone claims "all prime numbers are odd", the number $2$ is enough to disprove it.
 
-A useful self-check is to explain why this item belongs in Proof and Mathematical Induction: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+## 3. Mathematical Induction
 
-## 3. Method Selection
+To prove $P(n)$ for all integers $n\ge n_0$, write four parts clearly.
 
-Use these habits while studying:
+1. Base case: prove $P(n_0)$.
+2. Induction hypothesis: assume $P(k)$ is true for some integer $k\ge n_0$.
+3. Induction step: prove $P(k+1)$ using the induction hypothesis.
+4. Conclusion: state that $P(n)$ is true for all integers $n\ge n_0$.
 
-- State clearly what proposition $P(n)$ means.
-- Do not hide the induction hypothesis; show exactly where it is used.
-- Check the starting value and domain.
+The induction step must use the induction hypothesis. If it does not, the proof may be a different kind of proof, but it is not induction.
 
-Use these practice routes to turn the ideas into fluency:
+## 4. Summation Proofs
 
-- Prove summation formulae.
-- Prove divisibility results.
-- Prove statements about recursive sequences or repeated differentiation.
+For a summation formula, the induction step usually adds the next term. Suppose
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+$$
+P(n):\quad 1+2+\cdots+n=\frac{n(n+1)}{2}.
+$$
 
-## 4. Worked-Thinking Pattern
+The base case $n=1$ is true. Assume
 
-1. Read the question and name the relevant concept from Proof and Mathematical Induction.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+$$
+1+2+\cdots+k=\frac{k(k+1)}{2}.
+$$
 
-## 5. Connections
+Then
 
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]
+$$
+1+2+\cdots+k+(k+1)
+=\frac{k(k+1)}{2}+(k+1)
+=\frac{(k+1)(k+2)}{2}.
+$$
 
-## 6. Common Traps
+This is the required form for $P(k+1)$.
+
+More advanced summation proofs may involve $\sum r^3$, factorials, or expressions discovered from limited trials.
+
+## 5. Divisibility Proofs
+
+For divisibility, write the induction hypothesis in a form that exposes a factor. If the claim is "$A_n$ is divisible by $8$", the induction hypothesis means
+
+$$
+A_k=8m
+$$
+
+for some integer $m$.
+
+In the induction step, manipulate $A_{k+1}$ until it contains $A_k$ or a known multiple of $8$. Then conclude the remaining expression is also a multiple of $8$.
+
+The important phrase is "for some integer". Divisibility is not only about algebraic rearrangement; it is about proving the quotient is an integer.
+
+## 6. Recurrence and Matrix Proofs
+
+If a sequence is defined recursively, the induction hypothesis gives a formula for $u_k$, and the recurrence gives $u_{k+1}$.
+
+Example structure:
+
+$$
+u_{k+1}=3u_k-1.
+$$
+
+Assume the proposed formula for $u_k$, substitute it into the recurrence, and simplify to the proposed formula for $u_{k+1}$.
+
+For matrix powers, induction often proves a formula for $A^n$. The step uses
+
+$$
+A^{k+1}=A^kA
+$$
+
+or
+
+$$
+A^{k+1}=AA^k,
+$$
+
+then the induction hypothesis replaces $A^k$.
+
+## 7. Conjecture Before Proof
+
+Sometimes the result is not given. The syllabus includes situations where limited trials suggest a conjecture, then induction proves it.
+
+Typical workflow:
+
+1. Compute the first few cases.
+2. Look for a pattern.
+3. State the conjecture as $P(n)$.
+4. Prove it by induction.
+
+This can occur with repeated differentiation, sums involving factorials, recurrence relations, or matrix powers.
+
+## Worked-Thinking Routine
+
+1. State $P(n)$ exactly.
+2. Check the first required value of $n$.
+3. Write the induction hypothesis clearly.
+4. Start the step from the $k+1$ expression, not from the desired final line.
+5. Use the induction hypothesis explicitly.
+6. Simplify to the required $P(k+1)$ form.
+7. Write the conclusion with the correct range of integers.
+
+## Common Mistakes
 
 - Proving only examples.
-- Assuming $P(k+1)$ instead of deriving it from $P(k)$.
-- Forgetting to state the conclusion for all required integers.
+- Omitting the base case.
+- Starting induction at the wrong value.
+- Assuming $P(k+1)$ instead of deriving it.
+- Not using the induction hypothesis.
+- Writing "therefore true" without stating the range of $n$.
+- In divisibility proofs, forgetting to say a quotient is an integer.
+- Changing the statement being proved halfway through the proof.
 
-## Study Sequence
+## Quick Self-Check
 
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.
+You are ready to move on when you can:
+
+- Identify the quantifiers and conditions in a statement.
+- Decide whether direct proof, contradiction, counterexample, or induction is appropriate.
+- Write a complete induction proof with base case, hypothesis, step, and conclusion.
+- Prove summation, divisibility, recurrence, and matrix-power statements by induction.
+- Form a conjecture from examples and then prove it.
+
+## Connections
+
+- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]

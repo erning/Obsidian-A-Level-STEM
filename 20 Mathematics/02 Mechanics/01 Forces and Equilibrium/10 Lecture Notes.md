@@ -13,7 +13,7 @@ tags:
 
 # Forces and Equilibrium Lecture Notes
 
-This note develops [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+Equilibrium is the first modelling language of mechanics. A physical situation is reduced to a chosen body, the forces acting on it, and the condition that there is no resultant tendency to translate. For a rigid body there is one more check: there must also be no resultant tendency to rotate.
 
 ## Source Route
 
@@ -21,111 +21,164 @@ This note develops [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Ov
 - 9231 3.2 Equilibrium of a rigid body
 - Coursebook route: 9709 Mechanics force and equilibrium chapters; 9231 Further Mechanics rigid-body equilibrium content.
 
-## 1. Core Frame
-
-Equilibrium problems translate a physical situation into force and moment equations.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
-
 ## Visual Guide
 
 ![[assets/generated/mathematics/forces-and-equilibrium.svg]]
 
-Figure: This guide highlights force balance and moments as separate equilibrium checks.
+Figure: use the diagram to keep force balance and moment balance as separate checks.
 
+## 1. What Equilibrium Means
 
-## 2. Essential Knowledge
+For a particle in equilibrium, the vector sum of the forces acting on it is zero:
 
-### Forces, weight, normal contact force, tension, friction, and limiting equilibrium
+$$
+\sum \mathbf F=\mathbf 0.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+In practice this is usually written by resolving forces in two perpendicular directions:
 
-A useful self-check is to explain why this item belongs in Forces and Equilibrium: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+\sum F_x=0,\qquad \sum F_y=0.
+$$
 
-### Resolving forces in perpendicular directions
+For a rigid body, force balance is not enough. A body can have zero resultant force and still have a resultant turning effect. Rigid-body equilibrium requires both
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+\sum \mathbf F=\mathbf 0,\qquad \sum M=0,
+$$
 
-A useful self-check is to explain why this item belongs in Forces and Equilibrium: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+where moments are taken about any convenient point.
 
-### Coefficient of friction and rough-plane models
+The modelling process is always the same:
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+1. Choose the body or system.
+2. Draw only the forces acting on that body.
+3. State contact assumptions such as smooth, rough, light string, or smooth pulley.
+4. Resolve forces or take moments.
+5. Check signs, units, and whether the answer matches the physical situation.
 
-A useful self-check is to explain why this item belongs in Forces and Equilibrium: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+## 2. Force Diagrams
 
-### Moments and equilibrium of a rigid body
+A force diagram is not a picture of the whole scene. It is a diagram of one chosen body with every external force acting on it. Do not include forces that the body exerts on other objects; those belong on the other object's diagram.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+Common forces are:
 
-A useful self-check is to explain why this item belongs in Forces and Equilibrium: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+- weight $mg$, acting vertically downwards;
+- a normal contact force $R$, perpendicular to the contact surface;
+- tension $T$, acting along a string or rope away from the body;
+- thrust or compression in a light rigid rod, acting along the rod;
+- friction $F$, acting along the contact surface and opposing actual or impending relative motion;
+- applied forces, with their directions and angles as given.
 
-### Centre of mass where needed for rigid bodies
+A smooth contact is modelled as frictionless, so the contact force is normal only. A rough contact may include friction as well as the normal component. These are idealised models: the question chooses the model so that the calculation is possible.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+Newton's third law says that two interacting bodies exert equal and opposite forces on each other. The two forces act on different bodies, so they should not cancel on the same force diagram.
 
-A useful self-check is to explain why this item belongs in Forces and Equilibrium: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+## 3. Resolving Forces
 
-## 3. Method Selection
+Choose axes that make the equations simple. On a horizontal surface, horizontal and vertical axes are natural. On an inclined plane, axes parallel and perpendicular to the plane usually reduce the algebra.
 
-Use these habits while studying:
+If a particle is on a plane inclined at angle $\theta$ to the horizontal, the weight has components
 
-- Draw a force diagram first and label unknowns.
-- Choose axes that reduce algebra.
-- Use moment equations around a point that removes unwanted unknowns.
+$$
+mg\sin\theta
+$$
 
-Use these practice routes to turn the ideas into fluency:
+down the plane, and
 
-- Solve particle equilibrium problems.
-- Solve rough-plane and connected-particle equilibrium problems.
-- Solve rigid-body moment problems.
+$$
+mg\cos\theta
+$$
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+perpendicular into the plane. The most reliable way to remember this is to draw the right triangle for the components and check the limiting cases: if $\theta=0$, the down-plane component should be zero and the normal component should be $mg$.
 
-## 4. Worked-Thinking Pattern
+Triangle of forces and Lami's theorem can be efficient in special three-force problems, but resolving forces is the standard method because it works in nearly every equilibrium question.
 
-1. Read the question and name the relevant concept from Forces and Equilibrium.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+## 4. Friction and Limiting Equilibrium
 
-## 5. Connections
+The frictional force is not automatically equal to $\mu R$. The coefficient of friction gives the largest possible friction before slipping:
 
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Physics Forces, Density and Pressure]]
+$$
+F\le \mu R.
+$$
 
-## 6. Common Traps
+At limiting equilibrium, also described as "about to slip", friction has reached its limiting value:
 
-- Forgetting the direction of friction opposes possible motion.
+$$
+F=\mu R.
+$$
+
+The direction of friction opposes actual motion or impending motion. If you assume a direction and later obtain a negative value for $F$, the magnitude is still useful but the assumed direction was opposite to the real one.
+
+## 5. Moments and Rigid Bodies
+
+The moment of a force about a point measures its turning effect about that point. In this syllabus context, only coplanar forces are needed, so the magnitude of a moment is
+
+$$
+\text{moment}=F d,
+$$
+
+where $d$ is the perpendicular distance from the point to the line of action of the force.
+
+When taking moments, choose a point that removes unwanted unknown forces. If a force passes through the chosen point, its moment about that point is zero. This is why taking moments about a hinge, support, or contact point often simplifies a rigid-body problem.
+
+For a single rigid body in equilibrium under coplanar forces:
+
+$$
+\sum F_x=0,\qquad \sum F_y=0,\qquad \sum M=0.
+$$
+
+These equations are also a diagnostic tool. If a rigid body is about to slide, friction is limiting. If it is about to topple, the normal contact force has shifted to an edge or pivot point, and the line of action of the weight is critical.
+
+## 6. Centre of Mass
+
+For a rigid body, the effect of gravity is equivalent to a single force $mg$ acting at the centre of mass. Symmetry is the first tool: the centre of mass of a uniform body lies on every axis of symmetry.
+
+For a composite body, replace each part by a particle of its own mass at its own centre of mass, then take moments or weighted averages. For example, if two parts have masses $m_1$ and $m_2$ and centres at positions $x_1$ and $x_2$ along a line, the centre of mass has coordinate
+
+$$
+\bar x=\frac{m_1x_1+m_2x_2}{m_1+m_2}.
+$$
+
+Area may replace mass for a uniform lamina, and volume may replace mass for a uniform solid of constant density.
+
+## Worked-Thinking Routine
+
+1. Choose the object and draw a force diagram.
+2. Mark known angles, distances, and contact assumptions.
+3. Decide whether the object is a particle or a rigid body.
+4. For a particle, resolve forces in two directions.
+5. For a rigid body, add a moment equation about a useful point.
+6. For rough contact, decide whether friction is limiting before using $F=\mu R$.
+7. Interpret the signs of unknowns rather than hiding them.
+
+## Common Mistakes
+
+- Drawing action and reaction forces on the same body.
+- Treating every friction force as $\mu R$ instead of using $F\le \mu R$.
 - Resolving weight incorrectly on an inclined plane.
-- Checking force equilibrium but not moment equilibrium.
+- Using a slanted distance instead of the perpendicular distance in a moment.
+- Checking force equilibrium for a rigid body but forgetting moment equilibrium.
+- Assuming a normal contact force stays at the centre of a base when the body is close to toppling.
+
+## Quick Self-Check
+
+- Can you draw a clean force diagram for a body on a rough inclined plane?
+- Can you explain the difference between $F\le \mu R$ and $F=\mu R$?
+- Can you choose axes that avoid unnecessary trigonometry?
+- Can you take moments about a point that removes an unknown reaction?
+- Can you tell whether a rigid body is more likely to slide or topple?
+
+## Connections
+
+- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
+- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
+- [[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Physics Forces, Density and Pressure]]
 
 ## Study Sequence
 
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.
+1. Practise drawing force diagrams before solving equations.
+2. Do several particle equilibrium problems with different axes.
+3. Add rough contact and limiting friction.
+4. Move to rigid-body moment problems.
+5. Finish by comparing sliding, toppling, and centre-of-mass questions.

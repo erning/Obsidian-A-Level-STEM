@@ -13,7 +13,7 @@ tags:
 
 # Matrices and Transformations Lecture Notes
 
-This note develops [[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+Matrices organise linear operations. They can store coefficients in simultaneous equations, represent geometric transformations, and describe directions that remain aligned under a transformation. The same matrix should be read both algebraically and geometrically.
 
 ## Source Route
 
@@ -21,112 +21,238 @@ This note develops [[20 Mathematics/01 Pure Mathematics/10 Matrices and Transfor
 - 9231 2.2 Matrices
 - Coursebook route: 9231 Further Mathematics Coursebook matrix and transformation chapters; Hodder FP1/FP2 matrix chapters.
 
-## 1. Core Frame
-
-Matrices organise linear operations, transformations, systems of equations, and eigenstructure.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
-
 ## Visual Guide
 
 ![[assets/generated/mathematics/matrices-and-transformations.svg]]
 
-Figure: This guide highlights a matrix transformation acting on a square grid.
+Figure: The guide shows a matrix transformation acting on a square grid. Watch where the basis vectors go; their images become the columns of the transformation matrix.
 
+## 1. Matrix Operations
 
-## 2. Essential Knowledge
+Matrices can be added or subtracted only when they have the same order. Matrix multiplication is defined when the number of columns in the first matrix equals the number of rows in the second.
 
-### Matrix addition, subtraction, multiplication, zero matrix, and identity matrix
+Matrix multiplication is not generally commutative:
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+AB\ne BA
+$$
 
-A useful self-check is to explain why this item belongs in Matrices and Transformations: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+in general.
 
-### Determinants, singular and non-singular matrices, and inverses
+The identity matrix $I$ leaves vectors unchanged, and the zero matrix has all entries zero. The identity matrix plays the role of $1$ in matrix multiplication:
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+AI=IA=A.
+$$
 
-A useful self-check is to explain why this item belongs in Matrices and Transformations: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+## 2. Matrices as Transformations
 
-### Matrices as two-dimensional geometric transformations, including rotation, reflection, enlargement, stretch, and shear
+A $2\times2$ matrix
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+A=\begin{pmatrix}a&b\\c&d\end{pmatrix}
+$$
 
-A useful self-check is to explain why this item belongs in Matrices and Transformations: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+maps a vector by
 
-### Invariant points, invariant lines, and area scale factor
+$$
+A\begin{pmatrix}x\\y\end{pmatrix}
+=
+\begin{pmatrix}ax+by\\cx+dy\end{pmatrix}.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+The columns of $A$ are the images of the basis vectors:
 
-A useful self-check is to explain why this item belongs in Matrices and Transformations: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+A\begin{pmatrix}1\\0\end{pmatrix}
+=\text{first column of }A,
+\qquad
+A\begin{pmatrix}0\\1\end{pmatrix}
+=\text{second column of }A.
+$$
 
-### Linear systems, consistency, eigenvalues, eigenvectors, diagonalisation, and characteristic equation
+This is the easiest way to build transformation matrices from geometry.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+Common transformations include rotations, reflections, enlargements, stretches, and shears. For example, anticlockwise rotation through angle $\theta$ is
 
-A useful self-check is to explain why this item belongs in Matrices and Transformations: what
-it measures, models, transforms, or connects. For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
+$$
+\begin{pmatrix}
+\cos\theta&-\sin\theta\\
+\sin\theta&\cos\theta
+\end{pmatrix}.
+$$
 
-## 3. Method Selection
+If the transformation represented by $B$ is followed by the transformation represented by $A$, the combined matrix is
 
-Use these habits while studying:
+$$
+AB.
+$$
 
-- View each matrix both as an array and as a transformation.
-- Track multiplication order because transformations compose right to left.
-- Use geometry to interpret determinant and invariant objects.
+The rightmost matrix acts first.
 
-Use these practice routes to turn the ideas into fluency:
+## 3. Determinants and Inverses
 
-- Find inverses and solve matrix equations.
-- Build transformation matrices from geometric descriptions.
-- Find eigenvalues, eigenvectors, and diagonal forms.
+For
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+$$
+A=\begin{pmatrix}a&b\\c&d\end{pmatrix},
+$$
 
-## 4. Worked-Thinking Pattern
+the determinant is
 
-1. Read the question and name the relevant concept from Matrices and Transformations.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+$$
+\det A=ad-bc.
+$$
 
-## 5. Connections
+If $\det A\ne0$, the matrix is non-singular and has inverse
+
+$$
+A^{-1}=\frac{1}{ad-bc}
+\begin{pmatrix}d&-b\\-c&a\end{pmatrix}.
+$$
+
+If $\det A=0$, the matrix is singular and has no inverse. Geometrically, a singular $2\times2$ transformation collapses area to a line or point.
+
+For non-singular matrices,
+
+$$
+(AB)^{-1}=B^{-1}A^{-1}.
+$$
+
+The order reverses because the inverse transformation must undo the last step first.
+
+The area scale factor of a two-dimensional transformation is
+
+$$
+|\det A|.
+$$
+
+The sign of the determinant also tells whether orientation is preserved or reversed.
+
+## 4. Invariant Points and Lines
+
+An invariant point satisfies
+
+$$
+A\mathbf x=\mathbf x.
+$$
+
+This is equivalent to
+
+$$
+(A-I)\mathbf x=\mathbf0.
+$$
+
+An invariant line is mapped onto itself as a set. A line through the origin with direction vector $\mathbf v$ is invariant when $A\mathbf v$ is parallel to $\mathbf v$. This idea leads naturally to eigenvectors.
+
+## 5. Linear Systems
+
+A system of three linear equations in three unknowns can be written as
+
+$$
+A\mathbf x=\mathbf b.
+$$
+
+If $A$ is non-singular, there is a unique solution:
+
+$$
+\mathbf x=A^{-1}\mathbf b.
+$$
+
+If $A$ is singular, the system may be inconsistent or may have infinitely many solutions. Geometrically, three planes may meet at a point, in a line, or not share a common point.
+
+## 6. Eigenvalues and Eigenvectors
+
+An eigenvector is a non-zero vector whose direction is unchanged by a matrix transformation. If
+
+$$
+A\mathbf e=\lambda\mathbf e,
+$$
+
+then $\lambda$ is an eigenvalue and $\mathbf e$ is an eigenvector.
+
+To find eigenvalues, solve the characteristic equation
+
+$$
+\det(A-\lambda I)=0.
+$$
+
+For each eigenvalue, solve
+
+$$
+(A-\lambda I)\mathbf e=\mathbf0
+$$
+
+to find eigenvectors.
+
+Eigenvectors are invariant directions. Eigenvalues are scale factors along those directions.
+
+## 7. Diagonalisation and the Characteristic Equation
+
+When a square matrix has enough independent eigenvectors, it can be written as
+
+$$
+A=QDQ^{-1},
+$$
+
+where the columns of $Q$ are eigenvectors and $D$ is a diagonal matrix of eigenvalues.
+
+This is useful because powers become simple:
+
+$$
+A^n=QD^nQ^{-1}.
+$$
+
+The Cayley-Hamilton theorem says that a square matrix satisfies its own characteristic equation. For a $2\times2$ or $3\times3$ matrix, this can help compute powers or inverses without repeated multiplication.
+
+## Worked-Thinking Routines
+
+### Transformation Matrix
+
+1. Find where $\begin{pmatrix}1\\0\end{pmatrix}$ goes.
+2. Find where $\begin{pmatrix}0\\1\end{pmatrix}$ goes.
+3. Put those image vectors as the columns of the matrix.
+4. For composite transformations, multiply in the order "second matrix on the left".
+5. Test the matrix on a simple point or shape.
+
+### Inverse or Determinant
+
+1. Compute the determinant first.
+2. If it is zero, stop and interpret singularity.
+3. If non-zero, calculate the inverse.
+4. Check by multiplying back to $I$ if needed.
+
+### Eigenstructure
+
+1. Form $\det(A-\lambda I)=0$.
+2. Solve for eigenvalues.
+3. Substitute each eigenvalue into $(A-\lambda I)\mathbf e=\mathbf0$.
+4. Interpret eigenvectors as invariant directions.
+5. Use diagonalisation only when the eigenvectors are independent.
+
+## Common Mistakes
+
+- Assuming matrix multiplication is commutative.
+- Writing composite transformations in the wrong order.
+- Confusing rows and columns when building a transformation matrix.
+- Trying to invert a singular matrix.
+- Forgetting that the area scale factor is $|\det A|$.
+- Treating the zero vector as an eigenvector.
+- Building $Q$ with eigenvectors in an order that does not match the eigenvalues in $D$.
+
+## Quick Self-Check
+
+You are ready to move on when you can:
+
+- Multiply matrices and explain why the order matters.
+- Build a $2\times2$ transformation matrix from basis-vector images.
+- Interpret determinant as invertibility and area scale factor.
+- Find an inverse when it exists.
+- Solve a matrix equation and interpret singular cases.
+- Find eigenvalues and eigenvectors.
+- Use diagonalisation to compute powers of a matrix.
+
+## Connections
 
 - [[20 Mathematics/01 Pure Mathematics/08 Vectors/00 Overview|Vectors]]
 - [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]
-
-## 6. Common Traps
-
-- Assuming matrix multiplication is commutative.
-- Ignoring singular cases.
-- Confusing rows and columns when applying a transformation.
-
-## Study Sequence
-
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.
