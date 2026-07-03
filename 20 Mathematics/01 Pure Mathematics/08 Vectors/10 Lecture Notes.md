@@ -27,6 +27,13 @@ Vectors describe magnitude and direction in two and three dimensions, then exten
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/vectors.svg]]
+
+Figure: This guide highlights vector addition and a parametric line in space.
+
+
 ## 2. Essential Knowledge
 
 ### Position vectors, displacement vectors, and vector equations of lines

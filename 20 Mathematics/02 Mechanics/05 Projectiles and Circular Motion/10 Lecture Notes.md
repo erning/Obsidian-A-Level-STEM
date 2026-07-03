@@ -27,6 +27,13 @@ Projectile and circular-motion models extend motion into two dimensions with cle
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/projectiles-and-circular-motion.svg]]
+
+Figure: This guide highlights two-dimensional projectile motion and centripetal acceleration.
+
+
 ## 2. Essential Knowledge
 
 ### Projectile motion with independent horizontal and vertical components

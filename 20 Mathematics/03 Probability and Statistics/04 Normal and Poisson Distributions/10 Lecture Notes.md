@@ -28,6 +28,13 @@ Normal and Poisson distributions are standard models for continuous variation an
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/normal-and-poisson-distributions.svg]]
+
+Figure: This guide highlights continuous normal area compared with discrete Poisson counts.
+
+
 ## 2. Essential Knowledge
 
 ### Normal distribution, standardisation, areas, and inverse probability problems

@@ -28,6 +28,13 @@ Thermodynamics describes energy transfer into, out of, and within a system.
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/thermodynamics.svg]]
+
+Figure: This guide highlights energy transfer, work, heating, and internal energy.
+
+
 ## 2. Essential Knowledge
 
 ### Use internal energy as the sum of random kinetic and potential energies of particles

@@ -27,6 +27,13 @@ Energy methods solve motion problems by tracking work, kinetic energy, potential
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/work-energy-power-and-elasticity.svg]]
+
+Figure: This guide highlights energy transfer through work and elastic extension.
+
+
 ## 2. Essential Knowledge
 
 ### Work done by a force and gravitational potential energy

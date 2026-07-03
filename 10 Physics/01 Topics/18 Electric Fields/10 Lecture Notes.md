@@ -31,6 +31,13 @@ An electric field describes the force and energy landscape experienced by charge
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/electric-fields.svg]]
+
+Figure: This guide highlights field lines and equipotentials for charges.
+
+
 ## 2. Essential Knowledge
 
 ### Use electric field strength as force per unit positive charge

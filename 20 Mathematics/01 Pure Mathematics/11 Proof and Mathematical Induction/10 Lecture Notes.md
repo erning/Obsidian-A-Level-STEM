@@ -26,6 +26,13 @@ Proof by induction turns a repeatable logical step into a proof for all positive
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/proof-and-mathematical-induction.svg]]
+
+Figure: This guide highlights base case, induction step, and the chain of implications.
+
+
 ## 2. Essential Knowledge
 
 ### Base case, induction hypothesis, induction step, and conclusion

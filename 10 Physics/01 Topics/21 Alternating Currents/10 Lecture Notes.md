@@ -28,6 +28,13 @@ Alternating current analysis connects sinusoidal time variation with power trans
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/alternating-currents.svg]]
+
+Figure: This guide highlights sinusoidal voltage, current, phase, and rms value.
+
+
 ## 2. Essential Knowledge
 
 ### Describe sinusoidal alternating current and voltage using peak value, period, frequency, and phase

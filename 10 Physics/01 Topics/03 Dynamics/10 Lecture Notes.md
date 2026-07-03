@@ -29,6 +29,13 @@ Dynamics explains changes in motion using force, mass, momentum, and system boun
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/dynamics.svg]]
+
+Figure: This guide highlights free-body modelling, resultant force, and acceleration.
+
+
 ## 2. Essential Knowledge
 
 ### Use mass as the property that resists change in motion, and use $F = ma$ with acceleration in the direction of resultant force

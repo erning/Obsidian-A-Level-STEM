@@ -30,6 +30,13 @@ Superposition explains how overlapping waves produce stationary waves, diffracti
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/superposition.svg]]
+
+Figure: This guide highlights wave addition, constructive interference, and destructive interference.
+
+
 ## 2. Essential Knowledge
 
 ### Use the principle of superposition for waves meeting at a point

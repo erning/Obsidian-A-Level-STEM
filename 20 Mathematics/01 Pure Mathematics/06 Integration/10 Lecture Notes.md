@@ -29,6 +29,13 @@ Integration is reverse differentiation, accumulated change, area, and a toolbox 
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/integration.svg]]
+
+Figure: This guide highlights area under a curve interpreted as accumulated change.
+
+
 ## 2. Essential Knowledge
 
 ### Indefinite and definite integration, including constants of integration

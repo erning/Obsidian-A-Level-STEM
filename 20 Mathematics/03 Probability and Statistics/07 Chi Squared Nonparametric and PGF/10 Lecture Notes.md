@@ -28,6 +28,13 @@ Further statistics adds inference methods for categorical or rank data and algeb
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/chi-squared-non-parametric-tests-and-pgf.svg]]
+
+Figure: This guide highlights observed-expected comparison and chi-squared tail area.
+
+
 ## 2. Essential Knowledge
 
 ### Chi-squared goodness-of-fit and contingency-style reasoning where included

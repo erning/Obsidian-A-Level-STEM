@@ -27,6 +27,13 @@ Complex numbers extend algebra into a plane where multiplication naturally inclu
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/complex-numbers.svg]]
+
+Figure: This guide highlights modulus and argument on the Argand diagram.
+
+
 ## 2. Essential Knowledge
 
 ### Imaginary unit, complex numbers, complex conjugate, modulus, and argument

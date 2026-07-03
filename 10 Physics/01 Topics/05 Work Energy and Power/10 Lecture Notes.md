@@ -28,6 +28,13 @@ Energy methods compress a motion problem into transfers, stores, and conservatio
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/work-energy-and-power.svg]]
+
+Figure: This guide highlights force-displacement area and energy transfer.
+
+
 ## 2. Essential Knowledge
 
 ### Use work done as force times displacement in the direction of the force

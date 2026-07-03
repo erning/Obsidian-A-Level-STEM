@@ -28,6 +28,13 @@ Uniform circular motion has constant speed but changing velocity, so acceleratio
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/motion-in-a-circle.svg]]
+
+Figure: This guide highlights velocity, angular speed, and centripetal acceleration.
+
+
 ## 2. Essential Knowledge
 
 ### Use radian measure, angular displacement, angular speed, period, and frequency

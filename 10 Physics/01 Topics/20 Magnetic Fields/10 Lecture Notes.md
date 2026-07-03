@@ -31,6 +31,13 @@ Magnetic fields act on moving charges and currents, and changing magnetic flux i
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/magnetic-fields.svg]]
+
+Figure: This guide highlights magnetic force, flux, and induction geometry.
+
+
 ## 2. Essential Knowledge
 
 ### Use magnetic flux density and field-line representations

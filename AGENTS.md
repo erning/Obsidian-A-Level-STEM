@@ -68,6 +68,10 @@
 - Write all mathematical and physics formulae in LaTeX, using `$...$` for
   inline formulae and `$$...$$` for displayed formulae. Do not put formulae in
   code spans unless the text is literally code.
+- Use SVG as the default format for generated diagrams, graphs, coordinate
+  plots, force diagrams, statistical charts, and other line/text-based figures.
+  Use PNG only for genuinely raster material such as photographs, scans,
+  pixel-style images, dense heatmaps, or figures that render unreliably as SVG.
 - Do not organise learning materials around exam technique, paper structure,
   or AS/A Level separation unless the user explicitly asks. The default goal is
   conceptual self-study and long-term fluency.

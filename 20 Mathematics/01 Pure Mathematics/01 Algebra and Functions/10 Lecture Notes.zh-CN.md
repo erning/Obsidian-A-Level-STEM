@@ -22,6 +22,13 @@ tags:
 2. 它对应的函数定义域和值域是什么？
 3. 用哪种形式最容易看出题目要的信息？
 
+## 图示导读
+
+![[assets/generated/mathematics/algebra-and-functions.svg]]
+
+这张图用来快速理解“代数与函数”：把二次式、顶点、根和有理函数渐近线放在同一张图里看。
+
+
 ## 学习范围
 
 - 9709 Pure Mathematics 1：二次式与函数。

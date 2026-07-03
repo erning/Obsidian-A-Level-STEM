@@ -28,6 +28,13 @@ Statistical inference uses samples to make uncertain statements about population
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/sampling-estimation-and-hypothesis-tests.svg]]
+
+Figure: This guide highlights sampling distribution, confidence interval, and rejection regions.
+
+
 ## 2. Essential Knowledge
 
 ### Population, sample, statistic, estimator, sampling distribution, and standard error

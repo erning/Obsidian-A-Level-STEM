@@ -27,6 +27,13 @@ Equilibrium problems translate a physical situation into force and moment equati
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/forces-and-equilibrium.svg]]
+
+Figure: This guide highlights force balance and moments as separate equilibrium checks.
+
+
 ## 2. Essential Knowledge
 
 ### Forces, weight, normal contact force, tension, friction, and limiting equilibrium

@@ -28,6 +28,13 @@ Sequences and series describe patterns, approximations, and accumulated sums.
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/sequences-series-and-binomial-expansions.svg]]
+
+Figure: This guide highlights linear accumulation, geometric growth, and binomial terms.
+
+
 ## 2. Essential Knowledge
 
 ### Arithmetic and geometric progressions, including finite and infinite sums

@@ -27,6 +27,13 @@ Coordinate geometry turns geometric relationships into algebraic equations and g
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/coordinate-geometry-and-graphs.svg]]
+
+Figure: This guide highlights line, circle, radius, and tangent geometry in one coordinate picture.
+
+
 ## 2. Essential Knowledge
 
 ### Equations of straight lines in common forms

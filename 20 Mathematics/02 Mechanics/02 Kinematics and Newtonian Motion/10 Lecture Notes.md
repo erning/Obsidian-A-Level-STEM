@@ -27,6 +27,13 @@ Kinematics describes motion, and Newtonian motion explains it with force and acc
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/kinematics-and-newtonian-motion.svg]]
+
+Figure: This guide highlights motion graphs joined to the force-acceleration model.
+
+
 ## 2. Essential Knowledge
 
 ### Displacement, velocity, acceleration, and motion graphs

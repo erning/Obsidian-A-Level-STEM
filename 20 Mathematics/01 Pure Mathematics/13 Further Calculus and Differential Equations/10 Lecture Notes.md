@@ -30,6 +30,13 @@ Further calculus links advanced functions, series, integration techniques, and d
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/further-calculus-and-differential-equations.svg]]
+
+Figure: This guide highlights a slope field with solution curves.
+
+
 ## 2. Essential Knowledge
 
 ### Hyperbolic functions, inverse hyperbolic functions, identities, and logarithmic forms

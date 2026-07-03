@@ -28,6 +28,13 @@ Nuclear physics connects mass, binding energy, stability, and random radioactive
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/nuclear-physics.svg]]
+
+Figure: This guide highlights binding energy and radioactive decay.
+
+
 ## 2. Essential Knowledge
 
 ### Use mass-energy equivalence to connect mass defect with released energy

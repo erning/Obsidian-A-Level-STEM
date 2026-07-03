@@ -27,6 +27,13 @@ A continuous random variable uses density; probabilities are areas, not point he
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/continuous-random-variables.svg]]
+
+Figure: This guide highlights probability density and cumulative distribution as paired views.
+
+
 ## 2. Essential Knowledge
 
 ### Probability density function and cumulative distribution function

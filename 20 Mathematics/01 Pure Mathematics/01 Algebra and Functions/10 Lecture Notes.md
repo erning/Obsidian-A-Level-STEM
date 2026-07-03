@@ -18,6 +18,13 @@ Mathematics 9709 and Further Mathematics 9231. The emphasis is not on memorising
 question types, but on recognising structure, choosing a representation, and
 checking answers against domains and graphs.
 
+## Visual Guide
+
+![[assets/generated/mathematics/algebra-and-functions.svg]]
+
+Figure: This guide highlights quadratic form, vertex information, roots, and rational-function asymptotes.
+
+
 ## Source Route
 
 - 9709 Pure Mathematics 1: Quadratics and Functions.

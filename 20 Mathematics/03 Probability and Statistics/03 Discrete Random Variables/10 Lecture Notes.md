@@ -26,6 +26,13 @@ A discrete random variable assigns probabilities to countable outcomes and suppo
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/discrete-random-variables.svg]]
+
+Figure: This guide highlights probability mass and cumulative probability for a discrete variable.
+
+
 ## 2. Essential Knowledge
 
 ### Probability mass functions and cumulative probabilities

@@ -25,6 +25,13 @@ Measurement turns a physical idea into evidence. A result is incomplete unless i
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/measurement-and-data-presentation.svg]]
+
+Figure: This guide highlights uncertainty, error bars, and gradient estimation.
+
+
 ## 2. Essential Knowledge
 
 ### Choose measuring instruments with suitable range and precision

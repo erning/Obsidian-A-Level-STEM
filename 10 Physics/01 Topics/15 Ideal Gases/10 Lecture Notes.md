@@ -29,6 +29,13 @@ The ideal gas model connects macroscopic pressure, volume, temperature, and amou
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/ideal-gases.svg]]
+
+Figure: This guide highlights molecular model connected to pressure-volume isotherms.
+
+
 ## 2. Essential Knowledge
 
 ### Use amount of substance, mole, Avogadro constant, and number of particles

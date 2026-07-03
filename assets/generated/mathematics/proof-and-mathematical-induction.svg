@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="746.64pt" height="439.992pt" viewBox="0 0 746.64 439.992" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-03T10:42:57.513061</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 439.992 
+L 746.64 439.992 
+L 746.64 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 432.792 
+L 367.38 432.792 
+L 367.38 81.45975 
+L 7.2 81.45975 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 25.209 301.042406 
+L 97.245 301.042406 
+L 97.245 213.209344 
+L 25.209 213.209344 
+z
+" clip-path="url(#pe3f2cd0736)" style="fill: #eff6ff; stroke: #2563eb; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 151.272 301.042406 
+L 230.5116 301.042406 
+L 230.5116 213.209344 
+L 151.272 213.209344 
+z
+" clip-path="url(#pe3f2cd0736)" style="fill: #eff6ff; stroke: #2563eb; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 277.335 301.042406 
+L 349.371 301.042406 
+L 349.371 213.209344 
+L 277.335 213.209344 
+z
+" clip-path="url(#pe3f2cd0736)" style="fill: #eff6ff; stroke: #2563eb; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 99.246611 257.125875 
+Q 124.260649 257.125875 147.038619 257.125875 
+" clip-path="url(#pe3f2cd0736)" style="fill: none; stroke: #475569; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 141.438619 254.325875 
+L 147.038619 257.125875 
+L 141.438619 259.925875 
+z
+" clip-path="url(#pe3f2cd0736)" style="fill: #475569; stroke: #475569; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 232.509254 257.125875 
+Q 253.922138 257.125875 273.098955 257.125875 
+" clip-path="url(#pe3f2cd0736)" style="fill: none; stroke: #475569; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 267.498955 254.325875 
+L 273.098955 257.125875 
+L 267.498955 259.925875 
+z
+" clip-path="url(#pe3f2cd0736)" style="fill: #475569; stroke: #475569; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(35.967625 253.722555)">Base case</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(51.129344 265.724508)">P(1)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(171.146487 253.722164)">Assume</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(181.080081 265.724898)">P(k)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(299.385031 253.722164)">Prove</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(296.170187 265.724898)">P(k+1)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="187.29" y="75.45975" transform="rotate(-0 187.29 75.45975)">Induction proof structure</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_8">
+    <path d="M 379.26 432.792 
+L 739.44 432.792 
+L 739.44 81.45975 
+L 379.26 81.45975 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 408.0744 350.814475 
+L 413.293007 355.361049 
+L 425.411795 208.304662 
+L 420.193188 203.758088 
+z
+" clip-path="url(#p9c98d6afa4)" style="fill: #2563eb; opacity: 0.85; stroke: #2563eb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 444.0924 342.616722 
+L 449.311007 347.163296 
+L 461.429795 200.106909 
+L 456.211188 195.560335 
+z
+" clip-path="url(#p9c98d6afa4)" style="fill: #2563eb; opacity: 0.85; stroke: #2563eb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 480.1104 334.41897 
+L 485.329007 338.965544 
+L 497.447795 191.909157 
+L 492.229188 187.362583 
+z
+" clip-path="url(#p9c98d6afa4)" style="fill: #2563eb; opacity: 0.85; stroke: #2563eb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 516.1284 326.221217 
+L 521.347007 330.767791 
+L 533.465795 183.711404 
+L 528.247188 179.16483 
+z
+" clip-path="url(#p9c98d6afa4)" style="fill: #2563eb; opacity: 0.85; stroke: #2563eb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 552.1464 318.023465 
+L 557.365007 322.570039 
+L 569.483795 175.513652 
+L 564.265188 170.967078 
+z
+" clip-path="url(#p9c98d6afa4)" style="fill: #2563eb; opacity: 0.85; stroke: #2563eb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 588.1644 309.825712 
+L 593.383007 314.372286 
+L 605.501795 167.315899 
+L 600.283188 162.769325 
+z
+" clip-path="url(#p9c98d6afa4)" style="fill: #2563eb; opacity: 0.85; stroke: #2563eb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 624.1824 301.62796 
+L 629.401007 306.174534 
+L 641.519795 159.118147 
+L 636.301188 154.571573 
+z
+" clip-path="url(#p9c98d6afa4)" style="fill: #2563eb; opacity: 0.85; stroke: #2563eb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 660.2004 293.430207 
+L 665.419007 297.976781 
+L 677.537795 150.920394 
+L 672.319188 146.37382 
+z
+" clip-path="url(#p9c98d6afa4)" style="fill: #2563eb; opacity: 0.85; stroke: #2563eb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 387.731617 279.00194 
+Q 400.870118 262.982244 412.590623 248.691502 
+" clip-path="url(#p9c98d6afa4)" style="fill: none; stroke: #dc2626; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 406.874404 251.245877 
+L 412.590623 248.691502 
+L 411.204392 254.797103 
+z
+" clip-path="url(#p9c98d6afa4)" style="fill: #dc2626; stroke: #dc2626; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4"/>
+   <g id="text_5">
+    <!-- $P(k)\Rightarrow P(k+1)$ keeps the chain moving -->
+    <g transform="translate(438.8478 151.7262)">
+     <text>
+      <tspan x="0" y="-0.640625" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">P</tspan>
+      <tspan x="10.924805" y="-0.640625" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">k</tspan>
+      <tspan x="35.089355" y="-0.640625" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">P</tspan>
+      <tspan x="46.01416" y="-0.640625" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">k</tspan>
+      <tspan x="6.633301" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="17.294922" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">)</tspan>
+      <tspan x="23.729492" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">⇒</tspan>
+      <tspan x="41.722656" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="54.527344" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">+</tspan>
+      <tspan x="65.887207" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">1</tspan>
+      <tspan x="72.885742" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">)</tspan>
+      <tspan x="77.177246" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'"> </tspan>
+      <tspan x="80.673828" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">k</tspan>
+      <tspan x="87.043945" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">e</tspan>
+      <tspan x="93.811523" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">e</tspan>
+      <tspan x="100.579102" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">p</tspan>
+      <tspan x="107.561523" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="113.29248" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'"> </tspan>
+      <tspan x="116.789062" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">t</tspan>
+      <tspan x="121.102051" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">h</tspan>
+      <tspan x="128.07373" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">e</tspan>
+      <tspan x="134.841309" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'"> </tspan>
+      <tspan x="138.337891" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">c</tspan>
+      <tspan x="144.385742" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">h</tspan>
+      <tspan x="151.357422" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">a</tspan>
+      <tspan x="158.098145" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">i</tspan>
+      <tspan x="161.154297" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">n</tspan>
+      <tspan x="168.125977" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'"> </tspan>
+      <tspan x="171.622559" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">m</tspan>
+      <tspan x="182.337891" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">o</tspan>
+      <tspan x="189.067871" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">v</tspan>
+      <tspan x="195.577637" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">i</tspan>
+      <tspan x="198.633789" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">n</tspan>
+      <tspan x="205.605469" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">g</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="559.35" y="75.45975" transform="rotate(-0 559.35 75.45975)">Domino intuition</text>
+   </g>
+  </g>
+  <g id="text_7">
+   <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="373.32" y="19.3575" transform="rotate(-0 373.32 19.3575)">Proof and Mathematical Induction</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe3f2cd0736">
+   <rect x="7.2" y="81.45975" width="360.18" height="351.33225"/>
+  </clipPath>
+  <clipPath id="p9c98d6afa4">
+   <rect x="379.26" y="81.45975" width="360.18" height="351.33225"/>
+  </clipPath>
+ </defs>
+</svg>

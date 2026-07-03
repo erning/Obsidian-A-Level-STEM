@@ -29,6 +29,13 @@ Electric circuits are models of charge flow and energy transfer.
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/electricity.svg]]
+
+Figure: This guide highlights charge flow, potential difference, and resistance in a simple circuit.
+
+
 ## 2. Essential Knowledge
 
 ### Use electric current as rate of flow of charge

@@ -28,6 +28,13 @@ Deformation links forces to material response through extension, stress, strain,
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/deformation-of-solids.svg]]
+
+Figure: This guide highlights load-extension behaviour and stored elastic energy.
+
+
 ## 2. Essential Knowledge
 
 ### Use load, extension, compression, and limit of proportionality for one-dimensional deformation

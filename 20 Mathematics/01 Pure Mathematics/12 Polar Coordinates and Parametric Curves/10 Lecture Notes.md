@@ -27,6 +27,13 @@ Polar and parametric forms describe curves by changing the coordinate language o
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/polar-coordinates-and-parametric-curves.svg]]
+
+Figure: This guide highlights polar and parametric descriptions of curves.
+
+
 ## 2. Essential Knowledge
 
 ### Relations between Cartesian and polar coordinates

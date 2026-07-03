@@ -29,6 +29,13 @@ This topic extends force from translation to rotation and from point objects to 
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/forces-density-and-pressure.svg]]
+
+Figure: This guide highlights moments, torque, pressure, and depth in a fluid.
+
+
 ## 2. Essential Knowledge
 
 ### Use centre of gravity, moment of a force, couple, and torque of a couple

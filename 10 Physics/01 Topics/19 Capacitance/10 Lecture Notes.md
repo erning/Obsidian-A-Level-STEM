@@ -29,6 +29,13 @@ A capacitor stores charge and energy; an RC circuit turns that storage into an e
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/capacitance.svg]]
+
+Figure: This guide highlights capacitor charging and discharging as exponential processes.
+
+
 ## 2. Essential Knowledge
 
 ### Define capacitance using $C = Q/V$

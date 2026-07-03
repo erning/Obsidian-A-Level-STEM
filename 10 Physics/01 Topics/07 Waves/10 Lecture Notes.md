@@ -31,6 +31,13 @@ A progressive wave transfers energy while the medium or field oscillates.
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/waves.svg]]
+
+Figure: This guide highlights amplitude, wavelength, period, and phase on a progressive wave.
+
+
 ## 2. Essential Knowledge
 
 ### Use displacement, amplitude, phase difference, period, frequency, wavelength, and speed

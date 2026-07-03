@@ -27,6 +27,13 @@ Probability starts with describing the sample space and counting outcomes withou
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/counting-and-probability.svg]]
+
+Figure: This guide highlights sample-space structure from a probability tree.
+
+
 ## 2. Essential Knowledge
 
 ### Permutations and combinations

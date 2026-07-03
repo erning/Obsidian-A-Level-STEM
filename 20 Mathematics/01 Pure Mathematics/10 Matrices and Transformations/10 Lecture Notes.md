@@ -27,6 +27,13 @@ Matrices organise linear operations, transformations, systems of equations, and 
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/matrices-and-transformations.svg]]
+
+Figure: This guide highlights a matrix transformation acting on a square grid.
+
+
 ## 2. Essential Knowledge
 
 ### Matrix addition, subtraction, multiplication, zero matrix, and identity matrix

@@ -29,6 +29,13 @@ Oscillations describe repeated motion around equilibrium, with SHM as the centra
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/oscillations.svg]]
+
+Figure: This guide highlights SHM displacement, velocity, and acceleration phase relationships.
+
+
 ## 2. Essential Knowledge
 
 ### Recognise SHM from acceleration proportional to displacement and directed towards equilibrium

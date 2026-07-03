@@ -27,6 +27,13 @@ Rigid bodies require moments and geometry; variable forces require calculus.
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For mathematics, keep three checks visible: conditions, representation, and an independent verification of the result.
 
+## Visual Guide
+
+![[assets/generated/mathematics/rigid-bodies-and-variable-forces.svg]]
+
+Figure: This guide highlights moments on a beam and work from a variable force.
+
+
 ## 2. Essential Knowledge
 
 ### Rigid-body equilibrium with forces and moments

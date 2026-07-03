@@ -29,6 +29,13 @@ Medical physics applies wave, attenuation, detection, and nuclear ideas to imagi
 
 The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
 
+## Visual Guide
+
+![[assets/generated/physics/medical-physics.svg]]
+
+Figure: This guide highlights ultrasound reflection and exponential attenuation.
+
+
 ## 2. Essential Knowledge
 
 ### Explain ultrasound production, reflection, acoustic impedance, attenuation, and echo timing
