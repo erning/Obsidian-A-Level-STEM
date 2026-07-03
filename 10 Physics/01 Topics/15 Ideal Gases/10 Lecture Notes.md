@@ -12,7 +12,9 @@ tags:
 
 # Ideal Gases Lecture Notes
 
-This note develops [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+Ideal gases give a clean model for connecting two descriptions of the same system. At the macroscopic level, you measure pressure, volume, temperature, and amount of substance. At the microscopic level, you picture a very large number of molecules moving randomly and colliding with the container walls.
+
+The important skill is to move between these two descriptions without losing the assumptions. The equation $pV = nRT$ is not just an algebraic rule. It is a compact statement about a gas whose molecular volume and intermolecular forces are small enough to ignore.
 
 ## Source Route
 
@@ -21,114 +23,279 @@ This note develops [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases
 - 15.1 The mole
 - 15.2 Equation of state
 - 15.3 Kinetic theory of gases
-- Coursebook route: Physics Coursebook Chapter 20: Ideal gases.
-
-## 1. Core Frame
-
-The ideal gas model connects macroscopic pressure, volume, temperature, and amount of substance to microscopic molecular motion.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+- Coursebook route: Physics Coursebook Chapter 20, Ideal gases.
 
 ## Visual Guide
 
 ![[assets/generated/physics/ideal-gases.svg]]
 
-Figure: This guide highlights molecular model connected to pressure-volume isotherms.
+Figure: The particle model links microscopic molecular motion with macroscopic pressure, volume, and temperature.
 
+## 1. The Variables of a Gas
 
-## 2. Essential Knowledge
+For an ideal gas problem, identify these variables before writing an equation:
 
-### Use amount of substance, mole, Avogadro constant, and number of particles
+- $p$: pressure of the gas, measured in pascals.
+- $V$: volume occupied by the gas, measured in cubic metres.
+- $T$: thermodynamic temperature, measured in kelvin.
+- $n$: amount of substance, measured in moles.
+- $N$: number of molecules.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+Temperature must be in kelvin in gas equations. Celsius temperature measures the same size of temperature interval, but it does not start at absolute zero, so it cannot be used directly in $pV = nRT$ or $pV = NkT$.
 
-A useful self-check is to explain why this item belongs in Ideal Gases: what
-it measures, models, transforms, or connects. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+Amount of substance is an SI base quantity. Its SI base unit is the mole, symbol $\mathrm{mol}$. It is not the same as mass. Mass tells you how much matter is present by inertia or weight; amount of substance tells you how many elementary entities are present, scaled by Avogadro's constant.
 
-### Use the ideal gas equation for state changes
+## 2. Mole and Avogadro's Constant
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+One mole contains a number of particles equal to Avogadro's constant:
 
-A useful self-check is to explain why this item belongs in Ideal Gases: what
-it measures, models, transforms, or connects. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+$$
+N_\text{A} = 6.02 \times 10^{23}\ \mathrm{mol}^{-1}
+$$
 
-### Explain gas pressure using molecular collisions with container walls
+The basic link between amount of substance and number of molecules is
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+N = nN_\text{A}.
+$$
 
-A useful self-check is to explain why this item belongs in Ideal Gases: what
-it measures, models, transforms, or connects. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+If the mass $m_\text{gas}$ of a gas sample and its molar mass $M$ are known, then
 
-### Use kinetic theory to connect thermodynamic temperature with mean translational kinetic energy
+$$
+n = \frac{m_\text{gas}}{M}.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+Use consistent units. If $M$ is in $\mathrm{kg\ mol^{-1}}$, then $m_\text{gas}$ must be in kilograms. If $M$ is in $\mathrm{g\ mol^{-1}}$, then $m_\text{gas}$ must be in grams.
 
-A useful self-check is to explain why this item belongs in Ideal Gases: what
-it measures, models, transforms, or connects. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+## 3. Ideal Gas Equation
 
-### Recognise the assumptions and limitations of the ideal gas model
+An ideal gas is a gas that obeys
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+pV \propto T
+$$
 
-A useful self-check is to explain why this item belongs in Ideal Gases: what
-it measures, models, transforms, or connects. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+for a fixed amount of gas, where $T$ is thermodynamic temperature. The full equation of state is
 
-## 3. Method Selection
+$$
+pV = nRT,
+$$
 
-Use these habits while studying:
+where
 
-- Move deliberately between macroscopic variables and particle-level explanations.
-- Write temperature in kelvin before using gas equations.
-- List model assumptions before applying kinetic theory.
+$$
+R = 8.31\ \mathrm{J\ mol^{-1}\ K^{-1}}.
+$$
 
-Use these practice routes to turn the ideas into fluency:
+Since $N = nN_\text{A}$, the same equation can be written using the number of molecules:
 
-- Solve ideal-gas state problems.
-- Calculate particle number and amount of substance.
-- Use kinetic theory relationships for molecular speeds and energy.
+$$
+pV = NkT,
+$$
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+where $k$ is the Boltzmann constant:
 
-## 4. Worked-Thinking Pattern
+$$
+k = \frac{R}{N_\text{A}} = 1.38 \times 10^{-23}\ \mathrm{J\ K^{-1}}.
+$$
 
-1. Read the question and name the relevant concept from Ideal Gases.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+Use $pV = nRT$ when the amount of substance in moles is given or convenient. Use $pV = NkT$ when the question is about individual molecules, number of particles, or kinetic theory.
 
-## 5. Connections
+For a fixed amount of gas, the equation also gives
+
+$$
+\frac{pV}{T} = \text{constant}.
+$$
+
+This form is useful for comparing two states of the same gas sample.
+
+## 4. When the Ideal Model Works
+
+The ideal gas model is most reliable when the gas is at low pressure and high temperature. In that situation, the molecules are far apart compared with their own size, and attractive forces between molecules are small for most of the motion.
+
+Real gases deviate from ideal behaviour at high pressure or low temperature. At high pressure, the volume of the molecules themselves becomes less negligible. At low temperature, intermolecular forces become more significant, and the gas may approach condensation.
+
+So before using the model, ask two questions:
+
+- Is the gas being treated as dilute enough for molecular volume to be ignored?
+- Is the temperature high enough that intermolecular forces are not dominating the behaviour?
+
+In many A Level problems, ideal behaviour is stated or implied. Still, naming the assumption keeps the physics clear.
+
+## 5. Pressure from Molecular Collisions
+
+Gas pressure comes from molecular collisions with the container walls. A molecule moving towards a wall has momentum. When it collides elastically with the wall, its velocity component perpendicular to the wall reverses. Its momentum changes, so the wall exerts a force on the molecule. By Newton's third law, the molecule exerts an equal and opposite force on the wall.
+
+The pressure is the total force per unit area due to a very large number of such collisions:
+
+$$
+p = \frac{F}{A}.
+$$
+
+This explains several familiar patterns:
+
+- If the volume is reduced at constant temperature, molecules hit the walls more frequently, so the pressure increases.
+- If the temperature rises at constant volume, the molecules have larger speeds on average, so each collision transfers more momentum and collisions occur more frequently.
+- If more molecules are added to the same volume at the same temperature, there are more collisions per second, so the pressure increases.
+
+The word "random" matters. Individual molecules do not all move with the same speed or in the same direction, but for a large sample their average behaviour is stable and measurable.
+
+## 6. Kinetic Theory Assumptions
+
+The kinetic theory derivation uses a simplified molecular model:
+
+- The gas contains a very large number of molecules moving randomly.
+- Molecules collide elastically with each other and with the container walls.
+- The molecules are treated as hard spheres.
+- The volume of the molecules is negligible compared with the volume of the container.
+- The forces between molecules are negligible except during collisions.
+- The duration of a collision is negligible compared with the time between collisions.
+
+These assumptions are not decorative. They explain why the derivation can ignore intermolecular potential energy, use elastic momentum changes, and average the motion over many molecules.
+
+## 7. Deriving the Pressure Equation
+
+Consider one molecule of mass $m$ in a cube of side $l$. Let its velocity component perpendicular to one wall be $c_x$.
+
+In an elastic collision with that wall, the molecule's velocity component changes from $c_x$ to $-c_x$. The change in the molecule's momentum is
+
+$$
+\Delta p_x = -2mc_x.
+$$
+
+The wall receives an impulse of magnitude $2mc_x$. The time between successive collisions with the same wall is
+
+$$
+\Delta t = \frac{2l}{c_x}.
+$$
+
+The average force due to this one molecule is therefore
+
+$$
+F = \frac{2mc_x}{2l/c_x} = \frac{mc_x^2}{l}.
+$$
+
+Since the wall has area $l^2$, the pressure contribution from this molecule is
+
+$$
+p = \frac{F}{l^2} = \frac{mc_x^2}{l^3}.
+$$
+
+For $N$ molecules, add the contributions:
+
+$$
+p = \frac{m}{V}\sum c_x^2,
+$$
+
+where $V = l^3$. For random three-dimensional motion,
+
+$$
+\langle c_x^2\rangle = \frac{1}{3}\langle c^2\rangle.
+$$
+
+So
+
+$$
+p = \frac{1}{3}\frac{Nm}{V}\langle c^2\rangle,
+$$
+
+or
+
+$$
+pV = \frac{1}{3}Nm\langle c^2\rangle.
+$$
+
+Here $m$ is the mass of one molecule, $N$ is the number of molecules, and $\langle c^2\rangle$ is the mean-square speed.
+
+## 8. Mean-Square Speed and R.M.S. Speed
+
+The mean-square speed is the average value of $c^2$:
+
+$$
+\langle c^2\rangle = \frac{c_1^2 + c_2^2 + c_3^2 + \cdots + c_N^2}{N}.
+$$
+
+The root-mean-square speed is
+
+$$
+c_{\text{r.m.s.}} = \sqrt{\langle c^2\rangle}.
+$$
+
+Do not confuse $c_{\text{r.m.s.}}$ with the mean speed $\langle c\rangle$. Squaring gives faster molecules extra weight, so these quantities are generally different.
+
+## 9. Temperature and Molecular Kinetic Energy
+
+Compare the kinetic theory result
+
+$$
+pV = \frac{1}{3}Nm\langle c^2\rangle
+$$
+
+with the molecular form of the ideal gas equation:
+
+$$
+pV = NkT.
+$$
+
+Equating the two expressions gives
+
+$$
+\frac{1}{3}m\langle c^2\rangle = kT.
+$$
+
+Multiplying by $\frac{3}{2}$ gives
+
+$$
+\frac{1}{2}m\langle c^2\rangle = \frac{3}{2}kT.
+$$
+
+The left-hand side is the mean translational kinetic energy of one molecule. Therefore
+
+$$
+\langle E_\text{k}\rangle = \frac{3}{2}kT.
+$$
+
+This is one of the deepest results in the topic: thermodynamic temperature is proportional to the average translational kinetic energy of the molecules. It is not a measure of the kinetic energy of one particular molecule, because individual molecular speeds vary continuously through collisions.
+
+## 10. Problem-Solving Routine
+
+For an ideal gas calculation:
+
+1. Convert temperature to kelvin.
+2. Convert pressure to pascals and volume to cubic metres.
+3. Decide whether the convenient amount variable is $n$ or $N$.
+4. Choose $pV = nRT$, $pV = NkT$, or a two-state form of $\frac{pV}{T} = \text{constant}$.
+5. Check whether the result makes physical sense. Higher $T$ at fixed $V$ should mean higher $p$; larger $V$ at fixed $T$ should mean lower $p$.
+
+For a kinetic theory explanation:
+
+1. Start with molecular collisions and momentum change.
+2. Connect force to rate of change of momentum.
+3. Divide by area to obtain pressure.
+4. Use random three-dimensional motion to justify the factor $\frac{1}{3}$.
+5. Link $\langle c^2\rangle$ to temperature through $\langle E_\text{k}\rangle = \frac{3}{2}kT$.
+
+## 11. Common Traps
+
+- Using degrees Celsius in $pV = nRT$.
+- Mixing grams with kilograms when using molar mass.
+- Treating $N$ and $n$ as the same quantity.
+- Forgetting that $m$ in $pV = \frac{1}{3}Nm\langle c^2\rangle$ is the mass of one molecule, not the mass of the whole gas sample.
+- Confusing mean speed with root-mean-square speed.
+- Using the ideal gas model without noticing high pressure or low temperature conditions.
+
+## 12. Quick Self-Check
+
+You are ready to move on when you can:
+
+- explain pressure in terms of molecular collisions and momentum change;
+- use both $pV = nRT$ and $pV = NkT$ with correct units;
+- convert between $n$, $N$, molar mass, and mass;
+- state the assumptions behind the kinetic theory model;
+- derive the shape of $pV = \frac{1}{3}Nm\langle c^2\rangle$;
+- explain why $\langle E_\text{k}\rangle = \frac{3}{2}kT$ makes temperature a molecular energy scale.
+
+## Connections
 
 - [[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]
 - [[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]
-
-## 6. Common Traps
-
-- Using degrees Celsius in $pV = nRT$.
-- Forgetting that ideal gas assumptions can fail at high pressure or low temperature.
-- Confusing mean speed with r.m.s. speed.
-
-## Study Sequence
-
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.

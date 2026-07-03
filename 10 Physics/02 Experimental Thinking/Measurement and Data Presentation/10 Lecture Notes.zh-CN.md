@@ -13,8 +13,6 @@ tags:
 
 # Measurement and Data Presentation 中文讲义
 
-这份中文讲义配合 [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/10 Lecture Notes|英文讲义]] 使用。它不是逐句翻译，而是帮你快速抓住“测量与数据呈现”这一节的学习路径。
-
 ## 快速主线
 
 测量与数据呈现这一节不要先背公式。先看清楚系统、物理量、单位、方向和模型假设，再决定用什么表示方式。对这类物理内容来说，会做题的关键通常不是多算一步，而是先把模型选对。

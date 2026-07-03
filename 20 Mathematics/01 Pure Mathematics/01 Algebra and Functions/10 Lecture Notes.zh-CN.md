@@ -14,8 +14,6 @@ tags:
 
 # Algebra and Functions 中文讲义
 
-这份中文讲义配合 [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/10 Lecture Notes|英文讲义]] 使用。它不是英文讲义的逐句翻译，而是用中文把这一课的内容讲顺，方便快速浏览、复习和抓住思路。
-
 这一章的主线很清楚：先学会看代数式的结构，再把代数式当作函数和图像来理解。做题时不要一上来就变形，先问三个问题：
 
 1. 这个式子有什么结构？

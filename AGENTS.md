@@ -75,3 +75,49 @@
 - Do not organise learning materials around exam technique, paper structure,
   or AS/A Level separation unless the user explicitly asks. The default goal is
   conceptual self-study and long-term fluency.
+
+# Lecture Notes Writing Standard
+
+- Before writing or rewriting lecture notes, verify the relevant scope and
+  terminology from the local syllabus and coursebook files under `assets/`.
+  Do not rely on memory, Chinese-to-English translation, or the previous draft
+  when the official source can be checked.
+- Rewrite old template-like notes as real self-study lessons. Avoid generic
+  filler such as "treat this as a working skill" repeated under headings.
+  The note should explain the topic in a way a motivated self-learner can read
+  from start to finish.
+- Preserve existing frontmatter, parent links, Obsidian wikilinks, and useful
+  generated figures when rewriting. If a visual guide exists, include it near
+  the beginning and explain what it is for.
+- The English lecture note is the canonical version. It should use standard
+  CAIE English terms, include the source route, define core quantities or
+  objects, explain conditions and assumptions, show derivations where they
+  matter, and include small examples or checks that make the method concrete.
+- The English note should usually include sections for the learning scope,
+  core ideas, representations or methods, worked-thinking routines, common
+  mistakes, quick self-checks, and connections to nearby notes. Adapt the
+  exact headings to the topic rather than forcing a rigid template.
+- The Chinese companion note is written after the English note. It should
+  match the English note's content and order closely enough for cross-reading,
+  but it should read like natural mainland Chinese explanation, not translated
+  English. Its purpose is quick understanding and review.
+- In Chinese lecture notes, use standard mainland Chinese subject terminology.
+  Include the English term in parentheses only when it prevents ambiguity or
+  when the English term is the standard label students will see in source
+  material.
+- Do not add boilerplate disclaimers such as "this Chinese note accompanies
+  the English note". Start directly with the topic.
+- Keep homework prompts, original source questions, quoted material, and
+  formal problem statements in English unless the user explicitly asks for a
+  translation.
+- Keep formulae in LaTeX in both English and Chinese notes. Do not write
+  formulae in code spans. Use clear SI units and carry signs, directions, and
+  assumptions explicitly in physics notes.
+- For mathematics and physics notes, prefer explanatory prose, compact tables,
+  derivations, diagrams, and short worked examples over long bullet lists.
+  Bullets are fine for checklists, routines, conditions, and common mistakes.
+- After editing lecture notes, run at least these checks when practical:
+  `git diff --check`, a search for formula-like code spans, and a check that
+  embedded local figures exist. For English notes, also check for accidental
+  em dashes or curly quotes. For Chinese notes, check common LaTeX spacing
+  issues such as `\times10`.

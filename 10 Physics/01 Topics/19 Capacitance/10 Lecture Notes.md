@@ -12,7 +12,9 @@ tags:
 
 # Capacitance Lecture Notes
 
-This note develops [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]] as a self-study topic. Use it after the overview and before attempting the practice problems.
+A capacitor stores separated charge and electric potential energy. A capacitor-resistor circuit then turns that stored charge into a time process: charge, potential difference, and current all change exponentially during discharge.
+
+The topic has two habits that prevent most mistakes. First, remember that the "charge stored" on a capacitor means the magnitude of charge on either plate, even though the total charge of the two-plate capacitor is zero. Second, remember that capacitor combination rules are not the same as resistor rules.
 
 ## Source Route
 
@@ -21,124 +23,301 @@ This note develops [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance
 - 19.1 Capacitors and capacitance
 - 19.2 Energy stored in a capacitor
 - 19.3 Discharging a capacitor
-- Coursebook route: Physics Coursebook Chapter 23: Capacitance, capacitor networks, and charge and discharge of capacitors.
-
-## 1. Core Frame
-
-A capacitor stores charge and energy; an RC circuit turns that storage into an exponential time process.
-
-The first pass through the topic should answer three questions: what are the objects, what conditions control them, and which representation makes the problem easiest? For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+- Coursebook route: Physics Coursebook Chapter 23, Capacitance.
 
 ## Visual Guide
 
 ![[assets/generated/physics/capacitance.svg]]
 
-Figure: This guide highlights capacitor charging and discharging as exponential processes.
+Figure: Capacitors store charge and energy; discharge through a resistor follows exponential decay.
 
+## 1. What a Capacitor Stores
 
-## 2. Essential Knowledge
+A capacitor consists of two conductors separated by an insulator called a dielectric. In a simple parallel-plate capacitor, a supply moves electrons from one plate to the other. One plate becomes negatively charged and the other becomes positively charged.
 
-### Define capacitance using $C = Q/V$
+If the plates carry charges $+Q$ and $-Q$, the net charge of the whole capacitor is zero. However, the charge stored by the capacitor is defined as the magnitude $Q$ on either plate.
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+As charge is separated, the potential difference across the capacitor increases. Work must be done to move more charge because the existing charge on the plates resists further separation. That work becomes electric potential energy stored in the capacitor.
 
-A useful self-check is to explain why this item belongs in Capacitance: what
-it measures, models, transforms, or connects. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+## 2. Capacitance
 
-### Use equivalent capacitance for capacitors in series and in parallel
+Capacitance is the charge stored per unit potential difference:
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+C = \frac{Q}{V}.
+$$
 
-A useful self-check is to explain why this item belongs in Capacitance: what
-it measures, models, transforms, or connects. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+Equivalently,
 
-### Use area under a charge-potential graph to find energy stored in a capacitor
+$$
+Q = CV.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+Here:
 
-A useful self-check is to explain why this item belongs in Capacitance: what
-it measures, models, transforms, or connects. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+- $C$ is capacitance;
+- $Q$ is the magnitude of charge stored on either plate;
+- $V$ is the potential difference across the capacitor.
 
-### Use $W = \frac{1}{2}QV = \frac{1}{2}CV^2$
+The unit of capacitance is the farad:
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+1\ \mathrm{F} = 1\ \mathrm{C\ V^{-1}}.
+$$
 
-A useful self-check is to explain why this item belongs in Capacitance: what
-it measures, models, transforms, or connects. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+One farad is a large capacitance in ordinary circuits, so practical capacitors are often measured in $\mu\mathrm{F}$, $\mathrm{nF}$, or $\mathrm{pF}$.
 
-### Analyse capacitor discharge graphs for current, charge, and potential difference
+The same definition applies to an isolated spherical conductor. Its capacitance is the ratio of charge on the conductor to its potential relative to infinity. Using the point-charge potential outside a charged sphere,
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+$$
+V = \frac{Q}{4\pi\varepsilon_0r},
+$$
 
-A useful self-check is to explain why this item belongs in Capacitance: what
-it measures, models, transforms, or connects. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+so an isolated conducting sphere of radius $r$ has capacitance
 
-### Use the time constant $\tau = RC$ and exponential form $x = x_0 e^{-t/RC}$
+$$
+C = 4\pi\varepsilon_0r.
+$$
 
-Treat this as a working skill, not just a definition to memorise. Start
-by stating the objects involved, then choose the representation that
-makes the structure visible. When a calculation is required, write the
-assumptions before manipulating formulae.
+The important idea is still the same: capacitance tells you how much charge is stored for each volt of potential.
 
-A useful self-check is to explain why this item belongs in Capacitance: what
-it measures, models, transforms, or connects. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+## 3. Capacitors in Parallel
 
-## 3. Method Selection
+Capacitors in parallel have the same potential difference across each capacitor:
 
-Use these habits while studying:
+$$
+V_1 = V_2 = V_3 = \cdots = V.
+$$
 
-- Compare capacitor networks with resistor networks explicitly because the combination rules differ.
-- Read capacitor discharge as an exponential model before solving numerically.
-- Use linearisation, such as plotting $\ln V$ against $t$, to test the model.
+The total charge stored is the sum of the charges:
 
-Use these practice routes to turn the ideas into fluency:
+$$
+Q_\text{total} = Q_1 + Q_2 + Q_3 + \cdots.
+$$
 
-- Calculate equivalent capacitance in mixed networks.
-- Find stored energy from formulae and graphs.
-- Extract time constant from discharge data.
+Using $Q = CV$,
 
-When two methods seem possible, choose the one that exposes the most structure with the least algebra. Then check the answer in another representation whenever possible.
+$$
+C_\text{total}V = C_1V + C_2V + C_3V + \cdots.
+$$
 
-## 4. Worked-Thinking Pattern
+So
 
-1. Read the question and name the relevant concept from Capacitance.
-2. Write the definitions, assumptions, and restrictions before calculating.
-3. Choose a representation: formula, diagram, graph, table, vector, or
-   probability model as appropriate.
-4. Carry out the calculation cleanly, keeping exact values until the end.
-5. Check the result against units, signs, domains, limiting cases, or a
-   sketch.
+$$
+C_\text{total} = C_1 + C_2 + C_3 + \cdots.
+$$
 
-## 5. Connections
+Parallel capacitors act like a larger effective plate area. The total capacitance is greater than any individual capacitance.
+
+## 4. Capacitors in Series
+
+Capacitors in series store the same magnitude of charge:
+
+$$
+Q_1 = Q_2 = Q_3 = \cdots = Q.
+$$
+
+The total potential difference is the sum of the potential differences:
+
+$$
+V_\text{total} = V_1 + V_2 + V_3 + \cdots.
+$$
+
+Using $V = \frac{Q}{C}$,
+
+$$
+\frac{Q}{C_\text{total}} = \frac{Q}{C_1} + \frac{Q}{C_2} + \frac{Q}{C_3} + \cdots.
+$$
+
+So
+
+$$
+\frac{1}{C_\text{total}} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3} + \cdots.
+$$
+
+For two capacitors in series,
+
+$$
+C_\text{total} = \frac{C_1C_2}{C_1 + C_2}.
+$$
+
+The total capacitance of capacitors in series is less than the smallest individual capacitance. This is the opposite of what happens for resistors in series.
+
+## 5. Networks and Charge Sharing
+
+For mixed capacitor networks, simplify one part at a time:
+
+1. Identify any pure parallel groups and replace them with their combined capacitance.
+2. Identify any pure series groups and replace them with their combined capacitance.
+3. Repeat until the network becomes a single equivalent capacitance.
+4. Work backwards if you need individual charges or voltages.
+
+When a charged capacitor is connected to another capacitor, total charge is conserved, but stored energy may decrease. The lost energy is transferred to the connecting wires and circuit as thermal energy and electromagnetic radiation during charge redistribution.
+
+This is not a contradiction. Charge is conserved. Energy is conserved too, but not all of the initial energy remains stored in the capacitors.
+
+## 6. Energy Stored in a Capacitor
+
+The energy stored in a capacitor is the work done in charging it. On a graph of potential difference $V$ against charge $Q$, the energy stored is the area under the graph:
+
+$$
+W = \int V\,dQ.
+$$
+
+For a capacitor with constant capacitance,
+
+$$
+V = \frac{Q}{C}.
+$$
+
+The graph of $V$ against $Q$ is a straight line through the origin, so the area under the graph is a triangle:
+
+$$
+W = \frac{1}{2}QV.
+$$
+
+Using $Q = CV$, equivalent forms are
+
+$$
+W = \frac{1}{2}CV^2
+$$
+
+and
+
+$$
+W = \frac{Q^2}{2C}.
+$$
+
+The syllabus formulae to keep fluent are
+
+$$
+W = \frac{1}{2}QV = \frac{1}{2}CV^2.
+$$
+
+The square in $W = \frac{1}{2}CV^2$ matters. Doubling the charging voltage stores four times as much energy, if $C$ is unchanged.
+
+## 7. Capacitor Discharge Through a Resistor
+
+When a charged capacitor is connected across a resistor, it discharges. At first, the potential difference across the capacitor is large, so the current is large. As charge leaves the plates, the potential difference falls. The current therefore falls too.
+
+For discharge through a resistor:
+
+$$
+Q = Q_0e^{-t/RC},
+$$
+
+$$
+V = V_0e^{-t/RC},
+$$
+
+and
+
+$$
+I = I_0e^{-t/RC}.
+$$
+
+The current direction during discharge is opposite to the charging direction. If a sign convention is used, the discharge current may be written with a negative sign. In many graph questions, only the magnitude of current is plotted, so the curve is shown as a positive exponential decay.
+
+The general form is
+
+$$
+x = x_0e^{-t/RC},
+$$
+
+where $x$ may represent charge, potential difference, or current magnitude.
+
+## 8. Time Constant
+
+The time constant of a capacitor-resistor discharge circuit is
+
+$$
+\tau = RC.
+$$
+
+Its unit is seconds:
+
+$$
+\Omega\ \mathrm{F} = \mathrm{s}.
+$$
+
+After one time constant,
+
+$$
+x = x_0e^{-1} \approx 0.37x_0.
+$$
+
+So one time constant does not mean the capacitor is fully discharged. Exponential decay approaches zero gradually. In practice, after about five time constants, the remaining value is small enough that the capacitor is often treated as almost discharged.
+
+Increasing $R$ makes charge leave more slowly. Increasing $C$ means more charge is stored for the same initial potential difference, so discharge also takes longer. Both effects increase $RC$.
+
+## 9. Reading Discharge Graphs
+
+For a discharging capacitor:
+
+- $Q$ against $t$ is an exponential decay;
+- $V$ against $t$ is an exponential decay with the same time constant;
+- current magnitude $I$ against $t$ is an exponential decay with the same time constant.
+
+Useful graph facts:
+
+- The initial current magnitude is $I_0 = \frac{V_0}{R}$.
+- The area under an $I$-$t$ graph gives charge transferred.
+- A graph of $\ln V$ against $t$ is a straight line with gradient $-\frac{1}{RC}$.
+- The same linearisation works for $\ln Q$ or $\ln I$, if the data are discharge data.
+
+When analysing experimental data, do not expect a measured curve to reach exactly zero. Look for the exponential pattern and the time constant.
+
+## 10. Problem-Solving Routine
+
+For capacitance and networks:
+
+1. Identify whether each group is series or parallel.
+2. Use parallel rules when voltages are the same.
+3. Use series rules when charges are the same.
+4. Find $C_\text{total}$ before using $Q = CV$.
+5. Work backwards through the network to find individual charges or voltages.
+
+For energy:
+
+1. Decide whether the graph is $V$ against $Q$.
+2. Use area under the graph for stored energy.
+3. Choose $W = \frac{1}{2}QV$, $W = \frac{1}{2}CV^2$, or $W = \frac{Q^2}{2C}$ based on known quantities.
+4. Check that changing voltage has a square effect on stored energy.
+
+For discharge:
+
+1. Identify $R$, $C$, and the initial value $x_0$.
+2. Calculate $\tau = RC$.
+3. Use $x = x_0e^{-t/RC}$.
+4. Keep track of whether current sign or current magnitude is being used.
+5. Use logarithms if solving for time.
+
+## 11. Common Traps
+
+- Treating the total charge of a two-plate capacitor as $+Q$ instead of zero.
+- Forgetting that "charge stored" means the magnitude on either plate.
+- Using resistor combination rules for capacitors.
+- Assuming series capacitors have the same voltage rather than the same charge.
+- Assuming parallel capacitors have the same charge rather than the same voltage.
+- Forgetting the factor $\frac{1}{2}$ in stored energy.
+- Thinking a capacitor reaches exactly zero charge after one time constant.
+- Ignoring current direction when comparing charging and discharging.
+
+## 12. Quick Self-Check
+
+You are ready to move on when you can:
+
+- define capacitance using $C = \frac{Q}{V}$;
+- apply the definition to both two-plate capacitors and isolated conductors;
+- derive and use capacitor series and parallel rules;
+- find stored energy from a $V$-$Q$ graph;
+- use $W = \frac{1}{2}QV = \frac{1}{2}CV^2$;
+- analyse discharge graphs for $Q$, $V$, and $I$;
+- use $\tau = RC$ and $x = x_0e^{-t/RC}$;
+- explain physically why discharge current decreases with time.
+
+## Connections
 
 - [[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]]
+- [[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]]
 - [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]
-
-## 6. Common Traps
-
-- Using resistor combination rules for capacitors.
-- Expecting charge to become exactly zero after one time constant.
-- Ignoring current direction changes between charging and discharging.
-
-## Study Sequence
-
-1. Read the overview and rewrite the core idea in one sentence.
-2. Work through these lecture notes with a blank page beside you.
-3. Do the worked examples without looking at the solutions, then compare.
-4. Attempt the key practice problems and mark them using the solution note.
-5. Finish with the review checklist and return to any item that is not yet automatic.

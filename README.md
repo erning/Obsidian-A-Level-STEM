@@ -28,6 +28,8 @@
 - `31 Key Practice Solutions.md`：练习题解析。
 - `80 Review Checklist.md`：复习清单，用来检查自己是不是真的能进入下一节。
 
+物理 topic 目前已经补齐英文主讲义和中文快速讲义。数学 topic 也按同样结构推进。
+
 推荐的读法很简单：
 
 1. 先读 `00 Overview.md`，弄清楚这一节的边界。
