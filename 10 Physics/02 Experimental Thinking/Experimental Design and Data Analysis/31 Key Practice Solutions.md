@@ -3,7 +3,7 @@ title: Experimental Design and Data Analysis Key Practice Solutions
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]"
-status: draft
+status: active
 tags:
   - physics/9702
   - experimental-thinking
@@ -12,96 +12,196 @@ tags:
 
 # Experimental Design and Data Analysis Key Practice Solutions
 
-This note gives solution sketches for [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/30 Key Practice Problems|Key Practice Problems]]. Use it to mark method and reasoning, not just final answers.
+Use these solutions to check planning logic, graph choice, uncertainty
+reasoning, and evaluation quality for [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/30 Key Practice Problems|Key Practice Problems]].
 
-## Problem 1
+## A. Planning and Variables
 
-A strong solution should show how this idea fits into Experimental Design and Data Analysis: Define independent, dependent, and control variables.
+1. The independent variable is the pendulum length $l$. The dependent variable
+   is the period $T$. Control variables include the mass of the bob, the
+   release amplitude, the pivot/string arrangement, and the number of
+   oscillations timed.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+2. Use the same bob throughout to keep mass constant. Release from the same
+   small marked angle each time to keep amplitude constant. Use the same pivot
+   and string arrangement throughout. Time the same number of oscillations for
+   each length.
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+3. Clamp a pendulum to a stand and measure $l$ from pivot to the centre of the
+   bob with a metre rule. Vary $l$ over a large range, such as
+   $0.20\ \mathrm{m}$ to $1.00\ \mathrm{m}$, using at least six values. For
+   each value, displace the bob by a small angle, release without pushing, time
+   $10$ or $20$ oscillations, and divide by the number of oscillations to find
+   $T$. Repeat and average. Plot $T^2$ against $l$. Since
 
-## Problem 2
+   $$
+   T^2=\frac{4\pi^2}{g}l,
+   $$
 
-A strong solution should show how this idea fits into Experimental Design and Data Analysis: Choose a method that makes the relationship measurable and repeatable.
+   the gradient is $4\pi^2/g$, so
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   g=\frac{4\pi^2}{\text{gradient}}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+4. The independent variable can be current $I$, varied using a variable
+   resistor or supply. The dependent variable is p.d. $V$ across the fixed
+   resistor. Control variables include the same resistor and constant
+   temperature, controlled by keeping current low and switching off between
+   readings. Plot $V$ against $I$; the gradient is $R$.
 
-## Problem 3
+5. Hazard: the load or spring could snap or fall. Precaution: wear eye
+   protection, keep faces away from the line of the wire or spring, and place a
+   tray or box below the load.
 
-A strong solution should show how this idea fits into Experimental Design and Data Analysis: Identify major uncertainty sources and practical limitations.
+6. A wide range gives a longer graph line, reducing percentage uncertainty in
+   the gradient. At least six readings show scatter and make anomalies easier
+   to identify.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+## B. Linearisation and Data Analysis
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+7. Take logarithms:
 
-## Problem 4
+   $$
+   \lg y=\lg a+n\lg x.
+   $$
 
-A strong solution should show how this idea fits into Experimental Design and Data Analysis: Use linearisation when it gives a clearer test of a relationship.
+   Plot $\lg y$ against $\lg x$. The gradient is $n$ and the intercept is
+   $\lg a$, so $a=10^{\text{intercept}}$.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+8. Take natural logarithms:
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   \ln y=\ln a+kx.
+   $$
 
-## Problem 5
+   Plot $\ln y$ against $x$. The gradient is $k$ and the intercept is $\ln a$,
+   so $a=e^{\text{intercept}}$.
 
-A strong solution should show how this idea fits into Experimental Design and Data Analysis: Draw conclusions from data, not from the formula alone.
+9. For a pendulum,
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   T^2=\frac{4\pi^2}{g}l.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   Hence
 
-## Problem 6
+   $$
+   g=\frac{4\pi^2}{4.05}
+   =9.75\ \mathrm{m\ s^{-2}}.
+   $$
 
-A strong solution should show how this idea fits into Experimental Design and Data Analysis: Convert relationships into straight-line graph forms.
+10. Using the worst acceptable gradient,
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+    $$
+    g_{\text{worst}}=\frac{4\pi^2}{4.20}
+    =9.40\ \mathrm{m\ s^{-2}}.
+    $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+    The uncertainty is
 
-## Problem 7
+    $$
+    \Delta g=|9.75-9.40|
+    =0.35\ \mathrm{m\ s^{-2}}.
+    $$
 
-A strong solution should show how this idea fits into Experimental Design and Data Analysis: Propose control variables for mechanics, waves, circuits, thermal physics, and radioactive decay contexts.
+    Quote
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+    $$
+    g=(9.8\pm0.4)\ \mathrm{m\ s^{-2}}.
+    $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+11. The absolute uncertainty is
 
-## Problem 8
+    $$
+    |3.60-3.25|=0.35
+    $$
 
-A strong solution should show how this idea fits into Experimental Design and Data Analysis: Write short evaluations using evidence from scatter, uncertainty bars, and residual patterns.
+    in the gradient units.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+12. Use $y=mx+c$:
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+    $$
+    5.1=(1.80)(2.0)+c.
+    $$
 
-## Extension
+    Therefore
 
-A good extension solution should identify which assumption was changed, rebuild the setup, and explain why the old method either still works or needs adjustment.
+    $$
+    c=1.5.
+    $$
+
+13. Since $L=76.5\ \mathrm{cm}$ has $3$ significant figures,
+    $\lg(L/\mathrm{cm})$ should be given to about $3$ or $4$ decimal places:
+
+    $$
+    \lg(76.5)=1.884.
+    $$
+
+14. Taking natural logarithms gives
+
+    $$
+    \ln V=\ln V_0-\frac{t}{RC}.
+    $$
+
+    Plot $\ln(V/\mathrm{V})$ against $t$. The gradient is
+
+    $$
+    -\frac{1}{RC},
+    $$
+
+    so
+
+    $$
+    RC=-\frac{1}{\text{gradient}}.
+    $$
+
+## C. Conclusions, Evaluation, and Instruments
+
+15. The experimental range is
+
+    $$
+    9.4\ \mathrm{m\ s^{-2}}\ \text{to}\ 10.0\ \mathrm{m\ s^{-2}}.
+    $$
+
+    The accepted value $9.81\ \mathrm{m\ s^{-2}}$ lies within this range, so
+    the result is consistent with the accepted value.
+
+16. Experimental data have uncertainty and only test the model under the
+    conditions used. They can support or be consistent with a model; they do
+    not prove it for all conditions.
+
+17. Specific limitation: the stop-watch was started and stopped by hand, so
+    reaction time gives significant uncertainty in the timing. Matching
+    improvement: time more oscillations and divide by the number timed, or use
+    a light gate/data logger to measure the period automatically.
+
+18. It is weak because it does not address the main limitation. If the scatter
+    comes from hand timing, improving the ruler will not significantly reduce
+    the uncertainty in the dependent variable.
+
+19. A systematic curve suggests the relationship is not linear in the plotted
+    variables, the wrong linearisation has been used, or a control variable is
+    changing.
+
+20. Hazard: hot liquid can burn skin. Precaution: use a heatproof mat and
+    handle the container with tongs or thermal gloves.
+
+21. Background count rate should be measured and subtracted. The source-detector
+    distance and detector geometry should be kept constant. Counting intervals
+    should be kept the same or corrected for.
+
+22. On an oscilloscope, the time-base gives the time per division. Measure the
+    horizontal separation between features, multiply by the time-base, and use
+    $f=1/T$ if one full period is measured.
+
+23. Attach a card of known length to the moving object. A light gate measures
+    the time for the card to block the beam. Speed is
+
+    $$
+    v=\frac{\text{card length}}{\text{blocking time}}.
+    $$
+
+24. Paper 5 improvements should go beyond the method already available. If the
+    candidate could already have done the improvement using the provided
+    apparatus and instructions, it is not a new improvement to the procedure.

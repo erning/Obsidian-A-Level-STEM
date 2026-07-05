@@ -220,7 +220,7 @@ If a known value exists (such as $g=9.81\ \mathrm{m\ s^{-2}}$), compare it with 
 
 $$
 \text{percentage difference}
-=\frac{|g_{\text{exp}}-g_{\text{known}}|}{g_{\text{known}}}\times100\%.
+=\frac{|g_{\text{exp}}-g_{\text{known}}|}{g_{\text{known}}}\times 100\%.
 $$
 
 Then compare this percentage difference with the experimental percentage uncertainty. If the percentage difference is smaller than the uncertainty, the data are consistent with the accepted value. If it is larger, either the model is wrong or there is a systematic error.

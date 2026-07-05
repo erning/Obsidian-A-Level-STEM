@@ -221,7 +221,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 ### Physics 9702 — Experimental Thinking (batch P6)
 
 - [x] P6 · `10 Physics/02 Experimental Thinking/Measurement and Data Presentation`
-- [ ] P6 · `10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis`
+- [x] P6 · `10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis`
 
 ### Mathematics — Pure (batches M1-M3; 01 Algebra and Functions already done)
 
