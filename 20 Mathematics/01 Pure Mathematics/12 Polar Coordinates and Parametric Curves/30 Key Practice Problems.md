@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/00 Overview|Polar Coordinates and Parametric Curves]]"
-status: draft
+status: active
 tags:
   - mathematics/pure
   - practice
@@ -13,40 +13,150 @@ tags:
 
 # Polar Coordinates and Parametric Curves Key Practice Problems
 
-Work these without the solution note first. The aim is active recall, method selection, and clean checking.
+Work these without looking at the solutions first. Sketch before choosing
+limits for a polar area or drawing conclusions from a parameter interval.
 
-## Problem 1
+## A. Polar Coordinates and Equations
 
-Use this idea in a complete solution: Relations between Cartesian and polar coordinates. State assumptions, choose a method, and check the result.
+1. Convert
 
-## Problem 2
+   $$
+   \left(4,\frac{2\pi}{3}\right)
+   $$
 
-Use this idea in a complete solution: Sketching simple polar curves and identifying symmetry, intersections, and least or greatest radius. State assumptions, choose a method, and check the result.
+   to Cartesian coordinates.
 
-## Problem 3
+2. Find the principal polar coordinates of $(-\sqrt3,1)$.
 
-Use this idea in a complete solution: Area in polar coordinates using $\frac{1}{2}\int r^2\,d\theta$. State assumptions, choose a method, and check the result.
+3. Give two other polar coordinate pairs for the same point as
 
-## Problem 4
+   $$
+   \left(3,\frac{\pi}{6}\right).
+   $$
 
-Use this idea in a complete solution: Parametric curves, derivatives, tangents, and graph features. State assumptions, choose a method, and check the result.
+4. Convert
 
-## Problem 5
+   $$
+   x^2+y^2=6x
+   $$
 
-Use this idea in a complete solution: Choosing the representation that makes a curve easier to understand. State assumptions, choose a method, and check the result.
+   to polar form.
 
-## Problem 6
+5. Convert
 
-Complete this practice task: Convert between Cartesian and polar equations.
+   $$
+   y=3
+   $$
 
-## Problem 7
+   to polar form.
 
-Complete this practice task: Sketch polar and parametric curves.
+6. Convert
 
-## Problem 8
+   $$
+   r=5
+   $$
 
-Complete this practice task: Find tangents and enclosed areas.
+   to Cartesian form.
 
-## Extension
+7. Convert
 
-Choose one problem above and change a condition. Explain how the method changes and which parts of the original solution still survive.
+   $$
+   r=4\cos\theta
+   $$
+
+   to Cartesian form.
+
+8. Convert
+
+   $$
+   r^2=9\sin2\theta
+   $$
+
+   to Cartesian form.
+
+## B. Polar Sketching, Intersections, and Area
+
+9. State the key sketch features of
+
+   $$
+   r=3+3\cos\theta,\qquad 0\le\theta\le\pi.
+   $$
+
+10. Find the area of the sector swept out by
+
+    $$
+    r=2,\qquad 0\le\theta\le\frac{\pi}{2}.
+    $$
+
+11. Find the area swept out by
+
+    $$
+    r=2+2\cos\theta,\qquad 0\le\theta\le\pi.
+    $$
+
+12. Find the polar coordinates of the intersections of
+
+    $$
+    r=2
+    $$
+
+    and
+
+    $$
+    r=4\cos\theta
+    $$
+
+    for $-\pi<\theta\le\pi$.
+
+13. Convert
+
+    $$
+    r\cos\left(\theta-\frac{\pi}{4}\right)=3
+    $$
+
+    to Cartesian form.
+
+## C. Parametric Curves and Differentiation
+
+14. Eliminate the parameter from
+
+    $$
+    x=t+1,\qquad y=t^2,\qquad t\ge0.
+    $$
+
+15. Eliminate the parameter from
+
+    $$
+    x=t^2,\qquad y=t^3.
+    $$
+
+    State any restriction on $x$.
+
+16. For
+
+    $$
+    x=t^2+1,\qquad y=t^3-t,
+    $$
+
+    find $\dfrac{dy}{dx}$.
+
+17. For the curve in question 16, find the tangent at $t=1$.
+
+18. For the curve in question 16, find the normal at $t=1$.
+
+19. For
+
+    $$
+    x=t^2,\qquad y=t^3-3t,
+    $$
+
+    find the points with horizontal tangents and the point with a vertical
+    tangent.
+
+20. For
+
+    $$
+    x=t^2+1,\qquad y=t^3-t,
+    $$
+
+    find $\dfrac{d^2y}{dx^2}$ at $t=1$.
