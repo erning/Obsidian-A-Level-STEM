@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]"
-status: draft
+status: active
 tags:
   - mathematics/pure
   - practice
@@ -13,40 +13,134 @@ tags:
 
 # Further Calculus and Differential Equations Key Practice Problems
 
-Work these without the solution note first. The aim is active recall, method selection, and clean checking.
+Work these without looking at the solutions first. Classify the method before
+starting calculation.
 
-## Problem 1
+## A. Hyperbolic Functions and Further Calculus
 
-Use this idea in a complete solution: Hyperbolic functions, inverse hyperbolic functions, identities, and logarithmic forms. State assumptions, choose a method, and check the result.
+1. Use the exponential definitions to prove
 
-## Problem 2
+   $$
+   \cosh^2x-\sinh^2x=1.
+   $$
 
-Use this idea in a complete solution: Further differentiation and integration techniques. State assumptions, choose a method, and check the result.
+2. Solve $\sinh x=3$.
 
-## Problem 3
+3. Solve $\cosh x=\dfrac52$ for $x\ge0$.
 
-Use this idea in a complete solution: Differential equations by separation of variables and other syllabus methods. State assumptions, choose a method, and check the result.
+4. Differentiate $\tanh x$ from its definition as $\dfrac{\sinh x}{\cosh x}$.
 
-## Problem 4
+5. Find the Maclaurin series of $e^x\cos x$ up to and including the term in
+   $x^3$.
 
-Use this idea in a complete solution: First-order and second-order differential equations where included by 9231. State assumptions, choose a method, and check the result.
+6. Evaluate
 
-## Problem 5
+   $$
+   \int \frac{dx}{\sqrt{9-x^2}}.
+   $$
 
-Use this idea in a complete solution: Modelling situations through differential equations and interpreting constants. State assumptions, choose a method, and check the result.
+7. For
 
-## Problem 6
+   $$
+   I_n=\int_0^{\pi/2}\sin^n x\,dx,
+   $$
 
-Complete this practice task: Solve separable differential equations.
+   use the reduction formula
 
-## Problem 7
+   $$
+   I_n=\frac{n-1}{n}I_{n-2}
+   $$
 
-Complete this practice task: Use hyperbolic identities.
+   to find $I_4$.
 
-## Problem 8
+8. Find the arc length of
 
-Complete this practice task: Model growth, decay, motion, or oscillation with differential equations.
+   $$
+   y=x^2
+   $$
 
-## Extension
+   from $x=0$ to $x=1$.
 
-Choose one problem above and change a condition. Explain how the method changes and which parts of the original solution still survive.
+## B. Separable and First-Order Linear Differential Equations
+
+9. Solve
+
+   $$
+   \frac{dy}{dx}=xy,\qquad y(0)=2.
+   $$
+
+10. Solve
+
+    $$
+    \frac{dy}{dx}=(1+x)y^2,\qquad y(0)=1.
+    $$
+
+11. A quantity $M$ satisfies
+
+    $$
+    \frac{dM}{dt}=-kM.
+    $$
+
+    Given $M(0)=100$ and $M(5)=60$, find $M(t)$.
+
+12. Solve
+
+    $$
+    \frac{dy}{dx}+2y=e^{-x}.
+    $$
+
+13. Solve
+
+    $$
+    \frac{dy}{dx}-2y=x.
+    $$
+
+## C. Constant-Coefficient Differential Equations
+
+14. Solve
+
+    $$
+    \frac{d^2y}{dx^2}-5\frac{dy}{dx}+6y=0.
+    $$
+
+15. Solve
+
+    $$
+    \frac{d^2y}{dx^2}-4\frac{dy}{dx}+4y=0.
+    $$
+
+16. Solve
+
+    $$
+    \frac{d^2y}{dx^2}+4y=0.
+    $$
+
+17. Solve
+
+    $$
+    \frac{d^2y}{dx^2}-3\frac{dy}{dx}+2y=3e^{3x}.
+    $$
+
+18. For the equation in question 14, find the solution satisfying
+
+    $$
+    y(0)=1,\qquad y'(0)=0.
+    $$
+
+## D. Substitution and Interpretation
+
+19. Use the substitution $y=ux$ to reduce
+
+    $$
+    \frac{dy}{dx}=\frac{x+y}{x-y}
+    $$
+
+    to a separable equation, and give the implicit general solution.
+
+20. For the cooling model
+
+    $$
+    T=20+60e^{-(\ln2)t/10},
+    $$
+
+    find the limiting value of $T$ as $t\to\infty$ and interpret it.
