@@ -225,7 +225,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 
 ### Mathematics — Pure (batches M1-M3; 01 Algebra and Functions already done)
 
-- [ ] M1 · `20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs`
+- [x] M1 · `20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs`
 - [ ] M1 · `20 Mathematics/01 Pure Mathematics/03 Trigonometry and Circular Measure`
 - [ ] M1 · `20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions`
 - [ ] M1 · `20 Mathematics/01 Pure Mathematics/05 Differentiation`
