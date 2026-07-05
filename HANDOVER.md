@@ -215,7 +215,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 - [x] P5 · `10 Physics/01 Topics/21 Alternating Currents`
 - [x] P5 · `10 Physics/01 Topics/22 Quantum Physics`
 - [x] P5 · `10 Physics/01 Topics/23 Nuclear Physics`
-- [ ] P5 · `10 Physics/01 Topics/24 Medical Physics`
+- [x] P5 · `10 Physics/01 Topics/24 Medical Physics`
 - [ ] P5 · `10 Physics/01 Topics/25 Astronomy and Cosmology`
 
 ### Physics 9702 — Experimental Thinking (batch P6)
