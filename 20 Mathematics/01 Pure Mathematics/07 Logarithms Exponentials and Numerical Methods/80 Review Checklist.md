@@ -3,9 +3,8 @@ title: Logarithms, Exponentials and Numerical Methods Review Checklist
 subject: Mathematics
 syllabus:
   - 9709
-  - 9231
 parent: "[[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]"
-status: draft
+status: active
 tags:
   - mathematics/pure
   - review-checklist
@@ -13,31 +12,63 @@ tags:
 
 # Logarithms, Exponentials and Numerical Methods Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this checklist after the practice problems. Any unchecked item is a cue to
+return to the lecture notes or worked examples.
 
 ## Ideas to Recall
 
-- [ ] Laws of logarithms and natural logarithms.
-- [ ] Solving logarithmic and exponential equations and inequalities.
-- [ ] Transforming relationships to linear form.
-- [ ] Iterative processes for numerical solution of equations.
-- [ ] Convergence awareness and graph-based interpretation of roots.
+- [ ] $e^x$ and $\ln x$ are inverse functions.
+- [ ] $\ln x$ is defined only for $x>0$.
+- [ ] Logarithm laws require positive arguments.
+- [ ] $\ln(x+y)$ is not equal to $\ln x+\ln y$.
+- [ ] Taking logarithms brings an unknown index down as a multiplier.
+- [ ] Exponential functions with base greater than $1$ are increasing.
+- [ ] Exponential functions with base between $0$ and $1$ are decreasing.
+- [ ] For $y=kx^n$, plotting $\ln y$ against $\ln x$ gives a straight line.
+- [ ] For $y=ka^x$ or $y=ke^{bx}$, plotting $\ln y$ against $x$ gives a
+      straight line.
+- [ ] A sign change for a continuous function locates at least one root.
+- [ ] Fixed-point iteration has the form $x_{n+1}=F(x_n)$.
+- [ ] Iteration may fail to converge, so numerical answers need checking.
 
 ## Skills to Perform
 
-- [ ] Linearise exponential and power-law data.
-- [ ] Solve equations using logarithms.
-- [ ] Use fixed-point iteration or other iterative methods with clear stopping criteria.
+- [ ] Simplify logarithmic expressions using valid laws.
+- [ ] Solve logarithmic equations after writing domain restrictions.
+- [ ] Solve exponential equations using logarithms.
+- [ ] Solve exponential inequalities with the correct inequality direction.
+- [ ] Build and interpret exponential growth or decay models.
+- [ ] Convert $y=kx^n$ into $\ln y=\ln k+n\ln x$.
+- [ ] Convert $y=ke^{bx}$ into $\ln y=\ln k+bx$.
+- [ ] Determine constants from gradients and intercepts in linearised graphs.
+- [ ] Locate roots using sign changes.
+- [ ] Use a given fixed-point iteration and report stable approximations.
+- [ ] Explain why a fixed point solves the original equation.
+- [ ] Use Newton iteration as a tangent-based extension when appropriate.
 
 ## Common Errors to Avoid
 
-- [ ] Taking logarithms of non-positive expressions.
-- [ ] Applying log laws to sums.
+- [ ] Taking logarithms of zero or negative expressions.
+- [ ] Applying logarithm laws before checking the original domain.
+- [ ] Expanding $\ln(x+y)$ incorrectly.
+- [ ] Forgetting that $e^{\ln x}=x$ requires $x>0$.
+- [ ] Reversing or failing to reverse inequalities when rewriting bases.
+- [ ] Mixing up the axes for linear form graphs.
+- [ ] Treating a sign change as proof of the exact root.
+- [ ] Rounding intermediate iteration values too early.
 - [ ] Assuming every rearrangement gives a convergent iteration.
+- [ ] Reporting a numerical root without checking it in the original equation.
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Logarithms, Exponentials and Numerical Methods without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can protect logarithm domains before solving.
+- [ ] I can move between exponential and logarithmic forms fluently.
+- [ ] I can solve exponential equations and inequalities.
+- [ ] I can model growth or decay and interpret the sign of the exponent.
+- [ ] I can linearise power-law and exponential data.
+- [ ] I can use sign changes to locate roots.
+- [ ] I can carry out fixed-point iteration with sensible rounding.
+- [ ] I can explain how an iteration formula relates to the original equation.
+- [ ] I can connect this topic to [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]],
+      [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]],
+      and [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]].
