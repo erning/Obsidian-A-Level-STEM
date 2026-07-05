@@ -254,7 +254,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 - [x] M6 · `20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables`
 - [x] M6 · `20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions`
 - [x] M7 · `20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables`
-- [ ] M7 · `20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests`
+- [x] M7 · `20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests`
 - [ ] M7 · `20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF`
 
 ## 10. Lecture-Note Gaps Found During Implementation
