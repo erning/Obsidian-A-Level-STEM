@@ -209,7 +209,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 - [x] P3 · `10 Physics/01 Topics/15 Ideal Gases`
 - [x] P4 · `10 Physics/01 Topics/16 Thermodynamics`
 - [x] P4 · `10 Physics/01 Topics/17 Oscillations`
-- [ ] P4 · `10 Physics/01 Topics/18 Electric Fields`
+- [x] P4 · `10 Physics/01 Topics/18 Electric Fields`
 - [ ] P4 · `10 Physics/01 Topics/19 Capacitance`
 - [ ] P4 · `10 Physics/01 Topics/20 Magnetic Fields`
 - [ ] P5 · `10 Physics/01 Topics/21 Alternating Currents`
