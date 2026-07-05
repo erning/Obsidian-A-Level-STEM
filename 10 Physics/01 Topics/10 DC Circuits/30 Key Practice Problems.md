@@ -3,7 +3,7 @@ title: D.C. Circuits Key Practice Problems
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/electricity
@@ -12,40 +12,92 @@ tags:
 
 # D.C. Circuits Key Practice Problems
 
-Work these without the solution note first. The aim is active recall, method selection, and clean checking.
+Work these without looking at the solutions first. Mark junctions, loops, and
+output terminals before writing equations.
 
-## Problem 1
+## A. Practical Circuits and Kirchhoff's Laws
 
-Use this idea in a complete solution: Use circuit symbols and draw practical circuits clearly. State assumptions, choose a method, and check the result.
+1. State how an ammeter and voltmeter should be connected in a circuit, and
+   state the ideal resistance of each meter.
 
-## Problem 2
+2. A current of $6.0\ \mathrm{A}$ enters a junction. Currents of
+   $2.5\ \mathrm{A}$, $1.4\ \mathrm{A}$, and $I$ leave. Find $I$.
 
-Use this idea in a complete solution: Use Kirchhoff's first law as conservation of charge and Kirchhoff's second law as conservation of energy. State assumptions, choose a method, and check the result.
+3. A $9.0\ \mathrm{V}$ cell of negligible internal resistance is connected to
+   $4.0\ \Omega$ and $8.0\ \Omega$ resistors in series. Find the current and
+   the p.d. across each resistor.
 
-## Problem 3
+4. A loop contains a $12\ \mathrm{V}$ source and a $2.0\ \mathrm{V}$ source
+   opposing it. The total external resistance is $5.0\ \Omega$. Find the
+   current.
 
-Use this idea in a complete solution: Analyse series, parallel, and mixed resistor networks. State assumptions, choose a method, and check the result.
+5. Two parallel resistors, $6.0\ \Omega$ and $3.0\ \Omega$, are connected
+   across a $12\ \mathrm{V}$ supply. Find the current in each branch and the
+   total current.
 
-## Problem 4
+## B. Series, Parallel, and Mixed Networks
 
-Use this idea in a complete solution: Use electromotive force, internal resistance, and terminal potential difference. State assumptions, choose a method, and check the result.
+6. Three resistors of $20\ \Omega$, $30\ \Omega$, and $50\ \Omega$ are in
+   series across a $10\ \mathrm{V}$ supply. Find the total resistance, current,
+   and p.d. across each resistor.
 
-## Problem 5
+7. Resistors of $20\ \Omega$, $30\ \Omega$, and $60\ \Omega$ are connected in
+   parallel. Find the combined resistance.
 
-Use this idea in a complete solution: Use potential dividers in sensing and control circuits. State assumptions, choose a method, and check the result.
+8. An $8.0\ \Omega$ resistor and a $12\ \Omega$ resistor are in parallel. This
+   group is in series with a $5.2\ \Omega$ resistor and a $20\ \mathrm{V}$
+   supply. Find the total current and the current in each parallel branch.
 
-## Problem 6
+9. What resistor must be connected in parallel with a $12\ \Omega$ resistor to
+   give a combined resistance of $8.0\ \Omega$?
 
-Complete this practice task: Solve resistor-network problems.
+10. A $6.0\ \Omega$ resistor and a $3.0\ \Omega$ resistor are connected in
+    parallel across a $12\ \mathrm{V}$ supply. Find the total current and total
+    power delivered to the parallel network.
 
-## Problem 7
+## C. Internal Resistance
 
-Complete this practice task: Use $V = IR$ with Kirchhoff equations.
+11. A cell of e.m.f. $6.0\ \mathrm{V}$ and internal resistance
+    $1.0\ \Omega$ is connected to an external resistor of $11\ \Omega$. Find
+    the current, terminal p.d., and lost volts.
 
-## Problem 8
+12. A cell has e.m.f. $3.0\ \mathrm{V}$. When a $10\ \Omega$ resistor is
+    connected across its terminals, the terminal p.d. is $2.8\ \mathrm{V}$.
+    Find the internal resistance.
 
-Complete this practice task: Design and analyse potential divider circuits.
+13. A graph of terminal p.d. $V$ against current $I$ for a source has intercept
+    $4.5\ \mathrm{V}$ and gradient $-0.75\ \mathrm{V\ A^{-1}}$. Find the
+    e.m.f. and internal resistance.
 
-## Extension
+14. A car battery has e.m.f. $12\ \mathrm{V}$ and internal resistance
+    $0.040\ \Omega$. The starter motor draws current $80\ \mathrm{A}$. Find
+    the terminal p.d.
 
-Choose one problem above and change a condition. Explain how the method changes and which parts of the original solution still survive.
+15. A cell has e.m.f. $3.0\ \mathrm{V}$ and internal resistance
+    $0.50\ \Omega$. Estimate the short-circuit current.
+
+## D. Potential Dividers and Potentiometers
+
+16. A $9.0\ \mathrm{V}$ supply is connected across two series resistors,
+    $R_1=1.0\ \mathrm{k\Omega}$ and $R_2=2.0\ \mathrm{k\Omega}$. The output is
+    taken across $R_2$. Find $V_{\text{out}}$.
+
+17. A $12\ \mathrm{V}$ supply feeds a potential divider. The output is taken
+    across the lower resistor $R_2$. If $R_1=3.0\ \mathrm{k\Omega}$, find
+    $R_2$ needed for $V_{\text{out}}=3.0\ \mathrm{V}$.
+
+18. A $6.0\ \mathrm{V}$ supply is connected across an LDR in series with a
+    fixed $10\ \mathrm{k\Omega}$ resistor. The output is across the fixed
+    resistor. The LDR is $50\ \mathrm{k\Omega}$ in the dark and
+    $5.0\ \mathrm{k\Omega}$ in bright light. Find the output p.d. in each case.
+
+19. A $10\ \mathrm{V}$ supply is connected across a fixed
+    $5.0\ \mathrm{k\Omega}$ resistor in series with an NTC thermistor. The
+    output is taken across the thermistor. The thermistor is
+    $15\ \mathrm{k\Omega}$ when cold and $5.0\ \mathrm{k\Omega}$ when hot.
+    Find the output p.d. in each case and state how it changes as temperature
+    rises.
+
+20. A potentiometer wire has $4.0\ \mathrm{V}$ across its full
+    $1.00\ \mathrm{m}$ length. A cell balances at $0.420\ \mathrm{m}$. Find the
+    cell e.m.f. and state what the null galvanometer reading means.

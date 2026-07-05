@@ -201,7 +201,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 - [x] P2 · `10 Physics/01 Topics/07 Waves`
 - [x] P2 · `10 Physics/01 Topics/08 Superposition`
 - [x] P2 · `10 Physics/01 Topics/09 Electricity`
-- [ ] P2 · `10 Physics/01 Topics/10 DC Circuits`
+- [x] P2 · `10 Physics/01 Topics/10 DC Circuits`
 - [ ] P3 · `10 Physics/01 Topics/11 Particle Physics`
 - [ ] P3 · `10 Physics/01 Topics/12 Motion in a Circle`
 - [ ] P3 · `10 Physics/01 Topics/13 Gravitational Fields`

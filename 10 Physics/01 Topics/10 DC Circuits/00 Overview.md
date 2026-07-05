@@ -19,7 +19,7 @@ D.C. circuit analysis is conservation of charge and conservation of energy writt
 - Primary syllabus source: CAIE Physics 9702.
 - 10 D.C. circuits
 - 10.1 Practical circuits
-- 10.2 Kirchhoff’s laws
+- 10.2 Kirchhoff's laws
 - 10.3 Potential dividers
 - Coursebook route: Physics Coursebook Chapters 9-11: Kirchhoff's laws, resistor combinations, internal resistance, potential dividers, sensors, and potentiometer circuits.
 
