@@ -3,7 +3,7 @@ title: Quantum Physics Key Practice Solutions
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/modern-physics
@@ -12,96 +12,294 @@ tags:
 
 # Quantum Physics Key Practice Solutions
 
-This note gives solution sketches for [[10 Physics/01 Topics/22 Quantum Physics/30 Key Practice Problems|Key Practice Problems]]. Use it to mark method and reasoning, not just final answers.
+Use these solutions to check the setup, energy units, physical explanation, and
+final answers for [[10 Physics/01 Topics/22 Quantum Physics/30 Key Practice Problems|Key Practice Problems]].
 
-## Problem 1
+## A. Photons
 
-A strong solution should show how this idea fits into Quantum Physics: Use photon energy and photon momentum relationships.
+1. A photon is a quantum of electromagnetic energy. It is the packet of energy
+   used in the particulate model of electromagnetic radiation.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+2. Use
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   E=hf.
+   $$
 
-## Problem 2
+   Hence
 
-A strong solution should show how this idea fits into Quantum Physics: Explain photoelectric effect using photons, threshold frequency, and work function.
+   $$
+   E=(6.63 \times 10^{-34})(5.00 \times 10^{14})
+   =3.32 \times 10^{-19}\ \mathrm{J}.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   In electronvolts,
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   E=\frac{3.32 \times 10^{-19}}{1.60 \times 10^{-19}}
+   =2.07\ \mathrm{eV}.
+   $$
 
-## Problem 3
+3. Convert $450\ \mathrm{nm}=4.50 \times 10^{-7}\ \mathrm{m}$. Then
 
-A strong solution should show how this idea fits into Quantum Physics: Use de Broglie wavelength for matter waves.
+   $$
+   E=\frac{hc}{\lambda}
+   =
+   \frac{(6.63 \times 10^{-34})(3.00 \times 10^8)}
+   {4.50 \times 10^{-7}}
+   =4.42 \times 10^{-19}\ \mathrm{J}.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   In electronvolts,
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   E=\frac{4.42 \times 10^{-19}}{1.60 \times 10^{-19}}
+   =2.76\ \mathrm{eV}.
+   $$
 
-## Problem 4
+   The momentum is
 
-A strong solution should show how this idea fits into Quantum Physics: Understand wave-particle duality as model choice supported by evidence.
+   $$
+   p=\frac{h}{\lambda}
+   =
+   \frac{6.63 \times 10^{-34}}{4.50 \times 10^{-7}}
+   =1.47 \times 10^{-27}\ \mathrm{kg\ m\ s^{-1}}.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+4. Use
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   p=\frac{E}{c}
+   =\frac{4.00 \times 10^{-19}}{3.00 \times 10^8}
+   =1.33 \times 10^{-27}\ \mathrm{kg\ m\ s^{-1}}.
+   $$
 
-## Problem 5
+   Also
 
-A strong solution should show how this idea fits into Quantum Physics: Use discrete energy levels to explain emission and absorption line spectra.
+   $$
+   \lambda=\frac{hc}{E}
+   =
+   \frac{(6.63 \times 10^{-34})(3.00 \times 10^8)}
+   {4.00 \times 10^{-19}}
+   =4.97 \times 10^{-7}\ \mathrm{m}.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+5. Convert by dividing by $1.60 \times 10^{-19}$:
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   \frac{3.20 \times 10^{-19}}{1.60 \times 10^{-19}}
+   =2.00\ \mathrm{eV}.
+   $$
 
-## Problem 6
+## B. Photoelectric Effect
 
-A strong solution should show how this idea fits into Quantum Physics: Calculate photon energy, wavelength, momentum, and electron kinetic energy.
+6. The work function is the minimum energy required for an electron to escape
+   from a metal surface. The threshold frequency is the minimum frequency of
+   incident radiation that can produce photoelectric emission. The threshold
+   wavelength is the longest wavelength that can produce photoelectric
+   emission.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+7. Convert the work function:
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   \Phi=(2.00)(1.60 \times 10^{-19})
+   =3.20 \times 10^{-19}\ \mathrm{J}.
+   $$
 
-## Problem 7
+   At threshold,
 
-A strong solution should show how this idea fits into Quantum Physics: Interpret photoelectric graphs.
+   $$
+   hf_0=\Phi.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   Therefore
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   f_0=\frac{3.20 \times 10^{-19}}{6.63 \times 10^{-34}}
+   =4.83 \times 10^{14}\ \mathrm{Hz}.
+   $$
 
-## Problem 8
+   The threshold wavelength is
 
-A strong solution should show how this idea fits into Quantum Physics: Use energy-level differences to find spectral wavelengths.
+   $$
+   \lambda_0=\frac{c}{f_0}
+   =\frac{3.00 \times 10^8}{4.83 \times 10^{14}}
+   =6.22 \times 10^{-7}\ \mathrm{m}.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+8. The photon energy is
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   hf=(6.63 \times 10^{-34})(7.00 \times 10^{14})
+   =4.64 \times 10^{-19}\ \mathrm{J}.
+   $$
 
-## Extension
+   Then
 
-A good extension solution should identify which assumption was changed, rebuild the setup, and explain why the old method either still works or needs adjustment.
+   $$
+   K_{\max}=hf-\Phi
+   =4.64 \times 10^{-19}-3.20 \times 10^{-19}
+   =1.44 \times 10^{-19}\ \mathrm{J}.
+   $$
+
+   In electronvolts,
+
+   $$
+   K_{\max}=\frac{1.44 \times 10^{-19}}{1.60 \times 10^{-19}}
+   =0.901\ \mathrm{eV}.
+   $$
+
+9. Use
+
+   $$
+   K_{\max}=\frac{1}{2}mv_{\max}^2.
+   $$
+
+   Hence
+
+   $$
+   v_{\max}=\sqrt{\frac{2K_{\max}}{m}}
+   =
+   \sqrt{\frac{2(1.44 \times 10^{-19})}{9.11 \times 10^{-31}}}
+   =5.62 \times 10^5\ \mathrm{m\ s^{-1}}.
+   $$
+
+10. The photoelectric current increases because more photons arrive per second
+    and can release more electrons per second. The maximum kinetic energy is
+    unchanged because the energy per photon, $hf$, is unchanged.
+
+11. Below the threshold frequency, each photon has energy less than the work
+    function. Increasing intensity increases the number of photons, but no
+    single photon has enough energy to release an electron.
+
+12. For a graph of $K_{\max}$ against $f$,
+
+    $$
+    K_{\max}=hf-\Phi.
+    $$
+
+    The gradient is $h$. The energy-axis intercept is $-\Phi$. The
+    frequency-axis intercept is the threshold frequency $f_0$.
+
+13. Use
+
+    $$
+    eV_s=K_{\max}.
+    $$
+
+    Then
+
+    $$
+    V_s=\frac{1.44 \times 10^{-19}}{1.60 \times 10^{-19}}
+    =0.900\ \mathrm{V}.
+    $$
+
+## C. Duality, Matter Waves, and Line Spectra
+
+14. Interference or diffraction supports the wave nature of electromagnetic
+    radiation. The photoelectric effect supports its particulate nature.
+
+15. Electron diffraction produces rings or maxima that depend on wavelength and
+    path difference. Diffraction is wave behaviour, so the result is evidence
+    that moving particles have an associated wave nature.
+
+16. Use de Broglie's relation:
+
+    $$
+    \lambda=\frac{h}{p}
+    =
+    \frac{6.63 \times 10^{-34}}{3.00 \times 10^{-24}}
+    =2.21 \times 10^{-10}\ \mathrm{m}.
+    $$
+
+17. The kinetic energy gained is
+
+    $$
+    E=eV=(1.60 \times 10^{-19})(200)
+    =3.20 \times 10^{-17}\ \mathrm{J}.
+    $$
+
+    Momentum is
+
+    $$
+    p=\sqrt{2mE}
+    =
+    \sqrt{2(9.11 \times 10^{-31})(3.20 \times 10^{-17})}
+    =7.64 \times 10^{-24}\ \mathrm{kg\ m\ s^{-1}}.
+    $$
+
+    Therefore
+
+    $$
+    \lambda=\frac{h}{p}
+    =
+    \frac{6.63 \times 10^{-34}}{7.64 \times 10^{-24}}
+    =8.68 \times 10^{-11}\ \mathrm{m}.
+    $$
+
+18. A larger accelerating voltage gives electrons more kinetic energy and
+    greater momentum. Since $\lambda=h/p$, the de Broglie wavelength decreases.
+    The diffraction pattern becomes less spread out.
+
+19. Discrete energy levels mean that electrons in an isolated atom can have
+    only certain allowed energies and cannot have energies between those
+    levels.
+
+20. The emitted photon energy is the positive difference:
+
+    $$
+    \Delta E=(-1.50)-(-3.40)=1.90\ \mathrm{eV}.
+    $$
+
+    Convert to joules:
+
+    $$
+    \Delta E=(1.90)(1.60 \times 10^{-19})
+    =3.04 \times 10^{-19}\ \mathrm{J}.
+    $$
+
+    The wavelength is
+
+    $$
+    \lambda=\frac{hc}{\Delta E}
+    =
+    \frac{(6.63 \times 10^{-34})(3.00 \times 10^8)}
+    {3.04 \times 10^{-19}}
+    =6.54 \times 10^{-7}\ \mathrm{m}.
+    $$
+
+21. The absorbed photon energy is
+
+    $$
+    \Delta E=(-1.50)-(-13.6)=12.1\ \mathrm{eV}.
+    $$
+
+    In joules,
+
+    $$
+    \Delta E=(12.1)(1.60 \times 10^{-19})
+    =1.94 \times 10^{-18}\ \mathrm{J}.
+    $$
+
+    Hence
+
+    $$
+    \lambda=\frac{hc}{\Delta E}
+    =
+    \frac{(6.63 \times 10^{-34})(3.00 \times 10^8)}
+    {1.94 \times 10^{-18}}
+    =1.03 \times 10^{-7}\ \mathrm{m}.
+    $$
+
+22. An emission line spectrum appears as bright lines on a dark background. It
+    forms when electrons move from higher to lower energy levels and emit
+    photons with energies equal to the allowed level differences.
+
+23. An absorption line spectrum appears as dark lines on a continuous spectrum.
+    It forms when electrons absorb photons with energies exactly matching
+    allowed upward transitions, removing those wavelengths from the transmitted
+    light.
+
+24. Different elements have different sets of allowed energy levels. The
+    spacing of the levels gives a characteristic set of emitted or absorbed
+    wavelengths, so the line pattern can identify the element.
