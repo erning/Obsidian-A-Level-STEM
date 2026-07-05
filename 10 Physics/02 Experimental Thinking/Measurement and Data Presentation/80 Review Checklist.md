@@ -3,7 +3,7 @@ title: Measurement and Data Presentation Review Checklist
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]"
-status: draft
+status: active
 tags:
   - physics/9702
   - experimental-thinking
@@ -12,33 +12,76 @@ tags:
 
 # Measurement and Data Presentation Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this checklist after the practice problems. A practical answer is not
+finished until the measurement, uncertainty, unit, table or graph convention,
+and conclusion are all visible.
 
 ## Ideas to Recall
 
-- [ ] Choose measuring instruments with suitable range and precision.
-- [ ] Record raw data, processed data, units, and uncertainties clearly.
-- [ ] Use significant figures consistently with the measurement precision.
-- [ ] Plot graphs with labelled axes, sensible scales, and appropriate best-fit lines.
-- [ ] Interpret gradient, intercept, area, and uncertainty in graphical work.
-- [ ] Distinguish random error, systematic error, precision, accuracy, and uncertainty.
+- [ ] Instrument choice depends on range and resolution.
+- [ ] Analogue scales and digital displays have different reading conventions.
+- [ ] Raw readings in one column should use the same precision.
+- [ ] Calculated quantities should use significant figures justified by the
+      measured inputs.
+- [ ] Results tables should include raw data and calculated columns.
+- [ ] Column headings and graph axes should include quantity and unit.
+- [ ] Percentage uncertainty is
+      $\frac{\text{absolute uncertainty}}{\text{value}}\times 100\%$.
+- [ ] Repeated readings can use half the range as an absolute uncertainty.
+- [ ] Absolute uncertainties add for sums and differences.
+- [ ] Percentage uncertainties add for products, quotients, and powers.
+- [ ] A graph should use sensible scales and fill at least half the grid.
+- [ ] A best-fit line represents the trend; it is not a join-the-dots line.
+- [ ] Gradients should be calculated using two well-separated points on the
+      line.
+- [ ] A false origin means the intercept may need to be calculated using
+      $y=mx+c$.
+- [ ] Error bars and a worst acceptable line can estimate gradient or intercept
+      uncertainty.
+- [ ] Linearisation turns relationships such as $y=ax^n$ or $y=ae^{kx}$ into
+      straight-line graphs.
 
 ## Skills to Perform
 
-- [ ] Build tables from raw data and calculated columns.
-- [ ] Draw best-fit lines and estimate gradients with large triangles.
-- [ ] Use uncertainty bars where they help judge the fit.
-- [ ] Compare percentage uncertainties to identify the dominant source of uncertainty.
+- [ ] Choose a suitable instrument and state a realistic reading uncertainty.
+- [ ] Build a table with raw readings, calculated quantities, units, and
+      sensible precision.
+- [ ] Calculate mean and half-range uncertainty from repeated readings.
+- [ ] Convert between absolute and percentage uncertainty.
+- [ ] Propagate uncertainty through sums, differences, products, quotients, and
+      powers.
+- [ ] Quote final values as value, uncertainty, and unit.
+- [ ] Plot graph axes with accepted quantity/unit conventions.
+- [ ] Draw a best-fit line and identify anomalous points honestly.
+- [ ] Calculate gradient and intercept with correct units.
+- [ ] Use worst acceptable lines to estimate gradient uncertainty.
+- [ ] Decide what derived quantities to calculate for a linear graph.
+- [ ] Use $\lg y$ against $\lg x$ for $y=ax^n$.
+- [ ] Use $\ln y$ against $x$ for $y=ae^{kx}$.
 
 ## Common Errors to Avoid
 
-- [ ] Reporting too many significant figures.
+- [ ] Reporting more significant figures than the instrument or data justify.
+- [ ] Mixing different decimal places in one raw-data column.
+- [ ] Putting only a unit, not a quantity and unit, in a table heading.
+- [ ] Treating a stop-watch display resolution as the full timing uncertainty.
+- [ ] Adding absolute uncertainties for a quotient or percentages for a sum.
+- [ ] Forgetting to double the percentage uncertainty for a squared quantity.
+- [ ] Choosing awkward graph scales such as $3$ or $7$ units per large square.
 - [ ] Drawing a line through every point instead of a best-fit line.
-- [ ] Treating a calculated value as more precise than the measurements that produced it.
+- [ ] Calculating gradient from data points instead of points on the line.
+- [ ] Silently removing an anomalous point.
+- [ ] Taking logarithms without showing the units inside the quantity being
+      logged.
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Measurement and Data Presentation without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can choose instruments and justify the precision of readings.
+- [ ] I can prepare a complete results table before taking readings.
+- [ ] I can carry uncertainties from raw measurements into calculated values.
+- [ ] I can plot and interpret straight-line graphs using accepted conventions.
+- [ ] I can find a gradient, intercept, and their uncertainties from graph
+      work.
+- [ ] I can linearise power-law and exponential relationships.
+- [ ] I can connect this topic to [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]
+      and [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]].

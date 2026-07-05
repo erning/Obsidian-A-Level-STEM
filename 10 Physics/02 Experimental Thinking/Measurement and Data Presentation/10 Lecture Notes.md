@@ -116,7 +116,7 @@ $$
 A reading $l=(2.40\pm0.05)\ \mathrm{cm}$ has a percentage uncertainty of
 
 $$
-\frac{0.05}{2.40}\times100\%=2.1\%.
+\frac{0.05}{2.40}\times 100\%=2.1\%.
 $$
 
 Keep both forms in mind. Absolute uncertainties add when quantities add or subtract; percentage uncertainties add when quantities multiply or divide.
@@ -241,7 +241,7 @@ Hooke's law gives $F=kx$, so a graph of $F$ against $x$ is a straight line throu
 Taking two well-separated points on the line of best fit, say $(0,0)$ and $(11.6\ \mathrm{cm},5.0\ \mathrm{N})$,
 
 $$
-k=\frac{5.0}{11.6\times10^{-2}}=43\ \mathrm{N\ m^{-1}}.
+k=\frac{5.0}{11.6\times 10^{-2}}=43\ \mathrm{N\ m^{-1}}.
 $$
 
 The uncertainty in $x$ is about $0.2\ \mathrm{cm}$ (half the smallest division, estimated). Over a $12\ \mathrm{cm}$ range that is roughly $2\%$, so the percentage uncertainty in $k$ is also about $2\%$, giving
