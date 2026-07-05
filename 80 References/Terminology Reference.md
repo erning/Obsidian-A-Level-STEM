@@ -137,6 +137,7 @@ Chinese phrase.
 | diffraction | 衍射 |
 | interference | 干涉 |
 | diffraction grating | 衍射光栅 |
+| grating spacing, grating constant | 光栅间距，光栅常量 |
 | simple harmonic motion | 简谐运动 |
 | angular frequency | 角频率 |
 | damping | 阻尼 |
