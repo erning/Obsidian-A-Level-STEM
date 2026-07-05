@@ -2,5 +2,9 @@
 .venv/
 .obsidian/workspace*
 
+# Local reference PDFs (syllabus and coursebooks), not committed
+assets/course-books/
+assets/syllabus/
+
 # macOS
 .DS_Store
