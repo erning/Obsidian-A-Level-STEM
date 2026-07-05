@@ -250,7 +250,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 ### Mathematics — Probability and Statistics (batches M6-M7)
 
 - [x] M6 · `20 Mathematics/03 Probability and Statistics/01 Data Representation and Summary`
-- [ ] M6 · `20 Mathematics/03 Probability and Statistics/02 Counting and Probability`
+- [x] M6 · `20 Mathematics/03 Probability and Statistics/02 Counting and Probability`
 - [ ] M6 · `20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables`
 - [ ] M6 · `20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions`
 - [ ] M7 · `20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables`
