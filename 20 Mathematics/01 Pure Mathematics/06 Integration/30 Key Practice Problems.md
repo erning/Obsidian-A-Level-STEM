@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]"
-status: draft
+status: active
 tags:
   - mathematics/pure
   - practice
@@ -13,40 +13,189 @@ tags:
 
 # Integration Key Practice Problems
 
-Work these without the solution note first. The aim is active recall, method selection, and clean checking.
+Work these without looking at the solutions first. For each question, decide
+whether the integral is an antiderivative, a signed accumulation, a geometric
+area, a volume, or a numerical estimate.
 
-## Problem 1
+## A. Reverse Differentiation
 
-Use this idea in a complete solution: Indefinite and definite integration, including constants of integration. State assumptions, choose a method, and check the result.
+1. Find
 
-## Problem 2
+   $$
+   \int (6x^2-4x+3)\,dx.
+   $$
 
-Use this idea in a complete solution: Area under a curve, area between curves, improper integrals, and volumes of revolution. State assumptions, choose a method, and check the result.
+2. Find
 
-## Problem 3
+   $$
+   \int (2x+1)^5\,dx.
+   $$
 
-Use this idea in a complete solution: Integration of exponential, logarithmic, trigonometric, rational, and hyperbolic-related forms. State assumptions, choose a method, and check the result.
+3. Find
 
-## Problem 4
+   $$
+   \int e^{3x-1}\,dx.
+   $$
 
-Use this idea in a complete solution: Trapezium rule as numerical integration. State assumptions, choose a method, and check the result.
+4. Find
 
-## Problem 5
+   $$
+   \int \frac{1}{4x+5}\,dx.
+   $$
 
-Use this idea in a complete solution: Integration by substitution, by parts, and using partial fractions. State assumptions, choose a method, and check the result.
+5. Find
 
-## Problem 6
+   $$
+   \int \sin(2x)\,dx.
+   $$
 
-Complete this practice task: Choose between substitution, parts, and partial fractions.
+6. Find
 
-## Problem 7
+   $$
+   \int \sec^2(3x)\,dx.
+   $$
 
-Complete this practice task: Compute areas and volumes with correct limits.
+7. A curve has
 
-## Problem 8
+   $$
+   \frac{dy}{dx}=2x+3
+   $$
 
-Complete this practice task: Use numerical integration and estimate error direction where possible.
+   and passes through $(1,4)$. Find its equation.
 
-## Extension
+## B. Definite Integrals, Areas, and Volumes
 
-Choose one problem above and change a condition. Explain how the method changes and which parts of the original solution still survive.
+8. Evaluate
+
+   $$
+   \int_0^2(3x^2+1)\,dx.
+   $$
+
+9. Evaluate
+
+   $$
+   \int_0^3(x^2-4x)\,dx
+   $$
+
+   and state the geometric area between the curve and the $x$-axis on this
+   interval.
+
+10. Find the area between
+
+    $$
+    y=4-x^2
+    $$
+
+    and
+
+    $$
+    y=x+2.
+    $$
+
+11. The region under $y=x+1$ from $x=0$ to $x=2$ is rotated about the
+    $x$-axis. Find the volume.
+
+12. Evaluate the improper integral
+
+    $$
+    \int_1^\infty \frac{1}{x^2}\,dx.
+    $$
+
+13. Evaluate the improper integral
+
+    $$
+    \int_0^1 \frac{1}{\sqrt{x}}\,dx.
+    $$
+
+## C. Integration Techniques
+
+14. Find
+
+    $$
+    \int 2x(x^2+1)^5\,dx.
+    $$
+
+15. Evaluate
+
+    $$
+    \int_0^1 \frac{2x}{x^2+1}\,dx.
+    $$
+
+16. Find
+
+    $$
+    \int x e^{2x}\,dx.
+    $$
+
+17. Find
+
+    $$
+    \int \ln x\,dx.
+    $$
+
+18. Evaluate
+
+    $$
+    \int_0^{\frac{\pi}{2}}x\sin x\,dx.
+    $$
+
+19. Find
+
+    $$
+    \int \frac{3x+5}{(x+1)(x+2)}\,dx.
+    $$
+
+20. Find
+
+    $$
+    \int \tan x\,dx.
+    $$
+
+21. Find
+
+    $$
+    \int \sin^2x\,dx.
+    $$
+
+22. Evaluate
+
+    $$
+    \int_0^{\frac{\pi}{2}}\cos^2x\,dx.
+    $$
+
+## D. Numerical and Further Integration
+
+23. Use the trapezium rule with four strips to estimate
+
+    $$
+    \int_0^2(x^2+1)\,dx.
+    $$
+
+24. For question 23, decide whether the trapezium rule gives an over-estimate
+    or under-estimate.
+
+25. Find
+
+    $$
+    \int \sinh(2x)\,dx.
+    $$
+
+26. Evaluate
+
+    $$
+    \int_0^1\frac{1}{1+x^2}\,dx.
+    $$
+
+27. Find the arc length of
+
+    $$
+    y=x^{\frac{3}{2}}
+    $$
+
+    from $x=0$ to $x=4$.
+
+28. Find
+
+    $$
+    \int_0^1 x^2e^x\,dx.
+    $$

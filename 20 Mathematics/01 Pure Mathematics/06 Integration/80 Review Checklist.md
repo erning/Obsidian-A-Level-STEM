@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]"
-status: draft
+status: active
 tags:
   - mathematics/pure
   - review-checklist
@@ -13,31 +13,72 @@ tags:
 
 # Integration Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this checklist after the practice problems. Any unchecked item is a cue to
+return to the lecture notes or worked examples.
 
 ## Ideas to Recall
 
-- [ ] Indefinite and definite integration, including constants of integration.
-- [ ] Area under a curve, area between curves, improper integrals, and volumes of revolution.
-- [ ] Integration of exponential, logarithmic, trigonometric, rational, and hyperbolic-related forms.
-- [ ] Trapezium rule as numerical integration.
-- [ ] Integration by substitution, by parts, and using partial fractions.
+- [ ] An indefinite integral is a family of antiderivatives and needs $C$.
+- [ ] A definite integral is signed accumulation, not always geometric area.
+- [ ] The power rule does not apply to $\int\frac{1}{x}\,dx$.
+- [ ] Area between curves is upper curve minus lower curve.
+- [ ] Volumes of revolution about the $x$-axis use $\pi\int y^2\,dx$.
+- [ ] Substitution reverses the chain rule.
+- [ ] Integration by parts reverses the product rule.
+- [ ] Partial fractions turn rational functions into simpler logarithmic or
+      inverse trigonometric forms.
+- [ ] Trigonometric identities can turn powers of sine and cosine into
+      integrable expressions.
+- [ ] Improper integrals must be treated as limits.
+- [ ] The trapezium rule uses equal strip width
+      $h=\frac{b-a}{n}$.
+- [ ] Arc length uses
+      $\int_a^b\sqrt{1+\left(\frac{dy}{dx}\right)^2}\,dx$.
 
 ## Skills to Perform
 
-- [ ] Choose between substitution, parts, and partial fractions.
-- [ ] Compute areas and volumes with correct limits.
-- [ ] Use numerical integration and estimate error direction where possible.
+- [ ] Integrate powers, exponentials, logarithmic forms, trigonometric forms,
+      and $\sec^2(ax+b)$.
+- [ ] Use a point or initial condition to find the constant of integration.
+- [ ] Evaluate definite integrals with correct limits.
+- [ ] Distinguish signed area from geometric area.
+- [ ] Find areas between curves after solving intersections.
+- [ ] Set up volumes of revolution with the correct squared radius.
+- [ ] Use substitution for composite expressions.
+- [ ] Use integration by parts when one factor becomes simpler.
+- [ ] Decompose rational functions into partial fractions before integrating.
+- [ ] Use trigonometric identities before integrating $\sin^2x$ or $\cos^2x$.
+- [ ] Evaluate simple improper integrals as limits.
+- [ ] Apply the trapezium rule and judge over- or under-estimate from shape.
+- [ ] Use selected 9231 extensions such as hyperbolic integrals, arc length,
+      and repeated integration by parts.
 
 ## Common Errors to Avoid
 
-- [ ] Forgetting the constant of integration.
-- [ ] Using area formulae without checking sign.
-- [ ] Changing variables but not changing limits.
+- [ ] Forgetting $C$ in an indefinite integral.
+- [ ] Using $\frac{x^{n+1}}{n+1}$ when $n=-1$.
+- [ ] Reversing upper and lower curves in an area problem.
+- [ ] Treating a negative definite integral as a negative geometric area.
+- [ ] Forgetting to split an area when the curve crosses the axis.
+- [ ] Changing variables in a definite integral but keeping old limits.
+- [ ] Choosing $u$ poorly in integration by parts.
+- [ ] Forgetting the square in a volume of revolution.
+- [ ] Dropping absolute values in logarithmic antiderivatives.
+- [ ] Applying the trapezium rule with the wrong strip width.
+- [ ] Using an arc length formula without first finding $\frac{dy}{dx}$.
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Integration without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can explain integration as reverse differentiation and accumulation.
+- [ ] I can check an indefinite integral by differentiating.
+- [ ] I can compute definite integrals, geometric areas, and simple improper
+      integrals.
+- [ ] I can set up volumes of revolution with correct limits and radii.
+- [ ] I can choose between substitution, parts, partial fractions, and
+      trigonometric identities.
+- [ ] I can use the trapezium rule with correct weights.
+- [ ] I can recognise when a further integration formula, such as arc length,
+      is being tested.
+- [ ] I can connect this topic to [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]],
+      [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]],
+      and [[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]].
