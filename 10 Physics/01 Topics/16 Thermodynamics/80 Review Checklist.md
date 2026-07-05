@@ -3,7 +3,7 @@ title: Thermodynamics Review Checklist
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/thermal-physics
@@ -12,31 +12,58 @@ tags:
 
 # Thermodynamics Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this checklist after the practice problems. Before every calculation, name
+the system and keep one sign convention fixed.
 
 ## Ideas to Recall
 
-- [ ] Use internal energy as the sum of random kinetic and potential energies of particles.
-- [ ] Distinguish heating from work done.
-- [ ] Use the first law of thermodynamics with a clear sign convention.
-- [ ] Use $p$-$V$ graphs to interpret work done by or on a gas.
-- [ ] Connect macroscopic energy changes with particle-level models.
+- [ ] Internal energy is a state quantity.
+- [ ] Internal energy is the sum of random molecular kinetic energy and
+      molecular potential energy.
+- [ ] A rise in temperature corresponds to an increase in internal energy.
+- [ ] Heating is energy transfer because of a temperature difference.
+- [ ] Work done is energy transfer by a force moving through a distance.
+- [ ] A system contains internal energy, not heat.
+- [ ] The first law can be written as $\Delta U=q+W$ when $W$ is work done on
+      the system.
+- [ ] Work done by a gas at constant pressure is $p\Delta V$.
+- [ ] Work done on a gas is the negative of work done by the gas.
+- [ ] Area under a $p$-$V$ graph is work done by the gas.
 
 ## Skills to Perform
 
-- [ ] Calculate changes in internal energy.
-- [ ] Interpret thermodynamic process graphs.
-- [ ] Explain heating, expansion, compression, and cooling in energy terms.
+- [ ] Decide whether heating is into or out of the system.
+- [ ] Decide whether work is done on the system or by the system.
+- [ ] Use $\Delta U=q+W$ with signs that match the chosen convention.
+- [ ] Calculate constant-pressure work using $p\Delta V$.
+- [ ] Convert expansion work by a gas into work done on the gas before using
+      the first law.
+- [ ] Recognise that no boundary work is done at constant volume.
+- [ ] Interpret compression and expansion on a $p$-$V$ graph.
+- [ ] Explain thermodynamic changes using molecular kinetic and potential
+      energy.
 
 ## Common Errors to Avoid
 
-- [ ] Switching sign conventions mid-problem.
-- [ ] Treating heat as a substance rather than energy transfer.
-- [ ] Ignoring work done during expansion or compression.
+- [ ] Calling heat something stored in a system.
+- [ ] Treating heating and work as state quantities.
+- [ ] Switching between work done by the gas and work done on the gas without
+      changing sign.
+- [ ] Using $W=p\Delta V$ in the first law without identifying whether it is
+      by-gas work or on-gas work.
+- [ ] Forgetting that expansion at constant pressure does work on the
+      surroundings.
+- [ ] Assuming energy transfer always raises temperature.
+- [ ] Ignoring the particle-level explanation after doing the energy algebra.
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Thermodynamics without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can define internal energy and explain its molecular parts.
+- [ ] I can use $\Delta U=q+W$ with a clear sign convention.
+- [ ] I can calculate work done by and on a gas during constant-pressure
+      expansion or compression.
+- [ ] I can read simple $p$-$V$ graph areas as work done by a gas.
+- [ ] I can explain constant-volume heating, insulated compression, and
+      isothermal ideal-gas expansion in energy terms.
+- [ ] I can connect this topic to [[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]
+      and [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]].

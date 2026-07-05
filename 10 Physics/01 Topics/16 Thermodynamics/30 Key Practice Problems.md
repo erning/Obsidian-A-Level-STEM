@@ -3,7 +3,7 @@ title: Thermodynamics Key Practice Problems
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/thermal-physics
@@ -12,40 +12,86 @@ tags:
 
 # Thermodynamics Key Practice Problems
 
-Work these without the solution note first. The aim is active recall, method selection, and clean checking.
+Work these without looking at the solutions first. Use the sign convention
 
-## Problem 1
+$$
+\Delta U=q+W,
+$$
 
-Use this idea in a complete solution: Use internal energy as the sum of random kinetic and potential energies of particles. State assumptions, choose a method, and check the result.
+where $q$ is heating of the system and $W$ is work done on the system.
 
-## Problem 2
+## A. Internal Energy and Energy Transfer
 
-Use this idea in a complete solution: Distinguish heating from work done. State assumptions, choose a method, and check the result.
+1. Define internal energy in terms of the molecules of a system.
 
-## Problem 3
+2. Explain why a rise in temperature of an object corresponds to an increase
+   in internal energy.
 
-Use this idea in a complete solution: Use the first law of thermodynamics with a clear sign convention. State assumptions, choose a method, and check the result.
+3. Distinguish heating from work done as energy-transfer processes.
 
-## Problem 4
+4. Explain why it is incorrect to say that a system contains heat.
 
-Use this idea in a complete solution: Use $p$-$V$ graphs to interpret work done by or on a gas. State assumptions, choose a method, and check the result.
+5. For an ideal gas, explain why internal energy is associated with molecular
+   kinetic energy.
 
-## Problem 5
+## B. First Law Sign Practice
 
-Use this idea in a complete solution: Connect macroscopic energy changes with particle-level models. State assumptions, choose a method, and check the result.
+6. A system receives $400\ \mathrm{J}$ by heating and $150\ \mathrm{J}$ of
+   work is done on it. Find $\Delta U$.
 
-## Problem 6
+7. A gas receives $800\ \mathrm{J}$ by heating and does
+   $300\ \mathrm{J}$ of work on the surroundings. Find $\Delta U$.
 
-Complete this practice task: Calculate changes in internal energy.
+8. A system loses $200\ \mathrm{J}$ by heating while $500\ \mathrm{J}$ of work
+   is done on it. Find $\Delta U$.
 
-## Problem 7
+9. A gas in a rigid container receives $1.2\ \mathrm{kJ}$ by heating. Find the
+   work done and the change in internal energy.
 
-Complete this practice task: Interpret thermodynamic process graphs.
+10. An insulated gas is compressed so that $250\ \mathrm{J}$ of work is done
+    on it. Find $q$ and $\Delta U$.
 
-## Problem 8
+## C. Gas Work and $p$-$V$ Graphs
 
-Complete this practice task: Explain heating, expansion, compression, and cooling in energy terms.
+11. A gas expands at constant pressure $1.0 \times 10^5\ \mathrm{Pa}$ from
+    $2.0 \times 10^{-3}\ \mathrm{m^3}$ to
+    $7.0 \times 10^{-3}\ \mathrm{m^3}$. Find the work done by the gas and the
+    work done on the gas.
 
-## Extension
+12. A gas is compressed at constant pressure $1.5 \times 10^5\ \mathrm{Pa}$
+    from $6.0 \times 10^{-3}\ \mathrm{m^3}$ to
+    $3.0 \times 10^{-3}\ \mathrm{m^3}$. Find the work done by the gas and the
+    work done on the gas.
 
-Choose one problem above and change a condition. Explain how the method changes and which parts of the original solution still survive.
+13. On a $p$-$V$ graph, a gas expands at constant pressure
+    $2.0 \times 10^5\ \mathrm{Pa}$ while its volume increases by
+    $4.0 \times 10^{-3}\ \mathrm{m^3}$. Find the area under the graph and
+    state its meaning.
+
+14. A gas expands at constant pressure $2.0 \times 10^5\ \mathrm{Pa}$ from
+    $1.0 \times 10^{-3}\ \mathrm{m^3}$ to
+    $3.0 \times 10^{-3}\ \mathrm{m^3}$. It then heats at constant volume.
+    Find the total work done by the gas during these two stages.
+
+15. A gas expands at constant pressure $2.0 \times 10^5\ \mathrm{Pa}$ with
+    $\Delta V=3.0 \times 10^{-3}\ \mathrm{m^3}$. It receives
+    $1.0\ \mathrm{kJ}$ by heating. Find $\Delta U$.
+
+## D. Process Interpretation
+
+16. Two identical gas samples receive the same heating input. One is held at
+    constant volume; the other expands at constant pressure. Explain why their
+    temperature rises may differ.
+
+17. During a slow isothermal expansion of an ideal gas, the gas does
+    $500\ \mathrm{J}$ of work. State $\Delta U$, $W$, and $q$.
+
+18. Explain why the work done by a gas depends on the path on a $p$-$V$ graph,
+    not only on the initial and final states.
+
+19. Explain in molecular terms why insulated compression can increase the
+    temperature of a gas.
+
+20. A student writes: "The gas expands and does $200\ \mathrm{J}$ of work, so
+    $W=+200\ \mathrm{J}$ in $\Delta U=q+W$." Correct the sign error using the
+    convention in this note.

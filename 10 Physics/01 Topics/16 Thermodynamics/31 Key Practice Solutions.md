@@ -3,7 +3,7 @@ title: Thermodynamics Key Practice Solutions
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/thermal-physics
@@ -12,96 +12,238 @@ tags:
 
 # Thermodynamics Key Practice Solutions
 
-This note gives solution sketches for [[10 Physics/01 Topics/16 Thermodynamics/30 Key Practice Problems|Key Practice Problems]]. Use it to mark method and reasoning, not just final answers.
+Use these solutions to check sign convention first. Here
+$\Delta U=q+W$, where $W$ is work done on the system.
 
-## Problem 1
+## A. Internal Energy and Energy Transfer
 
-A strong solution should show how this idea fits into Thermodynamics: Use internal energy as the sum of random kinetic and potential energies of particles.
+1. Internal energy is the sum of the random distribution of kinetic and
+   potential energies associated with the molecules of a system.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+2. A temperature rise means the average random kinetic energy of the particles
+   increases. Since this kinetic energy is part of internal energy, the
+   internal energy increases.
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+3. Heating is energy transfer because of a temperature difference. Work done
+   is energy transfer by a force moving through a distance, such as a gas
+   boundary moving during expansion or compression.
 
-## Problem 2
+4. Heat is not a substance or a state quantity contained in a system. It is
+   energy transferred across the boundary of a system because of a temperature
+   difference. A system contains internal energy, not heat.
 
-A strong solution should show how this idea fits into Thermodynamics: Distinguish heating from work done.
+5. In an ideal gas, intermolecular forces and molecular potential energy are
+   neglected. The internal energy is therefore associated with the random
+   kinetic energy of the molecules.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+## B. First Law Sign Practice
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+6. Here
 
-## Problem 3
+   $$
+   q=+400\ \mathrm{J},
+   \qquad
+   W=+150\ \mathrm{J}.
+   $$
 
-A strong solution should show how this idea fits into Thermodynamics: Use the first law of thermodynamics with a clear sign convention.
+   So
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   \Delta U=q+W=400+150=550\ \mathrm{J}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+7. Heating is into the gas, so $q=+800\ \mathrm{J}$. The gas does work on the
+   surroundings, so work done on the gas is $W=-300\ \mathrm{J}$. Hence
 
-## Problem 4
+   $$
+   \Delta U=800-300=500\ \mathrm{J}.
+   $$
 
-A strong solution should show how this idea fits into Thermodynamics: Use $p$-$V$ graphs to interpret work done by or on a gas.
+8. Losing energy by heating gives $q=-200\ \mathrm{J}$. Work done on the
+   system gives $W=+500\ \mathrm{J}$. Therefore
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   \Delta U=-200+500=300\ \mathrm{J}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+9. Rigid container means no volume change, so no boundary work is done:
 
-## Problem 5
+   $$
+   W=0.
+   $$
 
-A strong solution should show how this idea fits into Thermodynamics: Connect macroscopic energy changes with particle-level models.
+   Therefore
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   \Delta U=q=1.2\ \mathrm{kJ}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+10. Insulated means negligible heating:
 
-## Problem 6
+    $$
+    q=0.
+    $$
 
-A strong solution should show how this idea fits into Thermodynamics: Calculate changes in internal energy.
+    Compression means work is done on the gas:
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+    $$
+    W=+250\ \mathrm{J}.
+    $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+    Hence
 
-## Problem 7
+    $$
+    \Delta U=250\ \mathrm{J}.
+    $$
 
-A strong solution should show how this idea fits into Thermodynamics: Interpret thermodynamic process graphs.
+## C. Gas Work and $p$-$V$ Graphs
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+11. Volume change:
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+    $$
+    \Delta V=7.0 \times 10^{-3}-2.0 \times 10^{-3}
+    =
+    5.0 \times 10^{-3}\ \mathrm{m^3}.
+    $$
 
-## Problem 8
+    Work done by the gas:
 
-A strong solution should show how this idea fits into Thermodynamics: Explain heating, expansion, compression, and cooling in energy terms.
+    $$
+    W_{\text{by gas}}=p\Delta V
+    =
+    (1.0 \times 10^5)(5.0 \times 10^{-3})
+    =
+    500\ \mathrm{J}.
+    $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+    Work done on the gas:
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+    $$
+    W=-500\ \mathrm{J}.
+    $$
 
-## Extension
+12. Volume change:
 
-A good extension solution should identify which assumption was changed, rebuild the setup, and explain why the old method either still works or needs adjustment.
+    $$
+    \Delta V=3.0 \times 10^{-3}-6.0 \times 10^{-3}
+    =
+    -3.0 \times 10^{-3}\ \mathrm{m^3}.
+    $$
+
+    Work done by the gas:
+
+    $$
+    W_{\text{by gas}}
+    =
+    (1.5 \times 10^5)(-3.0 \times 10^{-3})
+    =
+    -450\ \mathrm{J}.
+    $$
+
+    Therefore work done on the gas is
+
+    $$
+    W=+450\ \mathrm{J}.
+    $$
+
+13. Area under the graph:
+
+    $$
+    p\Delta V
+    =
+    (2.0 \times 10^5)(4.0 \times 10^{-3})
+    =
+    800\ \mathrm{J}.
+    $$
+
+    This area is the work done by the gas during expansion.
+
+14. In the constant-pressure expansion,
+
+    $$
+    \Delta V=3.0 \times 10^{-3}-1.0 \times 10^{-3}
+    =
+    2.0 \times 10^{-3}\ \mathrm{m^3}.
+    $$
+
+    Work done by the gas:
+
+    $$
+    W_{\text{by gas}}
+    =
+    (2.0 \times 10^5)(2.0 \times 10^{-3})
+    =
+    400\ \mathrm{J}.
+    $$
+
+    During the constant-volume stage, $\Delta V=0$, so no further work is
+    done. Total work done by the gas is $400\ \mathrm{J}$.
+
+15. Work done by the gas:
+
+    $$
+    W_{\text{by gas}}
+    =
+    p\Delta V
+    =
+    (2.0 \times 10^5)(3.0 \times 10^{-3})
+    =
+    600\ \mathrm{J}.
+    $$
+
+    Work done on the gas is $W=-600\ \mathrm{J}$ and
+    $q=+1.0\ \mathrm{kJ}=1000\ \mathrm{J}$. Thus
+
+    $$
+    \Delta U=1000-600=400\ \mathrm{J}.
+    $$
+
+## D. Process Interpretation
+
+16. At constant volume, no boundary work is done, so the heating input all
+    increases internal energy. At constant pressure, the gas expands and does
+    work on the surroundings, so part of the heating input leaves as work. The
+    increase in internal energy, and hence temperature rise for an ideal gas,
+    can be smaller.
+
+17. For an ideal gas in an isothermal process, temperature is constant, so
+
+    $$
+    \Delta U=0.
+    $$
+
+    The gas does $500\ \mathrm{J}$ of work, so work done on the gas is
+
+    $$
+    W=-500\ \mathrm{J}.
+    $$
+
+    The first law gives
+
+    $$
+    0=q-500,
+    $$
+
+    so
+
+    $$
+    q=+500\ \mathrm{J}.
+    $$
+
+18. Work done by a gas is the area under the path on a $p$-$V$ graph. Two
+    paths can start and end at the same states but enclose different areas
+    under the curve, so the work can be different. Work is a process quantity,
+    not a state quantity.
+
+19. In insulated compression, $q=0$ but work is done on the gas. The first law
+    gives an increase in internal energy. At the molecular level, molecules
+    collide with a boundary moving inwards and can rebound with greater kinetic
+    energy. The average random kinetic energy increases, so temperature rises.
+
+20. In the convention $\Delta U=q+W$, $W$ means work done on the system. If
+    the gas expands and does $200\ \mathrm{J}$ of work on the surroundings,
+    the work done on the gas is
+
+    $$
+    W=-200\ \mathrm{J}.
+    $$
