@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/00 Overview|Projectiles and Circular Motion]]"
-status: draft
+status: active
 tags:
   - mathematics/mechanics
   - review-checklist
@@ -13,31 +13,46 @@ tags:
 
 # Projectiles and Circular Motion Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this after the worked examples and practice problems. Revisit [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/10 Lecture Notes|Projectiles and Circular Motion Lecture Notes]] if any item is uncertain.
 
 ## Ideas to Recall
 
-- [ ] Projectile motion with independent horizontal and vertical components.
-- [ ] Range, time of flight, maximum height, and trajectory relationships.
-- [ ] Uniform circular motion, angular speed, and centripetal acceleration.
-- [ ] Conical pendulum and other circular-motion force models where included.
-- [ ] Energy and geometry checks for two-dimensional motion.
+- [ ] In the projectile model, horizontal acceleration is zero and vertical acceleration is $-g$.
+- [ ] The same time variable links horizontal and vertical projectile equations.
+- [ ] The range formula applies only when launch and landing are at the same height.
+- [ ] The Cartesian trajectory is a parabola.
+- [ ] Angular speed satisfies $v=r\omega$.
+- [ ] Centripetal acceleration is directed towards the centre and has magnitude $r\omega^2$ or $\frac{v^2}{r}$.
+- [ ] There is no separate physical force called centripetal force.
+- [ ] In a vertical circle, the radial direction changes from point to point.
+- [ ] Energy is needed when speed changes around a vertical circle.
 
 ## Skills to Perform
 
-- [ ] Solve projectile trajectory problems.
-- [ ] Solve circular-motion force problems.
-- [ ] Combine energy and circular-motion constraints.
+- [ ] Resolve an initial projectile velocity into horizontal and vertical components.
+- [ ] Find time of flight, range, greatest height, speed, and direction.
+- [ ] Use or derive the trajectory equation by eliminating time.
+- [ ] Solve for possible projection angles through a given point.
+- [ ] Use $F=m\frac{v^2}{r}=mr\omega^2$ with real forces.
+- [ ] Solve horizontal-circle models such as a conical pendulum.
+- [ ] Write top and bottom radial force equations for vertical circles.
+- [ ] Combine energy with a radial force equation.
+- [ ] Test contact or taut-string conditions by setting reaction or tension to zero.
 
 ## Common Errors to Avoid
 
-- [ ] Giving horizontal acceleration when air resistance is ignored.
-- [ ] Using degrees where radians are required.
-- [ ] Treating centripetal force as an additional physical force.
+- [ ] Adding horizontal acceleration to a projectile when air resistance is ignored.
+- [ ] Using the same-height range formula for unequal launch and landing heights.
+- [ ] Treating the highest point of a projectile as zero speed instead of zero vertical velocity.
+- [ ] Using degrees as angular speed units.
+- [ ] Drawing a fictitious centripetal force instead of resolving real forces.
+- [ ] Using the bottom radial equation at the top of a vertical circle.
+- [ ] Forgetting to check whether tension or normal contact force has become negative.
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Projectiles and Circular Motion without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can choose component equations before substituting projectile data.
+- [ ] I can find velocity magnitude and direction at a given time or point.
+- [ ] I can explain which real force supplies centripetal acceleration.
+- [ ] I can solve horizontal and vertical circular-motion problems with correct radial directions.
+- [ ] I can combine energy and circular-motion constraints without mixing signs.
