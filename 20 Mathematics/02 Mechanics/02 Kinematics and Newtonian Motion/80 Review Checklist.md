@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]"
-status: draft
+status: active
 tags:
   - mathematics/mechanics
   - review-checklist
@@ -13,31 +13,47 @@ tags:
 
 # Kinematics and Newtonian Motion Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this after the worked examples and practice problems. Revisit [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/10 Lecture Notes|Kinematics and Newtonian Motion Lecture Notes]] if any item is uncertain.
 
 ## Ideas to Recall
 
-- [ ] Displacement, velocity, acceleration, and motion graphs.
-- [ ] Constant-acceleration formulae and calculus relationships.
-- [ ] Newton's laws of motion for particles.
-- [ ] Connected particles and pulley-style models where required.
-- [ ] Solving motion problems with clear sign conventions.
+- [ ] Distance and speed are scalars; displacement, velocity, and acceleration have direction.
+- [ ] A displacement-time graph has velocity as its gradient.
+- [ ] A velocity-time graph has acceleration as its gradient and displacement as signed area.
+- [ ] The constant-acceleration formulae apply only when acceleration is constant.
+- [ ] The calculus links are $v=\frac{ds}{dt}$ and $a=\frac{dv}{dt}$.
+- [ ] Newton's second law uses resultant force, not a single selected force.
+- [ ] Weight is a force: $W=mg$.
+- [ ] A light inextensible string gives connected particles the same acceleration magnitude along the string.
+- [ ] A smooth pulley changes the direction of the tension without changing its magnitude.
 
 ## Skills to Perform
 
-- [ ] Solve straight-line motion problems.
-- [ ] Use $s$-$t$, $v$-$t$, and $a$-$t$ graphs.
-- [ ] Apply Newton's second law to connected particles.
+- [ ] Choose and maintain a positive direction.
+- [ ] Use $v=u+at$, $s=ut+\frac12at^2$, $v^2=u^2+2as$, and $s=\frac12(u+v)t$ appropriately.
+- [ ] Integrate velocity to find displacement and integrate acceleration to find velocity.
+- [ ] Separate displacement from total distance when velocity changes sign.
+- [ ] Draw a force diagram before writing $\sum F=ma$.
+- [ ] Resolve weight correctly for vertical and inclined-plane motion.
+- [ ] Solve rough horizontal and rough inclined-plane acceleration problems.
+- [ ] Use whole-system equations to remove internal tension.
+- [ ] Return to one particle when tension or thrust is required.
 
 ## Common Errors to Avoid
 
-- [ ] Changing sign convention halfway through.
-- [ ] Using constant-acceleration formulae when acceleration varies.
-- [ ] Forgetting that connected particles share acceleration magnitude under ideal string constraints.
+- [ ] Changing sign convention halfway through a calculation.
+- [ ] Treating a negative displacement as a distance.
+- [ ] Reading height instead of area on a velocity-time graph.
+- [ ] Using constant-acceleration equations when $a$ is a function of time.
+- [ ] Forgetting the constant of integration when using calculus.
+- [ ] Writing $F=ma$ for one force rather than the resultant force.
+- [ ] Giving both connected particles different acceleration magnitudes in an ideal string model.
+- [ ] Including internal tension in a whole-system equation.
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Kinematics and Newtonian Motion without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can decide whether a problem needs a graph, a constant-acceleration formula, calculus, or Newton's second law.
+- [ ] I can explain the sign of every velocity, acceleration, and force term I write.
+- [ ] I can compute displacement and total distance over intervals with direction changes.
+- [ ] I can solve one-particle and connected-particle dynamics problems with consistent units.
+- [ ] I can check whether a final acceleration, time, or tension is physically plausible.

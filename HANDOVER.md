@@ -241,7 +241,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 ### Mathematics — Mechanics (batches M4-M5)
 
 - [x] M4 · `20 Mathematics/02 Mechanics/01 Forces and Equilibrium`
-- [ ] M4 · `20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion`
+- [x] M4 · `20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion`
 - [ ] M4 · `20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse`
 - [ ] M5 · `20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity`
 - [ ] M5 · `20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion`
