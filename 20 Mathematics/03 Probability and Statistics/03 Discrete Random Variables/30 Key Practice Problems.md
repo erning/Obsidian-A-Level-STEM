@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]"
-status: draft
+status: active
 tags:
   - mathematics/statistics
   - practice
@@ -13,40 +13,79 @@ tags:
 
 # Discrete Random Variables Key Practice Problems
 
-Work these without the solution note first. The aim is active recall, method selection, and clean checking.
+Work these without looking at the solutions first. Define the random variable
+in words before using symbols.
 
-## Problem 1
+## A. Probability Tables
 
-Use this idea in a complete solution: Probability mass functions and cumulative probabilities. State assumptions, choose a method, and check the result.
+1. A random variable $X$ has distribution:
 
-## Problem 2
+   | $x$ | 0 | 1 | 2 |
+   |---:|---:|---:|---:|
+   | $P(X=x)$ | 0.2 | 0.5 | 0.3 |
 
-Use this idea in a complete solution: Expectation, variance, and standard deviation. State assumptions, choose a method, and check the result.
+   Find $E(X)$ and $\operatorname{Var}(X)$.
 
-## Problem 3
+2. A random variable $X$ has $P(X=x)=kx$ for $x=1,2,3,4$. Find $k$,
+   $E(X)$, and $\operatorname{Var}(X)$.
 
-Use this idea in a complete solution: Binomial and geometric distributions where included by 9709. State assumptions, choose a method, and check the result.
+3. Two fair dice are thrown. Let $X$ be the number of sixes obtained. Write
+   the distribution of $X$, and find $E(X)$ and $\operatorname{Var}(X)$.
 
-## Problem 4
+4. For the distribution
 
-Use this idea in a complete solution: Modelling assumptions behind each distribution. State assumptions, choose a method, and check the result.
+   | $x$ | 0 | 1 | 2 | 3 |
+   |---:|---:|---:|---:|---:|
+   | $P(X=x)$ | 0.1 | 0.2 | 0.4 | 0.3 |
 
-## Problem 5
+   find $P(X\le2)$ and $P(X>1)$.
 
-Use this idea in a complete solution: Interpreting results in context. State assumptions, choose a method, and check the result.
+5. A random variable has probabilities $0.1,0.2,a,0.4$ at values
+   $0,1,2,3$ respectively. Find $a$ and $E(X)$.
 
-## Problem 6
+## B. Binomial Distribution
 
-Complete this practice task: Build probability tables.
+6. If $X\sim B(10,0.4)$, find $P(X=3)$.
 
-## Problem 7
+7. If $X\sim B(10,0.4)$, find $P(X\ge1)$.
 
-Complete this practice task: Calculate expectation and variance.
+8. If $X\sim B(10,0.4)$, find $E(X)$ and $\operatorname{Var}(X)$.
 
-## Problem 8
+9. If $Y\sim B(6,0.2)$, find $P(Y\le1)$.
 
-Complete this practice task: Use binomial and geometric models.
+10. A factory tests $12$ independent items, each with probability $0.08$ of
+    being defective. State a suitable distribution for the number of defective
+    items and give its assumptions.
 
-## Extension
+## C. Geometric Distribution
 
-Choose one problem above and change a condition. Explain how the method changes and which parts of the original solution still survive.
+11. If $X\sim \operatorname{Geo}(0.25)$, find $P(X=3)$ and $E(X)$.
+
+12. If $X\sim \operatorname{Geo}(0.25)$, find $P(X>5)$.
+
+13. If $X\sim \operatorname{Geo}(0.25)$, find $P(X\le4)$.
+
+14. A basketball player has probability $0.10$ of scoring from a long shot,
+    independently on each attempt. Find the expected number of attempts until
+    the first score.
+
+15. Explain why drawing balls without replacement until the first red ball is
+    not usually geometric.
+
+## D. Linear Transformations and Combinations
+
+16. A random variable $X$ has $E(X)=6$ and $\operatorname{Var}(X)=5$. Let
+    $Y=4-2X$. Find $E(Y)$ and $\operatorname{Var}(Y)$.
+
+17. Independent random variables $X$ and $Y$ have $E(X)=3$,
+    $\operatorname{Var}(X)=2$, $E(Y)=5$, and $\operatorname{Var}(Y)=7$. Find
+    $E(X+Y)$ and $\operatorname{Var}(X+Y)$.
+
+18. With $X$ and $Y$ as in question 17, find $E(3X+2Y)$ and
+    $\operatorname{Var}(3X+2Y)$.
+
+19. If $X\sim B(20,0.1)$ and $W=5X$, find $E(W)$ and
+    $\operatorname{Var}(W)$.
+
+20. If $X\sim \operatorname{Geo}(0.2)$ and a game costs $C=2X+5$ dollars,
+    find $E(C)$.
