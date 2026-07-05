@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/00 Overview|Momentum, Collisions and Impulse]]"
-status: draft
+status: active
 tags:
   - mathematics/mechanics
   - review-checklist
@@ -13,31 +13,46 @@ tags:
 
 # Momentum, Collisions and Impulse Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this after the worked examples and practice problems. Revisit [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/10 Lecture Notes|Momentum, Collisions and Impulse Lecture Notes]] if any item is uncertain.
 
 ## Ideas to Recall
 
-- [ ] Momentum, impulse, and conservation of momentum.
-- [ ] Direct impact and oblique impact where included by 9231.
-- [ ] Coefficient of restitution.
-- [ ] Energy changes in collisions.
-- [ ] System boundaries and external impulses.
+- [ ] Linear momentum is $p=mv$ and is a vector quantity.
+- [ ] Momentum is conserved for a chosen system only when there is no external impulse in the chosen direction.
+- [ ] Coalescence means the bodies share a common velocity after impact.
+- [ ] Impulse equals change in momentum: $I=m(v-u)$.
+- [ ] Impulse is the area under a force-time graph.
+- [ ] Newton's experimental law uses speed of separation divided by speed of approach.
+- [ ] The coefficient of restitution satisfies $0\le e\le1$.
+- [ ] Kinetic energy is conserved only in a perfectly elastic collision.
+- [ ] In smooth oblique impact, the tangential component is unchanged.
 
 ## Skills to Perform
 
-- [ ] Solve one-dimensional and two-dimensional collision problems.
-- [ ] Use impulse-momentum equations.
-- [ ] Apply coefficient of restitution.
+- [ ] Choose a positive direction and keep signed velocities.
+- [ ] Apply conservation of momentum to direct one-dimensional collisions.
+- [ ] Handle collisions where bodies stick together.
+- [ ] Compute impulse from a force, a force-time graph, or a velocity change.
+- [ ] Combine momentum conservation with the restitution equation.
+- [ ] Interpret negative velocities as direction, not as impossible speeds.
+- [ ] Compare kinetic energy before and after impact.
+- [ ] Resolve oblique impact into normal and tangential components.
+- [ ] Use an external impulse to update total system momentum.
 
 ## Common Errors to Avoid
 
-- [ ] Assuming kinetic energy is conserved in every collision.
-- [ ] Ignoring direction in momentum.
-- [ ] Using coefficient of restitution with the wrong relative velocities.
+- [ ] Ignoring direction when adding momenta.
+- [ ] Using conservation of momentum when an external impulse acts in that direction.
+- [ ] Reversing speed of approach and speed of separation.
+- [ ] Treating $e=0$ as zero final velocity instead of zero separation speed.
+- [ ] Assuming kinetic energy is conserved whenever momentum is conserved.
+- [ ] Changing tangential components in a smooth oblique impact.
+- [ ] Forgetting that a fixed wall is modelled through the normal component only.
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Momentum, Collisions and Impulse without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can state the system and direction before writing a momentum equation.
+- [ ] I can solve direct impact problems with coalescence or restitution.
+- [ ] I can find an impulse and connect it to average force when time is known.
+- [ ] I can resolve a fixed-wall or smooth-sphere oblique impact into components.
+- [ ] I can use energy as a check without assuming it is always conserved.
