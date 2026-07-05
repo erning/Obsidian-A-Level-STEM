@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces/00 Overview|Rigid Bodies and Variable Forces]]"
-status: draft
+status: active
 tags:
   - mathematics/mechanics
   - review-checklist
@@ -13,31 +13,47 @@ tags:
 
 # Rigid Bodies and Variable Forces Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this after the worked examples and practice problems. Revisit [[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces/10 Lecture Notes|Rigid Bodies and Variable Forces Lecture Notes]] if any item is uncertain.
 
 ## Ideas to Recall
 
-- [ ] Rigid-body equilibrium with forces and moments.
-- [ ] Centre of mass and stability-style reasoning where relevant.
-- [ ] Variable force as a function of position, time, or velocity.
-- [ ] Using integration for work done by a variable force.
-- [ ] Using differential equations for motion under variable force.
+- [ ] A rigid body in equilibrium must satisfy force balance and moment balance.
+- [ ] The weight of a rigid body acts through its centre of mass.
+- [ ] Areas can replace masses for a uniform lamina.
+- [ ] Removed pieces in a lamina can be treated as negative area.
+- [ ] Sliding uses limiting friction; toppling uses moments about an edge.
+- [ ] Work done by a variable force is $\int F(x)\,dx$.
+- [ ] If force depends on time, use $a=\frac{dv}{dt}$.
+- [ ] If force depends on displacement, use $a=v\frac{dv}{dx}$.
+- [ ] Separable differential equations need initial conditions.
 
 ## Skills to Perform
 
-- [ ] Solve rigid-body equilibrium problems.
-- [ ] Find work from a force-displacement integral.
-- [ ] Set up and solve simple variable-force motion equations.
+- [ ] Choose a moment point that removes an unwanted reaction.
+- [ ] Compute support reactions for beams and rods.
+- [ ] Find centres of mass of composite laminas and rods with attached masses.
+- [ ] Compare sliding and toppling thresholds.
+- [ ] Integrate force with respect to displacement to find work.
+- [ ] Use variable-force work with change in kinetic energy.
+- [ ] Set up and solve $m\,dv/dt=F(t)$ or $m\,dv/dt=F(v)$.
+- [ ] Set up and solve $m v\,dv/dx=F(x)$.
+- [ ] Interpret stopping positions and maximum speed from $v^2$ expressions.
 
 ## Common Errors to Avoid
 
-- [ ] Treating an extended body as a particle when moments matter.
-- [ ] Integrating with the wrong variable.
-- [ ] Forgetting initial conditions in motion equations.
+- [ ] Treating a rigid body as a particle when a moment is needed.
+- [ ] Using a sloping distance instead of perpendicular distance in a moment.
+- [ ] Changing the origin during a centre-of-mass calculation.
+- [ ] Using $F=\mu R$ before the body is in limiting equilibrium.
+- [ ] Integrating force with respect to the wrong variable.
+- [ ] Using constant-acceleration formulae under a variable force.
+- [ ] Dropping the constant of integration or the initial condition.
+- [ ] Keeping a negative value of $v^2$ instead of checking the physical interval.
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Rigid Bodies and Variable Forces without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can decide whether a mechanics model needs moments, energy, or a differential equation.
+- [ ] I can compute a centre of mass and use it in a stability argument.
+- [ ] I can choose between $dv/dt$ and $v\,dv/dx$ from the variables in the force law.
+- [ ] I can solve simple separable variable-force equations and apply initial conditions.
+- [ ] I can check answers using units, signs, and physical intervals.

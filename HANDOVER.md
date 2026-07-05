@@ -245,7 +245,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 - [x] M4 · `20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse`
 - [x] M5 · `20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity`
 - [x] M5 · `20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion`
-- [ ] M5 · `20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces`
+- [x] M5 · `20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces`
 
 ### Mathematics — Probability and Statistics (batches M6-M7)
 
