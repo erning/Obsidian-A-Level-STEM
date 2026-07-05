@@ -3,7 +3,7 @@ title: Capacitance Key Practice Solutions
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/electricity
@@ -12,96 +12,260 @@ tags:
 
 # Capacitance Key Practice Solutions
 
-This note gives solution sketches for [[10 Physics/01 Topics/19 Capacitance/30 Key Practice Problems|Key Practice Problems]]. Use it to mark method and reasoning, not just final answers.
+Use these solutions to check combination rules and unit conversions. In series,
+capacitors have the same charge; in parallel, they have the same p.d.
 
-## Problem 1
+## A. Capacitance and Networks
 
-A strong solution should show how this idea fits into Capacitance: Define capacitance using $C = Q/V$.
+1. Capacitance is charge stored per unit potential difference:
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   C=\frac{Q}{V}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   One farad is
 
-## Problem 2
+   $$
+   1\ \mathrm{F}=1\ \mathrm{C\ V^{-1}}.
+   $$
 
-A strong solution should show how this idea fits into Capacitance: Use equivalent capacitance for capacitors in series and in parallel.
+2. Use $Q=CV$:
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   Q=(100 \times 10^{-6})(6.0)
+   =
+   6.0 \times 10^{-4}\ \mathrm{C}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+3. Use
 
-## Problem 3
+   $$
+   C=\frac{Q}{V}
+   =
+   \frac{3.6 \times 10^{-3}}{12}
+   =
+   3.0 \times 10^{-4}\ \mathrm{F}.
+   $$
 
-A strong solution should show how this idea fits into Capacitance: Use area under a charge-potential graph to find energy stored in a capacitor.
+   In microfarads,
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   C=300\ \mu\mathrm{F}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+4. For parallel capacitors,
 
-## Problem 4
+   $$
+   C_{\text{total}}=2.0+3.0+5.0=10.0\ \mu\mathrm{F}.
+   $$
 
-A strong solution should show how this idea fits into Capacitance: Use $W = \frac{1}{2}QV = \frac{1}{2}CV^2$.
+5. For series capacitors,
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   \frac{1}{C_{\text{total}}}
+   =
+   \frac{1}{2.0}+\frac{1}{3.0}
+   =
+   0.833\ \mu\mathrm{F}^{-1}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   Hence
 
-## Problem 5
+   $$
+   C_{\text{total}}=1.2\ \mu\mathrm{F}.
+   $$
 
-A strong solution should show how this idea fits into Capacitance: Analyse capacitor discharge graphs for current, charge, and potential difference.
+6. Parallel group:
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   C_p=6.0+3.0=9.0\ \mu\mathrm{F}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   Then series with $2.0\ \mu\mathrm{F}$:
 
-## Problem 6
+   $$
+   \frac{1}{C_{\text{total}}}
+   =
+   \frac{1}{9.0}+\frac{1}{2.0}
+   =
+   0.611\ \mu\mathrm{F}^{-1}.
+   $$
 
-A strong solution should show how this idea fits into Capacitance: Calculate equivalent capacitance in mixed networks.
+   So
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   C_{\text{total}}=1.64\ \mu\mathrm{F}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+7. Series equivalent capacitance:
 
-## Problem 7
+   $$
+   C_{\text{total}}
+   =
+   \frac{(4.0)(8.0)}{4.0+8.0}
+   =
+   2.67\ \mu\mathrm{F}.
+   $$
 
-A strong solution should show how this idea fits into Capacitance: Find stored energy from formulae and graphs.
+   Charge on each capacitor:
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   Q=C_{\text{total}}V
+   =
+   (2.67 \times 10^{-6})(12)
+   =
+   3.2 \times 10^{-5}\ \mathrm{C}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   Voltages:
 
-## Problem 8
+   $$
+   V_{4\mu\mathrm{F}}
+   =
+   \frac{3.2 \times 10^{-5}}{4.0 \times 10^{-6}}
+   =
+   8.0\ \mathrm{V},
+   $$
 
-A strong solution should show how this idea fits into Capacitance: Extract time constant from discharge data.
+   $$
+   V_{8\mu\mathrm{F}}
+   =
+   \frac{3.2 \times 10^{-5}}{8.0 \times 10^{-6}}
+   =
+   4.0\ \mathrm{V}.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+## B. Energy Stored
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+8. Use
 
-## Extension
+   $$
+   W=\frac{1}{2}CV^2.
+   $$
 
-A good extension solution should identify which assumption was changed, rebuild the setup, and explain why the old method either still works or needs adjustment.
+   Hence
+
+   $$
+   W=
+   \frac{1}{2}(220 \times 10^{-6})(15)^2
+   =
+   2.48 \times 10^{-2}\ \mathrm{J}.
+   $$
+
+9. Use
+
+   $$
+   W=\frac{1}{2}QV
+   =
+   \frac{1}{2}(2.0 \times 10^{-3})(50)
+   =
+   5.0 \times 10^{-2}\ \mathrm{J}.
+   $$
+
+10. The area under the straight-line $V$-$Q$ graph is triangular:
+
+    $$
+    W=\frac{1}{2}QV
+    =
+    \frac{1}{2}(5.0 \times 10^{-3})(80)
+    =
+    0.20\ \mathrm{J}.
+    $$
+
+    This is the energy stored in the capacitor.
+
+11. Stored energy is
+
+    $$
+    W=\frac{1}{2}CV^2.
+    $$
+
+    If $V$ doubles and $C$ stays constant, $W$ increases by a factor of
+    $2^2=4$.
+
+12. Initial stored energy:
+
+    $$
+    W=\frac{1}{2}CV^2
+    =
+    \frac{1}{2}(10 \times 10^{-6})(20)^2
+    =
+    2.0 \times 10^{-3}\ \mathrm{J}.
+    $$
+
+    This energy is transferred out of the capacitor during complete discharge.
+
+## C. Discharge Through a Resistor
+
+13. Time constant:
+
+    $$
+    \tau=RC
+    =
+    (2.0 \times 10^3)(470 \times 10^{-6})
+    =
+    0.94\ \mathrm{s}.
+    $$
+
+14. Use
+
+    $$
+    V=V_0e^{-t/RC}.
+    $$
+
+    Here $t/RC=6.0/3.0=2.0$, so
+
+    $$
+    V=9.0e^{-2}=1.22\ \mathrm{V}.
+    $$
+
+15. After one time constant,
+
+    $$
+    Q=Q_0e^{-1}=0.37Q_0
+    =
+    7.4 \times 10^{-4}\ \mathrm{C}.
+    $$
+
+    After $8.0\ \mathrm{s}$, $t/RC=8.0/4.0=2.0$, so
+
+    $$
+    Q=(2.0 \times 10^{-3})e^{-2}
+    =
+    2.7 \times 10^{-4}\ \mathrm{C}.
+    $$
+
+16. Initial current magnitude:
+
+    $$
+    I_0=\frac{V_0}{R}
+    =
+    \frac{12}{4.0 \times 10^3}
+    =
+    3.0 \times 10^{-3}\ \mathrm{A}.
+    $$
+
+17. For a graph of $\ln V$ against $t$, gradient is $-\frac{1}{RC}$. Hence
+
+    $$
+    RC=\frac{1}{0.50}=2.0\ \mathrm{s}.
+    $$
+
+## D. Graphs and Interpretation
+
+18. During discharge, $Q$ against $t$, $V$ against $t$, and current magnitude
+    against $t$ are all exponential decays with the same time constant. They
+    approach zero gradually rather than reaching zero suddenly.
+
+19. As the capacitor discharges, the charge on the plates decreases, so the
+    p.d. across the capacitor decreases. The current through the resistor is
+    linked to this p.d. by $I=V/R$, so the current decreases with time.
+
+20. After one time constant,
+
+    $$
+    x=x_0e^{-1}\approx 0.37x_0.
+    $$
+
+    The capacitor still has about $37\%$ of its initial charge and p.d.; it is
+    not fully discharged.

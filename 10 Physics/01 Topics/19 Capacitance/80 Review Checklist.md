@@ -3,7 +3,7 @@ title: Capacitance Review Checklist
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/electricity
@@ -12,32 +12,54 @@ tags:
 
 # Capacitance Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this checklist after the practice problems. If a network problem goes
+wrong, label which capacitors share voltage and which share charge.
 
 ## Ideas to Recall
 
-- [ ] Define capacitance using $C = Q/V$.
-- [ ] Use equivalent capacitance for capacitors in series and in parallel.
-- [ ] Use area under a charge-potential graph to find energy stored in a capacitor.
-- [ ] Use $W = \frac{1}{2}QV = \frac{1}{2}CV^2$.
-- [ ] Analyse capacitor discharge graphs for current, charge, and potential difference.
-- [ ] Use the time constant $\tau = RC$ and exponential form $x = x_0 e^{-t/RC}$.
+- [ ] Capacitance is charge stored per unit potential difference.
+- [ ] The charge stored is the magnitude of charge on either plate.
+- [ ] Parallel capacitors have the same p.d. and their capacitances add.
+- [ ] Series capacitors have the same charge and reciprocal capacitances add.
+- [ ] The total capacitance of series capacitors is less than the smallest
+      individual capacitance.
+- [ ] Energy stored is the area under a $V$-$Q$ graph.
+- [ ] Stored energy can be written as
+      $W=\frac{1}{2}QV=\frac{1}{2}CV^2$.
+- [ ] During discharge, $Q$, $V$, and current magnitude decay exponentially.
+- [ ] The time constant is $\tau=RC$.
+- [ ] After one time constant, the remaining value is $e^{-1}$ of the initial
+      value.
 
 ## Skills to Perform
 
-- [ ] Calculate equivalent capacitance in mixed networks.
-- [ ] Find stored energy from formulae and graphs.
-- [ ] Extract time constant from discharge data.
+- [ ] Use $Q=CV$ with capacitance converted to farads.
+- [ ] Combine capacitors in series and in parallel.
+- [ ] Work backwards through a network to find individual charges and p.d.s.
+- [ ] Calculate stored energy from formulae and from $V$-$Q$ graph area.
+- [ ] Use $x=x_0e^{-t/RC}$ for charge, p.d., or current magnitude.
+- [ ] Find the initial discharge current using $I_0=V_0/R$.
+- [ ] Use a $\ln V$ against $t$ graph to find $RC$.
+- [ ] Interpret discharge graphs without expecting an exact zero after one
+      time constant.
 
 ## Common Errors to Avoid
 
 - [ ] Using resistor combination rules for capacitors.
-- [ ] Expecting charge to become exactly zero after one time constant.
-- [ ] Ignoring current direction changes between charging and discharging.
+- [ ] Assuming series capacitors have the same p.d.
+- [ ] Assuming parallel capacitors have the same charge.
+- [ ] Forgetting the factor $\frac{1}{2}$ in stored energy.
+- [ ] Forgetting to square $V$ in $W=\frac{1}{2}CV^2$.
+- [ ] Treating one time constant as complete discharge.
+- [ ] Ignoring the sign or direction change of current between charging and
+      discharging.
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Capacitance without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can calculate charge, p.d., and capacitance from $C=Q/V$.
+- [ ] I can simplify capacitor networks and find individual capacitor values.
+- [ ] I can calculate stored energy from formulae or graph area.
+- [ ] I can use $RC$ and exponential decay to analyse discharge.
+- [ ] I can explain why discharge current decreases with time.
+- [ ] I can connect this topic to [[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]]
+      and [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]].
