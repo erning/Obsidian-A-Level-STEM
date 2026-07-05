@@ -3,7 +3,7 @@ title: Nuclear Physics Key Practice Solutions
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/modern-physics
@@ -12,96 +12,278 @@ tags:
 
 # Nuclear Physics Key Practice Solutions
 
-This note gives solution sketches for [[10 Physics/01 Topics/23 Nuclear Physics/30 Key Practice Problems|Key Practice Problems]]. Use it to mark method and reasoning, not just final answers.
+Use these solutions to check conservation, unit conversions, decay reasoning,
+and final answers for [[10 Physics/01 Topics/23 Nuclear Physics/30 Key Practice Problems|Key Practice Problems]].
 
-## Problem 1
+## A. Nuclear Equations and Binding Energy
 
-A strong solution should show how this idea fits into Nuclear Physics: Use mass-energy equivalence to connect mass defect with released energy.
+1. $A$ is the nucleon number, the total number of protons and neutrons. $Z$ is
+   the proton number. $A-Z$ is the neutron number.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+2. Balance nucleon number:
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   238=A+4,
+   $$
 
-## Problem 2
+   so $A=234$. Balance proton number:
 
-A strong solution should show how this idea fits into Nuclear Physics: Use nuclear binding energy and binding energy per nucleon to discuss stability, fission, and fusion.
+   $$
+   92=Z+2,
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   so $Z=90$. The equation is
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   {}^{238}_{92}\mathrm{U}
+   \rightarrow
+   {}^{234}_{90}\mathrm{Th}
+   +
+   {}^{4}_{2}\mathrm{He}.
+   $$
 
-## Problem 3
+3. In beta-minus decay, nucleon number is unchanged and proton number
+   increases by one:
 
-A strong solution should show how this idea fits into Nuclear Physics: Understand radioactive decay as random at the level of individual nuclei but exponential for large samples.
+   $$
+   {}^{14}_{6}\mathrm{C}
+   \rightarrow
+   {}^{14}_{7}\mathrm{N}
+   +
+   {}^{0}_{-1}e.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   Check: top numbers $14=14+0$ and bottom numbers $6=7-1$.
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+4. Use
 
-## Problem 4
+   $$
+   E=\Delta mc^2.
+   $$
 
-A strong solution should show how this idea fits into Nuclear Physics: Use decay constant, activity, half-life, and exponential decay equations.
+   Then
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   E=(3.00 \times 10^{-29})(3.00 \times 10^8)^2
+   =2.70 \times 10^{-12}\ \mathrm{J}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   Convert to MeV:
 
-## Problem 5
+   $$
+   E=\frac{2.70 \times 10^{-12}}{1.60 \times 10^{-13}}
+   =16.9\ \mathrm{MeV}.
+   $$
 
-A strong solution should show how this idea fits into Nuclear Physics: Interpret decay graphs and linearised forms.
+5. Binding energy per nucleon is
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   \frac{32.0}{8}=4.00\ \mathrm{MeV\ per\ nucleon}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+6. The mass of the separated nucleons is
 
-## Problem 6
+   $$
+   2m_p+2m_n
+   =
+   2(1.673 \times 10^{-27})+2(1.675 \times 10^{-27})
+   =6.696 \times 10^{-27}\ \mathrm{kg}.
+   $$
 
-A strong solution should show how this idea fits into Nuclear Physics: Calculate mass defect, binding energy, and energy release.
+   The mass defect is
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   \Delta m
+   =6.696 \times 10^{-27}-6.645 \times 10^{-27}
+   =5.10 \times 10^{-29}\ \mathrm{kg}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+7. The binding energy is
 
-## Problem 7
+   $$
+   E_b=\Delta mc^2
+   =(5.10 \times 10^{-29})(3.00 \times 10^8)^2
+   =4.59 \times 10^{-12}\ \mathrm{J}.
+   $$
 
-A strong solution should show how this idea fits into Nuclear Physics: Use half-life and decay constant relationships.
+   In MeV,
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   E_b=\frac{4.59 \times 10^{-12}}{1.60 \times 10^{-13}}
+   =28.7\ \mathrm{MeV}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   Per nucleon,
 
-## Problem 8
+   $$
+   \frac{28.7}{4}=7.17\ \mathrm{MeV\ per\ nucleon}.
+   $$
 
-A strong solution should show how this idea fits into Nuclear Physics: Read and linearise decay data.
+8. The graph rises steeply for light nuclei, reaches a maximum near iron and
+   nickel, and then decreases slowly for very heavy nuclei.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+9. Light nuclei can fuse to form products with greater binding energy per
+   nucleon. The products are more tightly bound, the total rest mass is lower,
+   and the decrease in rest mass appears as released energy.
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+10. Convert the mass decrease:
 
-## Extension
+    $$
+    \Delta m=(0.190)(1.66 \times 10^{-27})
+    =3.15 \times 10^{-28}\ \mathrm{kg}.
+    $$
 
-A good extension solution should identify which assumption was changed, rebuild the setup, and explain why the old method either still works or needs adjustment.
+    The energy released is
+
+    $$
+    E=\Delta mc^2
+    =(3.15 \times 10^{-28})(3.00 \times 10^8)^2
+    =2.84 \times 10^{-11}\ \mathrm{J}.
+    $$
+
+    In MeV,
+
+    $$
+    E=\frac{2.84 \times 10^{-11}}{1.60 \times 10^{-13}}
+    =177\ \mathrm{MeV}.
+    $$
+
+## B. Radioactive Decay
+
+11. Count rate fluctuates because individual nuclei decay unpredictably. The
+    fluctuations are evidence that decay is random rather than a sequence of
+    equally spaced events.
+
+12. Spontaneous means the decay is not triggered by external conditions such
+    as temperature, pressure, or chemical state. Random means it is impossible
+    to predict exactly when a particular nucleus will decay.
+
+13. Use
+
+    $$
+    A=\lambda N.
+    $$
+
+    Then
+
+    $$
+    A=(1.5 \times 10^{-5})(4.0 \times 10^{16})
+    =6.0 \times 10^{11}\ \mathrm{Bq}.
+    $$
+
+14. Use
+
+    $$
+    \lambda=\frac{0.693}{t_{1/2}}.
+    $$
+
+    With $t_{1/2}=8.0\ \mathrm{days}$,
+
+    $$
+    \lambda=\frac{0.693}{8.0}
+    =8.66 \times 10^{-2}\ \mathrm{day^{-1}}.
+    $$
+
+15. Three half-lives leaves
+
+    $$
+    \left(\frac{1}{2}\right)^3=\frac{1}{8}
+    $$
+
+    of the original nuclei:
+
+    $$
+    N=(1.6 \times 10^{12})\frac{1}{8}
+    =2.0 \times 10^{11}.
+    $$
+
+16. Use
+
+    $$
+    A=A_0e^{-\lambda t}.
+    $$
+
+    Then
+
+    $$
+    A=500e^{-(0.12)(10)}
+    =1.51 \times 10^2\ \mathrm{Bq}.
+    $$
+
+17. The half-life is
+
+    $$
+    t_{1/2}=\frac{0.693}{0.12}
+    =5.8\ \mathrm{min}.
+    $$
+
+18. Correct the initial count rate for background:
+
+    $$
+    R_0=360-40=320\ \mathrm{counts\ min^{-1}}.
+    $$
+
+    After two half-lives,
+
+    $$
+    R=320\left(\frac{1}{2}\right)^2
+    =80\ \mathrm{counts\ min^{-1}}.
+    $$
+
+    Add background back to get the recorded count rate:
+
+    $$
+    R_{\text{recorded}}=80+40=120\ \mathrm{counts\ min^{-1}}.
+    $$
+
+## C. Decay Graphs and Interpretation
+
+19. Activity decreases exponentially with time. The graph curves downward and
+    approaches zero asymptotically in the ideal model.
+
+20. Since
+
+    $$
+    A=A_0e^{-\lambda t},
+    $$
+
+    taking logarithms gives
+
+    $$
+    \ln A=\ln A_0-\lambda t.
+    $$
+
+    The gradient is $-\lambda$ and the vertical intercept is $\ln A_0$.
+
+21. The gradient is $-\lambda$, so
+
+    $$
+    \lambda=0.025\ \mathrm{s^{-1}}.
+    $$
+
+    The half-life is
+
+    $$
+    t_{1/2}=\frac{0.693}{0.025}
+    =27.7\ \mathrm{s}.
+    $$
+
+22. The corrected count rate changes from $640$ to $80$:
+
+    $$
+    \frac{80}{640}=\frac{1}{8}=\left(\frac{1}{2}\right)^3.
+    $$
+
+    So $45\ \mathrm{min}$ is three half-lives, and
+
+    $$
+    t_{1/2}=\frac{45}{3}=15\ \mathrm{min}.
+    $$
+
+23. The initial activity doubles because $A=\lambda N$ and $N$ doubles. The
+    half-life is unchanged because it is a property of the isotope, not of the
+    amount of material.
+
+24. Activity is the rate of decay, measured in becquerels. Number of undecayed
+    nuclei is the number of nuclei that have not yet decayed. They are related
+    by $A=\lambda N$, but they are not the same quantity.

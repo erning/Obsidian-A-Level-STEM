@@ -3,7 +3,7 @@ title: Nuclear Physics Review Checklist
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/modern-physics
@@ -12,31 +12,68 @@ tags:
 
 # Nuclear Physics Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this checklist after the practice problems. For every answer, ask whether
+you are working with total energy, energy per nucleon, activity, corrected
+count rate, or number of undecayed nuclei.
 
 ## Ideas to Recall
 
-- [ ] Use mass-energy equivalence to connect mass defect with released energy.
-- [ ] Use nuclear binding energy and binding energy per nucleon to discuss stability, fission, and fusion.
-- [ ] Understand radioactive decay as random at the level of individual nuclei but exponential for large samples.
-- [ ] Use decay constant, activity, half-life, and exponential decay equations.
-- [ ] Interpret decay graphs and linearised forms.
+- [ ] In nuclear equations, nucleon number and proton number are conserved.
+- [ ] Mass-energy equivalence is represented by $E=mc^2$.
+- [ ] Mass defect is the difference between the mass of separated nucleons and
+      the mass of the nucleus.
+- [ ] Binding energy is the energy required to separate a nucleus into its
+      nucleons.
+- [ ] Binding energy per nucleon compares stability between nuclei.
+- [ ] Binding energy per nucleon rises to a maximum near iron and nickel, then
+      falls slowly for very heavy nuclei.
+- [ ] Fusion joins light nuclei; fission splits a heavy nucleus.
+- [ ] Fusion and fission can release energy when products have greater binding
+      energy per nucleon.
+- [ ] Radioactive decay is spontaneous and random.
+- [ ] Fluctuations in count rate provide evidence for randomness.
+- [ ] Activity is the rate of decay.
+- [ ] Decay constant is the probability per unit time that a nucleus decays.
+- [ ] Half-life is the mean time for half the active nuclei in a sample to
+      decay.
+- [ ] Radioactive decay follows $x=x_0e^{-\lambda t}$ for large samples.
 
 ## Skills to Perform
 
-- [ ] Calculate mass defect, binding energy, and energy release.
-- [ ] Use half-life and decay constant relationships.
-- [ ] Read and linearise decay data.
+- [ ] Balance simple nuclear equations using $A$ and $Z$.
+- [ ] Calculate mass defect from nucleon masses and nuclear mass.
+- [ ] Use $E=\Delta mc^2$ for binding energy or energy released.
+- [ ] Convert between joules and MeV when needed.
+- [ ] Calculate binding energy per nucleon.
+- [ ] Explain fission and fusion using the binding-energy-per-nucleon graph.
+- [ ] Use $A=\lambda N$.
+- [ ] Use $\lambda=\frac{0.693}{t_{1/2}}$.
+- [ ] Use half-life fractions for exact numbers of half-lives.
+- [ ] Use $x=x_0e^{-\lambda t}$ for non-integer decay times.
+- [ ] Subtract background count rate before applying decay equations.
+- [ ] Use a graph of $\ln x$ against $t$ to find $\lambda$.
 
 ## Common Errors to Avoid
 
-- [ ] Confusing binding energy with energy already released in a reaction.
-- [ ] Thinking half-life depends on the starting number of nuclei.
+- [ ] Confusing nucleon number $A$ with neutron number $A-Z$.
+- [ ] Forgetting to balance both top and bottom numbers in nuclear equations.
+- [ ] Treating binding energy as energy stored inside the nucleus.
+- [ ] Using binding energy per nucleon when total binding energy is required.
+- [ ] Assuming half-life changes when the starting sample is larger.
 - [ ] Mixing activity with number of undecayed nuclei.
+- [ ] Applying half-life to uncorrected count rate without subtracting
+      background.
+- [ ] Forgetting that $\lambda t$ must be dimensionless.
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Nuclear Physics without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can balance alpha and beta decay equations.
+- [ ] I can calculate mass defect, binding energy, and energy released.
+- [ ] I can explain why both fission and fusion can release energy.
+- [ ] I can explain random and spontaneous decay without contradiction.
+- [ ] I can use activity, decay constant, half-life, and exponential decay
+      equations with consistent units.
+- [ ] I can use a decay graph or linearised graph to find half-life or decay
+      constant.
+- [ ] I can connect this topic to [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]
+      and [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]].
