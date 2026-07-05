@@ -3,7 +3,7 @@ title: Oscillations Review Checklist
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/waves
@@ -12,31 +12,59 @@ tags:
 
 # Oscillations Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this checklist after the practice problems. If an item feels unclear, draw
+the equilibrium position, the displacement, and the direction of acceleration.
 
 ## Ideas to Recall
 
-- [ ] Recognise SHM from acceleration proportional to displacement and directed towards equilibrium.
-- [ ] Use displacement, velocity, acceleration, period, frequency, and angular frequency in SHM.
-- [ ] Interpret phase relationships and energy exchange in SHM.
-- [ ] Distinguish damping, forced oscillation, and resonance.
-- [ ] Connect resonance to energy transfer and real systems.
+- [ ] Displacement is measured from equilibrium.
+- [ ] Amplitude is the maximum magnitude of displacement.
+- [ ] Frequency and angular frequency are related by $\omega=2\pi f$.
+- [ ] SHM occurs when acceleration is proportional to displacement and in the
+      opposite direction.
+- [ ] The defining equation is $a=-\omega^2x$.
+- [ ] A solution can be written as $x=x_0\sin\omega t$.
+- [ ] Maximum speed occurs at equilibrium.
+- [ ] Acceleration has maximum magnitude at the extremes.
+- [ ] In undamped SHM, kinetic and potential energy exchange while total
+      energy remains constant.
+- [ ] Damping removes energy and reduces amplitude.
+- [ ] Resonance occurs when driving frequency equals natural frequency.
 
 ## Skills to Perform
 
-- [ ] Solve mass-spring and pendulum-style SHM problems.
-- [ ] Use energy in SHM.
-- [ ] Interpret resonance curves.
+- [ ] Convert between $T$, $f$, and $\omega$.
+- [ ] Calculate phase difference from time separation and period.
+- [ ] Use an $a$ against $x$ graph to identify SHM and find $\omega$.
+- [ ] Use $x=x_0\sin\omega t$ with the argument in radians.
+- [ ] Use $v_0=\omega x_0$ and
+      $v=\pm\omega\sqrt{x_0^2-x^2}$.
+- [ ] Use $a=-\omega^2x$ to find acceleration and direction.
+- [ ] Use $E=\frac{1}{2}m\omega^2x_0^2$ for total energy.
+- [ ] Describe energy exchange at equilibrium and at the extremes.
+- [ ] Distinguish light damping, critical damping, and heavy damping.
+- [ ] Interpret resonance curves and the effect of damping.
 
 ## Common Errors to Avoid
 
-- [ ] Confusing frequency with angular frequency.
-- [ ] Thinking maximum speed occurs at maximum displacement.
-- [ ] Treating resonance as always destructive instead of context-dependent.
+- [ ] Confusing $f$ with $\omega$.
+- [ ] Using degrees inside $\sin\omega t$ when $\omega t$ is in radians.
+- [ ] Saying acceleration is in the direction of displacement.
+- [ ] Saying maximum speed occurs at maximum displacement.
+- [ ] Forgetting the sign ambiguity in
+      $v=\pm\omega\sqrt{x_0^2-x^2}$.
+- [ ] Treating amplitude loss as unrelated to energy loss.
+- [ ] Defining resonance without mentioning driving frequency and natural
+      frequency.
+- [ ] Assuming resonance is always harmful.
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Oscillations without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can identify SHM from $a=-\omega^2x$ or an $a$-$x$ graph.
+- [ ] I can calculate displacement, speed, acceleration, and phase for SHM.
+- [ ] I can explain the phase relationships among $x$, $v$, and $a$.
+- [ ] I can use the energy equation and describe energy exchange physically.
+- [ ] I can compare damping types from displacement-time graphs.
+- [ ] I can explain resonance and the effect of damping on a resonance curve.
+- [ ] I can connect this topic to [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
+      and [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]].
