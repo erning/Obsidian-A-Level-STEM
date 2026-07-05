@@ -3,7 +3,7 @@ title: Waves Review Checklist
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/waves
@@ -12,31 +12,96 @@ tags:
 
 # Waves Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this after the worked examples and practice problems. Any unchecked item is
+a cue to return to the lecture notes and redraw the relevant graph or wavefront
+picture.
 
-## Ideas to Recall
+## Core Ideas to Recall
 
-- [ ] Use displacement, amplitude, phase difference, period, frequency, wavelength, and speed.
-- [ ] Use the wave equation $v = f\lambda$ and intensity relationships for progressive waves.
-- [ ] Distinguish transverse and longitudinal waves and understand polarisation as evidence for transverse waves.
-- [ ] Describe Doppler effect for sound waves.
-- [ ] Know the main regions and order of the electromagnetic spectrum.
+- [ ] A progressive wave transfers energy without transferring matter along
+  with the wave.
+- [ ] Displacement is the displacement of a point from equilibrium.
+- [ ] Amplitude is maximum displacement from equilibrium.
+- [ ] Wavelength is the distance between adjacent points oscillating in phase.
+- [ ] Period is time for one complete oscillation, and frequency is the number
+  of oscillations per unit time.
+- [ ] Phase difference can be measured in degrees or radians.
+- [ ] $f=1/T$ and $v=f\lambda$.
+- [ ] A CRO time-base can be used to find period and frequency; y-gain can be
+  used to find amplitude.
+- [ ] Intensity is $I=P/A$ and has unit $\mathrm{W\ m^{-2}}$.
+- [ ] For the same type of progressive wave in the same medium,
+  $I\propto A^2$.
+- [ ] Transverse waves have oscillations at right angles to wave travel;
+  longitudinal waves have oscillations parallel to wave travel.
+- [ ] Doppler effect for this syllabus is a moving sound source and stationary
+  observer.
+- [ ] All electromagnetic waves are transverse and travel at speed $c$ in free
+  space.
+- [ ] Visible wavelengths in free space are approximately
+  $400\ \mathrm{nm}$ to $700\ \mathrm{nm}$.
+- [ ] Polarisation is associated with transverse waves.
+- [ ] Malus's law for plane-polarised incident radiation is
+  $I=I_0\cos^2\theta$.
 
 ## Skills to Perform
 
-- [ ] Calculate wavelength, frequency, speed, period, and phase difference.
-- [ ] Interpret CRO-style wave traces.
-- [ ] Explain Doppler shifts qualitatively.
+- [ ] Read amplitude and wavelength from a displacement-position graph.
+- [ ] Read amplitude and period from a displacement-time graph.
+- [ ] Calculate phase difference from a distance separation or a time
+  separation.
+- [ ] Derive $v=f\lambda$ from wave definitions.
+- [ ] Calculate wavelength, frequency, speed, and period.
+- [ ] Use CRO time-base and y-gain correctly.
+- [ ] Calculate intensity from power and area.
+- [ ] Use amplitude ratios to compare intensities.
+- [ ] Interpret compressions and rarefactions in longitudinal waves.
+- [ ] Choose the correct sign in the moving-source Doppler equation.
+- [ ] Classify electromagnetic waves by approximate wavelength.
+- [ ] Apply Malus's law once or through a series of polarising filters.
 
 ## Common Errors to Avoid
 
-- [ ] Thinking the medium travels with the wave.
-- [ ] Mixing up period and wavelength.
-- [ ] Treating intensity as proportional to amplitude instead of amplitude squared.
+- [ ] Thinking particles of the medium travel with a progressive wave.
+- [ ] Reading wavelength from a displacement-time graph.
+- [ ] Reading period from a displacement-position graph.
+- [ ] Measuring amplitude from crest to trough instead of from the centre line.
+- [ ] Treating intensity as proportional to amplitude rather than amplitude
+  squared.
+- [ ] Using the wrong sign in the Doppler equation.
+- [ ] Thinking source motion changes the speed of sound in the air.
+- [ ] Forgetting that all electromagnetic waves have the same speed in free
+  space.
+- [ ] Trying to polarise a longitudinal wave.
+- [ ] Applying Malus's law to unpolarised incident light when the question does
+  not require that case.
+
+## Quick Self-Checks
+
+- [ ] I can explain what a progressive wave transfers.
+- [ ] I can state the difference between the wave speed and the motion of one
+  particle in the medium.
+- [ ] I can convert $400\ \mathrm{nm}$ and $700\ \mathrm{nm}$ into metres.
+- [ ] I can explain why polarisation is evidence that electromagnetic waves are
+  transverse.
+- [ ] I can check limiting cases of Malus's law at $0^\circ$, $45^\circ$, and
+  $90^\circ$.
+
+## Connections
+
+- [ ] I can connect phase and displacement to
+  [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]].
+- [ ] I can connect period, frequency, and amplitude to
+  [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]].
+- [ ] I can connect electromagnetic radiation to
+  [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]].
+- [ ] I can connect Doppler shifts and spectra to
+  [[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]].
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Waves without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can identify the graph type before reading wavelength or period.
+- [ ] I can keep wave speed, particle oscillation speed, and source speed
+  separate.
+- [ ] I can solve a mixed wave problem involving phase, intensity, Doppler
+  effect, and polarisation without using a template.

@@ -3,7 +3,7 @@ title: Waves Key Practice Solutions
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/waves
@@ -12,96 +12,276 @@ tags:
 
 # Waves Key Practice Solutions
 
-This note gives solution sketches for [[10 Physics/01 Topics/07 Waves/30 Key Practice Problems|Key Practice Problems]]. Use it to mark method and reasoning, not just final answers.
+These solutions correspond to [[10 Physics/01 Topics/07 Waves/30 Key Practice Problems|Key Practice Problems]].
 
-## Problem 1
+## A. Wave Quantities and Phase
 
-A strong solution should show how this idea fits into Waves: Use displacement, amplitude, phase difference, period, frequency, wavelength, and speed.
+1. Adjacent crests are one wavelength apart:
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   \lambda=0.40\ \mathrm{m}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   Wave speed:
 
-## Problem 2
+   $$
+   v=f\lambda=(8.0)(0.40)
+   =3.2\ \mathrm{m\ s^{-1}}.
+   $$
 
-A strong solution should show how this idea fits into Waves: Use the wave equation $v = f\lambda$ and intensity relationships for progressive waves.
+2. Frequency is the reciprocal of period:
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   f=\frac{1}{T}
+   =\frac{1}{0.020}
+   =50\ \mathrm{Hz}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   The amplitude $6.0\ \mathrm{mm}$ is the maximum displacement of that point
+   from its equilibrium position.
 
-## Problem 3
+3. Phase difference from spatial separation:
 
-A strong solution should show how this idea fits into Waves: Distinguish transverse and longitudinal waves and understand polarisation as evidence for transverse waves.
+   $$
+   \phi=360^\circ\frac{\Delta x}{\lambda}
+   =360^\circ\frac{0.15}{0.60}
+   =90^\circ.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   In radians,
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   \phi=2\pi\frac{0.15}{0.60}
+   =\frac{\pi}{2}\ \mathrm{rad}.
+   $$
 
-## Problem 4
+4. Phase difference from time separation:
 
-A strong solution should show how this idea fits into Waves: Describe Doppler effect for sound waves.
+   $$
+   \phi=360^\circ\frac{\Delta t}{T}
+   =360^\circ\frac{2.0}{8.0}
+   =90^\circ.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+5. A wave travels one wavelength $\lambda$ in one period $T$, so
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   v=\frac{\lambda}{T}.
+   $$
 
-## Problem 5
+   Since
 
-A strong solution should show how this idea fits into Waves: Know the main regions and order of the electromagnetic spectrum.
+   $$
+   f=\frac{1}{T},
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   substituting gives
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   v=f\lambda.
+   $$
 
-## Problem 6
+## B. CRO Traces, Wave Speed, and Intensity
 
-A strong solution should show how this idea fits into Waves: Calculate wavelength, frequency, speed, period, and phase difference.
+6. Period:
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   T=(5.0)(0.20\ \mathrm{ms})
+   =1.0\ \mathrm{ms}
+   =1.0\times 10^{-3}\ \mathrm{s}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   Frequency:
 
-## Problem 7
+   $$
+   f=\frac{1}{T}
+   =1.0\times 10^3\ \mathrm{Hz}.
+   $$
 
-A strong solution should show how this idea fits into Waves: Interpret CRO-style wave traces.
+   Crest-to-trough height is $2A$, so the amplitude is
+   $1.5$ vertical divisions. Hence
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   V_0=(1.5)(0.50)=0.75\ \mathrm{V}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+7. Use
 
-## Problem 8
+   $$
+   v=f\lambda.
+   $$
 
-A strong solution should show how this idea fits into Waves: Explain Doppler shifts qualitatively.
+   Therefore
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   \lambda=\frac{v}{f}
+   =\frac{330}{256}
+   =1.29\ \mathrm{m}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+8. Wave speed:
 
-## Extension
+   $$
+   v=f\lambda=(2.5)(0.12)
+   =0.30\ \mathrm{m\ s^{-1}}.
+   $$
 
-A good extension solution should identify which assumption was changed, rebuild the setup, and explain why the old method either still works or needs adjustment.
+9. Intensity:
+
+   $$
+   I=\frac{P}{A}
+   =\frac{48}{12}
+   =4.0\ \mathrm{W\ m^{-2}}.
+   $$
+
+   Since $I\propto A^2$, doubling the amplitude multiplies intensity by $4$:
+
+   $$
+   I_{\text{new}}=4(4.0)
+   =16\ \mathrm{W\ m^{-2}}.
+   $$
+
+10. Intensity ratio equals the square of the amplitude ratio:
+
+    $$
+    \frac{I_{\text{new}}}{I_{\text{old}}}
+    =(0.40)^2
+    =0.16.
+    $$
+
+## C. Wave Types and Electromagnetic Waves
+
+11. In a transverse wave, oscillations are at right angles to the direction of
+    wave travel. Examples include waves on a string and electromagnetic waves.
+    In a longitudinal wave, oscillations are parallel to the direction of wave
+    travel. Sound in air is a longitudinal wave with compressions and
+    rarefactions.
+
+12. Adjacent compressions are one wavelength apart, so
+
+    $$
+    \lambda=0.75\ \mathrm{m}.
+    $$
+
+    Speed:
+
+    $$
+    v=f\lambda=(440)(0.75)
+    =330\ \mathrm{m\ s^{-1}}.
+    $$
+
+    Compressions are regions where air particles are closer together, so the
+    pressure and density are higher than equilibrium.
+
+13. In order of increasing frequency:
+
+    $$
+    \text{radio} \rightarrow \text{microwave} \rightarrow \text{infrared}
+    \rightarrow \text{visible} \rightarrow \text{ultraviolet}
+    \rightarrow \text{X-rays} \rightarrow \gamma\text{-rays}.
+    $$
+
+    Visible wavelengths in free space are approximately
+    $400\ \mathrm{nm}$ to $700\ \mathrm{nm}$.
+
+14. Using the approximate spectrum ranges:
+
+    - $2.0\ \mathrm{m}$ is a radio wave.
+    - $3.0\ \mathrm{cm}=3.0\times 10^{-2}\ \mathrm{m}$ is a microwave.
+    - $1.0\times 10^{-5}\ \mathrm{m}$ is infrared.
+    - $500\ \mathrm{nm}$ is visible light.
+    - $1.0\times 10^{-9}\ \mathrm{m}$ is an X-ray.
+
+15. For an electromagnetic wave in free space,
+
+    $$
+    c=f\lambda.
+    $$
+
+    Hence
+
+    $$
+    \lambda=\frac{c}{f}
+    =\frac{3.0\times 10^8}{6.0\times 10^{14}}
+    =5.0\times 10^{-7}\ \mathrm{m}.
+    $$
+
+    This is $500\ \mathrm{nm}$, so it lies in the visible range.
+
+## D. Doppler Effect and Polarisation
+
+16. When the source approaches the observer, successive wavefronts are emitted
+    from positions closer to the observer, so the observed wavelength is
+    shorter and the observed frequency is higher. When the source recedes,
+    wavefronts are spread farther apart, so the observed wavelength is longer
+    and the observed frequency is lower. The speed of sound in the air is set
+    by the medium and does not change because the source moves.
+
+17. For a moving source and stationary observer,
+
+    $$
+    f_o=\frac{f_s v}{v\pm v_s}.
+    $$
+
+    Approaching source, use the minus sign:
+
+    $$
+    f_o=\frac{(500)(340)}{340-25}
+    =540\ \mathrm{Hz}.
+    $$
+
+    Receding source, use the plus sign:
+
+    $$
+    f_o=\frac{(500)(340)}{340+25}
+    =466\ \mathrm{Hz}.
+    $$
+
+18. Malus's law:
+
+    $$
+    I=I_0\cos^2\theta.
+    $$
+
+    Thus
+
+    $$
+    I=(8.0)\cos^2 30^\circ
+    =8.0(0.75)
+    =6.0\ \mathrm{W\ m^{-2}}.
+    $$
+
+19. Use
+
+    $$
+    \frac{I}{I_0}=\cos^2\theta.
+    $$
+
+    Since $I/I_0=0.25$,
+
+    $$
+    \cos\theta=0.50.
+    $$
+
+    Therefore
+
+    $$
+    \theta=60^\circ.
+    $$
+
+20. First filter:
+
+    $$
+    I_1=16\cos^2 45^\circ
+    =16(0.5)
+    =8.0\ \mathrm{W\ m^{-2}}.
+    $$
+
+    The transmitted wave is plane polarised along the first filter axis. For
+    the second filter:
+
+    $$
+    I_2=8.0\cos^2 30^\circ
+    =8.0(0.75)
+    =6.0\ \mathrm{W\ m^{-2}}.
+    $$
