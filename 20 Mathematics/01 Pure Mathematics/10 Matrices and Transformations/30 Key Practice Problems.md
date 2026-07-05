@@ -2,10 +2,9 @@
 title: Matrices and Transformations Key Practice Problems
 subject: Mathematics
 syllabus:
-  - 9709
   - 9231
 parent: "[[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]]"
-status: draft
+status: active
 tags:
   - mathematics/pure
   - practice
@@ -13,40 +12,154 @@ tags:
 
 # Matrices and Transformations Key Practice Problems
 
-Work these without the solution note first. The aim is active recall, method selection, and clean checking.
+Work these without looking at the solutions first. State matrix orders when
+they matter, and keep transformation order explicit.
 
-## Problem 1
+## A. Matrix Algebra and Inverses
 
-Use this idea in a complete solution: Matrix addition, subtraction, multiplication, zero matrix, and identity matrix. State assumptions, choose a method, and check the result.
+1. Let
 
-## Problem 2
+   $$
+   P=\begin{pmatrix}1&2&3\\0&-1&4\end{pmatrix},
+   \qquad
+   R=\begin{pmatrix}2&0\\1&3\\-1&2\end{pmatrix}.
+   $$
 
-Use this idea in a complete solution: Determinants, singular and non-singular matrices, and inverses. State assumptions, choose a method, and check the result.
+   Find $PR$ and $RP$, giving the order of each result.
 
-## Problem 3
+2. Let
 
-Use this idea in a complete solution: Matrices as two-dimensional geometric transformations, including rotation, reflection, enlargement, stretch, and shear. State assumptions, choose a method, and check the result.
+   $$
+   A=\begin{pmatrix}1&2\\0&1\end{pmatrix},
+   \qquad
+   B=\begin{pmatrix}2&0\\3&1\end{pmatrix}.
+   $$
 
-## Problem 4
+   Find $AB$ and $BA$. What does this show?
 
-Use this idea in a complete solution: Invariant points, invariant lines, and area scale factor. State assumptions, choose a method, and check the result.
+3. For
 
-## Problem 5
+   $$
+   M=\begin{pmatrix}2&-1\\3&4\end{pmatrix},
+   $$
 
-Use this idea in a complete solution: Linear systems, consistency, eigenvalues, eigenvectors, diagonalisation, and characteristic equation. State assumptions, choose a method, and check the result.
+   find $\det M$, $M^{-1}$, and the solution of
 
-## Problem 6
+   $$
+   M\mathbf x=\begin{pmatrix}5\\6\end{pmatrix}.
+   $$
 
-Complete this practice task: Find inverses and solve matrix equations.
+4. For
 
-## Problem 7
+   $$
+   U=\begin{pmatrix}
+   1&2&0\\
+   0&1&3\\
+   0&0&2
+   \end{pmatrix},
+   $$
 
-Complete this practice task: Build transformation matrices from geometric descriptions.
+   find $\det U$ and $U^{-1}$.
 
-## Problem 8
+5. Let $A$ and $B$ be non-singular square matrices. Explain why
 
-Complete this practice task: Find eigenvalues, eigenvectors, and diagonal forms.
+   $$
+   (AB)^{-1}=B^{-1}A^{-1}.
+   $$
 
-## Extension
+## B. Transformation Matrices
 
-Choose one problem above and change a condition. Explain how the method changes and which parts of the original solution still survive.
+6. Find the matrix for an anticlockwise rotation through $90^\circ$ about the
+   origin, and use it to find the image of $(2,-1)$.
+
+7. Find the matrix for reflection in the line $y=x$, and use it to find the
+   image of $(3,-2)$.
+
+8. A stretch parallel to the $x$-axis with scale factor $3$ is followed by
+   reflection in the $x$-axis. Find the combined matrix.
+
+9. A shear has the $x$-axis fixed and maps $(0,1)$ to $(4,1)$. Find its matrix
+   and the image of $(2,3)$.
+
+10. For
+
+    $$
+    C=\begin{pmatrix}1&3\\2&4\end{pmatrix},
+    $$
+
+    find the area scale factor and state whether orientation is preserved or
+    reversed.
+
+11. For
+
+    $$
+    T=\begin{pmatrix}2&0\\1&1\end{pmatrix},
+    $$
+
+    find the invariant points and the invariant lines through the origin.
+
+## C. Systems, Eigenvalues, and Matrix Powers
+
+12. Solve the system
+
+    $$
+    \begin{cases}
+    x+y+z=6,\\
+    2x-y+z=3,\\
+    x+3y-z=4.
+    \end{cases}
+    $$
+
+    Interpret the result geometrically.
+
+13. Classify each system as having a unique solution, no solution, or
+    infinitely many solutions.
+
+    $$
+    \begin{cases}
+    x+y+z=1,\\
+    2x+2y+2z=2,\\
+    x-y=0,
+    \end{cases}
+    $$
+
+    $$
+    \begin{cases}
+    x+y+z=1,\\
+    2x+2y+2z=3,\\
+    x-y=0.
+    \end{cases}
+    $$
+
+14. Find the eigenvalues and corresponding eigenvectors of
+
+    $$
+    A=\begin{pmatrix}4&1\\2&3\end{pmatrix}.
+    $$
+
+15. Diagonalise the matrix in question 14 by writing $A=QDQ^{-1}$.
+
+16. Use diagonalisation, or another exact matrix method, to find $A^3$ for the
+    matrix in question 14.
+
+17. Find the eigenvalues and corresponding eigenvectors of
+
+    $$
+    H=\begin{pmatrix}
+    1&1&0\\
+    0&2&0\\
+    0&0&3
+    \end{pmatrix}.
+    $$
+
+18. If $A\mathbf e=\lambda\mathbf e$ and $\mathbf e\ne\mathbf0$, prove that
+    $A^n\mathbf e=\lambda^n\mathbf e$ for positive integers $n$.
+
+19. Use the Cayley-Hamilton theorem to find the inverse of
+
+    $$
+    B=\begin{pmatrix}2&1\\1&2\end{pmatrix}.
+    $$
+
+20. Use the characteristic equation of the matrix in question 19 to express
+    $B^4$ in the form $aB+bI$.
