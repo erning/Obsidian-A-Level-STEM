@@ -3,7 +3,7 @@ title: Temperature Key Practice Solutions
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/thermal-physics
@@ -12,96 +12,272 @@ tags:
 
 # Temperature Key Practice Solutions
 
-This note gives solution sketches for [[10 Physics/01 Topics/14 Temperature/30 Key Practice Problems|Key Practice Problems]]. Use it to mark method and reasoning, not just final answers.
+Use these solutions to check equation choice before arithmetic. A sloping
+temperature change uses $E=mc\Delta\theta$; a flat change-of-state section
+uses $E=mL$.
 
-## Problem 1
+## A. Thermal Equilibrium and Temperature Scales
 
-A strong solution should show how this idea fits into Temperature: Use thermal equilibrium as the basis for temperature measurement.
+1. Thermal energy is transferred from the object or region at higher
+   temperature to the object or region at lower temperature. Thermal
+   equilibrium is reached when the objects have the same temperature and there
+   is no net transfer of thermal energy between them.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+2. The thermometer must exchange thermal energy with the object until they
+   reach thermal equilibrium. Only then does the thermometer reading represent
+   the object's temperature. Possible thermometric properties include density
+   of a liquid, volume of a gas at constant pressure, resistance of a metal,
+   and e.m.f. of a thermocouple.
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+3. Use linear interpolation:
 
-## Problem 2
+   $$
+   \frac{\theta}{100.0}
+   =
+   \frac{127.0-100.0}{138.5-100.0}.
+   $$
 
-A strong solution should show how this idea fits into Temperature: Use thermodynamic temperature and convert between Celsius and kelvin scales.
+   Hence
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   \theta
+   =
+   100.0
+   \left(
+   \frac{27.0}{38.5}
+   \right)
+   =
+   70.1\ ^\circ\mathrm{C}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+4. Use $T\ (\mathrm{K})=\theta\ (^\circ\mathrm{C})+273.15$:
 
-## Problem 3
+   $$
+   -273.15\ ^\circ\mathrm{C}=0\ \mathrm{K},
+   $$
 
-A strong solution should show how this idea fits into Temperature: Use specific heat capacity for temperature changes.
+   $$
+   25.0\ ^\circ\mathrm{C}=298.15\ \mathrm{K}.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   For $350\ \mathrm{K}$,
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   \theta=350-273.15=76.85\ ^\circ\mathrm{C}.
+   $$
 
-## Problem 4
+5. A thermodynamic temperature scale is not based on the expansion,
+   resistance, e.m.f., or other property of one chosen substance. It is a
+   fundamental temperature scale. Absolute zero is $0\ \mathrm{K}$, the lowest
+   possible temperature on this scale.
 
-A strong solution should show how this idea fits into Temperature: Use specific latent heat for changes of state.
+## B. Specific Heat Capacity
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+6. Specific heat capacity is the energy required per unit mass to raise the
+   temperature of a substance by $1\ \mathrm{K}$, or equivalently by
+   $1\ ^\circ\mathrm{C}$. Its SI unit is
+   $\mathrm{J\ kg^{-1}\ K^{-1}}$.
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+7. Temperature change:
 
-## Problem 5
+   $$
+   \Delta\theta=85-20=65\ \mathrm{K}.
+   $$
 
-A strong solution should show how this idea fits into Temperature: Interpret heating and cooling processes using energy transfer and state changes.
+   Energy:
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   E=mc\Delta\theta
+   =(0.75)(4200)(65)
+   =
+   2.05 \times 10^5\ \mathrm{J}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+8. Electrical energy supplied:
 
-## Problem 6
+   $$
+   E=VIt=(12.0)(2.00)(300)=7200\ \mathrm{J}.
+   $$
 
-A strong solution should show how this idea fits into Temperature: Calculate energy for temperature change and change of state.
+   Therefore
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   c=\frac{E}{m\Delta\theta}
+   =
+   \frac{7200}{(1.00)(8.0)}
+   =
+   900\ \mathrm{J\ kg^{-1}\ K^{-1}}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+9. Use
 
-## Problem 7
+   $$
+   \Delta\theta=\frac{E}{mc}.
+   $$
 
-A strong solution should show how this idea fits into Temperature: Interpret heating curves.
+   Hence
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   \Delta\theta
+   =
+   \frac{3.9 \times 10^3}{(0.20)(390)}
+   =
+   50\ \mathrm{K}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+10. With constant power,
 
-## Problem 8
+    $$
+    P=mc\frac{\Delta\theta}{\Delta t}.
+    $$
 
-A strong solution should show how this idea fits into Temperature: Estimate heat losses and experimental uncertainty.
+    The gradient is $0.050\ \mathrm{K\ s^{-1}}$, so
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+    $$
+    c=
+    \frac{P}{m \times \text{gradient}}
+    =
+    \frac{60}{(0.40)(0.050)}
+    =
+    3.0 \times 10^3\ \mathrm{J\ kg^{-1}\ K^{-1}}.
+    $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+## C. Specific Latent Heat
 
-## Extension
+11. Specific latent heat is the energy required per kilogram to change the
+    state of a substance without changing its temperature. Specific latent heat
+    of fusion refers to melting or freezing. Specific latent heat of
+    vaporisation refers to boiling, evaporation, or condensation.
 
-A good extension solution should identify which assumption was changed, rebuild the setup, and explain why the old method either still works or needs adjustment.
+12. Use $E=mL$:
+
+    $$
+    E=(0.15)(3.34 \times 10^5)
+    =
+    5.01 \times 10^4\ \mathrm{J}.
+    $$
+
+13. Use $E=mL$:
+
+    $$
+    E=(0.025)(2.26 \times 10^6)
+    =
+    5.65 \times 10^4\ \mathrm{J}.
+    $$
+
+14. Electrical energy supplied:
+
+    $$
+    E=VIt=(9.0)(2.0)(600)=1.08 \times 10^4\ \mathrm{J}.
+    $$
+
+    Hence
+
+    $$
+    L=\frac{E}{m}
+    =
+    \frac{1.08 \times 10^4}{4.8 \times 10^{-3}}
+    =
+    2.25 \times 10^6\ \mathrm{J\ kg^{-1}}.
+    $$
+
+15. $E=mc\Delta\theta$ is for a temperature change within one state and
+    includes a temperature-change term. The unit of $c$ is
+    $\mathrm{J\ kg^{-1}\ K^{-1}}$. $E=mL$ is for a change of state at constant
+    temperature and has no temperature-change term. The unit of $L$ is
+    $\mathrm{J\ kg^{-1}}$.
+
+## D. Heating Curves and Experimental Checks
+
+16. Warm the ice from $-20\ ^\circ\mathrm{C}$ to
+    $0\ ^\circ\mathrm{C}$:
+
+    $$
+    E_1=mc_{\text{ice}}\Delta\theta
+    =(0.10)(2100)(20)
+    =
+    4.20 \times 10^3\ \mathrm{J}.
+    $$
+
+    Melt the ice:
+
+    $$
+    E_2=mL_f
+    =(0.10)(3.34 \times 10^5)
+    =
+    3.34 \times 10^4\ \mathrm{J}.
+    $$
+
+    Total:
+
+    $$
+    E=E_1+E_2=3.76 \times 10^4\ \mathrm{J}.
+    $$
+
+17. Heat the water from $20\ ^\circ\mathrm{C}$ to
+    $100\ ^\circ\mathrm{C}$:
+
+    $$
+    E_1=(0.20)(4200)(80)
+    =
+    6.72 \times 10^4\ \mathrm{J}.
+    $$
+
+    Vaporise the water:
+
+    $$
+    E_2=(0.20)(2.26 \times 10^6)
+    =
+    4.52 \times 10^5\ \mathrm{J}.
+    $$
+
+    Total:
+
+    $$
+    E=E_1+E_2
+    =
+    5.19 \times 10^5\ \mathrm{J}.
+    $$
+
+18. During a sloping section, temperature rises and the average random kinetic
+    energy of particles increases. During a flat section, temperature is
+    constant and the average kinetic energy does not increase. The supplied
+    energy changes the arrangement or separation of particles, so the potential
+    energy part of internal energy increases.
+
+19. The calculated value of $c$ is too high. The student uses all the
+    electrical energy as if it heated the block, but some energy went to the
+    surroundings. For the observed temperature rise, the energy actually gained
+    by the block was smaller than the value used in the calculation.
+
+20. Useful energy gained by the block:
+
+    $$
+    E_{\text{useful}}=mc\Delta\theta
+    =(0.50)(900)(10)
+    =
+    4.5 \times 10^3\ \mathrm{J}.
+    $$
+
+    Energy supplied by the heater:
+
+    $$
+    E_{\text{input}}=Pt=(30)(200)=6.0 \times 10^3\ \mathrm{J}.
+    $$
+
+    Energy lost:
+
+    $$
+    E_{\text{lost}}=6.0 \times 10^3-4.5 \times 10^3
+    =
+    1.5 \times 10^3\ \mathrm{J}.
+    $$
+
+    Efficiency:
+
+    $$
+    \frac{4.5 \times 10^3}{6.0 \times 10^3}
+    \times 100\%
+    =
+    75\%.
+    $$
