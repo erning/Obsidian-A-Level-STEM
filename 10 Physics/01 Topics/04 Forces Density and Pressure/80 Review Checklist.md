@@ -3,7 +3,7 @@ title: Forces, Density and Pressure Review Checklist
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Forces, Density and Pressure]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/mechanics
@@ -12,31 +12,58 @@ tags:
 
 # Forces, Density and Pressure Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this after working through [[10 Physics/01 Topics/04 Forces Density and Pressure/10 Lecture Notes|Lecture Notes]], [[10 Physics/01 Topics/04 Forces Density and Pressure/20 Worked Examples|Worked Examples]], and [[10 Physics/01 Topics/04 Forces Density and Pressure/30 Key Practice Problems|Key Practice Problems]].
 
-## Ideas to Recall
+## Moments and Equilibrium
 
-- [ ] Use centre of gravity, moment of a force, couple, and torque of a couple.
-- [ ] Apply the principle of moments and the condition of no resultant force and no resultant torque for equilibrium.
-- [ ] Define and use density and pressure.
-- [ ] Derive and use hydrostatic pressure $\Delta p = \rho g \Delta h$.
-- [ ] Explain upthrust from pressure difference and use $F = \rho gV$ as Archimedes' principle.
+- [ ] I can identify the line of action of a force.
+- [ ] I can calculate a moment using perpendicular distance.
+- [ ] I can use $M=Fd\sin\theta$ when the force is not perpendicular to the lever.
+- [ ] I can explain centre of gravity as the point where weight may be treated as acting.
+- [ ] I can apply the principle of moments about a useful pivot.
+- [ ] I can distinguish no resultant force from no resultant torque.
+- [ ] I can calculate the torque of a couple using one force and the separation between the forces.
+- [ ] I can use a force triangle or components for three coplanar forces in equilibrium.
 
-## Skills to Perform
+## Density and Pressure
 
-- [ ] Solve moment and torque problems.
-- [ ] Use vector triangles for coplanar forces in equilibrium.
-- [ ] Calculate hydrostatic pressure and upthrust.
+- [ ] I can define density as $\rho=m/V$.
+- [ ] I can convert between $\mathrm{g\ cm^{-3}}$ and $\mathrm{kg\ m^{-3}}$.
+- [ ] I can define pressure as normal force per unit area.
+- [ ] I can explain why reducing area increases pressure for the same force.
+- [ ] I can distinguish pressure from force.
+- [ ] I can use $\Delta p=\rho g\Delta h$ for hydrostatic pressure difference.
+- [ ] I can derive $\Delta p=\rho g\Delta h$ from a fluid column.
+
+## Fluids and Upthrust
+
+- [ ] I can explain upthrust as a result of greater pressure on the lower surface of an object.
+- [ ] I can use $F=\rho gV$ for the upthrust on a fully submerged object.
+- [ ] I can use only the submerged volume for a floating object.
+- [ ] I can calculate apparent weight as true weight minus upthrust.
+- [ ] I can find the fraction submerged from the ratio of object density to fluid density.
+- [ ] I can connect extra load on a floating object to extra displaced fluid volume.
 
 ## Common Errors to Avoid
 
-- [ ] Checking only net force and forgetting net torque.
-- [ ] Using volume where area is required for pressure.
-- [ ] Treating upthrust as a mysterious upward force rather than a pressure difference.
+- [ ] Using the length of a lever instead of the perpendicular distance to the force's line of action.
+- [ ] Doubling the torque of a couple after already using the separation between the two forces.
+- [ ] Checking vertical forces but forgetting moments.
+- [ ] Treating pressure as a vector because force is a vector.
+- [ ] Using volume instead of area in $p=F/A$.
+- [ ] Forgetting that $\rho g\Delta h$ is a pressure difference, not automatically total pressure.
+- [ ] Using total object volume for upthrust when the object is only partly submerged.
 
-## Ready to Move On When
+## Ready to Connect
 
-- [ ] I can explain the purpose of Forces, Density and Pressure without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+You are ready to connect this topic to [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]] when you can:
+
+- identify the component of a force in the direction of displacement;
+- keep force, moment, torque, pressure, and work as separate quantities;
+- explain how a force can produce translation, rotation, or pressure depending on context.
+
+You are ready to connect it to [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]] when you can:
+
+- write independent force and moment equations;
+- use components for coplanar equilibrium;
+- choose a pivot that removes an unknown force from the moment equation.
