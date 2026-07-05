@@ -206,7 +206,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 - [x] P3 · `10 Physics/01 Topics/12 Motion in a Circle`
 - [x] P3 · `10 Physics/01 Topics/13 Gravitational Fields`
 - [x] P3 · `10 Physics/01 Topics/14 Temperature`
-- [ ] P3 · `10 Physics/01 Topics/15 Ideal Gases`
+- [x] P3 · `10 Physics/01 Topics/15 Ideal Gases`
 - [ ] P4 · `10 Physics/01 Topics/16 Thermodynamics`
 - [ ] P4 · `10 Physics/01 Topics/17 Oscillations`
 - [ ] P4 · `10 Physics/01 Topics/18 Electric Fields`

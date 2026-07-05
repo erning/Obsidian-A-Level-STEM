@@ -3,7 +3,7 @@ title: Ideal Gases Key Practice Solutions
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/thermal-physics
@@ -12,96 +12,297 @@ tags:
 
 # Ideal Gases Key Practice Solutions
 
-This note gives solution sketches for [[10 Physics/01 Topics/15 Ideal Gases/30 Key Practice Problems|Key Practice Problems]]. Use it to mark method and reasoning, not just final answers.
+Use these solutions to check units and model assumptions as well as numerical
+answers. In gas equations, temperature must be thermodynamic temperature in
+kelvin.
 
-## Problem 1
+## A. Mole, Particles, and Constants
 
-A strong solution should show how this idea fits into Ideal Gases: Use amount of substance, mole, Avogadro constant, and number of particles.
+1. Amount of substance is an SI base quantity with base unit mole,
+   $\mathrm{mol}$. One mole contains a number of elementary entities equal to
+   Avogadro's constant, $N_\mathrm{A}$. Avogadro's constant is the number of
+   particles per mole.
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+2. Number of molecules:
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   N=nN_\mathrm{A}
+   =(0.50)(6.02 \times 10^{23})
+   =
+   3.01 \times 10^{23}.
+   $$
 
-## Problem 2
+   Amount of substance:
 
-A strong solution should show how this idea fits into Ideal Gases: Use the ideal gas equation for state changes.
+   $$
+   n=\frac{N}{N_\mathrm{A}}
+   =
+   \frac{1.20 \times 10^{24}}{6.02 \times 10^{23}}
+   =
+   1.99\ \mathrm{mol}.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+3. Use $m=nM$:
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   m=(2.00)(32.0)=64.0\ \mathrm{g}.
+   $$
 
-## Problem 3
+   In kilograms,
 
-A strong solution should show how this idea fits into Ideal Gases: Explain gas pressure using molecular collisions with container walls.
+   $$
+   64.0\ \mathrm{g}=0.0640\ \mathrm{kg}.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+4. Use
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   $$
+   k=\frac{R}{N_\mathrm{A}}.
+   $$
 
-## Problem 4
+   Hence
 
-A strong solution should show how this idea fits into Ideal Gases: Use kinetic theory to connect thermodynamic temperature with mean translational kinetic energy.
+   $$
+   k=
+   \frac{8.31}{6.02 \times 10^{23}}
+   =
+   1.38 \times 10^{-23}\ \mathrm{J\ K^{-1}}.
+   $$
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+## B. Ideal Gas Equation
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+5. Convert temperature:
 
-## Problem 5
+   $$
+   T=20.0+273.15=293.15\ \mathrm{K}.
+   $$
 
-A strong solution should show how this idea fits into Ideal Gases: Recognise the assumptions and limitations of the ideal gas model.
+   Use $pV=nRT$:
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   V=\frac{nRT}{p}
+   =
+   \frac{(1.00)(8.31)(293.15)}
+   {1.01 \times 10^5}
+   =
+   2.41 \times 10^{-2}\ \mathrm{m^3}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+6. Rearrange $pV=nRT$:
 
-## Problem 6
+   $$
+   n=\frac{pV}{RT}
+   =
+   \frac{(2.00 \times 10^5)(1.00 \times 10^{-2})}
+   {(8.31)(300)}
+   =
+   0.802\ \mathrm{mol}.
+   $$
 
-A strong solution should show how this idea fits into Ideal Gases: Solve ideal-gas state problems.
+7. At fixed volume and fixed amount,
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   \frac{p}{T}=\text{constant}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+   Convert temperatures:
 
-## Problem 7
+   $$
+   T_1=293.15\ \mathrm{K},
+   \qquad
+   T_2=373.15\ \mathrm{K}.
+   $$
 
-A strong solution should show how this idea fits into Ideal Gases: Calculate particle number and amount of substance.
+   Therefore
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   p_2=p_1\frac{T_2}{T_1}
+   =
+   (1.00 \times 10^5)
+   \frac{373.15}{293.15}
+   =
+   1.27 \times 10^5\ \mathrm{Pa}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+8. For a fixed mass of ideal gas,
 
-## Problem 8
+   $$
+   \frac{p_1V_1}{T_1}
+   =
+   \frac{p_2V_2}{T_2}.
+   $$
 
-A strong solution should show how this idea fits into Ideal Gases: Use kinetic theory relationships for molecular speeds and energy.
+   Hence
 
-1. State the definition, law, model, or representation being used.
-2. Write the given information in mathematical or physical form.
-3. Perform the calculation or reasoning step by step.
-4. Check validity. For physics, keep three checks visible: units, direction or sign, and the modelling assumptions behind the equation.
+   $$
+   p_2=
+   \frac{p_1V_1T_2}{T_1V_2}
+   =
+   \frac{(1.50 \times 10^5)(2.0 \times 10^{-3})(450)}
+   {(300)(3.0 \times 10^{-3})}
+   =
+   1.50 \times 10^5\ \mathrm{Pa}.
+   $$
 
-The final answer should include any required restrictions, units, exact form, or interpretation in context.
+9. Use $pV=NkT$:
 
-## Extension
+   $$
+   N=\frac{pV}{kT}
+   =
+   \frac{(1.2 \times 10^5)(5.0 \times 10^{-3})}
+   {(1.38 \times 10^{-23})(280)}
+   =
+   1.6 \times 10^{23}.
+   $$
 
-A good extension solution should identify which assumption was changed, rebuild the setup, and explain why the old method either still works or needs adjustment.
+10. First find the amount of substance:
+
+    $$
+    n=\frac{m}{M}
+    =
+    \frac{0.120}{0.0440}
+    =
+    2.73\ \mathrm{mol}.
+    $$
+
+    Then use $pV=nRT$:
+
+    $$
+    p=\frac{nRT}{V}
+    =
+    \frac{(2.73)(8.31)(300)}
+    {6.00 \times 10^{-2}}
+    =
+    1.13 \times 10^5\ \mathrm{Pa}.
+    $$
+
+## C. Kinetic Theory
+
+11. The model assumes many molecules moving randomly; elastic collisions with
+    each other and with the walls; negligible molecular volume compared with
+    the container volume; negligible intermolecular forces except during
+    collisions; and collision duration negligible compared with time between
+    collisions.
+
+12. A molecule colliding with a wall changes momentum. The wall exerts a force
+    on the molecule, so by Newton's third law the molecule exerts a force on
+    the wall. Many collisions per second produce a total force. Pressure is
+    this force per unit area.
+
+13. For one molecule in a cube, the impulse delivered to a wall in one elastic
+    collision is proportional to $2mc_x$, and the time between collisions with
+    that wall is proportional to $2l/c_x$. This gives an average force
+    proportional to $mc_x^2/l$. Dividing by wall area and summing over all
+    molecules gives a pressure involving $\sum c_x^2$. Random three-dimensional
+    motion gives
+
+    $$
+    \langle c_x^2\rangle=\frac{1}{3}\langle c^2\rangle,
+    $$
+
+    so
+
+    $$
+    pV=\frac{1}{3}Nm\langle c^2\rangle.
+    $$
+
+14. Since $c_{\mathrm{r.m.s.}}=\sqrt{\langle c^2\rangle}$,
+
+    $$
+    \langle c^2\rangle=(500)^2=2.50 \times 10^5\ \mathrm{m^2\ s^{-2}}.
+    $$
+
+    Use
+
+    $$
+    p=\frac{1}{3}\frac{Nm\langle c^2\rangle}{V}.
+    $$
+
+    Therefore
+
+    $$
+    p=
+    \frac{1}{3}
+    \frac{(2.5 \times 10^{22})(4.65 \times 10^{-26})(2.50 \times 10^5)}
+    {1.0 \times 10^{-3}}
+    =
+    9.7 \times 10^4\ \mathrm{Pa}.
+    $$
+
+15. Use
+
+    $$
+    pV=\frac{1}{3}Nm c_{\mathrm{r.m.s.}}^2.
+    $$
+
+    Hence
+
+    $$
+    c_{\mathrm{r.m.s.}}
+    =
+    \sqrt{\frac{3pV}{Nm}}.
+    $$
+
+    Substitute:
+
+    $$
+    c_{\mathrm{r.m.s.}}
+    =
+    \sqrt{
+    \frac{3(1.0 \times 10^5)(2.0 \times 10^{-2})}
+    {(5.0 \times 10^{23})(6.64 \times 10^{-27})}
+    }
+    =
+    1.3 \times 10^3\ \mathrm{m\ s^{-1}}.
+    $$
+
+16. Convert temperature:
+
+    $$
+    T=27.0+273.15=300.15\ \mathrm{K}.
+    $$
+
+    Mean translational kinetic energy:
+
+    $$
+    \langle E_k\rangle
+    =
+    \frac{3}{2}kT
+    =
+    \frac{3}{2}
+    (1.38 \times 10^{-23})(300.15)
+    =
+    6.21 \times 10^{-21}\ \mathrm{J}.
+    $$
+
+17. Mean translational kinetic energy is proportional to thermodynamic
+    temperature, so it doubles. Since kinetic energy is proportional to
+    $c_{\mathrm{r.m.s.}}^2$, the r.m.s. speed increases by a factor
+    $\sqrt{2}$.
+
+## D. Interpretation and Limits
+
+18. The ideal gas equation requires thermodynamic temperature in kelvin.
+    $20\ ^\circ\mathrm{C}$ is $293\ \mathrm{K}$, not $20\ \mathrm{K}$. Since
+    $n=\frac{pV}{RT}$, using $20$ instead of $293$ makes the calculated $n$
+    too large by a factor of about
+
+    $$
+    \frac{293}{20}=14.7.
+    $$
+
+19. At high pressure, molecules are closer together, so their own volume is no
+    longer negligible compared with the container volume. At low temperature,
+    molecules move more slowly and intermolecular attractions become more
+    significant. The gas may then deviate from ideal behaviour or approach
+    condensation.
+
+20. Mean speed is the average of the molecular speeds, $\langle c\rangle$.
+    Mean-square speed is the average of the squared speeds,
+    $\langle c^2\rangle$. Root-mean-square speed is
+
+    $$
+    c_{\mathrm{r.m.s.}}=\sqrt{\langle c^2\rangle}.
+    $$
+
+    It is not generally equal to the mean speed.
