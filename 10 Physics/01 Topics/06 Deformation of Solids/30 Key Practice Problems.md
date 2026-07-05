@@ -3,7 +3,7 @@ title: Deformation of Solids Key Practice Problems
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/mechanics
@@ -12,40 +12,94 @@ tags:
 
 # Deformation of Solids Key Practice Problems
 
-Work these without the solution note first. The aim is active recall, method selection, and clean checking.
+Work these without looking at the solutions first. Convert millimetres to
+metres before substituting into formulae.
 
-## Problem 1
+## A. Hooke's Law and Force-Extension Graphs
 
-Use this idea in a complete solution: Use load, extension, compression, and limit of proportionality for one-dimensional deformation. State assumptions, choose a method, and check the result.
+1. A spring extends by $4.0\ \mathrm{cm}$ when a load of $8.0\ \mathrm{N}$ is
+   applied. Calculate the spring constant.
 
-## Problem 2
+2. A spring has spring constant $320\ \mathrm{N\ m^{-1}}$. Calculate the
+   extension produced by a load of $12\ \mathrm{N}$, assuming Hooke's law
+   applies.
 
-Use this idea in a complete solution: Use Hooke's law and the spring constant $k = F/x$. State assumptions, choose a method, and check the result.
+3. The straight-line part of a force-extension graph passes through the point
+   $(x,F)=(5.0\ \mathrm{mm},15\ \mathrm{N})$. Find the spring constant and the
+   work done in stretching the spring to this point.
 
-## Problem 3
+4. Explain the difference between the limit of proportionality and the elastic
+   limit.
 
-Use this idea in a complete solution: Define stress, strain, and the Young modulus. State assumptions, choose a method, and check the result.
+5. Spring A extends $3.0\ \mathrm{mm}$ under a load of $6.0\ \mathrm{N}$.
+   Spring B extends $5.0\ \mathrm{mm}$ under the same load. Calculate the
+   spring constant of each spring and state which is stiffer.
 
-## Problem 4
+## B. Stress, Strain, and Young Modulus
 
-Use this idea in a complete solution: Distinguish elastic deformation, plastic deformation, and elastic limit. State assumptions, choose a method, and check the result.
+6. A wire has diameter $0.60\ \mathrm{mm}$ and is pulled by a tensile force of
+   $45\ \mathrm{N}$. Calculate the tensile stress.
 
-## Problem 5
+7. A wire of original length $1.2\ \mathrm{m}$ extends by
+   $1.8\ \mathrm{mm}$. Calculate the tensile strain.
 
-Use this idea in a complete solution: Use area under a force-extension graph and $E_p = \frac{1}{2}Fx = \frac{1}{2}kx^2$ within the limit of proportionality. State assumptions, choose a method, and check the result.
+8. Use your answers to Problems 6 and 7 as if they refer to the same wire.
+   Calculate the Young modulus.
 
-## Problem 6
+9. A steel wire has length $2.0\ \mathrm{m}$, diameter $0.50\ \mathrm{mm}$, and
+   Young modulus $2.1\times 10^{11}\ \mathrm{Pa}$. Find its extension under a
+   tensile force of $30\ \mathrm{N}$.
 
-Complete this practice task: Calculate stress, strain, and Young modulus.
+10. The initial straight section of a stress-strain graph passes through
+    $(\varepsilon,\sigma)=(2.0\times 10^{-3},3.0\times 10^8\ \mathrm{Pa})$.
+    Find the Young modulus and the stress at strain $8.0\times 10^{-4}$,
+    assuming the material remains in the linear region.
 
-## Problem 7
+11. Material P has Young modulus $200\ \mathrm{GPa}$ and material Q has Young
+    modulus $3.0\ \mathrm{GPa}$. Both experience the same tensile stress of
+    $6.0\ \mathrm{MPa}$. Find the strain in each material and state which
+    extends more for the same original length.
 
-Complete this practice task: Determine spring constant from a graph.
+## C. Elastic Potential Energy
 
-## Problem 8
+12. A spring has spring constant $250\ \mathrm{N\ m^{-1}}$ and is extended by
+    $0.080\ \mathrm{m}$ within its limit of proportionality. Calculate the
+    elastic potential energy stored.
 
-Complete this practice task: Interpret loading and unloading curves.
+13. A rubber band is extended by $18\ \mathrm{cm}$ when the force reaches
+    $12\ \mathrm{N}$. Estimate the energy stored using
+    $\frac{1}{2}Fx$ and explain why this is only an estimate.
 
-## Extension
+14. A force-extension graph rises linearly from $0$ to $20\ \mathrm{N}$ over
+    the first $5.0\ \mathrm{mm}$, then rises linearly from $20\ \mathrm{N}$ to
+    $35\ \mathrm{N}$ between $5.0\ \mathrm{mm}$ and $9.0\ \mathrm{mm}$. Find
+    the total work done in stretching the material to $9.0\ \mathrm{mm}$.
 
-Choose one problem above and change a condition. Explain how the method changes and which parts of the original solution still survive.
+15. A spring stores $0.36\ \mathrm{J}$ when compressed by
+    $12\ \mathrm{mm}$ within its limit of proportionality. Find its spring
+    constant and the force at this compression.
+
+## D. Experiment and Interpretation
+
+16. Describe an experiment to determine the Young modulus of a metal wire. Your
+    answer should include the measurements needed and how a graph is used.
+
+17. In a Young modulus experiment, explain why the wire should be long and thin,
+    and why the diameter should be measured several times.
+
+18. A loading and unloading graph for a wire does not return to zero extension
+    when the load is removed. State what this shows and what the area between
+    the loading and unloading curves represents.
+
+19. A wire has length $1.5\ \mathrm{m}$, cross-sectional area
+    $2.0\times 10^{-7}\ \mathrm{m^2}$, and Young modulus
+    $2.0\times 10^{11}\ \mathrm{Pa}$. It remains proportional up to an
+    extension of $1.5\ \mathrm{mm}$. Find the force at this extension and the
+    elastic potential energy stored.
+
+20. A material has a linear stress-strain graph up to strain
+    $1.0\times 10^{-3}$, where the stress is $1.8\times 10^8\ \mathrm{Pa}$. A
+    specimen of this material has length $2.0\ \mathrm{m}$ and cross-sectional
+    area $3.0\times 10^{-7}\ \mathrm{m^2}$. At stress
+    $1.2\times 10^8\ \mathrm{Pa}$, find the force, extension, and elastic
+    potential energy stored.
