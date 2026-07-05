@@ -3,7 +3,7 @@ title: Superposition Review Checklist
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/waves
@@ -12,31 +12,84 @@ tags:
 
 # Superposition Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this after the worked examples and practice problems. Any unchecked item is
+a cue to return to the lecture notes and redraw the relevant wavefront,
+interference, grating, or stationary-wave diagram.
 
-## Ideas to Recall
+## Core Ideas to Recall
 
-- [ ] Use the principle of superposition for waves meeting at a point.
-- [ ] Describe stationary waves using nodes, antinodes, phase, and harmonic modes.
-- [ ] Understand diffraction at a slit or edge and the role of aperture size relative to wavelength.
-- [ ] Use path difference, phase difference, and coherence for two-source interference.
-- [ ] Use diffraction grating relationships to connect spectra with wavelength.
+- [ ] Superposition means the resultant displacement is the algebraic sum of
+  the individual displacements at a point.
+- [ ] Constructive interference occurs when waves arrive in phase.
+- [ ] Destructive interference occurs when waves arrive in antiphase.
+- [ ] A path difference of $n\lambda$ gives constructive interference.
+- [ ] A path difference of $\left(n+\frac{1}{2}\right)\lambda$ gives
+  destructive interference.
+- [ ] Coherent sources have a constant phase difference.
+- [ ] Diffraction is the spreading of waves through a gap or around an edge.
+- [ ] Diffraction is greatest when the gap width is comparable with the
+  wavelength.
+- [ ] Double-slit interference uses $\lambda=ax/D$ for light.
+- [ ] A diffraction grating uses $d\sin\theta=n\lambda$.
+- [ ] Adjacent nodes or adjacent antinodes in a stationary wave are separated
+  by $\lambda/2$.
+- [ ] A node and the nearest antinode are separated by $\lambda/4$.
+- [ ] A stationary wave pattern is fixed, but particles still oscillate except
+  at nodes.
 
 ## Skills to Perform
 
-- [ ] Find node and antinode spacing.
-- [ ] Calculate fringe spacing and grating angles.
-- [ ] Explain how changing wavelength or slit separation changes the pattern.
+- [ ] Add signed displacements at a point.
+- [ ] Convert path difference into wavelengths and phase difference.
+- [ ] State the conditions for a stable two-source interference pattern.
+- [ ] Predict how diffraction changes when aperture width changes.
+- [ ] Use $x=\lambda D/a$ and $\lambda=ax/D$ for double-slit patterns.
+- [ ] Measure fringe spacing by dividing a many-fringe distance by the number
+  of spacings.
+- [ ] Convert grating line density into grating spacing.
+- [ ] Use $d\sin\theta=n\lambda$ to find wavelength, order, or angle.
+- [ ] Check whether a diffraction grating order is possible.
+- [ ] Determine wavelength from node or antinode spacing.
+- [ ] Interpret stationary waves in strings, microwaves, and air columns.
 
 ## Common Errors to Avoid
 
-- [ ] Confusing stationary waves with waves that have no energy in the medium at all.
-- [ ] Ignoring coherence in interference.
-- [ ] Using small-angle approximations without checking the geometry.
+- [ ] Adding amplitudes without considering signs.
+- [ ] Calling two sources coherent only because their wavelengths match.
+- [ ] Ignoring the need for overlapping waves in an interference pattern.
+- [ ] Treating diffraction as something that happens only through slits.
+- [ ] Forgetting that adjacent nodes are separated by $\lambda/2$, not
+  $\lambda$.
+- [ ] Confusing the number of bright fringes with the number of fringe spacings.
+- [ ] Using grating lines per millimetre directly as the slit spacing.
+- [ ] Assuming every diffraction grating order exists.
+- [ ] Saying a stationary wave means the medium has no motion.
+
+## Quick Self-Checks
+
+- [ ] I can state exactly what quantity is added in superposition.
+- [ ] I can identify constructive or destructive interference from path
+  difference.
+- [ ] I can explain why two independent lamps do not normally give stable
+  fringes.
+- [ ] I can predict whether increasing wavelength makes double-slit fringes
+  farther apart.
+- [ ] I can explain why red light is at a larger grating angle than violet in
+  the same order.
+- [ ] I can find wavelength from adjacent nodes or from several node spacings.
+
+## Connections
+
+- [ ] I can connect phase, wavelength, amplitude, and intensity to
+  [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]].
+- [ ] I can connect phase and sinusoidal motion to
+  [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]].
+- [ ] I can connect diffraction and interference to
+  [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]].
 
 ## Ready to Move On When
 
-- [ ] I can explain the purpose of Superposition without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+- [ ] I can choose between displacement addition, path difference, double-slit,
+  grating, and stationary-wave spacing before calculating.
+- [ ] I can keep geometry, phase, and units visible in a complete solution.
+- [ ] I can explain a pattern qualitatively before using the formula.

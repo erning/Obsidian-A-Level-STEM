@@ -199,7 +199,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 - [x] P1 · `10 Physics/01 Topics/05 Work Energy and Power`
 - [x] P2 · `10 Physics/01 Topics/06 Deformation of Solids`
 - [x] P2 · `10 Physics/01 Topics/07 Waves`
-- [ ] P2 · `10 Physics/01 Topics/08 Superposition`
+- [x] P2 · `10 Physics/01 Topics/08 Superposition`
 - [ ] P2 · `10 Physics/01 Topics/09 Electricity`
 - [ ] P2 · `10 Physics/01 Topics/10 DC Circuits`
 - [ ] P3 · `10 Physics/01 Topics/11 Particle Physics`
