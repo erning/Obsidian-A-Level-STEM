@@ -397,13 +397,13 @@ $$
 The percentage uncertainty in $V$ is
 
 $$
-\frac{0.2}{6.0}\times100\%=3.3\%.
+\frac{0.2}{6.0}\times 100\%=3.3\%.
 $$
 
 The percentage uncertainty in $I$ is
 
 $$
-\frac{0.1}{2.4}\times100\%=4.2\%.
+\frac{0.1}{2.4}\times 100\%=4.2\%.
 $$
 
 For division, add them:
@@ -415,7 +415,7 @@ $$
 So the absolute uncertainty in $R$ is approximately
 
 $$
-0.075\times2.5\ \Omega=0.19\ \Omega.
+0.075\times 2.5\ \Omega=0.19\ \Omega.
 $$
 
 A sensible final answer is
