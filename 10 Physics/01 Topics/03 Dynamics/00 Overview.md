@@ -18,7 +18,7 @@ Dynamics explains changes in motion using force, mass, momentum, and system boun
 
 - Primary syllabus source: CAIE Physics 9702.
 - 3 Dynamics
-- 3.1 Momentum and Newton’s laws of motion
+- 3.1 Momentum and Newton's laws of motion
 - 3.2 Non-uniform motion
 - 3.3 Linear momentum and its conservation
 - Coursebook route: Physics Coursebook Chapters 3 and 6: Dynamics, momentum, collisions, and Newton's laws.

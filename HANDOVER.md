@@ -194,7 +194,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 
 - [x] P1 · `10 Physics/01 Topics/01 Physical Quantities and Units`
 - [x] P1 · `10 Physics/01 Topics/02 Kinematics`
-- [ ] P1 · `10 Physics/01 Topics/03 Dynamics`
+- [x] P1 · `10 Physics/01 Topics/03 Dynamics`
 - [ ] P1 · `10 Physics/01 Topics/04 Forces Density and Pressure`
 - [ ] P1 · `10 Physics/01 Topics/05 Work Energy and Power`
 - [ ] P2 · `10 Physics/01 Topics/06 Deformation of Solids`

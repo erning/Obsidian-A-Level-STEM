@@ -3,7 +3,7 @@ title: Dynamics Review Checklist
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/mechanics
@@ -12,31 +12,61 @@ tags:
 
 # Dynamics Review Checklist
 
-Use this checklist after the practice problems. Any unchecked item is a cue to return to the lecture notes or worked examples.
+Use this after working through [[10 Physics/01 Topics/03 Dynamics/10 Lecture Notes|Lecture Notes]], [[10 Physics/01 Topics/03 Dynamics/20 Worked Examples|Worked Examples]], and [[10 Physics/01 Topics/03 Dynamics/30 Key Practice Problems|Key Practice Problems]].
 
-## Ideas to Recall
+## Force Route
 
-- [ ] Use mass as the property that resists change in motion, and use $F = ma$ with acceleration in the direction of resultant force.
-- [ ] Define linear momentum as mass times velocity and force as rate of change of momentum.
-- [ ] State and apply Newton's laws of motion.
-- [ ] Describe frictional, viscous, and drag forces qualitatively, including terminal velocity.
-- [ ] Apply conservation of momentum to elastic and inelastic interactions in one and two dimensions.
+- [ ] I can choose the object or system before drawing forces.
+- [ ] I can draw a free-body diagram with only forces acting on the chosen object.
+- [ ] I can distinguish real forces from resultant force.
+- [ ] I can use $F=ma$ with the resultant force, not with a single named force.
+- [ ] I can resolve a force into components before applying $F=ma$ in one direction.
+- [ ] I can explain mass as the property that resists change in motion.
+- [ ] I can distinguish mass, weight, and inertia.
+- [ ] I can identify Newton's third-law pairs as forces on different objects.
 
-## Skills to Perform
+## Drag and Non-Uniform Motion
 
-- [ ] Use $F = ma$ with components.
-- [ ] Calculate impulse and changes in momentum.
-- [ ] Solve collision problems and interpret kinetic energy changes.
+- [ ] I can describe friction, viscous force, and drag without using coefficients outside the syllabus.
+- [ ] I can explain why drag increases as speed increases in the simple model.
+- [ ] I can explain terminal velocity using weight, drag, resultant force, and acceleration.
+- [ ] I can explain why an object can move at constant velocity when forces are balanced.
+- [ ] I can interpret top speed as the condition where driving force equals resistive force.
+
+## Momentum Route
+
+- [ ] I can define linear momentum as $\vec{p}=m\vec{v}$.
+- [ ] I can use $\vec{F}=\Delta\vec{p}/\Delta t$ to find average force.
+- [ ] I can use impulse as change in momentum.
+- [ ] I can keep direction signs in one-dimensional momentum problems.
+- [ ] I can decide whether external impulse is negligible before conserving momentum.
+- [ ] I can solve completely inelastic collision problems where objects stick together.
+- [ ] I can distinguish momentum conservation from kinetic energy conservation.
+- [ ] I can use relative speed of approach and separation in a perfectly elastic collision.
+- [ ] I can resolve momentum into perpendicular components for two-dimensional collisions.
+- [ ] I can explain recoil and explosions using conservation of momentum.
 
 ## Common Errors to Avoid
 
-- [ ] Calling centripetal force or resultant force a new physical force.
-- [ ] Using momentum conservation when an external impulse is not negligible.
-- [ ] Confusing mass, weight, and inertia.
+- [ ] Drawing velocity or acceleration as if it were a force on a free-body diagram.
+- [ ] Calling resultant force a new physical force.
+- [ ] Saying balanced forces mean an object must be stationary.
+- [ ] Treating weight and normal contact force as a Newton's third-law pair.
+- [ ] Forgetting that momentum is a vector.
+- [ ] Conserving momentum for a system with a significant external impulse.
+- [ ] Assuming every collision conserves kinetic energy.
+- [ ] Ignoring the Earth or wall when explaining momentum conservation during impacts.
 
-## Ready to Move On When
+## Ready to Connect
 
-- [ ] I can explain the purpose of Dynamics without reading the notes.
-- [ ] I can choose a method before seeing a worked solution.
-- [ ] I can check my answer using units, signs, domains, graph features, limiting cases, or context.
-- [ ] I can connect this topic to at least one neighbouring topic.
+You are ready to connect this topic to [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]] when you can:
+
+- say whether kinetic energy is conserved in a collision;
+- explain where "lost" kinetic energy goes in an inelastic collision;
+- compare force, impulse, momentum, work, and energy as different descriptions of an interaction.
+
+You are ready to connect this topic to [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/00 Overview|Momentum, Collisions and Impulse]] when you can:
+
+- set up signed one-dimensional momentum equations;
+- write separate $x$ and $y$ momentum equations for two-dimensional problems;
+- use conservation laws only after naming the system and checking external effects.
