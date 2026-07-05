@@ -232,7 +232,7 @@ Status: `[ ]` pending, `[x]` done (committed). 52 topics.
 - [x] M2 · `20 Mathematics/01 Pure Mathematics/06 Integration`
 - [x] M2 · `20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods`
 - [x] M2 · `20 Mathematics/01 Pure Mathematics/08 Vectors`
-- [ ] M2 · `20 Mathematics/01 Pure Mathematics/09 Complex Numbers`
+- [x] M2 · `20 Mathematics/01 Pure Mathematics/09 Complex Numbers`
 - [ ] M3 · `20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations`
 - [ ] M3 · `20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction`
 - [ ] M3 · `20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves`
