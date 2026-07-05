@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]"
-status: draft
+status: active
 tags:
   - mathematics/pure
   - practice
@@ -13,40 +13,201 @@ tags:
 
 # Differentiation Key Practice Problems
 
-Work these without the solution note first. The aim is active recall, method selection, and clean checking.
+Work these without looking at the solutions first. For each question, identify
+the main structure before differentiating: power, composite, product, quotient,
+implicit relation, parametric relation, or rate chain.
 
-## Problem 1
+## A. Differentiating Explicit Functions
 
-Use this idea in a complete solution: Derivative as gradient function and rate of change. State assumptions, choose a method, and check the result.
+1. Differentiate
 
-## Problem 2
+   $$
+   y=5x^4-3x^{-2}+7x^{\frac{1}{2}}.
+   $$
 
-Use this idea in a complete solution: Chain rule, product rule, quotient rule, and derivatives of exponential, logarithmic, trigonometric, inverse trigonometric, and hyperbolic functions. State assumptions, choose a method, and check the result.
+2. Differentiate
 
-## Problem 3
+   $$
+   y=(2x-1)^5.
+   $$
 
-Use this idea in a complete solution: Tangents, normals, stationary points, increasing and decreasing functions, and second derivatives. State assumptions, choose a method, and check the result.
+3. Differentiate
 
-## Problem 4
+   $$
+   y=x^2\ln x.
+   $$
 
-Use this idea in a complete solution: Implicit and parametric differentiation. State assumptions, choose a method, and check the result.
+4. Differentiate
 
-## Problem 5
+   $$
+   y=e^{3x}\sin x.
+   $$
 
-Use this idea in a complete solution: Further differentiation techniques where required by 9231. State assumptions, choose a method, and check the result.
+5. Differentiate
 
-## Problem 6
+   $$
+   y=\frac{x^2+1}{x-2}.
+   $$
 
-Complete this practice task: Differentiate functions in explicit, implicit, and parametric form.
+6. Differentiate
 
-## Problem 7
+   $$
+   y=\tan^{-1}(3x).
+   $$
 
-Complete this practice task: Solve optimisation and rates-of-change problems.
+7. Differentiate
 
-## Problem 8
+   $$
+   y=\sinh(2x)-\cosh x.
+   $$
 
-Complete this practice task: Classify stationary points and sketch derivative information.
+8. Differentiate
 
-## Extension
+   $$
+   y=\sin^{-1}\left(\frac{x}{2}\right).
+   $$
 
-Choose one problem above and change a condition. Explain how the method changes and which parts of the original solution still survive.
+## B. Tangents, Normals, and Graph Shape
+
+9. Find the tangent and normal to
+
+   $$
+   y=x^3-4x+1
+   $$
+
+   at $x=2$.
+
+10. Find and classify the stationary points of
+
+    $$
+    f(x)=x^3-3x^2-9x+4.
+    $$
+
+11. Find the intervals where
+
+    $$
+    f(x)=x^3-6x^2+9x+1
+    $$
+
+    is increasing and decreasing.
+
+12. Find $a$ if the curve
+
+    $$
+    y=x^2+ax+5
+    $$
+
+    has tangent gradient $7$ at $x=2$.
+
+13. Find the normal to
+
+    $$
+    y=\ln x
+    $$
+
+    at $x=1$.
+
+14. Find $\frac{d^2y}{dx^2}$ for
+
+    $$
+    y=(x^2+1)^3
+    $$
+
+    and evaluate it at $x=0$.
+
+## C. Rates and Optimisation
+
+15. The radius $r$ of a circle is increasing at $0.2\text{ cm s}^{-1}$. Find
+    $\frac{dA}{dt}$ when $r=5\text{ cm}$.
+
+16. The radius $r$ of a sphere is increasing at $0.05\text{ cm s}^{-1}$. Given
+
+    $$
+    V=\frac{4}{3}\pi r^3,
+    $$
+
+    find $\frac{dV}{dt}$ when $r=10\text{ cm}$.
+
+17. A rectangle is placed under the line $y=12-2x$ in the first quadrant, with
+    sides on the coordinate axes. Find the maximum possible area.
+
+18. For $x>0$, find the minimum value of
+
+    $$
+    f(x)=x+\frac{4}{x}.
+    $$
+
+## D. Implicit and Parametric Differentiation
+
+19. For
+
+    $$
+    x^2+y^2=xy+7,
+    $$
+
+    find $\frac{dy}{dx}$ and the tangent at $(3,1)$.
+
+20. For
+
+    $$
+    x^2+y^2=25,
+    $$
+
+    find $\frac{d^2y}{dx^2}$ at $(3,4)$.
+
+21. A curve is defined parametrically by
+
+    $$
+    x=t^2+1,\qquad y=t^3-t.
+    $$
+
+    Find $\frac{dy}{dx}$ at $t=2$ and the tangent at that point.
+
+22. For the same parametric curve in question 21, find
+    $\frac{d^2y}{dx^2}$ at $t=2$.
+
+23. For
+
+    $$
+    x=e^t,\qquad y=t^2,
+    $$
+
+    find $\frac{dy}{dx}$ in terms of $t$.
+
+24. For
+
+    $$
+    y^2=x^3+1,
+    $$
+
+    find $\frac{dy}{dx}$ in terms of $x$ and $y$.
+
+## E. 9231 Extensions
+
+25. Differentiate
+
+    $$
+    y=\cosh^{-1}(2x).
+    $$
+
+26. Differentiate
+
+    $$
+    y=\tanh^{-1}(x^2).
+    $$
+
+27. Find the Maclaurin series for
+
+    $$
+    f(x)=\ln(1+2x)
+    $$
+
+    up to and including the term in $x^3$.
+
+28. Find the Maclaurin series for
+
+    $$
+    f(x)=e^{2x}
+    $$
+
+    up to and including the term in $x^3$.
