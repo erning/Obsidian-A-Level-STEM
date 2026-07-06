@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]"
-status: draft
+status: active
 tags:
   - mathematics/pure
   - worked-examples
