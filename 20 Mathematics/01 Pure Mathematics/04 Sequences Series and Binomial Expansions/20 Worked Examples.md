@@ -293,11 +293,7 @@ With $u=\frac{x}{4}$,
 
 $$
 (4+x)^{-2}
-=\frac{1}{16}
-\left(-\frac{x}{32}\right)
-\frac{3x^2}{256}
--\frac{x^3}{256}
-\cdots.
+=\frac{1}{16}-\frac{x}{32}+\frac{3x^2}{256}-\frac{x^3}{256}+\cdots.
 $$
 
 The validity condition is

@@ -3,7 +3,7 @@ title: Gravitational Fields 中文讲义
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/fields
@@ -234,7 +234,7 @@ $$
 
 轨道必须在赤道平面内，因为轨道圆心必须是地心。如果轨道有倾角，卫星会在天空中南北移动，不会固定在地表同一点上方。
 
-对地球来说，地球静止轨道半径约为 $4.23 \times 10^7\ \text{m}$，也就是距地心约 $42\ 300\ \text{km}$。
+对地球来说，地球静止轨道半径约为 $4.22 \times 10^7\ \text{m}$，也就是距地心约 $42\ 200\ \text{km}$。
 
 地球静止卫星适合通信和广播，因为地面天线可以一直指向固定方向。
 

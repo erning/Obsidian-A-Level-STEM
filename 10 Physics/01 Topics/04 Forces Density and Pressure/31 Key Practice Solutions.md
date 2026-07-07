@@ -150,21 +150,21 @@ Take $g=9.81\ \mathrm{m\ s^{-2}}$ where needed.
 7. The volume is
 
    $$
-   V=(5.0)(3.0)(2.0)=30.0\ \mathrm{cm^3}.
+   V=(4.0)(3.0)(2.0)=24.0\ \mathrm{cm^3}.
    $$
 
    Convert:
 
    $$
-   30.0\ \mathrm{cm^3}=30.0\times 10^{-6}\ \mathrm{m^3}
-   =3.00\times 10^{-5}\ \mathrm{m^3}.
+   24.0\ \mathrm{cm^3}=24.0\times 10^{-6}\ \mathrm{m^3}
+   =2.40\times 10^{-5}\ \mathrm{m^3}.
    $$
 
    Density:
 
    $$
-   \rho=\frac{0.540}{3.00\times 10^{-5}}
-   =1.80\times 10^4\ \mathrm{kg\ m^{-3}}.
+   \rho=\frac{0.840}{2.40\times 10^{-5}}
+   =3.50\times 10^4\ \mathrm{kg\ m^{-3}}.
    $$
 
 8. Since

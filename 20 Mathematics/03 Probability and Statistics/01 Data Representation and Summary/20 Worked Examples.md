@@ -273,7 +273,7 @@ centre but much more variable.
 
 ## Example 8: Outlier Rule
 
-**Prompt.** A data set has $Q_1=20$ and $Q_3=35$. Use the $1.5IQR$ rule to
+**Prompt.** A data set has $Q_1=20$ and $Q_3=35$. Use the $1.5\times\mathrm{IQR}$ rule to
 decide whether $62$ is an outlier.
 
 **Solution.**

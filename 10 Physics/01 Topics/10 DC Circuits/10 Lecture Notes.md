@@ -3,7 +3,7 @@ title: D.C. Circuits Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/electricity

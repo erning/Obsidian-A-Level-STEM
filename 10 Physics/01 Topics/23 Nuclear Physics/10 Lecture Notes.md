@@ -3,7 +3,7 @@ title: Nuclear Physics Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/modern-physics
@@ -47,7 +47,7 @@ In a nuclear equation, nucleon number and proton number are conserved. This is t
 For alpha decay, the emitted alpha particle is a helium nucleus:
 
 $$
-{}^{4}_{2}\alpha.
+{}^{4}_{2}\mathrm{He}.
 $$
 
 The parent nucleus loses four nucleons and two protons. For beta-minus decay, a neutron changes into a proton and an electron is emitted, so $A$ is unchanged and $Z$ increases by one. For beta-plus decay, $A$ is unchanged and $Z$ decreases by one. Gamma emission changes neither $A$ nor $Z$ because a gamma ray is electromagnetic radiation emitted by an excited nucleus.

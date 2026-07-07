@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-status: draft
+status: active
 tags:
   - mathematics/learning-map
 ---

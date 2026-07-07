@@ -3,7 +3,7 @@ title: Astronomy and Cosmology Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/applications
@@ -201,9 +201,11 @@ $$
 t \sim \frac{1}{H_0}.
 $$
 
-This estimate is only a model-dependent approximation, but it gives the correct order of magnitude for the age of the Universe. A value of $H_0$ around $2.4 \times 10^{-18}\,\text{s}^{-1}$ gives a timescale of order $10^{17}$ to $10^{18}\,\text{s}$, or billions of years.
+This estimate is only a model-dependent approximation, but it gives the correct order of magnitude for the age of the Universe. A value of $H_0$ around $2.3 \times 10^{-18}\,\text{s}^{-1}$ gives a timescale of order $10^{17}$ to $10^{18}\,\text{s}$, or billions of years.
 
 The cosmic microwave background is further supporting evidence: radiation from all directions has a spectrum corresponding to a temperature of about $2.7\,\text{K}$, consistent with an expanding Universe that has cooled over time.
+
+The Hubble time and the cosmic microwave background are covered in the coursebook (Chapter 31) as supporting evidence for the Big Bang model; they are not listed as separate syllabus points, so they are enrichment rather than examinable detail.
 
 ## 10. Problem Routines
 

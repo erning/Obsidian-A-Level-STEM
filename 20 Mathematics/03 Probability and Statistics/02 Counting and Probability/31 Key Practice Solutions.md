@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/03 Probability and Statist
 
 ## A. Counting
 
-## Problem 1
+### Problem 1
 
 Ordered selections:
 
@@ -31,7 +31,7 @@ $$
 \binom73=35.
 $$
 
-## Problem 2
+### Problem 2
 
 BALLOON has $7$ letters, with two Ls and two Os. Therefore the number of
 distinct arrangements is
@@ -40,7 +40,7 @@ $$
 \frac{7!}{2!2!}=1260.
 $$
 
-## Problem 3
+### Problem 3
 
 Treat the four girls as one block. Then there are $6$ objects to arrange: the
 girl block and five boys. The girls can be arranged inside their block in
@@ -50,7 +50,7 @@ $$
 6!4!=17280.
 $$
 
-## Problem 4
+### Problem 4
 
 Choose $2$ of the $4$ girls and $2$ of the $6$ boys:
 
@@ -58,7 +58,7 @@ $$
 \binom42\binom62=6(15)=90.
 $$
 
-## Problem 5
+### Problem 5
 
 Total arrangements:
 
@@ -79,7 +79,7 @@ $$
 8!-2(7!)=30240.
 $$
 
-## Problem 6
+### Problem 6
 
 With repetition allowed, there are $9$ choices for the first digit and $10$
 choices for each remaining digit:
@@ -98,7 +98,7 @@ codes.
 
 ## B. Elementary Probability
 
-## Problem 7
+### Problem 7
 
 Totals at least $10$ are $10$, $11$, and $12$. The numbers of outcomes are
 $3$, $2$, and $1$, so there are $6$ favourable outcomes out of $36$.
@@ -107,7 +107,7 @@ $$
 P=\frac{6}{36}=\frac16.
 $$
 
-## Problem 8
+### Problem 8
 
 Use combinations:
 
@@ -116,7 +116,7 @@ P(\text{all blue})=\frac{\binom53}{\binom93}
 =\frac{10}{84}=\frac{5}{42}.
 $$
 
-## Problem 9
+### Problem 9
 
 Use the complement. The probability of no red balls is
 
@@ -130,7 +130,7 @@ $$
 P(\text{at least one red})=1-\frac{49}{100}=\frac{51}{100}.
 $$
 
-## Problem 10
+### Problem 10
 
 $$
 P(A\cup B)=0.40+0.35-0.12=0.63.
@@ -158,7 +158,7 @@ the events are not independent.
 
 ## C. Tree Diagrams and Conditional Probability
 
-## Problem 11
+### Problem 11
 
 Same colour means both red or both blue:
 
@@ -173,7 +173,7 @@ $$
 P=\frac{30+12}{90}=\frac{7}{15}.
 $$
 
-## Problem 12
+### Problem 12
 
 Let $M$ be studying Mathematics and $P$ studying Physics.
 
@@ -185,7 +185,7 @@ $$
 P(P\mid M)=\frac{18}{45}=0.4.
 $$
 
-## Problem 13
+### Problem 13
 
 Independence gives
 
@@ -199,7 +199,7 @@ $$
 P(A\cup B)=0.30+0.50-0.15=0.65.
 $$
 
-## Problem 14
+### Problem 14
 
 Mutually exclusive events have zero intersection, so
 
@@ -219,7 +219,7 @@ $$
 P(A)P(B)=0.09.
 $$
 
-## Problem 15
+### Problem 15
 
 Choose the two positions for the heads:
 
@@ -230,7 +230,7 @@ $$
 
 ## D. Mixed Review
 
-## Problem 16
+### Problem 16
 
 Exactly two aces means choosing $2$ of the $4$ aces and $3$ of the $48$
 non-aces:
@@ -247,7 +247,7 @@ $$
 
 to 3 s.f.
 
-## Problem 17
+### Problem 17
 
 STATISTICS has $10$ letters, with three Ss, three Ts, and two Is. Therefore
 
@@ -255,7 +255,7 @@ $$
 \frac{10!}{3!3!2!}=50400.
 $$
 
-## Problem 18
+### Problem 18
 
 Choose the two positions with exactly one position between them:
 
@@ -270,7 +270,7 @@ $$
 5(2)(5!)=1200.
 $$
 
-## Problem 19
+### Problem 19
 
 The probability of a defective component is
 
@@ -292,7 +292,7 @@ $$
 
 to 3 s.f.
 
-## Problem 20
+### Problem 20
 
 Given total score greater than $8$, the possible outcomes have sums $9$, $10$,
 $11$, and $12$. There are

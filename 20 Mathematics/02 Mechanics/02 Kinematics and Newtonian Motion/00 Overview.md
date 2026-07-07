@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-status: draft
+status: active
 tags:
   - mathematics/mechanics
 ---
@@ -18,7 +18,7 @@ Kinematics describes motion, and Newtonian motion explains it with force and acc
 ## Source Alignment
 
 - 9709 4.2 Kinematics of motion in a straight line
-- 9709 4.4 Newton’s laws of motion
+- 9709 4.4 Newton's laws of motion
 - Coursebook route: 9709 Mechanics kinematics and Newton's laws chapters; linked to Physics kinematics and dynamics.
 
 ## What to Learn

@@ -16,7 +16,7 @@ This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/11 Pro
 
 ## A. Core Induction Structure
 
-## Problem 1
+### Problem 1
 
 For $n=1$,
 
@@ -48,7 +48,7 @@ $$
 
 for all positive integers $n$.
 
-## Problem 2
+### Problem 2
 
 For $n=1$,
 
@@ -98,7 +98,7 @@ $$
 
 Therefore the formula is true for all positive integers $n$.
 
-## Problem 3
+### Problem 3
 
 For $n=0$,
 
@@ -138,7 +138,7 @@ $$
 This is the formula with $n=k+1$. Therefore the result is true for all
 integers $n\ge0$.
 
-## Problem 4
+### Problem 4
 
 For $n=1$,
 
@@ -177,7 +177,7 @@ $$
 This is the required result for $k+1$. Therefore the formula is true for all
 positive integers $n$.
 
-## Problem 5
+### Problem 5
 
 For $n=1$,
 
@@ -223,7 +223,7 @@ positive integers $n$.
 
 ## B. Divisibility and Inequalities
 
-## Problem 6
+### Problem 6
 
 For $n=1$,
 
@@ -248,7 +248,7 @@ $$
 Since $7m+1$ is an integer, $7^{k+1}-1$ is divisible by $6$. Therefore the
 result is true for all positive integers $n$.
 
-## Problem 7
+### Problem 7
 
 For $n=1$,
 
@@ -299,7 +299,7 @@ $$
 The bracket is an integer, so $A_{k+1}$ is divisible by $9$. Therefore the
 result is true for all positive integers $n$.
 
-## Problem 8
+### Problem 8
 
 For $n=4$,
 
@@ -322,7 +322,7 @@ $$
 Therefore $(k+1)!>2^{k+1}$. By induction, $n!>2^n$ for all integers
 $n\ge4$.
 
-## Problem 9
+### Problem 9
 
 For $n=0$,
 
@@ -352,7 +352,7 @@ Therefore $2^n\ge n+1$ for all integers $n\ge0$.
 
 ## C. Recurrences and Matrix Powers
 
-## Problem 10
+### Problem 10
 
 For $n=1$,
 
@@ -377,7 +377,7 @@ $$
 This is the required formula for $k+1$. Therefore the formula is true for all
 positive integers $n$.
 
-## Problem 11
+### Problem 11
 
 For $n=1$,
 
@@ -399,7 +399,7 @@ $$
 
 Therefore $v_n=2^n-1$ for all positive integers $n$.
 
-## Problem 12
+### Problem 12
 
 The first few terms are
 
@@ -429,7 +429,7 @@ $$
 
 Therefore $w_n=\dfrac1n$ for all positive integers $n$.
 
-## Problem 13
+### Problem 13
 
 For $n=1$,
 
@@ -458,7 +458,7 @@ $$
 
 Therefore the formula is true for all positive integers $n$.
 
-## Problem 14
+### Problem 14
 
 For $n=1$, the formula gives $D$ itself.
 
@@ -483,7 +483,7 @@ Therefore the formula is true for all positive integers $n$.
 
 ## D. Derivatives, Conjectures, and Flaws
 
-## Problem 15
+### Problem 15
 
 For $n=1$,
 
@@ -520,7 +520,7 @@ $$
 
 Therefore the result is true for every positive integer $n$.
 
-## Problem 16
+### Problem 16
 
 For $n=1$,
 
@@ -564,7 +564,7 @@ $$
 
 Therefore the result is true for every positive integer $n$.
 
-## Problem 17
+### Problem 17
 
 Compute the first few values:
 
@@ -612,7 +612,7 @@ $$
 
 Therefore $S_n=(n+1)!-1$ for all positive integers $n$.
 
-## Problem 18
+### Problem 18
 
 Checking $n=1,2,3,4$ gives evidence only. It does not rule out a
 counterexample later.
@@ -625,7 +625,7 @@ An induction proof still needs:
 3. a proof that $P(k)$ implies $P(k+1)$;
 4. a conclusion for all integers in the required range.
 
-## Problem 19
+### Problem 19
 
 The induction step may be valid, but the base case is false. For $n=1$,
 
@@ -636,7 +636,7 @@ $$
 So the induction chain has no true starting point. Therefore the argument does
 not prove the formula for all positive integers $n$.
 
-## Problem 20
+### Problem 20
 
 The flaw is that the student assumes the statement they are supposed to prove
 for $k+1$. That is circular.

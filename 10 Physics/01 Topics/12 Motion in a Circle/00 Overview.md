@@ -2,7 +2,7 @@
 title: 12 Motion in a Circle
 subject: Physics
 syllabus: 9702
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/mechanics

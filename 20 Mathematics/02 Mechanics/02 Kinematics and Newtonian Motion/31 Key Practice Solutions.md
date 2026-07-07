@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/02 Mechanics/02 Kinematics
 
 ## A. Constant Acceleration and Motion Graphs
 
-## Problem 1
+### Problem 1
 
 Use
 
@@ -43,7 +43,7 @@ $$
 s=5(8)+\frac12(2)(8^2)=104\ \mathrm{m}.
 $$
 
-## Problem 2
+### Problem 2
 
 Take the direction of motion as positive. Then
 
@@ -75,7 +75,7 @@ $$
 s=96\ \mathrm{m}.
 $$
 
-## Problem 3
+### Problem 3
 
 Take upward as positive. Then
 
@@ -114,7 +114,7 @@ $$
 6\ \mathrm{s}.
 $$
 
-## Problem 4
+### Problem 4
 
 The displacement is the area under the velocity-time graph. The three areas
 are:
@@ -151,7 +151,7 @@ $$
 \frac{0-12}{12-9}=-4\ \mathrm{m\ s^{-2}}.
 $$
 
-## Problem 5
+### Problem 5
 
 Differentiate displacement:
 
@@ -197,7 +197,7 @@ $$
 
 ## B. Calculus with Motion
 
-## Problem 6
+### Problem 6
 
 Displacement is the integral of velocity:
 
@@ -235,7 +235,7 @@ $$
 24+1.5=25.5\ \mathrm{m}.
 $$
 
-## Problem 7
+### Problem 7
 
 Since $a=dv/dt$,
 
@@ -269,7 +269,7 @@ s(4)=3+4+2(4^2)-\frac{4^3}{3}
 =\frac{53}{3}\ \mathrm{m}.
 $$
 
-## Problem 8
+### Problem 8
 
 Direction changes when velocity changes sign. Solve
 
@@ -318,7 +318,7 @@ $$
 =\frac{17}{3}\ \mathrm{m}.
 $$
 
-## Problem 9
+### Problem 9
 
 Differentiate:
 
@@ -346,7 +346,7 @@ s(4)=2(4^2)-\frac{4^3}{3}
 =\frac{32}{3}\ \mathrm{m}.
 $$
 
-## Problem 10
+### Problem 10
 
 The particles meet when
 
@@ -380,7 +380,7 @@ $$
 
 ## C. Newton's Laws for One Particle
 
-## Problem 11
+### Problem 11
 
 The surface is smooth, so the horizontal resultant force is $42\ \mathrm{N}$.
 Newton's second law gives
@@ -395,7 +395,7 @@ $$
 a=7\ \mathrm{m\ s^{-2}}.
 $$
 
-## Problem 12
+### Problem 12
 
 The normal contact force is
 
@@ -427,7 +427,7 @@ $$
 a=3.75\ \mathrm{m\ s^{-2}}.
 $$
 
-## Problem 13
+### Problem 13
 
 Take upward as positive. The resultant upward force is
 
@@ -449,7 +449,7 @@ $$
 
 upwards.
 
-## Problem 14
+### Problem 14
 
 Take up the plane as positive. The only component of force along the smooth
 plane is the component of weight down the plane:
@@ -494,7 +494,7 @@ $$
 s=14.4\ \mathrm{m}.
 $$
 
-## Problem 15
+### Problem 15
 
 Take down the plane as positive. The component of weight down the plane is
 
@@ -530,7 +530,7 @@ down the plane, to 3 s.f.
 
 ## D. Connected Particles and Mixed Review
 
-## Problem 16
+### Problem 16
 
 Let the $6\ \mathrm{kg}$ particle move downward with acceleration $a$. The
 $2\ \mathrm{kg}$ particle moves upward with the same magnitude of acceleration.
@@ -571,7 +571,7 @@ $$
 T=30\ \mathrm{N}.
 $$
 
-## Problem 17
+### Problem 17
 
 Treat the two particles as one system:
 
@@ -591,7 +591,7 @@ $$
 T=3a=15\ \mathrm{N}.
 $$
 
-## Problem 18
+### Problem 18
 
 For the whole car-trailer system,
 
@@ -617,7 +617,7 @@ $$
 T=487.5\ \mathrm{N}.
 $$
 
-## Problem 19
+### Problem 19
 
 Let the hanging $3\ \mathrm{kg}$ particle move downward with acceleration
 $a$. For the $4\ \mathrm{kg}$ particle on the table,
@@ -650,7 +650,7 @@ $$
 T=4a=\frac{120}{7}=17.1\ \mathrm{N}\quad \text{to 3 s.f.}
 $$
 
-## Problem 20
+### Problem 20
 
 The normal contact force on the $4\ \mathrm{kg}$ block is
 

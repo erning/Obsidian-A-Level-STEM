@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/02 Mechanics/05 Projectile
 
 ## A. Projectile Components and Trajectories
 
-## Problem 1
+### Problem 1
 
 The components of the initial velocity are
 
@@ -55,7 +55,7 @@ $$
 h=11.25\ \mathrm{m}.
 $$
 
-## Problem 2
+### Problem 2
 
 The vertical motion starts with vertical velocity $0$. From a height
 $45\ \mathrm{m}$,
@@ -90,7 +90,7 @@ $$
 
 to 3 s.f.
 
-## Problem 3
+### Problem 3
 
 The horizontal component remains
 
@@ -122,7 +122,7 @@ $$
 \tan^{-1}\frac{15.0}{26.0}=30^\circ.
 $$
 
-## Problem 4
+### Problem 4
 
 Use
 
@@ -143,7 +143,7 @@ $$
 y=20-\frac{20^2}{40}=10\ \mathrm{m}.
 $$
 
-## Problem 5
+### Problem 5
 
 Let $T=\tan\theta$. The trajectory equation can be written
 
@@ -177,7 +177,7 @@ $$
 
 to 3 s.f.
 
-## Problem 6
+### Problem 6
 
 For a projectile landing at the same height,
 
@@ -197,7 +197,7 @@ $$
 R_{\max}=\frac{25^2}{10}=62.5\ \mathrm{m}.
 $$
 
-## Problem 7
+### Problem 7
 
 The horizontal velocity is
 
@@ -223,7 +223,7 @@ $$
 45^\circ.
 $$
 
-## Problem 8
+### Problem 8
 
 For landing at the same height,
 
@@ -253,7 +253,7 @@ to 3 s.f.
 
 ## B. Uniform Circular Motion
 
-## Problem 9
+### Problem 9
 
 Angular speed is
 
@@ -267,7 +267,7 @@ $$
 F=m\frac{v^2}{r}=3\frac{4^2}{2}=24\ \mathrm{N}.
 $$
 
-## Problem 10
+### Problem 10
 
 Use $v=r\omega$:
 
@@ -281,7 +281,7 @@ $$
 r\omega^2=0.80(5^2)=20\ \mathrm{m\ s^{-2}}.
 $$
 
-## Problem 11
+### Problem 11
 
 The frictional force supplies the centripetal force:
 
@@ -301,7 +301,7 @@ $$
 \mu=\frac{8000}{1000(10)}=0.8.
 $$
 
-## Problem 12
+### Problem 12
 
 Vertical equilibrium gives
 
@@ -335,7 +335,7 @@ $$
 
 to 3 s.f.
 
-## Problem 13
+### Problem 13
 
 At the bottom of the circle, towards the centre is upward:
 
@@ -355,7 +355,7 @@ $$
 R=42\ \mathrm{N}.
 $$
 
-## Problem 14
+### Problem 14
 
 At the top of the circle, towards the centre is downward:
 
@@ -377,7 +377,7 @@ $$
 
 ## C. Vertical Circles and Energy
 
-## Problem 15
+### Problem 15
 
 From bottom to top the particle rises by
 
@@ -405,7 +405,7 @@ $$
 
 Here $v_t^2=4$, so the string cannot remain taut.
 
-## Problem 16
+### Problem 16
 
 For minimum complete motion, the string is just taut at the top:
 
@@ -433,7 +433,7 @@ $$
 
 to 3 s.f.
 
-## Problem 17
+### Problem 17
 
 Just in contact at the top means the normal contact force is zero:
 
@@ -459,7 +459,7 @@ $$
 v_b=10\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 18
+### Problem 18
 
 For a conical pendulum,
 
@@ -489,7 +489,7 @@ to 3 s.f.
 
 ## D. Mixed Review
 
-## Problem 19
+### Problem 19
 
 The time to reach $x=30$ is
 
@@ -509,7 +509,7 @@ $$
 11.25-10=1.25\ \mathrm{m}.
 $$
 
-## Problem 20
+### Problem 20
 
 Since $\tan\alpha=\frac34$, we have $\cos^2\alpha=\frac{16}{25}$. Use
 

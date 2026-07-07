@@ -2,7 +2,7 @@
 title: Measurement and Data Presentation
 subject: Physics
 syllabus: 9702
-status: draft
+status: active
 tags:
   - physics/9702
   - experimental-thinking

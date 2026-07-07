@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/02 Mechanics/06 Rigid Bodi
 
 ## A. Rigid Bodies and Centre of Mass
 
-## Problem 1
+### Problem 1
 
 Let the reactions at the left and right supports be $R_A$ and $R_B$. Moments
 about the left end give
@@ -44,7 +44,7 @@ $$
 R_A=180\ \mathrm{N}.
 $$
 
-## Problem 2
+### Problem 2
 
 Let the vertical support reaction at the far end be $R_B$ and the vertical
 hinge reaction be $R_A$. Taking moments about the hinge,
@@ -71,7 +71,7 @@ $$
 R_A=80\ \mathrm{N}.
 $$
 
-## Problem 3
+### Problem 3
 
 The $4$ by $2$ rectangle has area $8$ and centre $(2,1)$. The $2$ by $3$
 rectangle has area $6$ and centre $(1,3.5)$.
@@ -94,7 +94,7 @@ $$
 \left(\frac{11}{7},\frac{29}{14}\right).
 $$
 
-## Problem 4
+### Problem 4
 
 Treat the removed square as negative area. The full rectangle has area $24$
 and centre $(3,2)$. The removed square has area $4$ and centre $(5,3)$.
@@ -117,7 +117,7 @@ $$
 (2.6,1.8).
 $$
 
-## Problem 5
+### Problem 5
 
 Sliding threshold:
 
@@ -141,21 +141,21 @@ Since $120<133$, the block slides first.
 
 ## B. Work Done by a Variable Force
 
-## Problem 6
+### Problem 6
 
 $$
 W=\int_0^3 5x^2\,dx
 =\left[\frac{5x^3}{3}\right]_0^3=45\ \mathrm{J}.
 $$
 
-## Problem 7
+### Problem 7
 
 $$
 W=\int_0^5(20-2x)\,dx
 =\left[20x-x^2\right]_0^5=75\ \mathrm{J}.
 $$
 
-## Problem 8
+### Problem 8
 
 Initial kinetic energy is
 
@@ -183,14 +183,14 @@ $$
 
 to 3 s.f.
 
-## Problem 9
+### Problem 9
 
 $$
 W=\int_0^4(10+4x)\,dx
 =\left[10x+2x^2\right]_0^4=72\ \mathrm{J}.
 $$
 
-## Problem 10
+### Problem 10
 
 Work done from $x=1$ to $x=3$ is
 
@@ -221,7 +221,7 @@ to 3 s.f.
 
 ## C. Variable-Force Differential Equations
 
-## Problem 11
+### Problem 11
 
 Newton's second law gives
 
@@ -247,7 +247,7 @@ $$
 v=16\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 12
+### Problem 12
 
 $$
 2\frac{dv}{dt}=12-4t,
@@ -277,7 +277,7 @@ $$
 v(3)=3+18-9=12\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 13
+### Problem 13
 
 The resistance acts opposite to motion:
 
@@ -297,7 +297,7 @@ $$
 v=9e^{-3t}.
 $$
 
-## Problem 14
+### Problem 14
 
 Use $a=v\,dv/dx$:
 
@@ -325,7 +325,7 @@ $$
 
 to 3 s.f.
 
-## Problem 15
+### Problem 15
 
 Use $a=v\,dv/dx$:
 
@@ -371,7 +371,7 @@ $$
 
 ## D. Mixed Review
 
-## Problem 16
+### Problem 16
 
 Sliding threshold:
 
@@ -393,7 +393,7 @@ $$
 
 Since $120<150$, the block topples first.
 
-## Problem 17
+### Problem 17
 
 The rod's mass acts at its midpoint, $2\ \mathrm{m}$ from the $1\ \mathrm{kg}$
 end. The centre of mass is
@@ -408,7 +408,7 @@ $$
 \bar x=\frac{16}{6}=\frac83\ \mathrm{m}.
 $$
 
-## Problem 18
+### Problem 18
 
 Newton's second law gives
 
@@ -442,7 +442,7 @@ $$
 
 to 3 s.f.
 
-## Problem 19
+### Problem 19
 
 Work done by the driving force is
 
@@ -471,7 +471,7 @@ $$
 
 to 3 s.f.
 
-## Problem 20
+### Problem 20
 
 Use $a=v\,dv/dx$:
 

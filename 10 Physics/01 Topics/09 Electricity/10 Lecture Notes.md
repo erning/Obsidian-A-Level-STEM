@@ -3,7 +3,7 @@ title: Electricity Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/electricity

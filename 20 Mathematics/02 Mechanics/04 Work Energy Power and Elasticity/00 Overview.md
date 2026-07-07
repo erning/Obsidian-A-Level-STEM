@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-status: draft
+status: active
 tags:
   - mathematics/mechanics
 ---
@@ -18,7 +18,7 @@ Energy methods solve motion problems by tracking work, kinetic energy, potential
 ## Source Alignment
 
 - 9709 4.5 Energy, work and power
-- 9231 3.4 Hooke’s law
+- 9231 3.4 Hooke's law
 - Coursebook route: 9709 Mechanics energy, work, and power chapters; 9231 Further Mechanics Hooke's law and elastic energy content.
 
 ## What to Learn

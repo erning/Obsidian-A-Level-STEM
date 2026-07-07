@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/13 Fur
 
 ## A. Hyperbolic Functions and Further Calculus
 
-## Problem 1
+### Problem 1
 
 Using
 
@@ -34,7 +34,7 @@ $$
 =\frac{(e^x+e^{-x})^2-(e^x-e^{-x})^2}{4}=1.
 $$
 
-## Problem 2
+### Problem 2
 
 Solve
 
@@ -66,7 +66,7 @@ $$
 x=\ln(3+\sqrt{10}).
 $$
 
-## Problem 3
+### Problem 3
 
 Solve
 
@@ -98,7 +98,7 @@ $$
 x=\ln\left(\frac{5+\sqrt{21}}{2}\right).
 $$
 
-## Problem 4
+### Problem 4
 
 Use the quotient rule:
 
@@ -114,7 +114,7 @@ $$
 \frac{d}{dx}\tanh x=\frac{1}{\cosh^2x}=\operatorname{sech}^2x.
 $$
 
-## Problem 5
+### Problem 5
 
 Use
 
@@ -134,7 +134,7 @@ $$
 e^x\cos x=1+x-\frac{x^3}{3}+\cdots.
 $$
 
-## Problem 6
+### Problem 6
 
 Use the standard form
 
@@ -149,7 +149,7 @@ $$
 =\sin^{-1}\frac{x}{3}+C.
 $$
 
-## Problem 7
+### Problem 7
 
 The reduction formula gives
 
@@ -181,7 +181,7 @@ $$
 I_4=\frac34\cdot\frac{\pi}{4}=\frac{3\pi}{16}.
 $$
 
-## Problem 8
+### Problem 8
 
 For $y=x^2$,
 
@@ -211,7 +211,7 @@ $$
 
 ## B. Separable and First-Order Linear Differential Equations
 
-## Problem 9
+### Problem 9
 
 Separate variables:
 
@@ -237,7 +237,7 @@ $$
 y=2e^{x^2/2}.
 $$
 
-## Problem 10
+### Problem 10
 
 Separate variables:
 
@@ -269,7 +269,7 @@ $$
 y=\frac{1}{1-x-\frac{x^2}{2}}.
 $$
 
-## Problem 11
+### Problem 11
 
 The equation is separable:
 
@@ -303,7 +303,7 @@ $$
 M(t)=100e^{-(\ln(5/3))t/5}.
 $$
 
-## Problem 12
+### Problem 12
 
 The integrating factor is
 
@@ -329,7 +329,7 @@ $$
 y=e^{-x}+Ce^{-2x}.
 $$
 
-## Problem 13
+### Problem 13
 
 The equation is
 
@@ -369,7 +369,7 @@ $$
 
 ## C. Constant-Coefficient Differential Equations
 
-## Problem 14
+### Problem 14
 
 The auxiliary equation is
 
@@ -389,7 +389,7 @@ $$
 y=Ae^{2x}+Be^{3x}.
 $$
 
-## Problem 15
+### Problem 15
 
 The auxiliary equation is
 
@@ -403,7 +403,7 @@ $$
 y=(A+Bx)e^{2x}.
 $$
 
-## Problem 16
+### Problem 16
 
 The auxiliary equation is
 
@@ -423,7 +423,7 @@ $$
 y=A\cos2x+B\sin2x.
 $$
 
-## Problem 17
+### Problem 17
 
 The complementary function comes from
 
@@ -455,7 +455,7 @@ $$
 y=Ae^x+Be^{2x}+\frac32e^{3x}.
 $$
 
-## Problem 18
+### Problem 18
 
 From question 14,
 
@@ -495,7 +495,7 @@ $$
 
 ## D. Substitution and Interpretation
 
-## Problem 19
+### Problem 19
 
 Let
 
@@ -541,7 +541,7 @@ $$
 =\ln|x|+C.
 $$
 
-## Problem 20
+### Problem 20
 
 As $t\to\infty$,
 

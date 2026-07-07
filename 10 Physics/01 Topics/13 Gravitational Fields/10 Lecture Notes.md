@@ -3,7 +3,7 @@ title: Gravitational Fields Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/fields
@@ -233,7 +233,7 @@ For this to happen, the satellite must:
 
 The orbit must be equatorial because the centre of the orbit must be the Earth's centre. If the orbit were inclined, the satellite would move north and south in the sky instead of staying above one fixed point on the surface.
 
-For the Earth, the geostationary orbital radius is about $4.23 \times 10^7\ \text{m}$ from the Earth's centre, or about $42\ 300\ \text{km}$ from the centre.
+For the Earth, the geostationary orbital radius is about $4.22 \times 10^7\ \text{m}$ from the Earth's centre, or about $42\ 200\ \text{km}$ from the centre.
 
 Geostationary satellites are useful for communication and broadcasting because a ground dish can point in one fixed direction.
 

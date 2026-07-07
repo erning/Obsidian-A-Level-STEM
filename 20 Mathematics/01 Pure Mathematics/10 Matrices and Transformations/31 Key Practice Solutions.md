@@ -16,7 +16,7 @@ This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/10 Mat
 
 ## A. Matrix Algebra and Inverses
 
-## Problem 1
+### Problem 1
 
 $P$ is $2\times3$ and $R$ is $3\times2$, so $PR$ is defined and is
 $2\times2$:
@@ -43,7 +43,7 @@ RP=
 \end{pmatrix}.
 $$
 
-## Problem 2
+### Problem 2
 
 Calculate
 
@@ -68,7 +68,7 @@ $$
 Since $AB\ne BA$, this shows that matrix multiplication is not generally
 commutative.
 
-## Problem 3
+### Problem 3
 
 The determinant is
 
@@ -95,7 +95,7 @@ $$
 \begin{pmatrix}\frac{26}{11}\\-\frac3{11}\end{pmatrix}.
 $$
 
-## Problem 4
+### Problem 4
 
 $U$ is upper triangular, so
 
@@ -120,7 +120,7 @@ $$
 UU^{-1}=I.
 $$
 
-## Problem 5
+### Problem 5
 
 To prove that $B^{-1}A^{-1}$ is the inverse of $AB$, multiply:
 
@@ -148,7 +148,7 @@ $$
 
 ## B. Transformation Matrices
 
-## Problem 6
+### Problem 6
 
 Under a $90^\circ$ anticlockwise rotation,
 
@@ -177,7 +177,7 @@ $$
 \begin{pmatrix}1\\2\end{pmatrix}.
 $$
 
-## Problem 7
+### Problem 7
 
 Reflection in $y=x$ swaps the coordinates, so
 
@@ -205,7 +205,7 @@ F\begin{pmatrix}3\\-2\end{pmatrix}
 \begin{pmatrix}-2\\3\end{pmatrix}.
 $$
 
-## Problem 8
+### Problem 8
 
 The stretch matrix is
 
@@ -229,7 +229,7 @@ FS=
 \begin{pmatrix}3&0\\0&-1\end{pmatrix}.
 $$
 
-## Problem 9
+### Problem 9
 
 A shear with the $x$-axis fixed has form
 
@@ -252,7 +252,7 @@ $$
 \begin{pmatrix}14\\3\end{pmatrix}.
 $$
 
-## Problem 10
+### Problem 10
 
 The determinant is
 
@@ -268,7 +268,7 @@ $$
 
 Since $\det C<0$, orientation is reversed.
 
-## Problem 11
+### Problem 11
 
 Invariant points satisfy
 
@@ -316,7 +316,7 @@ $$
 
 ## C. Systems, Eigenvalues, and Matrix Powers
 
-## Problem 12
+### Problem 12
 
 The matrix equation is
 
@@ -340,7 +340,7 @@ $$
 
 Geometrically, the three planes meet at the point $(1,2,3)$.
 
-## Problem 13
+### Problem 13
 
 For the first system, the second equation is twice the first:
 
@@ -375,7 +375,7 @@ $$
 
 So the system is inconsistent and has no solution.
 
-## Problem 14
+### Problem 14
 
 The characteristic equation is
 
@@ -430,7 +430,7 @@ $$
 \begin{pmatrix}1\\-2\end{pmatrix}.
 $$
 
-## Problem 15
+### Problem 15
 
 Use the eigenvectors from problem 14 as the columns of $Q$:
 
@@ -454,7 +454,7 @@ The order matters: the first column of $Q$ corresponds to the first diagonal
 entry of $D$, and the second column of $Q$ corresponds to the second diagonal
 entry of $D$.
 
-## Problem 16
+### Problem 16
 
 Using diagonalisation,
 
@@ -481,7 +481,7 @@ A^3=
 \begin{pmatrix}86&39\\78&47\end{pmatrix}.
 $$
 
-## Problem 17
+### Problem 17
 
 Since $H$ is upper triangular, its eigenvalues are the diagonal entries:
 
@@ -511,7 +511,7 @@ $$
 
 Any non-zero scalar multiple of these vectors is also an eigenvector.
 
-## Problem 18
+### Problem 18
 
 Given
 
@@ -534,7 +534,7 @@ $$
 
 for every positive integer $n$.
 
-## Problem 19
+### Problem 19
 
 The characteristic equation is
 
@@ -582,7 +582,7 @@ B^{-1}=\frac{4I-B}{3}
 \end{pmatrix}.
 $$
 
-## Problem 20
+### Problem 20
 
 From problem 19,
 

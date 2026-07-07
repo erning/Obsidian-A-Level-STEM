@@ -178,7 +178,7 @@ Since $0.0352<0.05$, reject $H_0$.
 **Conclusion.** There is evidence at the $5\%$ level that the population median
 is greater than $50$.
 
-## Example 4: Wilcoxon Signed-Rank Test
+## Example 4: Wilcoxon Matched-Pairs Signed-Rank Test
 
 **Prompt.** Six paired differences, after minus before, are
 
@@ -186,7 +186,7 @@ $$
 4,\quad 5,\quad 2,\quad 6,\quad 3,\quad -1.
 $$
 
-Use a Wilcoxon signed-rank test at the $5\%$ level to test whether the median
+Use a Wilcoxon matched-pairs signed-rank test at the $5\%$ level to test whether the median
 difference is positive. Assume the differences come from a symmetric
 distribution and there are no zero differences or tied absolute differences.
 

@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/02 Mechanics/01 Forces and
 
 ## A. Particle Equilibrium and Components
 
-## Problem 1
+### Problem 1
 
 Let $T$ be the tension in the sloping string and $H$ the tension in the
 horizontal string. Vertical equilibrium gives
@@ -41,7 +41,7 @@ $$
 Check: the sloping string has enough upward component to balance the load, and
 the horizontal string balances the sideways component.
 
-## Problem 2
+### Problem 2
 
 The resultant of the two given forces has components
 
@@ -69,7 +69,7 @@ $$
 
 acting $58.1^\circ$ south of west.
 
-## Problem 3
+### Problem 3
 
 Let $T_1$ be the tension in the $30^\circ$ string and $T_2$ the tension in the
 $60^\circ$ string. Horizontal equilibrium gives
@@ -106,7 +106,7 @@ $$
 to 3 s.f. Check: the horizontal components are both
 $43.3\ \mathrm{N}$ in opposite directions.
 
-## Problem 4
+### Problem 4
 
 Resolve parallel to the smooth plane:
 
@@ -122,7 +122,7 @@ $$
 
 The plane is smooth, so there is no friction term.
 
-## Problem 5
+### Problem 5
 
 The block is in vertical equilibrium, so the normal contact force on the block
 is
@@ -141,7 +141,7 @@ downwards. This action-reaction pair acts on two different bodies.
 
 ## B. Friction and Limiting Equilibrium
 
-## Problem 6
+### Problem 6
 
 The normal contact force is
 
@@ -161,7 +161,7 @@ $$
 24.5\ \mathrm{N}.
 $$
 
-## Problem 7
+### Problem 7
 
 Vertical equilibrium gives
 
@@ -202,7 +202,7 @@ $$
 Check: the pull has an upward component, so the answer is less than
 $0.30(14g)$.
 
-## Problem 8
+### Problem 8
 
 At the least coefficient, the particle is just about to slide down the plane.
 Thus friction acts up the plane and is limiting.
@@ -225,7 +225,7 @@ $$
 \mu=\tan18^\circ=0.325\quad \text{to 3 s.f.}
 $$
 
-## Problem 9
+### Problem 9
 
 For the hanging mass, equilibrium gives
 
@@ -266,7 +266,7 @@ $$
 \mu=\frac{F}{R}=\frac{7.18}{26.6}=0.269\quad \text{to 3 s.f.}
 $$
 
-## Problem 10
+### Problem 10
 
 The particle is just prevented from sliding down the plane, so friction and
 the force $P$ both act up the plane. The normal contact force is
@@ -295,7 +295,7 @@ $$
 
 ## C. Moments and Rigid Bodies
 
-## Problem 11
+### Problem 11
 
 Let the support reaction at the far end be $R_B$ and the hinge reaction be
 $R_A$. Take moments about the hinge:
@@ -322,7 +322,7 @@ $$
 R_A=200-136=64\ \mathrm{N}.
 $$
 
-## Problem 12
+### Problem 12
 
 Let $T$ be the string tension. Take moments about the hinge:
 
@@ -364,7 +364,7 @@ $$
 
 upwards.
 
-## Problem 13
+### Problem 13
 
 Let $H$ be the normal reaction at the smooth wall. The wall is smooth, so this
 force is horizontal. Let $N$ be the normal reaction at the floor and $F$ the
@@ -408,7 +408,7 @@ $$
 \mu=\frac{F}{N}=\frac{57.7}{200}=0.289\quad \text{to 3 s.f.}
 $$
 
-## Problem 14
+### Problem 14
 
 Let the left and right support reactions be $R_A$ and $R_B$. Vertical
 equilibrium gives
@@ -441,7 +441,7 @@ $$
 R_A=360-195=165\ \mathrm{N}.
 $$
 
-## Problem 15
+### Problem 15
 
 The sliding threshold is
 
@@ -472,7 +472,7 @@ the box slides before it topples.
 
 ## D. Centre of Mass and Mixed Review
 
-## Problem 16
+### Problem 16
 
 The three square plates have equal mass, so average the coordinates of their
 centres:
@@ -493,7 +493,7 @@ $$
 \left(\frac56,\frac56\right)\ \mathrm{m}.
 $$
 
-## Problem 17
+### Problem 17
 
 The rod's own centre of mass is $2\ \mathrm{m}$ from $A$. Treat the rod and
 the particle as two masses on a line:
@@ -510,7 +510,7 @@ $$
 
 from $A$.
 
-## Problem 18
+### Problem 18
 
 For a uniform triangular lamina, the centre of mass is the centroid. Average
 the vertex coordinates:
@@ -531,7 +531,7 @@ $$
 (2,1).
 $$
 
-## Problem 19
+### Problem 19
 
 Let $T$ be the tension. Take moments about the hinge at $A$:
 
@@ -579,7 +579,7 @@ $$
 
 upwards.
 
-## Problem 20
+### Problem 20
 
 The sliding threshold is
 

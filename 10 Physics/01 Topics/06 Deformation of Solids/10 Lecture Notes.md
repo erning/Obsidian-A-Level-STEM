@@ -3,7 +3,7 @@ title: Deformation of Solids Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/mechanics

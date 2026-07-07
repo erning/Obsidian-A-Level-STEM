@@ -3,7 +3,7 @@ title: Motion in a Circle Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/mechanics

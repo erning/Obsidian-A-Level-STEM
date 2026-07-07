@@ -17,14 +17,14 @@ This note gives worked solutions for [[20 Mathematics/03 Probability and Statist
 
 ## A. Data Types and Diagrams
 
-## Problem 1
+### Problem 1
 
 Eye colour is qualitative data; a bar chart or pie chart is suitable. Number
 of siblings is discrete quantitative data; a bar chart or dot plot is suitable.
 Time to run $100\ \mathrm{m}$ is continuous quantitative data; a histogram,
 box plot, or cumulative frequency graph may be suitable.
 
-## Problem 2
+### Problem 2
 
 A stem-and-leaf diagram is
 
@@ -41,7 +41,7 @@ $$
 \frac{21+22}{2}=21.5\ \text{minutes}.
 $$
 
-## Problem 3
+### Problem 3
 
 The sum is $72$, so
 
@@ -79,7 +79,7 @@ $$
 IQR=11.5-6=5.5.
 $$
 
-## Problem 4
+### Problem 4
 
 For $2,4,4,5,5,7,9$,
 
@@ -102,7 +102,7 @@ $$
 
 to 3 s.f.
 
-## Problem 5
+### Problem 5
 
 Frequency density is frequency divided by class width.
 
@@ -114,7 +114,7 @@ Frequency density is frequency divided by class width.
 
 ## B. Grouped Data and Cumulative Frequency
 
-## Problem 6
+### Problem 6
 
 Use midpoints $2.5$, $7.5$, and $15$.
 
@@ -136,7 +136,7 @@ $$
 
 to 3 s.f. These are estimates because the raw values are not known.
 
-## Problem 7
+### Problem 7
 
 There are $40$ observations, so use positions $10$, $20$, and $30$.
 
@@ -152,7 +152,7 @@ $$
 Q_3=30+\frac{30-29}{11}(10)=30.9.
 $$
 
-## Problem 8
+### Problem 8
 
 For $y$,
 
@@ -181,7 +181,7 @@ $$
 
 to 3 s.f.
 
-## Problem 9
+### Problem 9
 
 $$
 IQR=48-32=16.
@@ -193,9 +193,9 @@ $$
 48+1.5(16)=72.
 $$
 
-Since $75>72$, $75$ is an outlier by the $1.5IQR$ rule.
+Since $75>72$, $75$ is an outlier by the $1.5\times\mathrm{IQR}$ rule.
 
-## Problem 10
+### Problem 10
 
 Data set A has the higher mean, so it has the higher average value. Data set B
 has the larger standard deviation, so it is much more spread out. A typical
@@ -203,13 +203,13 @@ value from B is less predictable even though its mean is only slightly lower.
 
 ## C. Interpreting Representations
 
-## Problem 11
+### Problem 11
 
 A back-to-back stem-and-leaf diagram keeps the original values visible while
 putting both data sets on the same stems. This makes centre, spread, clusters,
 and unusual values easier to compare for small data sets.
 
-## Problem 12
+### Problem 12
 
 Between $30$ and $40$, cumulative frequency rises from $20$ to $36$. At $35$,
 linear interpolation gives
@@ -230,7 +230,7 @@ $$
 \frac{22}{50}=0.44.
 $$
 
-## Problem 13
+### Problem 13
 
 Class width is
 
@@ -244,7 +244,7 @@ $$
 1.6(15)=24.
 $$
 
-## Problem 14
+### Problem 14
 
 The mean is
 
@@ -266,7 +266,7 @@ $$
 
 to 3 s.f.
 
-## Problem 15
+### Problem 15
 
 The combined mean is
 
@@ -277,7 +277,7 @@ $$
 
 ## D. Mixed Review
 
-## Problem 16
+### Problem 16
 
 Since $x=3y+7$,
 
@@ -291,25 +291,25 @@ $$
 \sigma_x=3(2.5)=7.5.
 $$
 
-## Problem 17
+### Problem 17
 
 Median and IQR are usually more useful for a strongly positively skewed salary
 distribution because high earners can pull the mean and standard deviation
 upwards. Median and IQR describe a typical salary and middle spread more
 robustly.
 
-## Problem 18
+### Problem 18
 
 The distribution is positively skewed. The longer upper whisker and the median
 closer to $Q_1$ suggest a longer upper tail.
 
-## Problem 19
+### Problem 19
 
 With unequal class widths, using frequency as height would make wider classes
 look too large. In a histogram, area represents frequency, so the height must
 be frequency density.
 
-## Problem 20
+### Problem 20
 
 Both data sets have mean $8$ and median $8$, so their centres are the same.
 Data set A has range $4$ and IQR $3$. Data set B has range $12$ and IQR $9$.

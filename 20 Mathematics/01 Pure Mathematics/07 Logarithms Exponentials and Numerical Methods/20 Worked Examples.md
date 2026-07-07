@@ -318,9 +318,9 @@ Iterate without rounding too early:
 | $1$ | $0.764842$ |
 | $2$ | $0.721492$ |
 | $3$ | $0.750822$ |
-| $4$ | $0.731404$ |
-| $5$ | $0.744237$ |
-| $6$ | $0.735605$ |
+| $4$ | $0.731129$ |
+| $5$ | $0.744421$ |
+| $6$ | $0.735480$ |
 
 The values are settling toward the fixed point near
 

@@ -2,7 +2,7 @@
 title: 17 Oscillations
 subject: Physics
 syllabus: 9702
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/waves

@@ -3,7 +3,7 @@ title: Thermodynamics 中文讲义
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/thermal-physics

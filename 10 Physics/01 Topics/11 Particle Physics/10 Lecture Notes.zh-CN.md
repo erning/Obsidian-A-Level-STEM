@@ -3,7 +3,7 @@ title: Particle Physics 中文讲义
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/11 Particle Physics/00 Overview|Particle Physics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/modern-physics

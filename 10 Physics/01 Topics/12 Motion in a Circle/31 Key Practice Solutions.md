@@ -236,7 +236,7 @@ is whether the acceleration and resultant force are drawn towards the centre.
     $$
     v=\frac{2\pi r}{T}
     =\frac{2\pi(7.0 \times 10^6)}{5.9 \times 10^3}
-    =7.5 \times 10^3\ \mathrm{m\ s^{-1}}.
+    =7.45 \times 10^3\ \mathrm{m\ s^{-1}}.
     $$
 
     The centripetal acceleration is

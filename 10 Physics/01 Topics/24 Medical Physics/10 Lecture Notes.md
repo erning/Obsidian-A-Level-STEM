@@ -3,7 +3,7 @@ title: Medical Physics Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/24 Medical Physics/00 Overview|Medical Physics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/applications

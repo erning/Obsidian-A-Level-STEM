@@ -2,7 +2,7 @@
 title: Learning Checklist
 subject: Physics
 syllabus: 9702
-status: draft
+status: active
 tags:
   - physics/9702
   - checklist

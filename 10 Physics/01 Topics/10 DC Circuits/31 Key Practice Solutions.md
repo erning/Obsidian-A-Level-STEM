@@ -306,6 +306,16 @@ These solutions correspond to [[10 Physics/01 Topics/10 DC Circuits/30 Key Pract
     3.0=12\frac{R_2}{3.0+R_2}.
     $$
 
+    Solve for $R_2$:
+
+    $$
+    \begin{aligned}
+    3.0(3.0+R_2)&=12R_2,\\
+    9.0+3.0R_2&=12R_2,\\
+    9.0&=9.0R_2.
+    \end{aligned}
+    $$
+
     Therefore
 
     $$

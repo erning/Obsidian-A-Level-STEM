@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/08 Vec
 
 ## A. Position Vectors and Lines
 
-## Problem 1
+### Problem 1
 
 The displacement from $A$ to $B$ is final position minus initial position:
 
@@ -40,7 +40,7 @@ $$
 \frac{1}{\sqrt{61}}\begin{pmatrix}4\\-3\\6\end{pmatrix}.
 $$
 
-## Problem 2
+### Problem 2
 
 The midpoint position vector is the average of the two position vectors:
 
@@ -56,7 +56,7 @@ $$
 
 So the midpoint is $\left(3,\frac12,6\right)$.
 
-## Problem 3
+### Problem 3
 
 Use one point on the line and the displacement vector from question 1:
 
@@ -66,7 +66,7 @@ $$
 \qquad t\in\mathbb R.
 $$
 
-## Problem 4
+### Problem 4
 
 A point lies on the line if one value of $t$ satisfies all three components:
 
@@ -91,7 +91,7 @@ $$
 
 Therefore the point lies on the line.
 
-## Problem 5
+### Problem 5
 
 Equate components:
 
@@ -125,7 +125,7 @@ $$
 \begin{pmatrix}3\\1\\1\end{pmatrix}.
 $$
 
-## Problem 6
+### Problem 6
 
 The direction vectors are
 
@@ -153,7 +153,7 @@ $$
 would require $2s=1$ and $4s=0$, which is impossible. Therefore the lines are
 parallel and distinct.
 
-## Problem 7
+### Problem 7
 
 The direction vectors
 
@@ -184,7 +184,7 @@ $0=-1$. Therefore the lines do not intersect. They are skew.
 
 ## B. Scalar Product
 
-## Problem 8
+### Problem 8
 
 Let
 
@@ -219,7 +219,7 @@ $$
 \theta=\cos^{-1}\frac{11}{15}\approx 42.8^\circ.
 $$
 
-## Problem 9
+### Problem 9
 
 Calculate the scalar product:
 
@@ -232,7 +232,7 @@ $$
 
 A zero scalar product means the vectors are perpendicular.
 
-## Problem 10
+### Problem 10
 
 The scalar projection of $\mathbf a$ onto $\mathbf b$ is
 
@@ -255,7 +255,7 @@ $$
 =\frac{3}{1}=3.
 $$
 
-## Problem 11
+### Problem 11
 
 A general point on the line is
 
@@ -306,7 +306,7 @@ $$
 \begin{pmatrix}\frac{23}{9}\\\frac{28}{9}\\\frac{28}{9}\end{pmatrix}.
 $$
 
-## Problem 12
+### Problem 12
 
 The angle between two lines is the acute or stated angle between their
 direction vectors. Using the same calculation as problem 8,
@@ -323,7 +323,7 @@ $$
 
 ## C. 9231 Plane and Vector Product Extensions
 
-## Problem 13
+### Problem 13
 
 Calculate
 
@@ -347,7 +347,7 @@ $$
 \sqrt{2^2+(-1)^2+(-7)^2}=\sqrt{54}=3\sqrt6.
 $$
 
-## Problem 14
+### Problem 14
 
 The plane has normal vector
 
@@ -373,7 +373,7 @@ $$
 2x-y-7z+12=0.
 $$
 
-## Problem 15
+### Problem 15
 
 A parametric plane uses one point and two non-parallel direction vectors:
 
@@ -387,7 +387,7 @@ $$
 
 The two direction vectors are not scalar multiples, so they define a plane.
 
-## Problem 16
+### Problem 16
 
 Substitute the line into the plane. On the line,
 
@@ -416,7 +416,7 @@ $$
 \begin{pmatrix}-1\\2\\-1\end{pmatrix}.
 $$
 
-## Problem 17
+### Problem 17
 
 For the angle $\phi$ between a line and a plane,
 
@@ -457,7 +457,7 @@ $$
 \phi=\sin^{-1}\frac49\approx 26.4^\circ.
 $$
 
-## Problem 18
+### Problem 18
 
 Write the plane as
 
@@ -478,7 +478,7 @@ $$
 =\frac{6}{3}=2.
 $$
 
-## Problem 19
+### Problem 19
 
 For skew lines
 
@@ -532,7 +532,7 @@ $$
 \frac{1}{\sqrt3}.
 $$
 
-## Problem 20
+### Problem 20
 
 The planes are
 

@@ -3,7 +3,7 @@ title: Magnetic Fields 中文讲义
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/fields
@@ -38,7 +38,7 @@ tags:
 几种常见电流产生的磁场：
 
 - 长直导线周围，磁场线是以导线为中心的同心圆；
-- 扁平圆线圈附近的磁场，中心附近类似短螺线管；
+- 扁平圆线圈附近的磁场，中心附近类似短条形磁铁；
 - 长螺线管内部，磁场近似匀强，方向沿螺线管轴线。
 
 螺线管中加入铁磁芯会增强磁场，因为铁磁芯被磁化后会加强原来的磁场。

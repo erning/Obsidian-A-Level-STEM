@@ -3,7 +3,7 @@ title: Superposition Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/waves

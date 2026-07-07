@@ -3,7 +3,7 @@ title: Electric Fields Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/fields

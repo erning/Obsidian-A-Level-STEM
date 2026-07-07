@@ -2,7 +2,7 @@
 title: 22 Quantum Physics
 subject: Physics
 syllabus: 9702
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/modern-physics

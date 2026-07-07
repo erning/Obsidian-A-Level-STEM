@@ -3,7 +3,7 @@ title: Alternating Currents 中文讲义
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/electricity

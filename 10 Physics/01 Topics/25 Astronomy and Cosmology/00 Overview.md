@@ -2,7 +2,7 @@
 title: 25 Astronomy and Cosmology
 subject: Physics
 syllabus: 9702
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/applications
@@ -20,7 +20,7 @@ Astronomy and cosmology turn light measurements into distances, stellar properti
 - 25 Astronomy and cosmology
 - 25.1 Standard candles
 - 25.2 Stellar radii
-- 25.3 Hubble’s law and the Big Bang theory
+- 25.3 Hubble's law and the Big Bang theory
 - Coursebook route: Physics Coursebook Chapter 31: Astronomy and cosmology.
 
 ## What to Learn

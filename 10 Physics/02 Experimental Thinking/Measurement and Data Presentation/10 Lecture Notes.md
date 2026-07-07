@@ -3,7 +3,7 @@ title: Measurement and Data Presentation Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]"
-status: draft
+status: active
 tags:
   - physics/9702
   - experimental-thinking

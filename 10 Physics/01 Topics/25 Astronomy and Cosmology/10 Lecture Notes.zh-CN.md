@@ -3,7 +3,7 @@ title: Astronomy and Cosmology 中文讲义
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/applications
@@ -195,9 +195,11 @@ $$
 t \sim \frac{1}{H_0}.
 $$
 
-这只是依赖模型的近似估计，但能给出宇宙年龄的量级。若 $H_0$ 约为 $2.4 \times 10^{-18}\,\text{s}^{-1}$，得到的时间尺度约为 $10^{17}$ 到 $10^{18}\,\text{s}$，也就是数十亿年量级。
+这只是依赖模型的近似估计，但能给出宇宙年龄的量级。若 $H_0$ 约为 $2.3 \times 10^{-18}\,\text{s}^{-1}$，得到的时间尺度约为 $10^{17}$ 到 $10^{18}\,\text{s}$，也就是数十亿年量级。
 
 宇宙微波背景也是支持大爆炸模型的重要证据：来自各方向的辐射对应约 $2.7\,\text{K}$ 的温度，这符合膨胀宇宙逐渐冷却的图像。
+
+哈勃时间和宇宙微波背景在 coursebook（第 31 章）中作为大爆炸模型的支持证据有讲解，但它们不是 syllabus 中单独列出的考点，属于补充内容而非必考细节。
 
 ## 10. 做题套路
 

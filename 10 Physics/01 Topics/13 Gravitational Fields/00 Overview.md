@@ -2,7 +2,7 @@
 title: 13 Gravitational Fields
 subject: Physics
 syllabus: 9702
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/fields

@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]"
-status: draft
+status: active
 tags:
   - mathematics/pure
   - lecture-notes
@@ -115,7 +115,7 @@ $$
 
 For trigonometric derivatives, angles are in radians. If a question uses degrees in a context involving calculus, convert or interpret carefully.
 
-For 9231, the toolkit extends to inverse trigonometric and hyperbolic functions:
+For 9231, the toolkit extends to inverse trigonometric and hyperbolic functions. The inverse trigonometric functions need $|x|\le 1$ (and the derivatives diverge at $|x|=1$):
 
 $$
 \frac{d}{dx}\sin^{-1}x=\frac{1}{\sqrt{1-x^2}},
@@ -132,17 +132,17 @@ $$
 The common inverse hyperbolic derivatives are
 
 $$
-\frac{d}{dx}\sinh^{-1}x=\frac{1}{\sqrt{x^2+1}},
+\frac{d}{dx}\sinh^{-1}x=\frac{1}{\sqrt{x^2+1}},\qquad x\in\mathbb{R},
 $$
 
 $$
-\frac{d}{dx}\cosh^{-1}x=\frac{1}{\sqrt{x^2-1}},
+\frac{d}{dx}\cosh^{-1}x=\frac{1}{\sqrt{x^2-1}},\qquad x>1,
 $$
 
 and
 
 $$
-\frac{d}{dx}\tanh^{-1}x=\frac{1}{1-x^2}.
+\frac{d}{dx}\tanh^{-1}x=\frac{1}{1-x^2},\qquad |x|<1.
 $$
 
 Always keep domain restrictions in mind when using inverse functions and logarithms.

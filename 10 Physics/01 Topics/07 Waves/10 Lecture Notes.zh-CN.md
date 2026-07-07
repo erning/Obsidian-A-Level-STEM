@@ -3,7 +3,7 @@ title: Waves 中文讲义
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/waves

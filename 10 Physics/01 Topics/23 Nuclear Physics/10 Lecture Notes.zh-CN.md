@@ -3,7 +3,7 @@ title: Nuclear Physics 中文讲义
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/modern-physics
@@ -40,7 +40,7 @@ $$
 阿尔法衰变会放出氦核：
 
 $$
-{}^{4}_{2}\alpha.
+{}^{4}_{2}\mathrm{He}.
 $$
 
 母核的核子数减少 4，质子数减少 2。

@@ -3,7 +3,7 @@ title: Temperature 中文讲义
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/thermal-physics

@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]]"
-status: draft
+status: active
 tags:
   - mathematics/statistics
   - lecture-notes
@@ -148,6 +148,16 @@ Rewrite the event in terms of $X$, use the CDF of $X$, and differentiate if the 
 $$
 F_Y(y)=P(X^3\le y)=P(X\le \sqrt[3]{y})=F_X(\sqrt[3]{y}).
 $$
+
+If the transformation is decreasing, the inequality reverses. For example, if
+$Y=1-X$ with $0\le X\le 1$, then for $0\le y\le 1$,
+
+$$
+F_Y(y)=P(1-X\le y)=P(X\ge 1-y)=1-F_X(1-y),
+$$
+
+using $P(X\ge a)=1-F_X(a)$ for a continuous variable. Differentiate to get the
+PDF, watching the sign.
 
 The main care is the range of $Y$ and whether the transformation is one-to-one on the support.
 

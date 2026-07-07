@@ -89,12 +89,12 @@ $$
 
 19. State what is meant by discrete energy levels in an isolated atom.
 
-20. An electron falls from the $-1.50\ \mathrm{eV}$ level to the
+20. An electron falls from the $-1.51\ \mathrm{eV}$ level to the
     $-3.40\ \mathrm{eV}$ level. Find the energy and wavelength of the emitted
     photon.
 
 21. A hydrogen atom absorbs a photon and an electron moves from
-    $-13.6\ \mathrm{eV}$ to $-1.50\ \mathrm{eV}$. Find the photon wavelength.
+    $-13.6\ \mathrm{eV}$ to $-1.51\ \mathrm{eV}$. Find the photon wavelength.
 
 22. Explain the appearance and formation of an emission line spectrum.
 

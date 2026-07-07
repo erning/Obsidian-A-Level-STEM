@@ -3,7 +3,7 @@ title: Magnetic Fields Lecture Notes
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/fields
@@ -48,7 +48,7 @@ By convention, magnetic field lines emerge from a north pole and enter a south p
 For current-produced fields:
 
 - around a long straight wire, field lines are concentric circles centred on the wire;
-- for a flat circular coil, the field resembles the field of a short solenoid near the centre;
+- for a flat circular coil, the field resembles the field of a short bar magnet near the centre;
 - inside a long solenoid, the field is approximately uniform and along the axis of the solenoid.
 
 A ferrous core increases the magnetic field in a solenoid because the core becomes magnetised and reinforces the field.

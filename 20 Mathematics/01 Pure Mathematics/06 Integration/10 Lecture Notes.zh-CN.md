@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]"
-status: draft
+status: active
 tags:
   - mathematics/pure
   - lecture-notes

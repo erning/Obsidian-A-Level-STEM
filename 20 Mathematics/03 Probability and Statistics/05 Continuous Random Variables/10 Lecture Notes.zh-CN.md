@@ -5,7 +5,7 @@ syllabus:
   - 9709
   - 9231
 parent: "[[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]]"
-status: draft
+status: active
 tags:
   - mathematics/statistics
   - lecture-notes
@@ -165,6 +165,14 @@ $$
 $$
 F_Y(y)=P(X^3\le y)=P(X\le \sqrt[3]{y})=F_X(\sqrt[3]{y}).
 $$
+
+如果变换是递减的，不等号方向要反过来。例如 $Y=1-X$，$0\le X\le 1$，则对 $0\le y\le 1$，
+
+$$
+F_Y(y)=P(1-X\le y)=P(X\ge 1-y)=1-F_X(1-y),
+$$
+
+其中用到连续变量 $P(X\ge a)=1-F_X(a)$。求 PDF 时再求导，注意符号。
 
 这类题最要小心的是 $Y$ 的取值范围，以及变换在定义域上是否一一对应。
 

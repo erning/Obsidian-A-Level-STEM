@@ -3,7 +3,7 @@ title: Experimental Design and Data Analysis 中文讲义
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]"
-status: draft
+status: active
 tags:
   - physics/9702
   - experimental-thinking

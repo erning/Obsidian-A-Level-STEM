@@ -2,7 +2,7 @@
 title: 21 Alternating Currents
 subject: Physics
 syllabus: 9702
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/electricity

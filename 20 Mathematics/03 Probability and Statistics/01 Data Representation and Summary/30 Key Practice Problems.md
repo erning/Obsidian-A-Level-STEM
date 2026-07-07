@@ -51,7 +51,7 @@ grouped data are exact or estimates.
 8. For $40$ observations, $y=(x-100)/5$, $\sum y=-12$, and
    $\sum y^2=196$. Find the mean and standard deviation of $x$.
 
-9. A data set has $Q_1=32$ and $Q_3=48$. Use the $1.5IQR$ rule to decide
+9. A data set has $Q_1=32$ and $Q_3=48$. Use the $1.5\times\mathrm{IQR}$ rule to decide
    whether $75$ is an outlier.
 
 10. Data set A has mean $50$ and standard deviation $4$. Data set B has mean

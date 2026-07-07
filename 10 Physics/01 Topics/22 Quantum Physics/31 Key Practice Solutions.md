@@ -248,14 +248,14 @@ final answers for [[10 Physics/01 Topics/22 Quantum Physics/30 Key Practice Prob
 20. The emitted photon energy is the positive difference:
 
     $$
-    \Delta E=(-1.50)-(-3.40)=1.90\ \mathrm{eV}.
+    \Delta E=(-1.51)-(-3.40)=1.89\ \mathrm{eV}.
     $$
 
     Convert to joules:
 
     $$
-    \Delta E=(1.90)(1.60 \times 10^{-19})
-    =3.04 \times 10^{-19}\ \mathrm{J}.
+    \Delta E=(1.89)(1.60 \times 10^{-19})
+    =3.02 \times 10^{-19}\ \mathrm{J}.
     $$
 
     The wavelength is
@@ -264,14 +264,14 @@ final answers for [[10 Physics/01 Topics/22 Quantum Physics/30 Key Practice Prob
     \lambda=\frac{hc}{\Delta E}
     =
     \frac{(6.63 \times 10^{-34})(3.00 \times 10^8)}
-    {3.04 \times 10^{-19}}
-    =6.54 \times 10^{-7}\ \mathrm{m}.
+    {3.02 \times 10^{-19}}
+    =6.59 \times 10^{-7}\ \mathrm{m}.
     $$
 
 21. The absorbed photon energy is
 
     $$
-    \Delta E=(-1.50)-(-13.6)=12.1\ \mathrm{eV}.
+    \Delta E=(-1.51)-(-13.6)=12.1\ \mathrm{eV}.
     $$
 
     In joules,

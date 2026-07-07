@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/02 Mechanics/04 Work Energ
 
 ## A. Work and Mechanical Energy
 
-## Problem 1
+### Problem 1
 
 Use
 
@@ -31,7 +31,7 @@ $$
 W=40(10)\cos60^\circ=200\ \mathrm{J}.
 $$
 
-## Problem 2
+### Problem 2
 
 At steady speed, the work done against gravity equals the gain in
 gravitational potential energy:
@@ -40,7 +40,7 @@ $$
 mgh=12(10)(3)=360\ \mathrm{J}.
 $$
 
-## Problem 3
+### Problem 3
 
 The increase in kinetic energy is
 
@@ -55,7 +55,7 @@ $$
 \Delta KE=210\ \mathrm{J}.
 $$
 
-## Problem 4
+### Problem 4
 
 Loss of gravitational potential energy equals gain in kinetic energy:
 
@@ -75,7 +75,7 @@ $$
 v=12\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 5
+### Problem 5
 
 Initial kinetic energy is
 
@@ -98,7 +98,7 @@ $$
 
 ## B. Energy with External Work
 
-## Problem 6
+### Problem 6
 
 The work done by the pulling force is
 
@@ -130,7 +130,7 @@ $$
 v=8.66\ \mathrm{m\ s^{-1}}\quad \text{to 3 s.f.}
 $$
 
-## Problem 7
+### Problem 7
 
 The work done by gravity down the plane is
 
@@ -163,7 +163,7 @@ $$
 v=7.04\ \mathrm{m\ s^{-1}}\quad \text{to 3 s.f.}
 $$
 
-## Problem 8
+### Problem 8
 
 Work is the integral of force with respect to displacement:
 
@@ -177,7 +177,7 @@ $$
 W=\left[3x^2+4x\right]_0^5=95\ \mathrm{J}.
 $$
 
-## Problem 9
+### Problem 9
 
 The work done is the area of the triangle:
 
@@ -197,7 +197,7 @@ $$
 v=8.94\ \mathrm{m\ s^{-1}}\quad \text{to 3 s.f.}
 $$
 
-## Problem 10
+### Problem 10
 
 Mechanical energy is conserved because the track is smooth. The particle drops
 $3\ \mathrm{m}$, so
@@ -220,7 +220,7 @@ $$
 
 ## C. Power
 
-## Problem 11
+### Problem 11
 
 The work done against gravity is
 
@@ -234,7 +234,7 @@ $$
 \frac{30000}{60}=500\ \mathrm{W}.
 $$
 
-## Problem 12
+### Problem 12
 
 Use $P=Fv$:
 
@@ -242,7 +242,7 @@ $$
 P=1200(25)=30000\ \mathrm{W}=30\ \mathrm{kW}.
 $$
 
-## Problem 13
+### Problem 13
 
 At constant speed, engine force equals resistance. Use $P=Fv$:
 
@@ -256,7 +256,7 @@ $$
 v=25\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 14
+### Problem 14
 
 The driving force from the engine is found using $P=Fv$:
 
@@ -288,7 +288,7 @@ $$
 a=1.5\ \mathrm{m\ s^{-2}}.
 $$
 
-## Problem 15
+### Problem 15
 
 The increase in kinetic energy is
 
@@ -304,7 +304,7 @@ $$
 
 ## D. Hooke's Law and Elastic Energy
 
-## Problem 16
+### Problem 16
 
 Hooke's law gives
 
@@ -320,7 +320,7 @@ E=\frac{\lambda x^2}{2l}
 =\frac{100(0.30)^2}{2(2)}=2.25\ \mathrm{J}.
 $$
 
-## Problem 17
+### Problem 17
 
 The magnitude of the elastic force is
 
@@ -335,7 +335,7 @@ $$
 E=\frac{20(0.10)^2}{2(0.50)}=0.20\ \mathrm{J}.
 $$
 
-## Problem 18
+### Problem 18
 
 The extension is
 
@@ -355,7 +355,7 @@ $$
 E=\frac{60(0.60)^2}{2(1.5)}=7.2\ \mathrm{J}.
 $$
 
-## Problem 19
+### Problem 19
 
 The initial elastic potential energy is
 
@@ -375,7 +375,7 @@ $$
 v=4\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 20
+### Problem 20
 
 Let the maximum extension be $x$. At maximum extension the particle is
 instantaneously at rest. Loss of gravitational potential energy equals elastic

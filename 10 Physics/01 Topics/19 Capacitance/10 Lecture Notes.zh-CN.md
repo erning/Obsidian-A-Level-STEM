@@ -3,7 +3,7 @@ title: Capacitance 中文讲义
 subject: Physics
 syllabus: 9702
 parent: "[[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]"
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/electricity

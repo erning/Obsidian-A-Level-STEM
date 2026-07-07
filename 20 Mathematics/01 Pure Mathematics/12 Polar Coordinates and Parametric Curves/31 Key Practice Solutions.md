@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/12 Pol
 
 ## A. Polar Coordinates and Equations
 
-## Problem 1
+### Problem 1
 
 Use
 
@@ -39,7 +39,7 @@ $$
 (-2,2\sqrt3).
 $$
 
-## Problem 2
+### Problem 2
 
 For $(-\sqrt3,1)$,
 
@@ -59,7 +59,7 @@ $$
 \left(2,\frac{5\pi}{6}\right).
 $$
 
-## Problem 3
+### Problem 3
 
 Adding or subtracting $2\pi$ gives the same point. Two other coordinate pairs
 are
@@ -70,7 +70,7 @@ $$
 \left(3,-\frac{11\pi}{6}\right).
 $$
 
-## Problem 4
+### Problem 4
 
 Use
 
@@ -96,7 +96,7 @@ $$
 r=6\cos\theta.
 $$
 
-## Problem 5
+### Problem 5
 
 Since
 
@@ -116,7 +116,7 @@ $$
 r=3\cosec\theta.
 $$
 
-## Problem 6
+### Problem 6
 
 The equation $r=5$ means the distance from the pole is $5$. Since
 
@@ -130,7 +130,7 @@ $$
 x^2+y^2=25.
 $$
 
-## Problem 7
+### Problem 7
 
 Multiply by $r$:
 
@@ -150,7 +150,7 @@ $$
 (x-2)^2+y^2=4.
 $$
 
-## Problem 8
+### Problem 8
 
 Use
 
@@ -192,7 +192,7 @@ $$
 
 ## B. Polar Sketching, Intersections, and Area
 
-## Problem 9
+### Problem 9
 
 On $0\le\theta\le\pi$,
 
@@ -212,7 +212,7 @@ $6$, passes through $(3,\pi/2)$, and reaches the pole at $\theta=\pi$.
 For the full curve, it is symmetric about the initial line because
 $\cos(-\theta)=\cos\theta$.
 
-## Problem 10
+### Problem 10
 
 Use polar area:
 
@@ -228,7 +228,7 @@ A=\frac12\int_0^{\pi/2}4\,d\theta
 =\pi.
 $$
 
-## Problem 11
+### Problem 11
 
 The area is
 
@@ -248,7 +248,7 @@ $$
 A=\frac12\left(4\pi+0+4\cdot\frac{\pi}{2}\right)=3\pi.
 $$
 
-## Problem 12
+### Problem 12
 
 At an intersection,
 
@@ -278,7 +278,7 @@ $$
 \left(2,-\frac{\pi}{3}\right).
 $$
 
-## Problem 13
+### Problem 13
 
 Use
 
@@ -307,7 +307,7 @@ $$
 
 ## C. Parametric Curves and Differentiation
 
-## Problem 14
+### Problem 14
 
 From $x=t+1$,
 
@@ -327,7 +327,7 @@ $$
 x\ge1.
 $$
 
-## Problem 15
+### Problem 15
 
 From
 
@@ -359,7 +359,7 @@ $$
 x\ge0.
 $$
 
-## Problem 16
+### Problem 16
 
 Differentiate with respect to $t$:
 
@@ -376,7 +376,7 @@ $$
 \qquad t\ne0.
 $$
 
-## Problem 17
+### Problem 17
 
 At $t=1$,
 
@@ -402,7 +402,7 @@ $$
 y=x-2.
 $$
 
-## Problem 18
+### Problem 18
 
 At $t=1$, the tangent gradient is $1$, so the normal gradient is $-1$. The
 normal passes through $(2,0)$, so
@@ -417,7 +417,7 @@ $$
 y=2-x.
 $$
 
-## Problem 19
+### Problem 19
 
 For
 
@@ -461,7 +461,7 @@ $$
 (0,0).
 $$
 
-## Problem 20
+### Problem 20
 
 From problem 16,
 

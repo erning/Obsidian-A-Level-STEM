@@ -47,8 +47,8 @@ Take $g=9.81\ \mathrm{m\ s^{-2}}$ where needed.
 
 ## B. Density and Pressure
 
-7. A rectangular metal block has mass $0.540\ \mathrm{kg}$ and dimensions
-   $5.0\ \mathrm{cm}\times 3.0\ \mathrm{cm}\times 2.0\ \mathrm{cm}$. Find its
+7. A rectangular metal block has mass $0.840\ \mathrm{kg}$ and dimensions
+   $4.0\ \mathrm{cm}\times 3.0\ \mathrm{cm}\times 2.0\ \mathrm{cm}$. Find its
    density in $\mathrm{kg\ m^{-3}}$.
 
 8. Convert $1.25\ \mathrm{g\ cm^{-3}}$ to $\mathrm{kg\ m^{-3}}$.

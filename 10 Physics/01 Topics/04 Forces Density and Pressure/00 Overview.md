@@ -2,7 +2,7 @@
 title: 04 Forces, Density and Pressure
 subject: Physics
 syllabus: 9702
-status: draft
+status: active
 tags:
   - physics/9702/topic
   - physics/9702/mechanics

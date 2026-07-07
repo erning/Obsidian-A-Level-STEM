@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/09 Com
 
 ## A. 9709 Core Complex Number Skills
 
-## Problem 1
+### Problem 1
 
 For
 
@@ -55,7 +55,7 @@ $$
 \arg z=-\tan^{-1}\frac{4}{3}\approx -0.927.
 $$
 
-## Problem 2
+### Problem 2
 
 Addition is component-wise:
 
@@ -91,7 +91,7 @@ $$
 \frac{z}{w}=\frac{5}{17}+\frac{14}{17}i.
 $$
 
-## Problem 3
+### Problem 3
 
 Use the quadratic formula:
 
@@ -112,7 +112,7 @@ $$
 z=2+3i,\qquad z=2-3i.
 $$
 
-## Problem 4
+### Problem 4
 
 The polynomial has real coefficients. Since $1+2i$ is a root, $1-2i$ is also
 a root.
@@ -143,7 +143,7 @@ $$
 1+2i,\qquad 1-2i,\qquad 3.
 $$
 
-## Problem 5
+### Problem 5
 
 Let a square root be $x+iy$, with $x,y\in\mathbb R$. Then
 
@@ -185,7 +185,7 @@ $$
 -3-2i.
 $$
 
-## Problem 6
+### Problem 6
 
 For
 
@@ -217,7 +217,7 @@ $$
 z=2e^{2\pi i/3}.
 $$
 
-## Problem 7
+### Problem 7
 
 Use Euler form:
 
@@ -241,7 +241,7 @@ $$
 2\sqrt3-2i.
 $$
 
-## Problem 8
+### Problem 8
 
 For multiplication,
 
@@ -272,7 +272,7 @@ $$
 \frac{z_1}{z_2}=\frac{2}{3}e^{-\pi i/2}.
 $$
 
-## Problem 9
+### Problem 9
 
 Multiplication by
 
@@ -305,7 +305,7 @@ $$
 =(1-\sqrt3)+i(1+\sqrt3).
 $$
 
-## Problem 10
+### Problem 10
 
 The condition
 
@@ -317,7 +317,7 @@ means the distance from $z$ to the fixed point $2+i$ is $3$.
 
 The locus is the circle with centre $(2,1)$ and radius $3$.
 
-## Problem 11
+### Problem 11
 
 Let
 
@@ -359,7 +359,7 @@ $$
 x-y-3=0.
 $$
 
-## Problem 12
+### Problem 12
 
 The expression $z-(1+i)$ is the vector from $(1,1)$ to the moving point $z$.
 The argument condition says that this vector has direction $\pi/4$.
@@ -373,7 +373,7 @@ $$
 
 The endpoint is excluded because $\arg0$ is undefined.
 
-## Problem 13
+### Problem 13
 
 On the real axis, $z=x$ with $y=0$. The circle equation is
 
@@ -409,7 +409,7 @@ $$
 
 ## B. 9231 de Moivre and Roots Extensions
 
-## Problem 14
+### Problem 14
 
 Write
 
@@ -432,7 +432,7 @@ $$
 (1+i)^8=16.
 $$
 
-## Problem 15
+### Problem 15
 
 Let
 
@@ -482,7 +482,7 @@ $$
 \sin3\theta=3s-4s^3.
 $$
 
-## Problem 16
+### Problem 16
 
 Start from
 
@@ -518,7 +518,7 @@ $$
 =\frac{3+4\cos2\theta+\cos4\theta}{8}.
 $$
 
-## Problem 17
+### Problem 17
 
 The roots of
 
@@ -556,7 +556,7 @@ $$
 
 because $\omega^5=1$ and $\omega\ne1$.
 
-## Problem 18
+### Problem 18
 
 Write
 
@@ -589,7 +589,7 @@ $$
 z=\sqrt3+i,\qquad z=-\sqrt3+i,\qquad z=-2i.
 $$
 
-## Problem 19
+### Problem 19
 
 Let
 
@@ -645,7 +645,7 @@ $$
 \sin\frac{(n-1)\theta}{2}.
 $$
 
-## Problem 20
+### Problem 20
 
 Use
 

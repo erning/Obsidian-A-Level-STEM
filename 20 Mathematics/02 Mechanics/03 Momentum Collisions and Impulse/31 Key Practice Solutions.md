@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/02 Mechanics/03 Momentum C
 
 ## A. One-Dimensional Momentum
 
-## Problem 1
+### Problem 1
 
 Take right as positive. The total momentum is
 
@@ -33,7 +33,7 @@ $$
 
 to the right.
 
-## Problem 2
+### Problem 2
 
 The particles stick together, so they have a common final velocity $v$.
 Momentum conservation gives
@@ -48,7 +48,7 @@ $$
 v=3\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 3
+### Problem 3
 
 Take right as positive. If the common velocity after impact is $v$, then
 
@@ -70,7 +70,7 @@ $$
 
 to the right.
 
-## Problem 4
+### Problem 4
 
 Take right as positive and let the final velocity of the $3\ \mathrm{kg}$
 particle be $v$. Momentum conservation gives
@@ -93,7 +93,7 @@ $$
 
 to the right, to 3 s.f.
 
-## Problem 5
+### Problem 5
 
 For question 2, initial kinetic energy is
 
@@ -115,7 +115,7 @@ $$
 
 ## B. Impulse
 
-## Problem 6
+### Problem 6
 
 Take right as positive. Then
 
@@ -131,7 +131,7 @@ $$
 
 The impulse has magnitude $5\ \mathrm{N\ s}$ and acts to the left.
 
-## Problem 7
+### Problem 7
 
 The impulse is
 
@@ -151,7 +151,7 @@ $$
 v=6\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 8
+### Problem 8
 
 Impulse is the integral of force:
 
@@ -177,7 +177,7 @@ $$
 v=19\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 9
+### Problem 9
 
 Take the original direction of motion as positive. The impulse is
 $-3\ \mathrm{N\ s}$. Using $I=m(v-u)$,
@@ -194,7 +194,7 @@ $$
 
 The particle is still moving in its original direction.
 
-## Problem 10
+### Problem 10
 
 Take the original direction toward the wall as positive. Then
 
@@ -224,7 +224,7 @@ and acts away from the wall.
 
 ## C. Restitution in Direct Impact
 
-## Problem 11
+### Problem 11
 
 Let the final velocities be $v_1$ for the $2\ \mathrm{kg}$ particle and
 $v_2$ for the $1\ \mathrm{kg}$ particle. Momentum conservation gives
@@ -245,7 +245,7 @@ $$
 v_1=3\ \mathrm{m\ s^{-1}},\qquad v_2=6\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 12
+### Problem 12
 
 Let the final velocities be $v_1$ for the $1\ \mathrm{kg}$ particle and
 $v_2$ for the $2\ \mathrm{kg}$ particle. Momentum conservation gives
@@ -272,7 +272,7 @@ $$
 v_1=3\ \mathrm{m\ s^{-1}},\qquad v_2=4.5\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 13
+### Problem 13
 
 Let the final velocities be $v_1$ and $v_2$. Since the masses are equal,
 momentum conservation gives
@@ -301,7 +301,7 @@ $$
 
 The equal masses exchange velocities.
 
-## Problem 14
+### Problem 14
 
 Take motion towards the wall as positive. A fixed wall reverses the normal
 component and multiplies its magnitude by $e$. Therefore
@@ -318,7 +318,7 @@ $$
 
 away from the wall.
 
-## Problem 15
+### Problem 15
 
 The tangential component is unchanged:
 
@@ -352,7 +352,7 @@ $$
 
 ## D. Oblique Impact and System Boundaries
 
-## Problem 16
+### Problem 16
 
 Resolve the initial velocity into components normal and tangential to the
 wall:
@@ -391,7 +391,7 @@ $$
 \theta=54.4^\circ.
 $$
 
-## Problem 17
+### Problem 17
 
 There is no impulse perpendicular to the line of centres, so $A$ keeps
 perpendicular component $8\ \mathrm{m\ s^{-1}}$, and $B$ has perpendicular
@@ -428,7 +428,7 @@ $$
 4.5\ \mathrm{m\ s^{-1}}.
 $$
 
-## Problem 18
+### Problem 18
 
 There is no impulse perpendicular to the line of centres. Therefore the
 perpendicular components after impact are
@@ -466,7 +466,7 @@ So after impact, $A$ has components $1.6$ along the line of centres and $5$
 perpendicular to it, while $B$ has components $5.6$ along the line of centres
 and $0$ perpendicular to it.
 
-## Problem 19
+### Problem 19
 
 The speed of approach is
 
@@ -486,7 +486,7 @@ $$
 e=\frac{2}{4}=0.5.
 $$
 
-## Problem 20
+### Problem 20
 
 Take right as positive. Initial total momentum is
 

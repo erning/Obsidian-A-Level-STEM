@@ -17,7 +17,7 @@ This note gives worked solutions for [[20 Mathematics/03 Probability and Statist
 
 ## A. Probability Tables
 
-## Problem 1
+### Problem 1
 
 $$
 E(X)=0(0.2)+1(0.5)+2(0.3)=1.1.
@@ -35,7 +35,7 @@ $$
 \operatorname{Var}(X)=1.7-1.1^2=0.49.
 $$
 
-## Problem 2
+### Problem 2
 
 Probabilities sum to $1$:
 
@@ -61,7 +61,7 @@ $$
 \operatorname{Var}(X)=10-3^2=1.
 $$
 
-## Problem 3
+### Problem 3
 
 Each die has probability $1/6$ of showing a six, so
 
@@ -87,7 +87,7 @@ $$
 \operatorname{Var}(X)=2\left(\frac16\right)\left(\frac56\right)=\frac{5}{18}.
 $$
 
-## Problem 4
+### Problem 4
 
 $$
 P(X\le2)=0.1+0.2+0.4=0.7.
@@ -97,7 +97,7 @@ $$
 P(X>1)=0.4+0.3=0.7.
 $$
 
-## Problem 5
+### Problem 5
 
 Probabilities sum to $1$:
 
@@ -119,7 +119,7 @@ $$
 
 ## B. Binomial Distribution
 
-## Problem 6
+### Problem 6
 
 $$
 P(X=3)=\binom{10}{3}(0.4)^3(0.6)^7=0.215
@@ -127,7 +127,7 @@ $$
 
 to 3 s.f.
 
-## Problem 7
+### Problem 7
 
 $$
 P(X\ge1)=1-P(X=0)=1-(0.6)^{10}=0.994
@@ -135,7 +135,7 @@ $$
 
 to 3 s.f.
 
-## Problem 8
+### Problem 8
 
 $$
 E(X)=np=10(0.4)=4.
@@ -145,7 +145,7 @@ $$
 \operatorname{Var}(X)=np(1-p)=10(0.4)(0.6)=2.4.
 $$
 
-## Problem 9
+### Problem 9
 
 $$
 P(Y\le1)=P(Y=0)+P(Y=1).
@@ -159,7 +159,7 @@ $$
 
 to 3 s.f.
 
-## Problem 10
+### Problem 10
 
 Let $X$ be the number of defective items. A suitable model is
 
@@ -173,7 +173,7 @@ items are independent.
 
 ## C. Geometric Distribution
 
-## Problem 11
+### Problem 11
 
 For $X\sim \operatorname{Geo}(0.25)$,
 
@@ -187,7 +187,7 @@ $$
 E(X)=\frac{1}{0.25}=4.
 $$
 
-## Problem 12
+### Problem 12
 
 $X>5$ means the first five trials fail:
 
@@ -197,7 +197,7 @@ $$
 
 to 3 s.f.
 
-## Problem 13
+### Problem 13
 
 $$
 P(X\le4)=1-P(X>4)=1-(0.75)^4=0.684
@@ -205,7 +205,7 @@ $$
 
 to 3 s.f.
 
-## Problem 14
+### Problem 14
 
 If $X$ is the attempt number of the first score, then
 
@@ -221,7 +221,7 @@ $$
 
 The expected number of attempts is $10$.
 
-## Problem 15
+### Problem 15
 
 Without replacement, the probability of success changes after each failed
 draw. A geometric model requires independent trials with the same success
@@ -229,7 +229,7 @@ probability each time, so this situation is not usually geometric.
 
 ## D. Linear Transformations and Combinations
 
-## Problem 16
+### Problem 16
 
 $$
 E(Y)=E(4-2X)=4-2E(X)=4-12=-8.
@@ -239,7 +239,7 @@ $$
 \operatorname{Var}(Y)=(-2)^2\operatorname{Var}(X)=4(5)=20.
 $$
 
-## Problem 17
+### Problem 17
 
 $$
 E(X+Y)=3+5=8.
@@ -251,7 +251,7 @@ $$
 \operatorname{Var}(X+Y)=2+7=9.
 $$
 
-## Problem 18
+### Problem 18
 
 $$
 E(3X+2Y)=3(3)+2(5)=19.
@@ -263,7 +263,7 @@ $$
 \operatorname{Var}(3X+2Y)=3^2(2)+2^2(7)=46.
 $$
 
-## Problem 19
+### Problem 19
 
 For $X\sim B(20,0.1)$,
 
@@ -289,7 +289,7 @@ $$
 \operatorname{Var}(W)=5^2(1.8)=45.
 $$
 
-## Problem 20
+### Problem 20
 
 For $X\sim \operatorname{Geo}(0.2)$,
 
