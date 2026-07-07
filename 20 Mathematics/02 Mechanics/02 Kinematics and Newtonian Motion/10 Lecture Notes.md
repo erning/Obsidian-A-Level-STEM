@@ -65,6 +65,16 @@ For a velocity-time graph:
 
 Graph questions often become simple once you translate "gradient" and "area" before doing any algebra.
 
+If a velocity-time graph is made from straight-line pieces, treat each piece separately. The gradient of each piece gives the acceleration on that interval, and the signed area gives the displacement on that interval. Total distance is different: add the magnitudes of the areas whenever the velocity changes sign.
+
+**Compact example: reading a velocity-time graph.** Suppose a particle's velocity increases uniformly from $2$ m s$^{-1}$ to $8$ m s$^{-1}$ in the first $3$ s, then decreases uniformly to $0$ m s$^{-1}$ in the next $2$ s. The displacement is the total area:
+
+$$
+\frac12(2+8)(3)+\frac12(8+0)(2)=15+8=23\text{ m}.
+$$
+
+The acceleration is $2$ m s$^{-2}$ on the first interval and $-4$ m s$^{-2}$ on the second. A single acceleration value for the whole motion would hide the change in model.
+
 ## 3. Constant-Acceleration Formulae
 
 When acceleration is constant, the standard formulae are
@@ -93,7 +103,36 @@ These formulae are powerful because they remove calculus, but only when $a$ is c
 
 Vertical motion is just constant acceleration with gravity. If upward is positive, a freely moving particle has acceleration $-g$; if downward is positive, it has acceleration $g$. The sign is not a property of gravity alone, but of your coordinate choice.
 
-## 4. From Kinematics to Dynamics
+## 4. Variable Acceleration
+
+For variable acceleration, choose the calculus form that matches the independent variable in the question.
+
+- If $v$ or $a$ is given as a function of $t$, use
+  $$
+  v=\frac{ds}{dt},\qquad a=\frac{dv}{dt}.
+  $$
+- If $a$ is given as a function of displacement $s$, use the chain rule
+  $$
+  a=\frac{dv}{dt}=\frac{dv}{ds}\frac{ds}{dt}=v\frac{dv}{ds}.
+  $$
+
+The second form is mainly an extension tool for variable-force or position-dependent motion, but it is worth recognising early because it prevents trying to force everything into time equations.
+
+**Compact example: acceleration depending on time.** If $a=6t$ and $v=4$ when $t=0$, then
+
+$$
+v=\int 6t\,dt=3t^2+C.
+$$
+
+The initial condition gives $C=4$, so $v=3t^2+4$. If also $s=0$ when $t=0$, then
+
+$$
+s=\int (3t^2+4)\,dt=t^3+4t.
+$$
+
+At each integration step, the constant has physical meaning: initial velocity first, then initial displacement.
+
+## 5. From Kinematics to Dynamics
 
 Newton's second law is the bridge from forces to acceleration:
 
@@ -113,7 +152,7 @@ Mass is the amount of matter and is measured in kilograms. Weight is a force and
 
 In this topic, the usual models are particles of constant mass under constant forces. Forces may include weight, tension, friction, normal contact force, thrust in a rod, or an applied force. If resistance such as air resistance is relevant, the question must specify it.
 
-## 5. Connected Particles
+## 6. Connected Particles
 
 Connected-particle questions test modelling as much as algebra. A light inextensible string gives connected particles the same magnitude of acceleration along the string. A smooth pulley changes the direction of tension without changing its magnitude in the ideal model.
 
@@ -124,13 +163,28 @@ There are two useful viewpoints.
 
 For example, if two particles are connected by a light string over a smooth pulley, write $\sum F=ma$ for each particle with a consistent direction of motion. The tension appears in both equations and can often be eliminated by adding them.
 
-## 6. Method Choice
+**Compact example: two particles over a smooth pulley.** Let masses $3$ kg and $2$ kg hang over a smooth pulley, connected by a light inextensible string. If the $3$ kg mass moves downward, write
+
+$$
+3g-T=3a,
+$$
+
+and for the $2$ kg mass moving upward,
+
+$$
+T-2g=2a.
+$$
+
+Adding gives $g=5a$, so $a=\frac15g$. Substituting back gives $T=2g+2a=\frac{12}{5}g$. The two equations use different positive directions for the two particles, but both positive directions follow the actual string motion.
+
+## 7. Method Choice
 
 Start by identifying which information is given.
 
 - Use constant-acceleration formulae when acceleration is constant and the unknown is one of $u,v,a,s,t$.
 - Use graphs when slopes or areas are given or requested.
 - Use calculus when velocity or acceleration is given as a function of time.
+- Use $a=v\dfrac{dv}{ds}$ when acceleration is naturally given as a function of displacement.
 - Use Newton's second law when forces are given and acceleration is unknown.
 - Use the whole-system method when internal tensions are distracting.
 

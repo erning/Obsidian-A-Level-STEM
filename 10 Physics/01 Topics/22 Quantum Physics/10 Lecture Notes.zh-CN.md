@@ -268,7 +268,7 @@ $$
 - 用 $\lambda = h/p$ 解释电子衍射。
 - 解释发射线谱和吸收线谱如何来自分立能级。
 
-## 关联
+## 关联内容
 
 - [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
 - [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]

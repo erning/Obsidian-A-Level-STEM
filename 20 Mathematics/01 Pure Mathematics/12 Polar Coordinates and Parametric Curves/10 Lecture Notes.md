@@ -95,6 +95,20 @@ $$
 
 This is a circle.
 
+A compact curve-tracing example is
+
+$$
+r=2+2\cos\theta,\qquad 0\le\theta\le\pi.
+$$
+
+Check key values:
+
+$$
+r(0)=4,\qquad r\left(\frac{\pi}{2}\right)=2,\qquad r(\pi)=0.
+$$
+
+The radius is non-negative on this interval, so the path starts on the initial line at distance $4$, passes through $(2,\pi/2)$, and reaches the pole at $\theta=\pi$. The full curve is symmetric about the initial line, but this interval traces the upper half.
+
 ## 3. Area in Polar Coordinates
 
 The area swept out by a polar curve from $\theta=\alpha$ to $\theta=\beta$ is
@@ -106,6 +120,33 @@ $$
 This comes from the sector area formula $\frac{1}{2}r^2\theta$. The integral adds many small sectors.
 
 Choose limits from the geometry, not from habit. If a curve is traced more than once over an interval, the area integral may double-count. Sketch first.
+
+For example,
+
+$$
+r=2a\cos\theta
+$$
+
+is the circle
+
+$$
+x^2+y^2=2ax.
+$$
+
+With the convention $r\ge0$, one complete tracing occurs for
+
+$$
+-\frac{\pi}{2}\le\theta\le\frac{\pi}{2},
+$$
+
+because $r=0$ at both endpoints and $r>0$ between them. The area is
+
+$$
+A=\frac{1}{2}\int_{-\pi/2}^{\pi/2}4a^2\cos^2\theta\,d\theta
+=\pi a^2,
+$$
+
+matching the area of a circle of radius $a$.
 
 ## 4. Parametric Curves
 
@@ -155,6 +196,34 @@ $$
 =\frac{\frac{d}{dt}\left(\frac{dy}{dx}\right)}{\frac{dx}{dt}}.
 $$
 
+For example, let
+
+$$
+x=t^2,\qquad y=t^3.
+$$
+
+When $t\ne0$,
+
+$$
+\frac{dy}{dx}
+=\frac{3t^2}{2t}
+=\frac{3t}{2}.
+$$
+
+At $t=1$, the point is $(1,1)$ and the tangent gradient is $\frac{3}{2}$, so the tangent is
+
+$$
+y-1=\frac{3}{2}(x-1).
+$$
+
+The normal gradient is the negative reciprocal, $-\frac{2}{3}$, so the normal is
+
+$$
+y-1=-\frac{2}{3}(x-1).
+$$
+
+If $\frac{dx}{dt}=0$ but $\frac{dy}{dt}\ne0$, do not divide by zero; this usually signals a tangent parallel to the $y$-axis.
+
 ## 6. Arc Length and Related Further Ideas
 
 Parametric form is useful in integration. For a parametric curve,
@@ -171,7 +240,33 @@ L=\int_{t_1}^{t_2}
 \sqrt{\left(\frac{dx}{dt}\right)^2+\left(\frac{dy}{dt}\right)^2}\,dt.
 $$
 
-Polar arc length and surface area of revolution appear in further integration work. The same rule applies: identify the variable, interval, and geometry before integrating.
+For a circular arc
+
+$$
+x=a\cos t,\qquad y=a\sin t,\qquad 0\le t\le\frac{\pi}{2},
+$$
+
+we have
+
+$$
+\frac{ds}{dt}
+=\sqrt{a^2\sin^2t+a^2\cos^2t}
+=a,
+$$
+
+so
+
+$$
+L=\int_0^{\pi/2}a\,dt=\frac{\pi a}{2}.
+$$
+
+For polar curves, later integration work uses
+
+$$
+L=\int_\alpha^\beta \sqrt{r^2+\left(\frac{dr}{d\theta}\right)^2}\,d\theta.
+$$
+
+The same rule applies: identify the variable, interval, and geometry before integrating.
 
 ## Worked-Thinking Routines
 
@@ -206,6 +301,7 @@ Polar arc length and surface area of revolution appear in further integration wo
 - Double-counting polar area.
 - Eliminating a parameter but forgetting the original range.
 - Treating $\frac{dy}{dt}$ as $\frac{dy}{dx}$.
+- Dividing by $\frac{dx}{dt}$ at a vertical tangent without checking the geometry.
 - Assuming the parameter must be time.
 
 ## Quick Self-Check
@@ -216,7 +312,8 @@ You are ready to move on when you can:
 - Sketch simple polar curves using symmetry and key values.
 - Use $\frac{1}{2}\int r^2\,d\theta$ for polar area.
 - Interpret and eliminate parametric equations.
-- Find tangent gradients for parametric curves.
+- Find tangent and normal equations for parametric curves.
+- Use parametric or polar arc length formulae with the correct interval.
 - Preserve interval restrictions when changing representation.
 
 ## Connections

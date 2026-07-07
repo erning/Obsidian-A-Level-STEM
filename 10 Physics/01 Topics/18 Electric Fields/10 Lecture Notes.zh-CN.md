@@ -295,7 +295,7 @@ $$
 - 解释为什么 $E = -\frac{dV}{dr}$；
 - 用 $E_\text{p} = \frac{Qq}{4\pi\varepsilon_0r}$ 计算两个点电荷的电势能。
 
-## 关联
+## 关联内容
 
 - [[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]]
 - [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]

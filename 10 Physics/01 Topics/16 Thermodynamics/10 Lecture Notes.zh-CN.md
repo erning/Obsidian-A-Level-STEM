@@ -269,7 +269,7 @@ $$
 - 说明气体对外做功和外界对气体做功的区别；
 - 把简单 $p$-$V$ 图像下方的面积解释为气体对外做功。
 
-## 关联
+## 关联内容
 
 - [[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]
 - [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]]

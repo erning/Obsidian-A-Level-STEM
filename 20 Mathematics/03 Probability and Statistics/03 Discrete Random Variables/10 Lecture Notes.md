@@ -55,6 +55,18 @@ $$
 
 adds all probabilities up to that value.
 
+Example: if $X$ is the number of heads when two fair coins are tossed, then
+
+| $x$ | $0$ | $1$ | $2$ |
+|---|---:|---:|---:|
+| $P(X=x)$ | $\frac14$ | $\frac12$ | $\frac14$ |
+
+The probabilities sum to $1$, and the table also makes cumulative probabilities visible, such as
+
+$$
+P(X\le 1)=\frac14+\frac12=\frac34.
+$$
+
 ## 2. Expectation and Variance
 
 Expectation is the long-run average value:
@@ -84,6 +96,24 @@ $$
 $$
 
 Always attach interpretation: expectation is the average over many repetitions, and standard deviation gives a typical scale of variation.
+
+For the two-coin table above,
+
+$$
+E(X)=0\cdot\frac14+1\cdot\frac12+2\cdot\frac14=1,
+$$
+
+and
+
+$$
+E(X^2)=0^2\cdot\frac14+1^2\cdot\frac12+2^2\cdot\frac14=\frac32.
+$$
+
+Therefore
+
+$$
+\operatorname{Var}(X)=\frac32-1^2=\frac12.
+$$
 
 ## 3. Linear Transformations and Combinations
 
@@ -132,6 +162,18 @@ $$
 
 Before using the binomial distribution, check the assumptions: fixed number of trials, two outcomes per trial, constant success probability, and independence.
 
+Example: if $X\sim B(8,0.3)$, then
+
+$$
+P(X\le 2)=P(X=0)+P(X=1)+P(X=2).
+$$
+
+Using the binomial formula,
+
+$$
+P(X\le 2)=0.7^8+8(0.3)(0.7)^7+\binom82(0.3)^2(0.7)^6.
+$$
+
 ## 5. Geometric Distribution
 
 In the CAIE notation, $X\sim \operatorname{Geo}(p)$ means $X$ is the trial number on which the first success occurs. The possible values are $1,2,3,\ldots$, and
@@ -147,6 +189,20 @@ E(X)=\frac1p.
 $$
 
 Use this model when trials repeat independently until the first success and the success probability remains constant.
+
+For $X\sim\operatorname{Geo}(p)$ in this convention,
+
+$$
+P(X\le r)=1-(1-p)^r,
+$$
+
+because $X\le r$ means at least one success in the first $r$ trials. Also,
+
+$$
+P(X>r)=(1-p)^r,
+$$
+
+because the first $r$ trials must all be failures.
 
 ## 6. Cumulative Probabilities
 
@@ -165,6 +221,20 @@ P(X\le r)=\sum_{k}P(X=k),
 $$
 
 over the allowed values $k\le r$.
+
+Example: if $X\sim\operatorname{Geo}(0.2)$, then
+
+$$
+P(X\le 4)=1-0.8^4=0.5904.
+$$
+
+But
+
+$$
+P(X<4)=P(X\le 3)=1-0.8^3=0.488.
+$$
+
+The endpoint changes the answer.
 
 ## Worked-Thinking Routine
 

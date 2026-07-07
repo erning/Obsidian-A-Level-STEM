@@ -57,7 +57,25 @@ $$
 
 The area of each bar represents frequency. This is the main difference between a histogram and a bar chart.
 
+Example: suppose the grouped data are
+
+| Class | Frequency | Class width | Frequency density |
+|---|---:|---:|---:|
+| $0\le x<10$ | $12$ | $10$ | $1.2$ |
+| $10\le x<30$ | $18$ | $20$ | $0.9$ |
+| $30\le x<40$ | $10$ | $10$ | $1.0$ |
+
+The class $10\le x<30$ has the largest frequency, but not the tallest bar. Its larger width means its area, not its height, represents the $18$ observations.
+
 A cumulative frequency graph is used to estimate medians, quartiles, percentiles, and proportions above or below a given value. It is read horizontally and vertically: from a cumulative frequency to a data value, or from a data value to a cumulative frequency.
+
+Interpolation example: in a data set of $80$ values, the median is the $40$th value. If a cumulative frequency graph rises approximately linearly from cumulative frequency $24$ at $x=20$ to cumulative frequency $48$ at $x=30$, then
+
+$$
+\text{median}\approx 20+\frac{40-24}{48-24}\times 10=26.7.
+$$
+
+This is an estimate, because grouped-data cumulative frequency graphs assume values are spread evenly inside each class interval.
 
 ## 3. Measures of Centre
 
@@ -146,6 +164,16 @@ Adding or subtracting a constant shifts the data but does not change spread. Mul
 A comparison should mention centre and spread, and usually shape. Do not write only "data set A is bigger" unless you say what is bigger: the median, the mean, the IQR, the standard deviation, or the upper tail.
 
 Use median and IQR when distributions are skewed or outliers are important. Use mean and standard deviation when the distribution is reasonably symmetric and the mean is an appropriate centre.
+
+Box plot comparison example: suppose two training groups have five-number summaries
+
+$$
+A:\ 12,\ 18,\ 22,\ 28,\ 40
+\qquad
+B:\ 10,\ 17,\ 22,\ 35,\ 46.
+$$
+
+The medians are equal at $22$, but group $B$ is less consistent because its $IQR$ is $35-17=18$, compared with $28-18=10$ for group $A$. Group $B$ also has a longer upper half, so a short comparison should mention both the shared centre and the greater spread or upper-tail skew in $B$.
 
 ## Worked-Thinking Routine
 

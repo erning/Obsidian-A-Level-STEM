@@ -308,7 +308,7 @@ $$
 - 使用 $\tau = RC$ 和 $x = x_0e^{-t/RC}$；
 - 从物理上解释为什么放电电流会越来越小。
 
-## 关联
+## 关联内容
 
 - [[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]]
 - [[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]]

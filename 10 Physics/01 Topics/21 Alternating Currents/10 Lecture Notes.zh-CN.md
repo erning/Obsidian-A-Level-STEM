@@ -211,7 +211,7 @@ $$
 - 从同一个输入正弦波画出半波整流和全波整流输出。
 - 说明增大电容或负载电阻会怎样影响纹波。
 
-## 关联
+## 关联内容
 
 - [[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]]
 - [[10 Physics/01 Topics/10 DC Circuits/00 Overview|DC Circuits]]

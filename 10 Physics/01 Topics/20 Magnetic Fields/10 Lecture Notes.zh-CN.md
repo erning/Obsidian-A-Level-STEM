@@ -380,7 +380,7 @@ $$
 - 使用 $\Phi = BA$ 和磁通链 $N\Phi$；
 - 用法拉第定律和楞次定律处理电磁感应。
 
-## 关联
+## 关联内容
 
 - [[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]]
 - [[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]]

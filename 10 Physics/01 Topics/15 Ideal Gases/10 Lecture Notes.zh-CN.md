@@ -287,7 +287,7 @@ $$
 - 推出 $pV = \frac{1}{3}Nm\langle c^2\rangle$ 的主要步骤；
 - 解释为什么 $\langle E_\text{k}\rangle = \frac{3}{2}kT$ 表明温度是分子平均平动动能的尺度。
 
-## 关联
+## 关联内容
 
 - [[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]
 - [[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]

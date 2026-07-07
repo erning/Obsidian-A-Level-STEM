@@ -67,6 +67,22 @@ $$
 
 During a collision between two bodies, the impulses they exert on each other are equal and opposite. This is why internal collision forces do not change the total momentum of the two-body system.
 
+On a force-time graph, use signed area. A force in the chosen positive direction gives positive impulse; a force in the opposite direction gives negative impulse. If the graph is a triangle or trapezium, ordinary area formulae are usually enough.
+
+**Compact example: impulse-time area.** A force rises linearly from $0$ to $40$ N and then returns linearly to $0$ over a total time of $0.5$ s. The impulse is the triangular area
+
+$$
+I=\frac12(0.5)(40)=10\text{ N s}.
+$$
+
+If this impulse acts in the direction of motion on a $2$ kg particle initially moving at $3$ m s$^{-1}$, then
+
+$$
+10=2(v-3),
+$$
+
+so $v=8$ m s$^{-1}$.
+
 ## 3. Direct Impact
 
 A direct impact is one-dimensional along the line of motion or line of centres. Let two bodies of masses $m_1$ and $m_2$ have velocities $u_1,u_2$ before impact and $v_1,v_2$ after impact, all measured in the same positive direction. Momentum conservation gives
@@ -106,6 +122,26 @@ Special cases:
 - $e=0$: inelastic impact, with no separation speed along the line of impact.
 - $0<e<1$: kinetic energy is lost from mechanical form during impact.
 
+**Compact example: direct impact with energy loss.** A $2$ kg particle moving at $5$ m s$^{-1}$ strikes a $1$ kg particle at rest. If $e=\frac12$, momentum conservation and restitution give
+
+$$
+10=2v_1+v_2,\qquad v_2-v_1=\frac12(5-0).
+$$
+
+Solving gives $v_1=2.5$ m s$^{-1}$ and $v_2=5$ m s$^{-1}$. The kinetic energy before impact is
+
+$$
+\frac12(2)(5^2)=25\text{ J},
+$$
+
+and after impact it is
+
+$$
+\frac12(2)(2.5^2)+\frac12(1)(5^2)=18.75\text{ J}.
+$$
+
+The lost mechanical energy is $6.25$ J. Momentum is conserved for the two-particle system, but kinetic energy is not conserved because $e<1$.
+
 ## 5. Oblique Impact
 
 In oblique impact of smooth spheres, choose axes along the line of centres and perpendicular to it. Smooth contact means the impulse acts along the line of centres only. Therefore:
@@ -120,6 +156,8 @@ v_{\text{normal after}}=-e\,u_{\text{normal before}}.
 $$
 
 This component view is the cleanest way to avoid confusion about angles after impact.
+
+For a smooth sphere hitting a smooth fixed plane, "normal" means perpendicular to the plane and "tangential" means parallel to the plane. If the incoming speed is $u$ at angle $\alpha$ to the normal, the incoming components are $u\cos\alpha$ normal and $u\sin\alpha$ tangential. After impact, the tangential component is still $u\sin\alpha$, while the normal component has magnitude $eu\cos\alpha$ in the opposite normal direction. The angle after impact should be found from the new component ratio, not assumed to equal the angle before impact.
 
 ## 6. Energy as a Check
 

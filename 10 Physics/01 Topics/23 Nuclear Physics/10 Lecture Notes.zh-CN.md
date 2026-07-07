@@ -297,7 +297,7 @@ $$
 - 说明放射性衰变为什么既随机又自发。
 - 正确使用 $A = \lambda N$、$x = x_0e^{-\lambda t}$ 和 $\lambda = 0.693/t_{1/2}$。
 
-## 关联
+## 关联内容
 
 - [[10 Physics/01 Topics/11 Particle Physics/00 Overview|Particle Physics]]
 - [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]

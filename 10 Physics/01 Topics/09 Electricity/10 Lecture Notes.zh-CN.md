@@ -17,7 +17,7 @@ tags:
 
 这一章的公式很多，但不要把它学成公式表。每个公式都要挂回一个问题：是在数电荷、算能量，还是描述阻碍电流的能力。
 
-## Source Route
+## 来源范围
 
 - 主要依据：CAIE Physics 9702，Topic 9 Electricity。
 - 主要内容：电流、电势差与功率、电阻与电阻率。
@@ -399,7 +399,7 @@ $$
 - 光照增强时，LDR 的电阻怎样变化？
 - 为什么电阻率单位是 $\Omega\ \text{m}$？
 
-## Connections
+## 关联内容
 
 - [[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]] 会用这些定义分析完整电路。
 - [[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]] 会进一步解释单位电荷受力和单位电荷能量。

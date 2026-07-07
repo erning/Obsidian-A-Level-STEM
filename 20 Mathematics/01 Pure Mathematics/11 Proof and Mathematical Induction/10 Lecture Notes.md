@@ -97,6 +97,28 @@ $$
 
 This is the required form for $P(k+1)$.
 
+A slightly richer summation proof follows the same pattern. Let
+
+$$
+P(n):\quad \sum_{r=1}^{n}r^2=\frac{n(n+1)(2n+1)}{6}.
+$$
+
+The base case $n=1$ is true. Assume
+
+$$
+\sum_{r=1}^{k}r^2=\frac{k(k+1)(2k+1)}{6}.
+$$
+
+Then
+
+$$
+\sum_{r=1}^{k+1}r^2
+=\frac{k(k+1)(2k+1)}{6}+(k+1)^2
+=\frac{(k+1)(k+2)(2k+3)}{6},
+$$
+
+which is the required formula with $n=k+1$. Therefore the result is true for all positive integers $n$.
+
 More advanced summation proofs may involve $\sum r^3$, factorials, or expressions discovered from limited trials.
 
 ## 5. Divisibility Proofs
@@ -113,6 +135,29 @@ In the induction step, manipulate $A_{k+1}$ until it contains $A_k$ or a known m
 
 The important phrase is "for some integer". Divisibility is not only about algebraic rearrangement; it is about proving the quotient is an integer.
 
+For example, prove that $3^{2n+1}+5$ is divisible by $8$ for all integers $n\ge0$. The base case is
+
+$$
+3^{1}+5=8.
+$$
+
+Assume
+
+$$
+3^{2k+1}+5=8m
+$$
+
+for some integer $m$. Then
+
+$$
+3^{2(k+1)+1}+5
+=9\cdot3^{2k+1}+5
+=9(3^{2k+1}+5)-40
+=8(9m-5).
+$$
+
+Since $9m-5$ is an integer, the expression is divisible by $8$ for $n=k+1$.
+
 ## 6. Recurrence and Matrix Proofs
 
 If a sequence is defined recursively, the induction hypothesis gives a formula for $u_k$, and the recurrence gives $u_{k+1}$.
@@ -124,6 +169,28 @@ u_{k+1}=3u_k-1.
 $$
 
 Assume the proposed formula for $u_k$, substitute it into the recurrence, and simplify to the proposed formula for $u_{k+1}$.
+
+For a complete example, let $u_1=1$ and $u_{n+1}=3u_n-1$. Prove
+
+$$
+u_n=\frac{3^{n-1}+1}{2}.
+$$
+
+The base case $n=1$ gives $u_1=1$. Assume
+
+$$
+u_k=\frac{3^{k-1}+1}{2}.
+$$
+
+Then
+
+$$
+u_{k+1}=3u_k-1
+=3\left(\frac{3^{k-1}+1}{2}\right)-1
+=\frac{3^k+1}{2},
+$$
+
+which is the formula with $n=k+1$.
 
 For matrix powers, induction often proves a formula for $A^n$. The step uses
 
@@ -138,6 +205,33 @@ A^{k+1}=AA^k,
 $$
 
 then the induction hypothesis replaces $A^k$.
+
+For instance, if
+
+$$
+A=\begin{pmatrix}1&1\\0&1\end{pmatrix},
+$$
+
+then
+
+$$
+A^n=\begin{pmatrix}1&n\\0&1\end{pmatrix}
+$$
+
+for all positive integers $n$. The base case is $A^1=A$. If
+
+$$
+A^k=\begin{pmatrix}1&k\\0&1\end{pmatrix},
+$$
+
+then
+
+$$
+A^{k+1}=A^kA
+=\begin{pmatrix}1&k\\0&1\end{pmatrix}
+\begin{pmatrix}1&1\\0&1\end{pmatrix}
+=\begin{pmatrix}1&k+1\\0&1\end{pmatrix}.
+$$
 
 ## 7. Conjecture Before Proof
 

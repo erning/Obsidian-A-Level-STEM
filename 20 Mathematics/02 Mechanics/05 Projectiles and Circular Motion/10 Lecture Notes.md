@@ -77,6 +77,20 @@ $$
 
 These compact formulae depend on returning to the same vertical level. If launch and landing heights differ, use the component equations rather than forcing the range formula.
 
+For a target at horizontal displacement $d$ and vertical displacement $h$ from the point of projection, the time is found from
+
+$$
+h=u\sin\theta\,t-\frac12gt^2,
+$$
+
+then the horizontal equation gives
+
+$$
+d=u\cos\theta\,t.
+$$
+
+The quadratic in $t$ may have two positive roots, one positive root, or no positive root. The two positive roots usually correspond to reaching that vertical level once on the way up and once on the way down. Choose the root that matches the physical part of the flight described in the question.
+
 Eliminating $t$ gives the Cartesian equation of the trajectory:
 
 $$
@@ -84,6 +98,14 @@ y=x\tan\theta-\frac{gx^2}{2u^2\cos^2\theta}.
 $$
 
 This is a parabola. The equation is especially useful when the unknown is the angle of projection, the speed of projection, or whether the path passes through a given point.
+
+For a fixed point $(d,h)$ and known speed $u$, putting $p=\tan\theta$ gives
+
+$$
+h=dp-\frac{gd^2}{2u^2}(1+p^2),
+$$
+
+so the possible projection angles are found from a quadratic in $p$. A negative discriminant means the point cannot be reached with that speed in this model.
 
 ## 3. Velocity Direction
 
@@ -133,6 +155,20 @@ The real forces may be tension, normal contact force, friction, weight, or a com
 
 In a horizontal circle, the radial direction is horizontal. A conical pendulum is a standard example: the vertical component of tension balances weight, and the horizontal component provides centripetal acceleration.
 
+For a conical pendulum with string angle $\theta$ to the vertical,
+
+$$
+T\cos\theta=mg,\qquad T\sin\theta=m\frac{v^2}{r}.
+$$
+
+Dividing the equations gives
+
+$$
+\tan\theta=\frac{v^2}{rg}=\frac{r\omega^2}{g}.
+$$
+
+For a particle moving in a horizontal circle on a rough horizontal surface, the normal reaction balances weight and friction is the force that may supply the radial resultant. Check whether friction is limiting before setting $F=\mu R$.
+
 In a vertical circle, the radial direction changes from point to point. At the top of a circle, towards the centre is downward. At the bottom, towards the centre is upward. Draw the radial direction before writing the force equation.
 
 For a particle attached to a light string in a vertical circle:
@@ -145,6 +181,16 @@ If the string is just taut at the top, then $T=0$, so the limiting condition is
 $$
 v^2=gr.
 $$
+
+This is a limiting condition, not a force formula. A string cannot push, so if the speed at the top would require $T<0$, the string has already become slack and the circular-motion model no longer applies.
+
+For contact problems, the normal reaction also cannot pull. Loss of contact occurs when the normal reaction is zero. For example, at the top of a smooth inside track,
+
+$$
+N+mg=m\frac{v^2}{r},
+$$
+
+so the limiting contact condition is again $v^2=gr$ when $N=0$. In other geometries, write the radial equation from the diagram rather than copying this equation blindly.
 
 Energy is often paired with circular motion. Use conservation of mechanical energy to relate speeds at different heights, then use the radial force equation at the point of interest.
 

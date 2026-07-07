@@ -73,6 +73,29 @@ $$
 
 After $k$ is known, probabilities are found by integrating over the required interval. For piecewise functions, split the integral at the breakpoints. The most common mistake is integrating beyond the support or forgetting a piece.
 
+For a piecewise density, the support and the breakpoints control the work. Suppose
+
+$$
+f(x)=
+\begin{cases}
+kx, & 0\le x\le 1,\\
+k(2-x), & 1<x\le 2,\\
+0, & \text{otherwise}.
+\end{cases}
+$$
+
+Then
+
+$$
+\int_0^1 kx\,dx+\int_1^2 k(2-x)\,dx=1,
+$$
+
+so $k=1$. A probability such as $P(0.5<X<1.5)$ must be split at $x=1$:
+
+$$
+P(0.5<X<1.5)=\int_{0.5}^{1}x\,dx+\int_1^{1.5}(2-x)\,dx.
+$$
+
 ## 3. Cumulative Distribution Functions
 
 The cumulative distribution function is
@@ -107,6 +130,21 @@ $$
 
 defines the $p$th quantile.
 
+For the piecewise density above, the CDF is also piecewise. For $0\le x\le 1$,
+
+$$
+F(x)=\int_0^x t\,dt=\frac{x^2}{2}.
+$$
+
+For $1<x\le 2$,
+
+$$
+F(x)=\frac12+\int_1^x (2-t)\,dt
+=2x-\frac{x^2}{2}-1.
+$$
+
+This form starts at $0$, is continuous at $x=1$, and ends at $1$. Those three checks catch many CDF errors.
+
 ## 4. Expectation, Variance, and Functions of $X$
 
 For a continuous random variable,
@@ -135,6 +173,26 @@ $$
 
 For piecewise density functions, every expectation integral must also be split over the pieces.
 
+For example, if $X$ has density $f(x)=2x$ on $0\le x\le 1$, then
+
+$$
+E(X)=\int_0^1 x(2x)\,dx=\frac23,
+$$
+
+and
+
+$$
+E(X^2)=\int_0^1 x^2(2x)\,dx=\frac12.
+$$
+
+If the question asks for $E(1/X)$, do not find a new density. Use
+
+$$
+E\left(\frac1X\right)=\int_0^1 \frac1x(2x)\,dx=2.
+$$
+
+This is the main advantage of the $E(g(X))$ formula.
+
 ## 5. Related Variables
 
 For a related variable $Y=g(X)$, a reliable method is to use the CDF:
@@ -161,6 +219,14 @@ PDF, watching the sign.
 
 The main care is the range of $Y$ and whether the transformation is one-to-one on the support.
 
+Support checks are not optional. If $X$ has support $0\le X\le 1$ and $Y=X^2$, then $0\le Y\le 1$. For $0\le y\le 1$,
+
+$$
+F_Y(y)=P(X^2\le y)=P(X\le \sqrt y)=F_X(\sqrt y),
+$$
+
+because $X$ is non-negative on its support. If the support included negative values as well, the same transformation would not be one-to-one, and this one-line argument would need to be replaced by a careful interval calculation.
+
 ## Worked-Thinking Routine
 
 1. Write the support of the variable.
@@ -180,6 +246,7 @@ The main care is the range of $Y$ and whether the transformation is one-to-one o
 - Forgetting to split integrals for piecewise functions.
 - Confusing the PDF $f(x)$ with the CDF $F(x)$.
 - Finding a CDF but not checking that it starts at $0$ and tends to $1$.
+- Using a transformation formula without first finding the new support.
 
 ## Quick Self-Check
 

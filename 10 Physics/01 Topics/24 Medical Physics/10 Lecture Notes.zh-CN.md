@@ -266,7 +266,7 @@ PET 题：
 - 解释 X 射线图像的对比度，以及 CT 为什么能提供断层信息。
 - 说明 PET 如何利用贝塔正示踪剂、正负电子湮灭和探测器计时来重建示踪剂浓度。
 
-## 关联
+## 关联内容
 
 - [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
 - [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]

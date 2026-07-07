@@ -251,7 +251,7 @@ $$
 - 用 $L = 4\pi\sigma r^2T^4$ 估计恒星半径。
 - 用红移和哈勃定律说明为什么认为宇宙在膨胀。
 
-## 关联
+## 关联内容
 
 - [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
 - [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]

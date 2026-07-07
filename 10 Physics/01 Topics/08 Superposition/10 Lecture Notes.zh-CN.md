@@ -17,7 +17,7 @@ tags:
 
 这一章要接在 [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]] 后面学。前一章里的位移、相位、波长、频率、振幅和强度都要继续用。尤其要记住：位移有正负，相位表示振动走到周期中的哪一步，波长表示空间上重复一次的距离。
 
-## Source Route
+## 来源范围
 
 - 主要依据：CAIE Physics 9702，Topic 8 Superposition。
 - 主要内容：驻波、衍射、干涉、衍射光栅。
@@ -348,7 +348,7 @@ $$
 - 驻波中相邻波节之间相距多少？
 - 微波驻波实验如何用来求波长？
 
-## Connections
+## 关联内容
 
 - [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]] 提供波长、相位、振幅和强度的基本语言。
 - [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]] 帮助理解相位和正弦振动。

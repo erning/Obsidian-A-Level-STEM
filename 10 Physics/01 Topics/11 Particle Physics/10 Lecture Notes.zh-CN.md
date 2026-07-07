@@ -17,7 +17,7 @@ tags:
 
 这一章最重要的学习习惯是“记账”：核子数、质子数、电荷、粒子种类和能量，在过程前后都必须说得通。
 
-## Source Route
+## 来源范围
 
 - 主要依据：CAIE Physics 9702，Topic 11 Particle physics。
 - 主要内容：原子、原子核与辐射；基本粒子。
@@ -471,7 +471,7 @@ $$
 - 质子和中子分别由哪些夸克组成？
 - $\beta^-$ 和 $\beta^+$ 衰变中，夸克组成怎样变化？
 
-## Connections
+## 关联内容
 
 - [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]] 会继续使用光子和微观粒子行为。
 - [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]] 会进一步研究衰变、结合能、质量亏损和核反应。

@@ -17,7 +17,7 @@ tags:
 
 这一章是矢量思维的练习。物体没有变快，但它也不是平衡状态；合力不为零。这个合力指向圆心，不断改变速度方向。
 
-## Source Route
+## 来源范围
 
 - 主要依据：CAIE Physics 9702，Topic 12 Motion in a circle。
 - 主要内容：匀速圆周运动的运动学、向心加速度。
@@ -318,7 +318,7 @@ $$
 - 平路转弯汽车、绳子拴着的石子、轨道卫星分别由什么提供向心力？
 - 为什么向心力不会让物体变快？
 
-## Connections
+## 关联内容
 
 - [[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]] 提供 Newton 定律和合力思想。
 - [[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]] 会用圆周运动分析轨道。

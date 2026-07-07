@@ -46,7 +46,7 @@ $$
 
 so inequalities such as $<$ and $\le$ give the same probability.
 
-## 2. Standardisation and Inverse Questions
+## 2. Standardisation and Inverse Normal Questions
 
 The standard normal variable is
 
@@ -63,13 +63,41 @@ $$
 P(a<X<b)=P\left(\frac{a-\mu}{\sigma}<Z<\frac{b-\mu}{\sigma}\right).
 $$
 
-Inverse probability questions run the process backwards. If a probability is given, first find the corresponding $z$ value, then solve
+Inverse probability questions run the process backwards. The critical values table gives $z$ from a left-tail probability:
+
+$$
+P(Z\le z)=p.
+$$
+
+If the probability is given as an upper tail, convert it first. For example, $P(Z>z)=0.05$ means $P(Z\le z)=0.95$, so $z\approx 1.645$. If the probability is below the mean, the $z$ value is negative; for example, $P(Z\le z)=0.10$ gives $z\approx -1.282$.
+
+After the tail direction is settled, solve
 
 $$
 z=\frac{x-\mu}{\sigma}
 $$
 
-for the unknown boundary, mean, or standard deviation.
+for the unknown boundary, mean, or standard deviation. Common forms are
+
+$$
+x=\mu+z\sigma,\qquad \mu=x-z\sigma,\qquad \sigma=\frac{x-\mu}{z}.
+$$
+
+The last formula needs care: if $z$ is negative, then $x-\mu$ should be negative too for a positive standard deviation. If a question gives two percentile statements, write two equations, such as
+
+$$
+\frac{x_1-\mu}{\sigma}=z_1,\qquad \frac{x_2-\mu}{\sigma}=z_2,
+$$
+
+then solve them simultaneously. Symmetric percentiles are faster: if the $10$th and $90$th percentiles are given, their midpoint is $\mu$ because the corresponding $z$ values are opposites.
+
+Compact example: if $X\sim N(50,8^2)$ and $P(X>x)=0.10$, then the left-tail probability is $0.90$, so $z\approx 1.282$. Hence
+
+$$
+x=50+1.282(8)\approx 60.3.
+$$
+
+The sign of $z$ is a check: an upper-tail probability of $0.10$ puts the boundary above the mean.
 
 ## 3. Poisson Distribution
 
@@ -116,11 +144,51 @@ $$
 \operatorname{Var}(aX+bY)=a^2\operatorname{Var}(X)+b^2\operatorname{Var}(Y).
 $$
 
+Independence is needed for the variance result above. Do not add standard deviations; transform and add variances.
+
 Distribution type may also be preserved:
 
 - if $X$ is normal, then $aX+b$ is normal;
 - if independent $X$ and $Y$ are normal, then $aX+bY$ is normal;
 - if independent $X$ and $Y$ are Poisson, then $X+Y$ is Poisson with parameter equal to the sum of the parameters.
+
+More explicitly, if
+
+$$
+X\sim N(\mu_X,\sigma_X^2),\qquad Y\sim N(\mu_Y,\sigma_Y^2),
+$$
+
+and $X$ and $Y$ are independent, then
+
+$$
+aX+bY+c\sim N(a\mu_X+b\mu_Y+c,\ a^2\sigma_X^2+b^2\sigma_Y^2).
+$$
+
+For example, if $X\sim N(20,4)$ and $Y\sim N(30,9)$ are independent, then
+
+$$
+2X-Y\sim N(2(20)-30,\ 2^2(4)+(-1)^2(9))=N(10,25).
+$$
+
+Therefore
+
+$$
+P(2X-Y>15)=P\left(Z>\frac{15-10}{5}\right)=P(Z>1)\approx 0.159.
+$$
+
+Normal variables are stable under subtraction as well as addition, because negative coefficients are allowed. Poisson variables are more restrictive: if
+
+$$
+X\sim \operatorname{Po}(\lambda_1),\qquad Y\sim \operatorname{Po}(\lambda_2),
+$$
+
+and $X$ and $Y$ are independent, then
+
+$$
+X+Y\sim \operatorname{Po}(\lambda_1+\lambda_2).
+$$
+
+A difference such as $X-Y$, or a scaled variable such as $2X$, is not generally Poisson.
 
 ## 5. Approximations and Continuity Correction
 
@@ -166,6 +234,26 @@ $$
 P(4\le X\le 10)\approx P(3.5<Y<10.5).
 $$
 
+Compact example: if $X\sim B(80,0.4)$, then $np=32$ and $nq=48$, so a normal approximation is reasonable:
+
+$$
+X\approx Y,\qquad Y\sim N(32,19.2).
+$$
+
+For
+
+$$
+P(X\ge 35),
+$$
+
+use the corrected boundary
+
+$$
+P(Y>34.5),
+$$
+
+not $P(Y>35)$. The correction moves the continuous boundary halfway between the discrete values $34$ and $35$.
+
 ## Worked-Thinking Routine
 
 1. Identify whether the variable is continuous measurement or a count.
@@ -184,6 +272,7 @@ $$
 - Using Poisson for counts that are not plausibly independent or rate-stable.
 - Forgetting continuity correction when approximating a discrete distribution by a normal distribution.
 - Adding variances for random variables that are not independent.
+- Treating a difference of Poisson variables as Poisson.
 
 ## Quick Self-Check
 

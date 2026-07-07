@@ -90,6 +90,33 @@ $$
 
 The rightmost matrix acts first.
 
+### Worked Example: Compose Two Transformations
+
+First stretch parallel to the $x$-axis by factor $2$, then rotate anticlockwise through $90^\circ$ about the origin.
+
+The stretch is
+
+$$
+S=\begin{pmatrix}2&0\\0&1\end{pmatrix},
+$$
+
+and the rotation is
+
+$$
+R=\begin{pmatrix}0&-1\\1&0\end{pmatrix}.
+$$
+
+Since the stretch happens first, the combined matrix is
+
+$$
+RS=
+\begin{pmatrix}0&-1\\1&0\end{pmatrix}
+\begin{pmatrix}2&0\\0&1\end{pmatrix}
+=\begin{pmatrix}0&-1\\2&0\end{pmatrix}.
+$$
+
+The determinant is $2$, so the area scale factor is $2$. Testing the basis vectors also checks the order: $(1,0)$ stretches to $(2,0)$ and then rotates to $(0,2)$, the first column of $RS$.
+
 ## 3. Determinants and Inverses
 
 For
@@ -144,6 +171,49 @@ $$
 $$
 
 An invariant line is mapped onto itself as a set. A line through the origin with direction vector $\mathbf v$ is invariant when $A\mathbf v$ is parallel to $\mathbf v$. This idea leads naturally to eigenvectors.
+
+### Worked Example: Invariant Lines Through the Origin
+
+Let
+
+$$
+A=\begin{pmatrix}2&1\\0&1\end{pmatrix}.
+$$
+
+A line through the origin has equation $y=mx$, with direction vector
+
+$$
+\begin{pmatrix}1\\m\end{pmatrix}.
+$$
+
+After the transformation,
+
+$$
+A\begin{pmatrix}1\\m\end{pmatrix}
+=\begin{pmatrix}2+m\\m\end{pmatrix}.
+$$
+
+For the line to be invariant, the new vector must still have gradient $m$:
+
+$$
+\frac{m}{2+m}=m.
+$$
+
+Hence
+
+$$
+m(1+m)=0,
+$$
+
+so the invariant lines through the origin are
+
+$$
+y=0
+\qquad\text{and}\qquad
+y=-x.
+$$
+
+These are the eigenvector directions of $A$.
 
 ## 5. Linear Systems
 
@@ -204,6 +274,76 @@ A^n=QD^nQ^{-1}.
 $$
 
 The Cayley-Hamilton theorem says that a square matrix satisfies its own characteristic equation. For a $2\times2$ or $3\times3$ matrix, this can help compute powers or inverses without repeated multiplication.
+
+### Worked Example: Diagonalisation for Powers
+
+For
+
+$$
+A=\begin{pmatrix}3&1\\0&2\end{pmatrix},
+$$
+
+the eigenvalues are $3$ and $2$. Suitable eigenvectors are
+
+$$
+\begin{pmatrix}1\\0\end{pmatrix}
+\quad\text{and}\quad
+\begin{pmatrix}1\\-1\end{pmatrix}.
+$$
+
+Therefore
+
+$$
+Q=\begin{pmatrix}1&1\\0&-1\end{pmatrix},
+\qquad
+D=\begin{pmatrix}3&0\\0&2\end{pmatrix},
+\qquad
+A=QDQ^{-1}.
+$$
+
+In this case $Q^{-1}=Q$, so
+
+$$
+A^n=QD^nQ^{-1}
+=\begin{pmatrix}3^n&3^n-2^n\\0&2^n\end{pmatrix}.
+$$
+
+The order of the eigenvectors in $Q$ must match the order of the eigenvalues in $D$.
+
+### Worked Example: Cayley-Hamilton for an Inverse
+
+For
+
+$$
+B=\begin{pmatrix}2&1\\1&2\end{pmatrix},
+$$
+
+the characteristic equation is
+
+$$
+\lambda^2-4\lambda+3=0.
+$$
+
+By the Cayley-Hamilton theorem,
+
+$$
+B^2-4B+3I=0.
+$$
+
+Since $\det B=3\ne0$, multiply the relation by $B^{-1}$:
+
+$$
+B-4I+3B^{-1}=0.
+$$
+
+Thus
+
+$$
+B^{-1}=\frac{1}{3}(4I-B)
+=\frac{1}{3}\begin{pmatrix}2&-1\\-1&2\end{pmatrix}.
+$$
+
+This method is useful when the characteristic equation is already known or when a question asks for powers and inverses through a matrix relation.
 
 ## Worked-Thinking Routines
 

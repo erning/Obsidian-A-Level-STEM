@@ -190,6 +190,63 @@ $$
 
 In 9231, de Moivre's theorem also supports multiple-angle identities, expressions for powers of $\sin\theta$ and $\cos\theta$, and sums of trigonometric series.
 
+### Worked Example: de Moivre for a Multiple-Angle Identity
+
+Use
+
+$$
+(\cos\theta+i\sin\theta)^3=\cos3\theta+i\sin3\theta.
+$$
+
+Expanding the left side gives
+
+$$
+\cos^3\theta+3i\cos^2\theta\sin\theta-3\cos\theta\sin^2\theta-i\sin^3\theta.
+$$
+
+Equating real and imaginary parts,
+
+$$
+\cos3\theta=\cos^3\theta-3\cos\theta\sin^2\theta,
+$$
+
+and
+
+$$
+\sin3\theta=3\cos^2\theta\sin\theta-\sin^3\theta.
+$$
+
+Using $\sin^2\theta=1-\cos^2\theta$ gives
+
+$$
+\cos3\theta=4\cos^3\theta-3\cos\theta.
+$$
+
+This is the typical 9231 move: expand a complex power, then compare real or imaginary parts.
+
+### Worked Example: Fourth Roots and Their Geometry
+
+To solve $z^4=-16$, write
+
+$$
+-16=16e^{i(\pi+2k\pi)}.
+$$
+
+The fourth roots are
+
+$$
+z=2e^{i(\pi+2k\pi)/4},
+\qquad k=0,1,2,3.
+$$
+
+Thus the arguments are
+
+$$
+\frac{\pi}{4},\quad \frac{3\pi}{4},\quad \frac{5\pi}{4},\quad \frac{7\pi}{4}.
+$$
+
+The four roots lie on the circle $|z|=2$, equally spaced by $\frac{\pi}{2}$. This geometric check catches the common error of listing only the principal root.
+
 ## 6. Loci in the Argand Diagram
 
 Complex loci are plane geometry written in complex notation.
@@ -217,6 +274,30 @@ $$
 $$
 
 means the line or ray from fixed point $a$ to $z$ makes angle $\alpha$ with the positive real axis. Pay attention to whether the endpoint is included and whether an inequality shades a region.
+
+### Worked Example: Turn a Locus into Geometry
+
+Find the locus
+
+$$
+|z-(1+i)|=|z-3|.
+$$
+
+If $z=x+iy$, this says that $(x,y)$ is equidistant from $(1,1)$ and $(3,0)$. The locus is the perpendicular bisector of the segment joining those points.
+
+Expanding confirms the line:
+
+$$
+(x-1)^2+(y-1)^2=(x-3)^2+y^2,
+$$
+
+so
+
+$$
+4x-2y-7=0.
+$$
+
+The geometric interpretation should come first; the algebra is a check or a way to give the final Cartesian equation.
 
 ## Worked-Thinking Routines
 

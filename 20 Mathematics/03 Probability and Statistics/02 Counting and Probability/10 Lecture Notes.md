@@ -55,6 +55,8 @@ $$
 \frac{8!}{3!2!}.
 $$
 
+The division is only for identical objects. If the question is about arranging people, books, or labelled cards, the objects are normally distinct unless the wording says otherwise.
+
 ## 2. Multiplication and Addition in Counting
 
 The multiplication principle applies when a process is made of stages. If stage one has $a$ choices and stage two has $b$ choices for each first choice, there are $ab$ outcomes.
@@ -62,6 +64,14 @@ The multiplication principle applies when a process is made of stages. If stage 
 The addition principle applies when cases are alternatives that do not overlap. If case A has $a$ outcomes, case B has $b$ outcomes, and no outcome is in both cases, there are $a+b$ outcomes.
 
 Restrictions often become easier after splitting into cases. For "two people must sit together", treat them as a block first, then arrange within the block. For "two people must not sit together", it is often easier to count all arrangements and subtract the together case.
+
+Example: six distinct people include Alex and Bea. The number of lines in which Alex and Bea are not next to each other is
+
+$$
+6!-2!5!,
+$$
+
+because $6!$ counts all lines and $2!5!$ counts the lines where the block Alex-Bea or Bea-Alex appears.
 
 ## 3. Probability Language
 
@@ -111,11 +121,29 @@ $$
 
 Mutually exclusive and independent are different ideas. Two non-empty mutually exclusive events are not independent, because one occurring makes the other impossible.
 
+Example: one card is drawn from a standard deck. Let $A$ be "the card is a heart" and $B$ be "the card is a spade". These events are mutually exclusive, so $P(A\cap B)=0$, but they are not independent because $P(A)P(B)=\frac14\cdot\frac14\ne 0$.
+
+By contrast, let $C$ be "the card is a heart" and $D$ be "the card is a queen". Then
+
+$$
+P(C\cap D)=\frac1{52},\qquad P(C)P(D)=\frac14\cdot\frac4{52}=\frac1{52},
+$$
+
+so $C$ and $D$ are independent, although they are not mutually exclusive because the queen of hearts is in both events.
+
 ## 5. Diagrams
 
 Use a Venn diagram when events overlap. It makes $A\cap B$, $A\cup B$, and complements visible.
 
 Use a tree diagram for multi-stage processes, especially when probabilities change after each stage. Along one path, multiply probabilities. Across alternative paths that lead to the same event, add the path probabilities.
+
+Tree example: a bag contains $3$ red and $2$ blue counters. Two counters are drawn without replacement. The probability that the second counter is red is
+
+$$
+P(RR)+P(BR)=\frac35\cdot\frac24+\frac25\cdot\frac34=\frac35.
+$$
+
+The second-stage probabilities depend on the first draw, so the tree records the conditional probabilities directly.
 
 A table is useful for two dice, two categorical variables, or any situation where enumeration is safer than clever algebra.
 

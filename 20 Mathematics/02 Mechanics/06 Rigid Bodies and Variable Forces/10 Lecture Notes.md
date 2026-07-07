@@ -71,6 +71,20 @@ For toppling, the normal reaction shifts to an edge or pivot point. The limiting
 
 If both sliding and toppling are possible, calculate the condition for each and compare which occurs first.
 
+A compact comparison helps. Suppose a uniform rectangular block of weight $mg$ has half-width $a$ and is pulled horizontally by a force $P$ applied at height $h$ above the floor. If it is about to slide on a rough horizontal floor, then
+
+$$
+P=\mu mg.
+$$
+
+If it is about to topple about the lower far edge, take moments about that edge:
+
+$$
+Ph=mga,\qquad P=\frac{mga}{h}.
+$$
+
+The smaller of $\mu mg$ and $mga/h$ gives the first limiting event. This comparison is often more reliable than trying to guess from the picture.
+
 ## 4. Variable Forces and Newton's Second Law
 
 When the force is not constant, acceleration is not usually constant, so the constant-acceleration formulae are no longer available. Start from Newton's second law:
@@ -92,6 +106,8 @@ If force is given in terms of displacement, use the chain rule form
 $$
 a=v\frac{dv}{dx}.
 $$
+
+If force is given in terms of velocity, either form may be useful: $m\,dv/dt=F(v)$ gives time as a function of speed, while $m v\,dv/dx=F(v)$ gives displacement as a function of speed. Let the question decide which final variable is wanted.
 
 The syllabus keeps these differential equations separable, so after writing the equation your job is usually to rearrange variables and integrate.
 
@@ -135,6 +151,40 @@ m v\,dv=F(x)\,dx,
 $$
 
 and integration gives a relationship between $v$ and $x$.
+
+Two compact examples show the choice of acceleration form.
+
+If a particle starts from rest and the resultant force is $F=kt$, then
+
+$$
+m\frac{dv}{dt}=kt,
+$$
+
+so
+
+$$
+v=\frac{k}{2m}t^2
+$$
+
+after using $v=0$ when $t=0$.
+
+If a particle has speed $u$ at $x=0$ and the resultant force is $F=kx$, then use
+
+$$
+m v\frac{dv}{dx}=kx.
+$$
+
+Separating and integrating gives
+
+$$
+\frac12m(v^2-u^2)=\frac12kx^2,
+$$
+
+so
+
+$$
+v^2=u^2+\frac{k}{m}x^2.
+$$
 
 ## Common Mistakes
 

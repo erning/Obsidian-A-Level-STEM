@@ -85,6 +85,8 @@ $$
 
 This can apply even when the path is curved, because energy depends on height and speed rather than on every detail of the path.
 
+A useful test is to ask whether the unknown is a state quantity or an instantaneous force. Energy is strong when the unknown is a speed, height, distance, or extension after the particle has moved from one state to another. It is weak when the unknown is a normal reaction, tension, or acceleration at one instant, because those depend on the current force balance.
+
 ## 3. Power
 
 Power is the rate at which work is done:
@@ -106,6 +108,20 @@ P=Fv.
 $$
 
 If the force is not in the direction of motion, use the component of the force in the direction of the velocity.
+
+In engine or towing problems, power is usually supplied by a driving force:
+
+$$
+P=F_{\text{driving}}v.
+$$
+
+If the speed is known and non-zero, this gives $F_{\text{driving}}=P/v$. Then resolve forces along the direction of motion. For a car moving up a slope at angle $\alpha$ against a resistance $D$, for example,
+
+$$
+\frac{P}{v}-D-mg\sin\alpha=ma.
+$$
+
+At constant speed the right hand side is $0$. This is why power questions often combine an energy-transfer idea with a Newton's-law force equation.
 
 ## 4. Hooke's Law and Elastic Energy
 
@@ -133,11 +149,47 @@ $$
 
 For a string, the force is tension only when stretched. For a spring, the model may include extension or compression, depending on the situation.
 
+This distinction matters in equations. An elastic string becomes slack when its length is less than or equal to its natural length, so its tension and elastic potential energy are then $0$. A spring can usually push in compression as well as pull in extension, so the force acts to restore the spring to its natural length. With two strings or springs, compute each extension separately and add the separate elastic energies:
+
+$$
+E_{\text{total}}=\sum \frac{\lambda_i x_i^2}{2l_i}.
+$$
+
+Compact example: an elastic string has natural length $2$ m and modulus $40$ N. If it is stretched by $0.5$ m, then
+
+$$
+T=\frac{40(0.5)}{2}=10\text{ N},
+$$
+
+and
+
+$$
+E=\frac{40(0.5)^2}{2(2)}=2.5\text{ J}.
+$$
+
+If its current length were $1.8$ m instead, the string would be slack and both values would be $0$ in this model.
+
 ## 5. Choosing Energy or Force Methods
 
 Use energy when a problem asks for speed, height, distance travelled, or maximum extension between two states. Use Newton's second law when the problem asks for acceleration, contact force, tension at a particular instant, or detailed motion during the path.
 
 Many problems need both. For example, use energy to find the speed at a point on a smooth track, then use $\sum F=ma$ at that point to find a normal contact force.
+
+Normal reaction is a common reason to combine methods. On a fixed smooth surface, the normal reaction does no work because it is perpendicular to the motion, so it will not appear in an energy equation. It can still be essential in a force equation. On a curved path, after energy gives $v$, the normal-direction equation supplies the contact force. On a rough plane, the normal reaction may still do no work directly, but it sets the friction force $F=\mu R$, and that friction force does work along the path.
+
+For instance, if a particle slides down a smooth track through a vertical drop $h$ and reaches the bottom of a circular arc of radius $r$, energy gives
+
+$$
+v^2=u^2+2gh.
+$$
+
+At the bottom, the radial equation is
+
+$$
+R-mg=m\frac{v^2}{r}.
+$$
+
+The normal reaction cannot be found from energy alone, because it does no work along the smooth track.
 
 ## Worked-Thinking Routine
 
