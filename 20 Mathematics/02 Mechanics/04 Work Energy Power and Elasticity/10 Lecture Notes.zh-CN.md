@@ -18,6 +18,12 @@ tags:
 
 这一章要养成两个习惯：先判断哪些力做功，再判断机械能是否守恒。只要有摩擦、阻力、外部驱动力等非保守做功，就不能直接写机械能守恒。
 
+## 来源范围
+
+- 9709 4.5 Energy, work and power
+- 9231 3.4 Hooke's law
+- 课本路线：9709 Mechanics 的 energy、work 和 power 章节；9231 Further Mechanics 的 Hooke's law 和 elastic energy 内容。
+
 ## 图示导读
 
 ![[assets/generated/mathematics/work-energy-power-and-elasticity.svg]]
@@ -76,7 +82,7 @@ $$
 KE+GPE=\text{constant}.
 $$
 
-有摩擦时，机械能通常减少，减少的部分转化为热、声或内部能。
+有摩擦时，机械能通常减少，减少的部分转化为热、声或内能。
 
 ## 3. 功率
 
@@ -94,9 +100,9 @@ $$
 
 这个公式默认力和速度方向相同。如果力和速度不在同一方向，要取力在速度方向上的分量。
 
-## 4. Hooke 定律
+## 4. 胡克定律
 
-弹性绳或弹簧在模型允许范围内满足 Hooke 定律。CAIE 常用写法是
+弹性绳或弹簧在模型允许范围内满足胡克定律。CAIE 常用写法是
 
 $$
 T=\frac{\lambda x}{l},
@@ -150,3 +156,20 @@ $$
 - 我能不能说明什么时候机械能守恒？
 - 我能不能从力-位移图像读出做功？
 - 我能不能在弹性题里正确找出伸长量？
+
+## 关联内容
+
+- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
+- [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/00 Overview|Projectiles and Circular Motion]]
+- [[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces/00 Overview|Rigid Bodies and Variable Forces]]
+- [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Physics Work, Energy and Power]]
+- [[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Physics Deformation of Solids]]
+
+## 学习顺序
+
+1. 从恒力做功和功的正负号开始。
+2. 练习 $KE$、$GPE$ 和机械能守恒。
+3. 加入摩擦和其他外力做功。
+4. 把功率看成能量转移率。
+5. 学习胡克定律和弹性势能。
+6. 当题目要求某一瞬间的力时，把能量和牛顿第二定律结合起来。

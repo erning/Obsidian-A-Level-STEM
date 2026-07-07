@@ -29,6 +29,12 @@ tags:
 
 这张图用来快速理解“极坐标与参数曲线”：比较极坐标和参数式怎样描述曲线。
 
+## 来源范围
+
+- 9231 1.5 Polar coordinates。
+- 9709 parametric differentiation content。
+- Coursebook route：9231 Further Mathematics Coursebook polar coordinate sections；9709 Pure Mathematics 2 and 3 parametric differentiation sections。
+
 ## 学习范围
 
 - 极坐标点、极坐标曲线和简单曲线识别。
@@ -211,7 +217,7 @@ $$
 
 后续进一步积分中，还会出现极坐标弧长和旋转曲面面积。原则一样：先确认变量、区间和几何意义，再积分。
 
-## 做题套路
+## 做题顺序
 
 ### 极坐标描图
 
@@ -254,3 +260,8 @@ $$
 - 我能不能用 $\frac{1}{2}\int r^2\,d\theta$ 求极坐标面积？
 - 我能不能从参数方程判断曲线运动方向？
 - 我能不能正确求参数曲线的切线斜率？
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]：极坐标和参数方程都是坐标几何中描述曲线的延伸。
+- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]：参数曲线的切线、法线和二阶导都依赖微分。

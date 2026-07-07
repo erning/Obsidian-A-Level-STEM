@@ -30,6 +30,12 @@ tags:
 
 这张图用来快速理解“坐标几何与图像”：用一张坐标图同时看直线、圆、半径和切线。
 
+## 来源范围
+
+- 9709 1.3 Coordinate geometry。
+- 9709 1.2 Functions。
+- Coursebook route：9709 Pure Mathematics 1 Chapter 3，并衔接 Chapter 2 的 graph transformation material。
+
 ## 学习范围
 
 - 9709 Pure Mathematics 1：直线方程、斜率、距离、中点、圆的方程、直线与圆的关系。
@@ -357,7 +363,7 @@ $$
 
 图像题里很多错误不是形状画错，而是定义域和值域没有跟着变。
 
-## 8. 做题套路
+## 做题顺序
 
 ### 求直线
 
@@ -402,3 +408,8 @@ $$
 - 我能不能用判别式说明直线和圆有几个交点？
 - 我能不能跟踪一个关键点来判断图像变换方向？
 - 我能不能算完后用草图检查答案是否合理？
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]：函数、方程、判别式和图像变换是坐标几何的代数基础。
+- [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/00 Overview|Polar Coordinates and Parametric Curves]]：极坐标和参数曲线会继续使用坐标、切线和曲线识别的思想。

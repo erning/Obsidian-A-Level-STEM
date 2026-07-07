@@ -18,11 +18,32 @@ tags:
 
 这章做题时一定要先写定义域，也就是密度函数在哪些地方不为 0。很多错误都来自忘记定义域，或者积分上下限跨出了定义域。
 
+## 来源范围
+
+- 9709 6.3 Continuous random variables。
+- 9231 4.1 Continuous random variables。
+- 教材路线：9709 Probability and Statistics 2 的 continuous random variable 章节；9231 Further Probability and Statistics 的 continuous random variable 内容。
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]
+- [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]
+- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
+
+## 学习顺序
+
+1. 先练习读取取值范围。
+2. 从单区间密度函数求常数。
+3. 计算区间概率和分位点。
+4. 由 PDF 建立 CDF，再由 CDF 还原 PDF。
+5. 计算期望和方差。
+6. 加入分段密度和简单相关变量变换。
+
 ## 图示导读
 
 ![[assets/generated/mathematics/continuous-random-variables.svg]]
 
-这张图把概率密度和累计分布作为一对视图。密度看局部形状，累计分布看从左到右累积了多少面积。
+这张图把概率密度和累积分布作为一对视图。密度看局部形状，累积分布看从左到右累积了多少面积。
 
 ## 1. 概率密度函数
 
@@ -76,9 +97,9 @@ $$
 
 分段密度函数要分段积分。不要把某一段漏掉，也不要在定义域外继续积分。
 
-## 3. 累计分布函数
+## 3. 累积分布函数
 
-累计分布函数是
+累积分布函数是
 
 $$
 F(x)=P(X\le x).
@@ -176,6 +197,16 @@ $$
 
 这类题最要小心的是 $Y$ 的取值范围，以及变换在定义域上是否一一对应。
 
+## 做题顺序
+
+1. 写出随机变量的取值范围。
+2. 检查密度函数在取值范围内非负。
+3. 用总面积为 1 求未知常数。
+4. 求概率时，在所需区间积分或使用 CDF。
+5. 求分位点时，解 $F(x)=p$。
+6. 求期望和方差时，确认积分里的函数。
+7. 处理相关变量时，把关于 $Y$ 的事件转回关于 $X$ 的事件。
+
 ## 常见错误
 
 - 把密度函数的高度当成概率。
@@ -188,7 +219,7 @@ $$
 ## 快速自查
 
 - 我能不能用总面积为 1 求密度函数里的常数？
-- 我能不能从密度函数求累计分布函数？
+- 我能不能从密度函数求累积分布函数？
 - 我能不能用积分求期望和方差？
 - 我能不能解释为什么连续变量单点概率为 0？
 - 我能不能用 CDF 方法处理简单变量变换？

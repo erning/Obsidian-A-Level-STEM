@@ -38,7 +38,7 @@ tags:
 - 7.4 Electromagnetic spectrum
 - 7.5 Polarisation
 
-教材上主要对应 Chapter 12，包括行波、波的物理量、CRO 测量、强度、波速、多普勒效应、电磁波、电磁谱和偏振。
+教材上主要对应 Chapter 12，包括行波、波的物理量、CRO 测量、强度、波速、多普勒效应、电磁波、电磁波谱和偏振。
 
 ## 1. 行波
 
@@ -238,9 +238,9 @@ $$
 
 电磁波不需要介质。电磁波进入物质介质后，速度会改变；频率保持不变，所以波长会改变。
 
-## 10. 电磁谱
+## 10. 电磁波谱
 
-电磁谱的主要区域，按频率增大、波长减小的顺序为：
+电磁波谱的主要区域，按频率增大、波长减小的顺序为：
 
 $$
 \text{radio} \rightarrow \text{microwave} \rightarrow \text{infrared}
@@ -337,4 +337,4 @@ $$
 - [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]] 会用相位和位移解释干涉、衍射和驻波。
 - [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]] 会更细致地研究单个振动点的运动。
 - [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]] 会从光子的角度重新理解电磁辐射。
-- [[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]] 会用波长移动和电磁谱研究遥远天体。
+- [[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]] 会用波长移动和电磁波谱研究遥远天体。

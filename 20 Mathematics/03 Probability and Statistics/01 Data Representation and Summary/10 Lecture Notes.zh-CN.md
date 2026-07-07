@@ -18,6 +18,23 @@ tags:
 
 这章的学习顺序应该是：先判断数据类型，再选图表，最后才是计算和解释统计量。
 
+## 来源范围
+
+- 9709 5.1 Representation of data。
+- 教材路线：9709 Probability and Statistics 1 中 representation and summary of data 相关章节。
+
+## 关联内容
+
+- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
+
+## 学习顺序
+
+1. 先练习根据简短数据描述选择合适表示。
+2. 画并解释茎叶图、箱线图、直方图和累计频数图。
+3. 计算原始数据的中心位置和分散程度。
+4. 再处理分组数据和编码总和。
+5. 用中心、分散程度、形状和语境写简短比较。
+
 ## 图示导读
 
 ![[assets/generated/mathematics/data-representation-and-summary.svg]]
@@ -146,6 +163,15 @@ $$
 比较数据集时，至少要说中心和分散程度，最好再说形状。不要只写“甲比乙大”，要说明是平均数大、中位数大、四分位距大，还是上尾更长。
 
 数据偏斜或有离群值时，优先看中位数和四分位距。数据比较对称时，平均数和标准差通常也很有用。
+
+## 做题顺序
+
+1. 判断数据类型，以及数据是原始数据还是分组数据。
+2. 选择符合问题的图表。
+3. 先描述形状，再计算。
+4. 计算中心位置和分散程度，并写清单位。
+5. 使用分组数据时，记住组中值计算只是估计。
+6. 每个统计量都要放回数据语境解释。
 
 ## 常见错误
 

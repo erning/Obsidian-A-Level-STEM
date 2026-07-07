@@ -18,6 +18,27 @@ tags:
 
 这章分两条线：估计是给参数一个合理范围，假设检验是判断样本结果在某个假设下是否足够反常。
 
+## 来源范围
+
+- 9709 6.4 Sampling and estimation。
+- 9709 6.5 Hypothesis tests。
+- 9231 4.2 Inference using normal and t-distributions。
+- 教材路线：9709 Probability and Statistics 2 的 sampling, estimation, and hypothesis testing 章节；9231 further inference 内容。
+
+## 关联内容
+
+- [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]
+- [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/00 Overview|Chi-Squared, Non-Parametric Tests and PGF]]
+
+## 学习顺序
+
+1. 复习样本、总体和随机抽样。
+2. 学习 $\bar X$ 的抽样分布。
+3. 构造均值和比例的置信区间。
+4. 练习假设检验的基本结构。
+5. 加入二项、泊松、正态和 $t$ 检验。
+6. 最后计算第一类和第二类错误。
+
 ## 图示导读
 
 ![[assets/generated/mathematics/sampling-estimation-and-hypothesis-tests.svg]]

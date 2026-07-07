@@ -18,6 +18,24 @@ tags:
 
 只要这几个问题没想清楚，后面写排列、组合、树状图或条件概率都容易乱。
 
+## 来源范围
+
+- 9709 5.2 Permutations and combinations。
+- 9709 5.3 Probability。
+- 教材路线：9709 Probability and Statistics 1 中 permutations, combinations, and probability 相关章节。
+
+## 关联内容
+
+- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]
+
+## 学习顺序
+
+1. 先分别练排列和组合。
+2. 加入重复元素和限制条件。
+3. 把计数结果转成概率。
+4. 处理补集、并集、交集和条件概率。
+5. 用树状图整理多阶段概率。
+
 ## 图示导读
 
 ![[assets/generated/mathematics/counting-and-probability.svg]]

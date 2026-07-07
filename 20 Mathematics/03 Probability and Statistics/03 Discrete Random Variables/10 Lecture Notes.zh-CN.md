@@ -18,6 +18,27 @@ tags:
 
 学这章时先养成一个习惯：不要一上来写公式，先用一句话说明 $X$ 表示什么，再列出 $X$ 能取哪些值。
 
+## 来源范围
+
+- 9709 5.4 Discrete random variables。
+- 9709 6.2 Linear combinations of random variables。
+- 教材路线：9709 Probability and Statistics 1 中 discrete random variables and common discrete distributions 相关章节。
+
+## 关联内容
+
+- [[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/00 Overview|Counting and Probability]]
+- [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]
+- [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/00 Overview|Chi-Squared, Non-Parametric Tests and PGF]]
+
+## 学习顺序
+
+1. 从简单实验建立概率分布表。
+2. 练习期望和方差计算。
+3. 学习线性变换和独立随机变量之和。
+4. 学习二项分布建模条件。
+5. 学习几何分布建模条件。
+6. 最后处理累计概率和端点检查。
+
 ## 图示导读
 
 ![[assets/generated/mathematics/discrete-random-variables.svg]]

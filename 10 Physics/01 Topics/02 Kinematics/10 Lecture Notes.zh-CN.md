@@ -573,7 +573,7 @@ $$
 - 解释抛体运动为什么可以看成水平方向匀速、竖直方向匀加速。
 - 把初速度分解成垂直分量，并在两个方向中使用同一个时间。
 
-## 相关内容
+## 关联内容
 
 - [[10 Physics/01 Topics/01 Physical Quantities and Units/10 Lecture Notes|Physical Quantities and Units]]
 - [[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]]

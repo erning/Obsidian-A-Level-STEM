@@ -30,14 +30,22 @@ tags:
 
 这张图用来快速理解“积分”：把曲线下面积理解成累积变化。
 
+## 来源范围
+
+- 9709 1.8 Integration。
+- 9709 2.5 Integration。
+- 9709 3.5 Integration。
+- 9231 2.4 Integration。
+- Coursebook route：9709 Pure Mathematics 1 Chapter 9；9709 Pure Mathematics 2 and 3 Chapters 5 and 8；9231 Further Mathematics integration content。
+
 ## 学习范围
 
 - 不定积分和积分常数。
 - 定积分、反常积分、面积和累积量。
 - 旋转体体积。
 - 换元积分、分部积分、部分分式和三角恒等变形。
-- trapezium rule。
-- 9231 中的双曲函数积分、reduction formulae、矩形估计、弧长和旋转曲面面积。
+- 梯形法则（trapezium rule）。
+- 9231 中的双曲函数积分、递推公式（reduction formulae）、矩形估计、弧长和旋转曲面面积。
 
 ## 1. 积分的两个意思
 
@@ -244,9 +252,9 @@ $$
 
 这样 $\sin^2x$、$\cos^2(2x)$ 这类式子就能转成可以直接积分的形式。
 
-## 8. trapezium rule
+## 8. 梯形法则
 
-trapezium rule 用梯形面积近似定积分。如果 $[a,b]$ 被分成 $n$ 个等宽小区间，步长为
+梯形法则（trapezium rule）用梯形面积近似定积分。如果 $[a,b]$ 被分成 $n$ 个等宽小区间，步长为
 
 $$
 h=\frac{b-a}{n},
@@ -284,7 +292,7 @@ $$
 
 它们常常和三角换元或双曲换元有关。
 
-reduction formulae 是把含参数 $n$ 的积分化成较小参数的积分。例如把
+递推公式（reduction formulae）是把含参数 $n$ 的积分化成较小参数的积分。例如把
 
 $$
 I_n=\int_0^\pi\sin^n x\,dx
@@ -302,7 +310,7 @@ $$
 
 旋转曲面面积要把“旋转半径”和“微小弧长”相乘，再积分。先判断绕哪条轴旋转。
 
-## 做题套路
+## 做题顺序
 
 ### 不定积分
 
@@ -326,7 +334,7 @@ $$
 - 乘积中有一部分求导会变简单：分部积分；
 - 有理函数且分母可分解：部分分式；
 - 三角函数平方或乘积：三角恒等式；
-- 没有简单原函数或只有数据：trapezium rule。
+- 没有简单原函数或只有数据：梯形法则。
 
 ## 10. 积分和微分方程
 
@@ -354,7 +362,7 @@ $$
 - 定积分换元后没有同步换上下限。
 - 旋转体体积忘记平方。
 - 分部积分里 $u$ 选得越来越复杂。
-- trapezium rule 的步长 $h$ 算错。
+- 梯形法则的步长 $h$ 算错。
 
 ## 快速自查
 
@@ -362,5 +370,10 @@ $$
 - 我能不能判断定积分表示有符号面积还是实际面积？
 - 我能不能设出面积、体积和反常积分的正确表达式？
 - 我能不能看出什么时候适合换元、分部积分、部分分式或三角恒等式？
-- 我能不能正确使用 trapezium rule？
+- 我能不能正确使用梯形法则？
 - 我能不能用初值求出积分常数？
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]：积分与微分互为核心反向过程，也共同用于面积、变化率和微分方程。
+- [[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]]：连续随机变量的概率密度、分布函数和期望都依赖定积分。

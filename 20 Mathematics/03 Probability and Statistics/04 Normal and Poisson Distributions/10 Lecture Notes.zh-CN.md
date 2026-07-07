@@ -18,6 +18,26 @@ tags:
 
 这章最重要的习惯是先看模型：变量是连续测量，还是计数？参数有没有和单位区间匹配？如果用正态近似离散分布，有没有做连续性修正？
 
+## 来源范围
+
+- 9709 5.5 The normal distribution。
+- 9709 6.1 The Poisson distribution。
+- 9709 6.2 Linear combinations of random variables。
+- 教材路线：9709 Probability and Statistics 1 的 normal distribution 章节；9709 Probability and Statistics 2 的 Poisson and linear combinations 章节。
+
+## 关联内容
+
+- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]
+- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
+
+## 学习顺序
+
+1. 先练正态分布草图和标准化。
+2. 做反求正态分布临界值的问题。
+3. 学习泊松概率和参数随区间缩放。
+4. 学习正态变量和泊松变量的线性组合。
+5. 练习二项、泊松和正态近似，并使用连续性修正。
+
 ## 图示导读
 
 ![[assets/generated/mathematics/normal-and-poisson-distributions.svg]]
@@ -173,6 +193,16 @@ $$
 $$
 P(3.5<Y<10.5).
 $$
+
+## 做题顺序
+
+1. 先判断变量是连续测量值还是计数。
+2. 写出分布和参数；若是发生率，写清单位区间。
+3. 画出所求概率区域。
+4. 正态题先标准化边界。
+5. 泊松题检查区间长度，必要时调整 $\lambda$。
+6. 近似题写出适用条件，并使用连续性修正。
+7. 把概率放回原语境解释。
 
 ## 常见错误
 

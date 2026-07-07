@@ -18,6 +18,12 @@ tags:
 
 这章的关键不是背很多公式，而是养成一个顺序：先画受力图，再列平衡方程。图画对了，方程通常就很自然；图画错了，后面的代数越整齐越危险。
 
+## 来源范围
+
+- 9709 4.1 Forces and equilibrium
+- 9231 3.2 Equilibrium of a rigid body
+- 课本路线：9709 Mechanics 的 force and equilibrium 章节；9231 Further Mechanics 的 rigid-body equilibrium 内容。
+
 ## 图示导读
 
 ![[assets/generated/mathematics/forces-and-equilibrium.svg]]
@@ -140,9 +146,9 @@ $$
 
 ## 做题顺序
 
-1. 选研究对象。
+1. 选研究对象，标出已知角度、距离和接触假设。
 2. 画完整受力图。
-3. 选坐标方向，通常沿斜面和垂直斜面。
+3. 判断研究对象按质点处理还是按刚体处理，再选坐标方向。
 4. 写平衡方程。
 5. 如果是刚体，再选点取矩。
 6. 如果有粗糙接触，先判断是否是临界平衡，再决定能不能用 $F=\mu R$。
@@ -163,3 +169,17 @@ $$
 - 我能不能正确分解斜面上的重力？
 - 我能不能选一个合适的点来取矩？
 - 我能不能判断刚体是可能滑动，还是可能倾覆？
+
+## 关联内容
+
+- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
+- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
+- [[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Physics Forces, Density and Pressure]]
+
+## 学习顺序
+
+1. 先练习画受力图，再开始列方程。
+2. 用不同坐标轴做几道质点平衡题。
+3. 加入粗糙接触和临界摩擦。
+4. 进入刚体力矩平衡题。
+5. 最后比较滑动、倾覆和质心问题。

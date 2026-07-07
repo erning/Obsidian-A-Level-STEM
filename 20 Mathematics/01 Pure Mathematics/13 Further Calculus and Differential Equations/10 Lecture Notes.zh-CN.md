@@ -18,10 +18,10 @@ tags:
 
 学习顺序可以这样看：
 
-- hyperbolic functions 是新的函数族；
-- Maclaurin series 用导数做局部展开；
-- further integration 训练方法选择；
-- differential equations 把变化率写成方程并求解。
+- 双曲函数（hyperbolic functions）是新的函数族；
+- Maclaurin 级数（Maclaurin series）用导数做局部展开；
+- 进一步积分训练方法选择；
+- 微分方程把变化率写成方程并求解。
 
 ## 图示导读
 
@@ -29,14 +29,23 @@ tags:
 
 这张图用来快速理解“进阶微积分与微分方程”：用斜率场看微分方程的解曲线。
 
+## 来源范围
+
+- 9709 3.8 Differential equations。
+- 9231 2.1 Hyperbolic functions。
+- 9231 2.3 Differentiation。
+- 9231 2.4 Integration。
+- 9231 2.6 Differential equations。
+- Coursebook route：9709 Pure Mathematics 2 and 3 Chapter 10；9231 Further Mathematics Coursebook chapters on hyperbolic functions, further calculus, and differential equations。
+
 ## 学习范围
 
 - 更复杂的求导、积分和函数展开。
-- hyperbolic functions、inverse hyperbolic functions 和 Maclaurin series。
+- 双曲函数（hyperbolic functions）、反双曲函数（inverse hyperbolic functions）和 Maclaurin 级数（Maclaurin series）。
 - 一阶微分方程：可分离变量和一阶线性方程。
-- 常系数线性微分方程：complementary function 和 particular integral。
+- 常系数线性微分方程：互补函数（complementary function）和特解（particular integral）。
 - 用初值或边界条件确定常数。
-- 给定 substitution 后化简微分方程。
+- 给定换元（substitution）后化简微分方程。
 
 ## 1. 双曲函数
 
@@ -62,9 +71,9 @@ $$
 
 双曲函数和三角函数很像，但符号不同。反双曲函数可以写成对数形式，通常从指数定义推出来。
 
-## 2. Maclaurin series
+## 2. Maclaurin 级数
 
-Maclaurin series 是在 $x=0$ 附近展开函数：
+Maclaurin 级数（Maclaurin series）是在 $x=0$ 附近展开函数：
 
 $$
 f(x)=f(0)+xf'(0)+\frac{x^2}{2!}f''(0)+\frac{x^3}{3!}f'''(0)+\cdots.
@@ -87,9 +96,9 @@ $$
 - 复合函数和内层导数：考虑换元；
 - 有理函数：考虑部分分式；
 - 二次式根号或分母：考虑配方、三角换元或双曲换元；
-- 参数 $n$ 的积分：考虑 reduction formula。
+- 参数 $n$ 的积分：考虑递推公式。
 
-reduction formulae 把含 $n$ 的积分化成含 $n-2$ 或 $n-1$ 的积分。通常由分部积分或某个乘积的导数得到。
+递推公式（reduction formulae）把含 $n$ 的积分化成含 $n-2$ 或 $n-1$ 的积分。通常由分部积分或某个乘积的导数得到。
 
 ## 4. 微分方程是什么
 
@@ -193,10 +202,10 @@ $$
 线性微分方程的通解可以写成
 
 $$
-\text{general solution}=\text{complementary function}+\text{particular integral}.
+\text{通解}=\text{互补函数}+\text{特解}.
 $$
 
-complementary function 解的是对应的齐次方程。particular integral 是非齐次项带来的一个特解。
+互补函数（complementary function）解的是对应的齐次方程。特解（particular integral）是非齐次项带来的一个特解。
 
 例如二阶方程含有
 
@@ -230,18 +239,18 @@ $$
 - 重根；
 - 共轭复根。
 
-每种情况对应不同形式的 complementary function。
+每种情况对应不同形式的互补函数。
 
-particular integral 的试探形式要看右边是什么：多项式、$ae^{bx}$、$a\cos px+b\sin px$ 等。把试探形式代回方程，求系数。
+特解的试探形式要看右边是什么：多项式、$ae^{bx}$、$a\cos px+b\sin px$ 等。把试探形式代回方程，求系数。
 
-## 9. 微分方程中的 substitution
+## 9. 微分方程中的换元
 
-有些微分方程题会给 substitution。比如 $x=e^t$ 可以把某些方程化成常系数形式；$y=ux$ 可以把某些一阶方程化成可分离变量。
+有些微分方程题会给换元（substitution）。比如 $x=e^t$ 可以把某些方程化成常系数形式；$y=ux$ 可以把某些一阶方程化成可分离变量。
 
 步骤是：
 
 1. 小心改写导数；
-2. 把 substitution 代入原方程；
+2. 把换元代入原方程；
 3. 解新方程；
 4. 换回原变量。
 
@@ -251,7 +260,7 @@ particular integral 的试探形式要看右边是什么：多项式、$ae^{bx}$
 
 这一步很值得做，因为微分方程中常数、符号和指数特别容易错。
 
-## 做题套路
+## 做题顺序
 
 ### 从文字建模
 
@@ -264,7 +273,7 @@ particular integral 的试探形式要看右边是什么：多项式、$ae^{bx}$
 
 ### 解微分方程
 
-1. 先分类：可分离、一阶线性、常系数线性，还是需要 substitution。
+1. 先分类：可分离、一阶线性、常系数线性，还是需要换元。
 2. 整理成标准形式。
 3. 选对应方法。
 4. 写通解和任意常数。
@@ -279,8 +288,8 @@ particular integral 的试探形式要看右边是什么：多项式、$ae^{bx}$
 - 积分因子算错，后面全错。
 - 求出通解后没有代入初值。
 - 除以某个表达式时漏掉它等于 0 的特殊解。
-- 把 complementary function 和 particular integral 混在一起。
-- particular integral 的试探形式和 complementary function 重合时没有调整。
+- 把互补函数和特解混在一起。
+- 特解的试探形式和互补函数重合时没有调整。
 - 解出来以后不解释模型含义。
 
 ## 快速自查
@@ -289,6 +298,12 @@ particular integral 的试探形式要看右边是什么：多项式、$ae^{bx}$
 - 我能不能写出一阶线性方程的积分因子？
 - 我能不能区分通解和特解？
 - 我能不能把解代回微分方程检查？
-- 我能不能写出 Maclaurin series 的前几项？
-- 我能不能识别 complementary function 和 particular integral？
+- 我能不能写出 Maclaurin 级数的前几项？
+- 我能不能识别互补函数和特解？
 - 我能不能用初值或边界条件确定常数并解释结果？
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]：进一步求导、Maclaurin 级数和微分方程都依赖导数语言。
+- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]：分离变量、一阶线性方程和递推公式都需要积分方法。
+- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Physics Oscillations]]：常系数线性微分方程会在振动模型中再次出现。

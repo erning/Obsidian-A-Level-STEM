@@ -29,6 +29,12 @@ tags:
 
 这张图用来快速理解“向量”：用向量加法和参数直线看方向与位置。
 
+## 来源范围
+
+- 9709 3.7 Vectors。
+- 9231 1.6 Vectors。
+- Coursebook route：9709 Pure Mathematics 2 and 3 Chapter 9；9231 Further Mathematics vector content。
+
 ## 学习范围
 
 - 向量的分量、大小和单位向量。
@@ -197,7 +203,7 @@ $$
 
 异面直线的最短距离沿着共同垂线方向。两个方向向量的向量积给出一个同时垂直于两条直线的方向。
 
-## 做题套路
+## 做题顺序
 
 ### 直线问题
 
@@ -240,3 +246,8 @@ $$
 - 我能不能解释 $\mathbf{r}=\mathbf{a}+t\mathbf{d}$ 中每个符号的意义？
 - 我能不能判断两条空间直线是相交、平行还是异面？
 - 我能不能说明向量积和平面法向量的作用？
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]]：矩阵变换可以看作对向量和基向量的线性作用。
+- [[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physics Vectors]]：物理中的位移、速度、加速度和力都需要向量语言。

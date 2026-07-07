@@ -317,7 +317,7 @@ $$
 - 指出具体局限，并给每条配一个切实的改进。
 - 说出一条相关的危险和对应的预防措施。
 
-## 相关内容
+## 关联内容
 
 - [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]
 - [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]]

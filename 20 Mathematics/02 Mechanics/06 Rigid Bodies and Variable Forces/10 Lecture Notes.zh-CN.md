@@ -18,6 +18,12 @@ tags:
 
 两类题看起来不一样，但共同点是：先选模型，再选方程。刚体先看力矩，变力先看变量。
 
+## 来源范围
+
+- 9231 3.2 Equilibrium of a rigid body
+- 9231 3.5 Linear motion under a variable force
+- 课本路线：9231 Further Mechanics 的 rigid-body 和 variable-force 内容。
+
 ## 图示导读
 
 ![[assets/generated/mathematics/rigid-bodies-and-variable-forces.svg]]
@@ -164,3 +170,19 @@ $$
 - 我能不能区分滑动临界和倾覆临界？
 - 我能不能把变力做功写成积分或图像面积？
 - 我能不能根据题目变量选择正确的加速度形式？
+
+## 关联内容
+
+- [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]]
+- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
+- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]
+- [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]
+
+## 学习顺序
+
+1. 先回顾刚体力矩平衡。
+2. 练习简单复合物体的质心。
+3. 比较滑动和倾覆的临界条件。
+4. 复习可分离变量微分方程。
+5. 建立变力运动方程。
+6. 当力是位置函数时，用功能关系作为另一条路线。

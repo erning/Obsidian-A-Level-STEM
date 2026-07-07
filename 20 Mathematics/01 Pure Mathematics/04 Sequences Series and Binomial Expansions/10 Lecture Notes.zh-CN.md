@@ -31,11 +31,18 @@ tags:
 
 这张图用来快速理解“数列、级数与二项式展开”：比较等差累积、等比增长和二项式项。
 
+## 来源范围
+
+- 9709 1.6 Series。
+- 9709 3.1 Algebra 中的 non-integer binomial expansions。
+- 9231 1.3 Summation of series。
+- Coursebook route：9709 Pure Mathematics 1 Chapter 6；9709 Pure Mathematics 2 and 3 Chapter 7；9231 Further Mathematics summation of series 内容。
+
 ## 学习范围
 
 - 等差数列、等比数列和求和公式。
 - 无穷等比级数的收敛条件和极限和。
-- 求和记号、标准求和公式和 method of differences。
+- 求和记号、标准求和公式和裂项相消法。
 - 正整数幂二项式展开：二项式系数、通项和指定项。
 - 非整数幂二项式展开及其有效条件。
 
@@ -174,9 +181,9 @@ $$
 
 这比一项一项加要清楚得多。
 
-## 5. method of differences
+## 5. 裂项相消法
 
-method of differences 也叫 telescoping。它的核心是让中间项互相抵消。
+裂项相消法（method of differences，也叫 telescoping）的核心是让中间项互相抵消。
 
 如果通项可以写成
 
@@ -197,7 +204,7 @@ $$
 S_n=f(1)-f(n+1).
 $$
 
-很多 telescoping 题要先做部分分式。比如
+很多裂项相消题要先做部分分式。比如
 
 $$
 \frac{1}{r(r+1)}=\frac{1}{r}-\frac{1}{r+1}.
@@ -219,6 +226,14 @@ $$
 $$
 (a+b)^n=\sum_{r=0}^{n}\binom{n}{r}a^{n-r}b^r.
 $$
+
+其中
+
+$$
+\binom{n}{r}=\frac{n!}{r!(n-r)!}
+$$
+
+表示从 $n$ 个位置中选 $r$ 个位置的二项式系数。
 
 第 $r+1$ 项是
 
@@ -275,7 +290,7 @@ $$
 
 所以做非整数幂展开时，先把式子整理成 $1+\text{小量}$ 的形式，再写有效条件。展开可以用于近似，但要知道自己截断到哪一项。
 
-## 做题套路
+## 做题顺序
 
 ### 数列和级数
 
@@ -290,7 +305,7 @@ $$
 1. 看不清规律时，先写出前几项。
 2. 多项式求和先展开，再用标准公式。
 3. 分式求和先尝试部分分式。
-4. 如果能写成相邻两项的差，就用 telescoping。
+4. 如果能写成相邻两项的差，就用裂项相消法。
 5. 最后确认答案是 $S_n$ 还是 $S_\infty$。
 
 ### 二项式展开
@@ -309,7 +324,7 @@ $$
 - 二项式通项里把 $r$ 和 $r+1$ 混淆。
 - 非整数幂展开后不写适用范围。
 - 对 $r=1$ 的等比求和公式直接代入。
-- telescoping 里没有把首尾剩余项写清楚。
+- 裂项相消法里没有把首尾剩余项写清楚。
 - 只需要一个系数时却把整个二项式都展开。
 
 ## 快速自查
@@ -317,6 +332,11 @@ $$
 - 我能不能一眼判断一列数是等差还是等比？
 - 我能不能解释 $S_\infty=\frac{a}{1-r}$ 为什么要求 $|r|<1$？
 - 我能不能用 $\sum r$、$\sum r^2$、$\sum r^3$ 求多项式和？
-- 我能不能看出一个求和是否会 telescoping？
+- 我能不能看出一个求和是否适合裂项相消？
 - 我能不能不用全部展开就找出指定项？
 - 我能不能写出非整数幂展开的有效条件？
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/00 Overview|Proof and Mathematical Induction]]：求和公式和递推关系常常需要用归纳法证明。
+- [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]：级数、展开式和递推公式会在进一步微积分中继续出现。

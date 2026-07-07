@@ -24,6 +24,14 @@ tags:
 
 这张图用来快速理解“微分”：把曲线上的切线斜率理解成导函数。
 
+## 来源范围
+
+- 9709 1.7 Differentiation。
+- 9709 2.4 Differentiation。
+- 9709 3.4 Differentiation。
+- 9231 2.3 Differentiation。
+- Coursebook route：9709 Pure Mathematics 1 Chapters 7-8；9709 Pure Mathematics 2 and 3 Chapters 4 and 8；9231 Further Mathematics differentiation content。
+
 ## 学习范围
 
 - 导数作为切线斜率和瞬时变化率。
@@ -31,7 +39,7 @@ tags:
 - 链式法则、乘积法则、商法则。
 - 切线、法线、驻点、单调性、最值和变化率问题。
 - 隐函数求导、参数方程求导和二阶导数。
-- 9231 中的双曲函数、反双曲函数和 Maclaurin series。
+- 9231 中的双曲函数、反双曲函数和 Maclaurin 级数（Maclaurin series）。
 
 ## 1. 导数是什么
 
@@ -307,9 +315,9 @@ $$
 
 参数题里的切线和法线，通常先求参数值，再求点和斜率。
 
-## 10. Maclaurin series
+## 10. Maclaurin 级数
 
-Maclaurin series 是在 $x=0$ 附近用导数展开函数：
+Maclaurin 级数（Maclaurin series）是在 $x=0$ 附近用导数展开函数：
 
 $$
 f(x)=f(0)+xf'(0)+\frac{x^2}{2!}f''(0)+\frac{x^3}{3!}f'''(0)+\cdots.
@@ -317,7 +325,7 @@ $$
 
 它本质上是“用函数在 0 附近的导数信息构造近似”。做题时依次求导，在 $x=0$ 代入，再放回公式。一般只需要前几项。
 
-## 做题套路
+## 做题顺序
 
 ### 显函数求导
 
@@ -362,4 +370,9 @@ $$
 - 我能不能用导数符号判断递增、递减和驻点性质？
 - 我能不能处理最值和相关变化率问题？
 - 我能不能做隐函数和参数方程的一阶、二阶求导？
-- 我能不能用导数写出 Maclaurin series 的前几项？
+- 我能不能用导数写出 Maclaurin 级数的前几项？
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]：积分是反向求导，定积分和微分共同描述累积与变化。
+- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]：速度、加速度和变化率建模会直接使用导数。

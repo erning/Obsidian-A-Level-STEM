@@ -18,6 +18,12 @@ tags:
 
 抛体题先分解速度，圆周题先画圆心和半径方向。一个靠时间连接分量，一个靠径向方程连接受力和速度。
 
+## 来源范围
+
+- 9231 3.1 Motion of a projectile
+- 9231 3.3 Circular motion
+- 课本路线：9231 Further Mechanics 的 projectile 和 circular motion 内容；并连接 Physics 的 projectile 和 circular motion 主题。
+
 ## 图示导读
 
 ![[assets/generated/mathematics/projectiles-and-circular-motion.svg]]
@@ -163,6 +169,15 @@ $$
 v^2=gr.
 $$
 
+## 做题顺序
+
+1. 抛体题先分解初速度。
+2. 分别写水平、竖直方程，并使用同一个时间变量。
+3. 先用竖直信息求时间或高度，再回到水平方向求距离。
+4. 圆周题先画圆心和径向方向。
+5. 写指向圆心的合力，不要额外画“向心力”。
+6. 只有速度沿圆周变化时，才加入能量方程。
+
 ## 常见错误
 
 - 抛体题中把水平加速度写成 $g$。
@@ -180,3 +195,19 @@ $$
 - 我能不能写出向心加速度的方向和大小？
 - 我能不能从真实受力中找出向心合力？
 - 我能不能把能量方程和径向力方程配合起来？
+
+## 关联内容
+
+- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
+- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
+- [[10 Physics/01 Topics/02 Kinematics/00 Overview|Physics Kinematics]]
+- [[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Physics Motion in a Circle]]
+
+## 学习顺序
+
+1. 先熟练写抛体的分量方程，再用快捷公式。
+2. 自己推导射程公式和轨迹方程。
+3. 学习速度方向和最高点判断。
+4. 学习角速度和向心加速度。
+5. 做水平圆周运动模型。
+6. 最后加入竖直圆周运动、能量和接触或张力条件。

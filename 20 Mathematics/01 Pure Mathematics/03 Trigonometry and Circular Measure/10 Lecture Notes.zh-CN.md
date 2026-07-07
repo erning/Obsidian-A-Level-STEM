@@ -29,10 +29,18 @@ tags:
 
 这张图用来快速理解“三角函数与弧度制”：把单位圆上的坐标和正弦图像连起来。
 
+## 来源范围
+
+- 9709 1.4 Circular measure。
+- 9709 1.5 Trigonometry。
+- 9709 2.3 Trigonometry。
+- 9709 3.3 Trigonometry。
+- Coursebook route：9709 Pure Mathematics 1 Chapters 4-5；9709 Pure Mathematics 2 and 3 Chapter 3。
+
 ## 学习范围
 
 - 弧度制、弧长和扇形面积。
-- 正弦、余弦、正切的 exact values、图像、周期和对称性。
+- 正弦、余弦、正切的特殊角精确值、图像、周期和对称性。
 - 反三角函数记号的主值意义。
 - 正割、余割、余切及其图像和恒等式。
 - 和差角公式、二倍角公式，以及 $a\sin\theta+b\cos\theta$ 的辅助角形式。
@@ -137,9 +145,9 @@ $$
 
 解题时不要为了变形而变形。看到 $\sin^2\theta+\cos^2\theta$，优先想到 1；看到 $\tan\theta$，优先想到 $\frac{\sin\theta}{\cos\theta}$。目标通常是把式子变成同一种函数，或者变成可以因式分解的形式。
 
-## 4. exact values 和倒数三角函数
+## 4. 特殊角精确值和倒数三角函数
 
-$30^\circ$、$45^\circ$、$60^\circ$ 的 exact values 要很熟。对应的弧度分别是 $\frac{\pi}{6}$、$\frac{\pi}{4}$、$\frac{\pi}{3}$。
+$30^\circ$、$45^\circ$、$60^\circ$ 的精确值要很熟。对应的弧度分别是 $\frac{\pi}{6}$、$\frac{\pi}{4}$、$\frac{\pi}{3}$。
 
 | $\theta$ | $\sin\theta$ | $\cos\theta$ | $\tan\theta$ |
 |---|---|---|---|
@@ -359,7 +367,7 @@ $$
 
 不管用正弦形式还是余弦形式，本质都是展开右边，然后比较 $\sin\theta$ 和 $\cos\theta$ 的系数。
 
-## 做题套路
+## 做题顺序
 
 ### 弧度和圆
 
@@ -406,3 +414,9 @@ $$
 - 我能不能证明一个基础恒等式，而不是只代几个数验证？
 - 我能不能正确使用正割、余割、余切？
 - 我能不能用和差角、二倍角和辅助角形式化简表达式？
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]：三角函数图像和标准导数会在微分中反复使用。
+- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]：三角恒等式和弧度制是三角积分的基础。
+- [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]]：de Moivre's theorem 会把三角形式和复数幂联系起来。

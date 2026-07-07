@@ -29,6 +29,11 @@ tags:
 
 这张图用来快速理解“证明与数学归纳法”：把基础步、归纳假设和归纳步连成一条逻辑链。
 
+## 来源范围
+
+- 9231 1.7 Proof by induction。
+- Coursebook route：9231 Further Mathematics Coursebook proof by induction sections；Hodder FP1 proof chapter。
+
 ## 学习范围
 
 - 直接证明、反证法和分类讨论。
@@ -202,7 +207,7 @@ $$
 
 这类题可能出现在反复求导、含阶乘的求和、递推数列或矩阵幂中。
 
-## 做题套路
+## 做题顺序
 
 1. 明确写出 $P(n)$ 是什么。
 2. 检查起始值 $n_0$。
@@ -232,3 +237,7 @@ $$
 - 我能不能检查归纳步里是否真的用到了假设？
 - 我能不能处理求和、整除、递推和矩阵幂的归纳证明？
 - 我能不能先从例子中猜想，再用归纳证明？
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]：求和公式、递推关系和级数结果常常需要归纳法证明。

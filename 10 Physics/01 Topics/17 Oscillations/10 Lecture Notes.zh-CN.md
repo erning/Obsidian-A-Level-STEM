@@ -17,6 +17,15 @@ tags:
 
 学这一节时，不要把它当成一堆正弦公式。更好的方法是同时看三件事：真实运动、图像和方程。三者互相对应，符号和相位就不容易乱。
 
+## 来源范围
+
+- 主要大纲来源：CAIE Physics 9702。
+- 17 Oscillations
+- 17.1 Simple harmonic oscillations
+- 17.2 Energy in simple harmonic motion
+- 17.3 Damped and forced oscillations, resonance
+- 教材路线：Physics Coursebook Chapter 18, Oscillations。
+
 ## 图示导读
 
 ![[assets/generated/physics/oscillations.svg]]
@@ -288,7 +297,7 @@ $$
 - 区分轻阻尼、临界阻尼和重阻尼；
 - 解释共振：当驱动力频率等于固有频率时，振幅最大。
 
-## 关联
+## 关联内容
 
 - [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
 - [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]

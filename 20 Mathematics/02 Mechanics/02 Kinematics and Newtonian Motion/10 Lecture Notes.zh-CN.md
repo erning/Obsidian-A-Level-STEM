@@ -18,6 +18,12 @@ tags:
 
 这章最容易乱的是正负号。先规定正方向，然后位移、速度、加速度、力都按同一个方向体系写。负号不是错误，它只是说明方向和你规定的正方向相反。
 
+## 来源范围
+
+- 9709 4.2 Kinematics of motion in a straight line
+- 9709 4.4 Newton's laws of motion
+- 课本路线：9709 Mechanics 的 kinematics 和 Newton's laws 章节；并连接 Physics 的 kinematics 和 dynamics。
+
 ## 图示导读
 
 ![[assets/generated/mathematics/kinematics-and-newtonian-motion.svg]]
@@ -96,9 +102,9 @@ $$
 
 这一章里常见的模型是：质量不变的质点，在恒力作用下做直线运动。力可能包括重力、张力、摩擦力、支持力、轻杆中的推力或拉力。如果题目要考虑空气阻力等额外阻力，一般会明确说明。
 
-## 5. 连接物体
+## 5. 连接体
 
-连接物体题的关键是约束。轻且不可伸长的绳子意味着沿绳方向的加速度大小相同；光滑滑轮意味着理想情况下绳中张力大小相同，只改变方向。
+连接体题的关键是约束。轻质不可伸长细绳意味着沿绳方向的加速度大小相同；光滑滑轮意味着理想情况下绳中张力大小相同，只改变方向。
 
 有两种常用做法：
 
@@ -115,6 +121,15 @@ $$
 - 题目给的是力：画受力图，用 $\sum F=ma$。
 - 多物体系统里张力太碍事：先考虑整体法。
 
+## 做题顺序
+
+1. 先规定正方向。
+2. 判断题目只是运动学问题，还是已经涉及受力。
+3. 运动学题先选择图像、匀加速公式或微积分。
+4. 动力学题先画受力图，再写 $\sum F=ma$。
+5. 单位保持一致：m、s、kg、N。
+6. 把负号解释成方向信息，不要直接删掉。
+
 ## 常见错误
 
 - 没有先规定正方向。
@@ -122,7 +137,7 @@ $$
 - 加速度不是常数时仍然套匀加速公式。
 - 在速度-时间图像里把高度当位移，忘了面积才是位移。
 - 用 $F=ma$ 时只写了某一个力，没有写合力。
-- 连接物体题里把内部张力当成系统外力。
+- 连接体题里把内部张力当成系统外力。
 
 ## 快速自查
 
@@ -131,3 +146,19 @@ $$
 - 我能不能从运动图像读出斜率和面积的意义？
 - 我能不能把受力图转化成 $\sum F=ma$？
 - 我能不能解释什么时候分开分析物体，什么时候把系统看成整体？
+
+## 关联内容
+
+- [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]]
+- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
+- [[10 Physics/01 Topics/02 Kinematics/00 Overview|Physics Kinematics]]
+- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Physics Dynamics]]
+
+## 学习顺序
+
+1. 用短的一维运动例题练习正负号。
+2. 把位移-时间图像和速度-时间图像翻译成文字。
+3. 练熟匀加速公式，直到能快速选公式。
+4. 尽量用微积分重做同一类运动。
+5. 加入受力图和牛顿第二定律。
+6. 最后处理连接体模型。

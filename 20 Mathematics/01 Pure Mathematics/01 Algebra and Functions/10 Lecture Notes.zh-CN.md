@@ -27,6 +27,12 @@ tags:
 这张图用来快速理解“代数与函数”：把二次式、顶点、根和有理函数渐近线放在同一张图里看。
 
 
+## 来源范围
+
+- 9709 Pure Mathematics 1：Quadratics and Functions。
+- 9709 Pure Mathematics 2 and 3：Algebra，包括 modulus、polynomial division、factor theorem、remainder theorem、partial fractions 和 binomial extensions。
+- 9231 Further Pure Mathematics 1：Roots of polynomial equations；Rational functions and graphs。
+
 ## 学习范围
 
 - 9709 Pure Mathematics 1：二次式与函数。
@@ -357,6 +363,20 @@ $$
 \alpha\beta\gamma=-c.
 $$
 
+四次方程也遵循根与系数关系的交替符号。对首项系数为 1 的
+
+$$
+x^4+ax^3+bx^2+cx+d=0,
+$$
+
+若四个根是 $\alpha$、$\beta$、$\gamma$、$\delta$，则根之和、两两乘积之和、三三乘积之和、四根乘积的符号依次是
+
+$$
+-a,\qquad b,\qquad -c,\qquad d.
+$$
+
+记四次方程时特别注意这个 $-,+,-,+$ 的交替，不要把三次方程最后一项的负号照搬过来。
+
 这些关系可以用来计算对称式，而不必真正求出每一个根。例如
 
 $$
@@ -378,7 +398,7 @@ $$
 
 有些题目会给出原方程的根，再要求构造一个新方程，使新方程的根与原来的根有某种关系。常见关系包括：
 
-- 倒数根：令 $y=\frac{1}{x}$；
+- 倒数根：令 $y=\frac{1}{x}$，并先确认原根 $x\ne 0$，也就是原方程常数项不为 0；
 - 平移后的根：令 $y=x+k$ 或 $x=y-k$；
 - 平方后的根：用根与系数的关系整理，同时注意可能丢失符号信息。
 
@@ -398,7 +418,7 @@ $$
 - 与坐标轴的交点；
 - 垂直渐近线；
 - 水平渐近线或斜渐近线；
-- 转折点；
+- 极值点或转向点；
 - 值域。
 
 ### 斜渐近线
@@ -462,3 +482,9 @@ $$
 5. 后续准备：部分分式和图像分析，为积分、级数和更复杂函数打基础。
 
 最重要的是养成“先看结构，再选方法”的习惯。不要把所有题都当成纯粹的代数变形题；很多题真正考的是你能不能看出表达式、函数和图像之间的关系。
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]：函数图像、坐标语言和判别式会继续用于直线、圆和相切问题。
+- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]：二项式展开和代数结构会在级数与展开式中继续出现。
+- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]：部分分式和有理函数图像是后续积分方法的直接准备。

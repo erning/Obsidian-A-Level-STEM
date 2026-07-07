@@ -28,6 +28,12 @@ tags:
 
 这张图用来快速理解“复数”：在复平面上看模和辐角。
 
+## 来源范围
+
+- 9709 3.9 Complex numbers。
+- 9231 2.5 Complex numbers。
+- Coursebook route：9709 Pure Mathematics 2 and 3 Chapter 11；9231 Further Mathematics complex numbers content。
+
 ## 学习范围
 
 - 复数的代数形式、共轭、模和辐角。
@@ -123,7 +129,7 @@ $$
 
 几何上，乘以 $re^{i\theta}$ 就是先把长度乘以 $r$，再旋转 $\theta$。
 
-## 4. 复系数方程和共轭根
+## 4. 实系数多项式方程和共轭根
 
 如果一个多项式方程的系数都是实数，那么非实复根成共轭对出现。比如 $2+3i$ 是根，那么 $2-3i$ 也是根。
 
@@ -221,7 +227,7 @@ $$
 
 看到绝对值或辐角，不要先展开。先问它表示距离还是方向。
 
-## 做题套路
+## 做题顺序
 
 ### 选择形式
 
@@ -264,3 +270,8 @@ $$
 - 我能不能把 $|z-a|=r$ 翻译成几何图形？
 - 我能不能找全 $n$ 次根？
 - 我能不能说明 de Moivre's theorem 的用途？
+
+## 关联内容
+
+- [[20 Mathematics/01 Pure Mathematics/03 Trigonometry and Circular Measure/00 Overview|Trigonometry and Circular Measure]]：复数的极坐标形式和 de Moivre's theorem 依赖三角函数语言。
+- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]：幂、根和展开式会在复数恒等式与根的结构中继续出现。

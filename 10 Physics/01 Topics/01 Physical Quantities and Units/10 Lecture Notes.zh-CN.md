@@ -136,7 +136,7 @@ $$
 质量单位是 $\mathrm{kg}$，加速度单位是 $\mathrm{m\ s^{-2}}$，所以力的单位是
 
 $$
-\mathrm{kg\ m\ s^{-2}}.
+\mathrm{N}=\mathrm{kg\ m\ s^{-2}}.
 $$
 
 这个单位有专门名称，叫 newton，符号是 $\mathrm{N}$：
@@ -574,7 +574,7 @@ $$
 - 判断一个量是标量还是矢量。
 - 对共面矢量做相加、相减和分解。
 
-## 相关内容
+## 关联内容
 
 - [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]
 - [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]

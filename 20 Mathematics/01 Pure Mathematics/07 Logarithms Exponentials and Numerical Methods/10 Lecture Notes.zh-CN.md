@@ -27,14 +27,22 @@ tags:
 
 这张图用来快速理解“对数、指数函数与数值方法”：把指数、对数互为反函数和牛顿迭代放在一起看。
 
+## 来源范围
+
+- 9709 2.2 Logarithmic and exponential functions。
+- 9709 3.2 Logarithmic and exponential functions。
+- 9709 2.6 Numerical solution of equations。
+- 9709 3.6 Numerical solution of equations。
+- Coursebook route：9709 Pure Mathematics 2 and 3 Chapters 2 and 6。
+
 ## 学习范围
 
 - 指数函数、对数函数和反函数关系。
 - 对数运算法则、指数方程和对数方程。
 - 指数增长、指数衰减和半衰期。
 - 用对数把关系式化成直线形式。
-- 用变号、图像和 fixed-point iteration 近似求根。
-- Newton iteration 作为切线法的补充理解。
+- 用变号、图像和不动点迭代（fixed-point iteration）近似求根。
+- 牛顿迭代（Newton iteration）作为切线法的补充理解。
 
 ## 1. 指数和对数互为反函数
 
@@ -208,7 +216,7 @@ $$
 
 也可以把方程理解成两条图像的交点。例如 $f(x)=0$ 可以改写成 $g(x)=h(x)$。图像先告诉你根大概在哪里，迭代再负责把数值逼近。
 
-## 7. fixed-point iteration
+## 7. 不动点迭代
 
 如果方程能改写成
 
@@ -224,15 +232,15 @@ $$
 
 反复迭代。
 
-从一个初值 $x_0$ 出发，依次算 $x_1,x_2,x_3,\ldots$。如果这些数逐渐靠近某个 $\alpha$，那么 $\alpha$ 就是一个 fixed point，也对应原方程的根。
+从一个初值 $x_0$ 出发，依次算 $x_1,x_2,x_3,\ldots$。如果这些数逐渐靠近某个 $\alpha$，那么 $\alpha$ 就是一个不动点（fixed point），也对应原方程的根。
 
 但不是所有改写都稳定。同一个方程，不同的 rearrangement 可能一个收敛、一个发散，也可能收敛到不同的根。做题时要观察连续几步是否靠近同一个数，并按题目要求给出小数位数。
 
 中间迭代要保留足够精度，最后再按要求四舍五入。
 
-## 8. Newton iteration
+## 8. 牛顿迭代
 
-Newton iteration 用切线逼近根：
+牛顿迭代（Newton iteration）用切线逼近根：
 
 $$
 x_{n+1}=x_n-\frac{f(x_n)}{f'(x_n)}.
@@ -240,9 +248,9 @@ $$
 
 它通常收敛很快，但依赖初始值。如果起点选得不好，可能跑到别的根附近，甚至不收敛。若 $f'(x_n)$ 接近 0，也会出问题。
 
-在这套笔记里，fixed-point iteration 是 9709 的核心要求；Newton iteration 作为图像和切线思想的延伸来理解。
+在这套笔记里，不动点迭代是 9709 的核心要求；牛顿迭代作为图像和切线思想的延伸来理解。
 
-## 做题套路
+## 做题顺序
 
 ### 指数或对数方程
 
@@ -286,5 +294,10 @@ $$
 - 我能不能从半衰期求出指数模型中的常数？
 - 我能不能把 $y=kx^n$ 和 $y=ka^x$ 化成直线形式？
 - 我能不能用变号定位根？
-- 我能不能用 fixed-point iteration 写出清楚的迭代表？
-- 我能不能解释 Newton iteration 的切线意义？
+- 我能不能用不动点迭代写出清楚的迭代表？
+- 我能不能解释牛顿迭代的切线意义？
+
+## 关联内容
+
+- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Physics Capacitance]]：指数衰减模型会用于电容放电。
+- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Physics Nuclear Physics]]：半衰期和指数衰减会用于放射性衰变模型。

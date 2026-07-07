@@ -14,9 +14,31 @@ tags:
 
 # Chi-Squared, Non-Parametric Tests and PGF 中文讲义
 
-这一章有三类工具。卡方检验比较观察频数和期望频数；非参数检验用符号或秩来减少对总体分布的要求；概率生成函数用一个函数打包离散分布的信息。
+这一章有三类工具。卡方检验比较观察频数和期望频数；非参数检验用符号或秩来减少对总体分布的要求；概率母函数（probability generating function, PGF，也称概率生成函数）把离散分布的信息打包进一个函数。
 
-它们看起来跨度很大，但共同点是都在选择合适的表示：频数表、符号/秩，或者生成函数。
+它们看起来跨度很大，但共同点是都在选择合适的表示：频数表、符号/秩，或者 PGF。
+
+## 来源范围
+
+- 9231 4.3 Chi-squared tests。
+- 9231 4.4 Non-parametric tests。
+- 9231 4.5 Probability generating functions。
+- 教材路线：9231 Further Probability and Statistics 中 chi-squared tests, non-parametric tests, and probability generating functions 相关内容。
+
+## 关联内容
+
+- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]
+- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
+- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]
+
+## 学习顺序
+
+1. 先练习卡方拟合优度检验。
+2. 练习卡方独立性检验。
+3. 学习非参数检验适用的情况。
+4. 比较 sign test、Wilcoxon signed-rank test、matched-pairs signed-rank test 和 rank-sum test。
+5. 为常见分布建立 PGF。
+6. 用 PGF 求矩和随机变量之和。
 
 ## 图示导读
 
@@ -86,9 +108,9 @@ Wilcoxon rank-sum test 用合并后的秩比较两个独立样本，适合检验
 
 非参数检验的优点是条件较弱，缺点是会丢掉一部分数值信息。它不是完全没有假设，而是假设少一些。
 
-## 5. 概率生成函数
+## 5. 概率母函数（PGF）
 
-对非负整数取值的离散随机变量 $X$，概率生成函数是
+对非负整数取值的离散随机变量 $X$，概率母函数是
 
 $$
 G_X(t)=E(t^X)=\sum_{x=0}^{\infty}P(X=x)t^x.

@@ -287,7 +287,7 @@ $$
 - 在求截距时正确处理假原点。
 - 把物理关系改写成 $y=mx+c$ 并解读斜率。
 
-## 相关内容
+## 关联内容
 
 - [[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physical Quantities and Units]]
 - [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]
