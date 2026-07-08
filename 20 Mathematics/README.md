@@ -31,7 +31,7 @@ PDF sources are kept under `assets/`:
 - [[20 Mathematics/00 Overview/Textbook Chapter Map|Textbook Chapter Map]]
 - [[20 Mathematics/04 Reference/Mathematical Tools and Formulae|Mathematical Tools and Formulae]]
 - [[20 Mathematics/04 Reference/Problem Solving Patterns|Problem Solving Patterns]]
-- [[80 References/Terminology Reference|Terminology Reference]]
+- [[80 References/Terminology|Terminology]]
 
 ## Pure Mathematics
 

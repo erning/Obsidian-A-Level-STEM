@@ -23,7 +23,7 @@
 - Chinese may be used for separate supporting explanations or bilingual lookup
   material when explicitly requested, but it should not be the main language of
   subject notes.
-- Maintain `80 References/Terminology Reference.md` as the English-to-mainland
+- Maintain `80 References/Terminology.md` as the English-to-mainland
   Chinese terminology lookup. It is a reference, not the language model for the
   main notes.
 - Keep original English in homework, source question text, quoted textbook

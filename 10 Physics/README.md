@@ -25,7 +25,7 @@ PDF sources are kept under `assets/`:
 - [[10 Physics/00 Overview/How to Study|How to Study]]
 - [[10 Physics/00 Overview/Textbook Chapter Map|Textbook Chapter Map]]
 - [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]
-- [[80 References/Terminology Reference|Terminology Reference]]
+- [[80 References/Terminology|Terminology]]
 
 ## Topic Groups
 

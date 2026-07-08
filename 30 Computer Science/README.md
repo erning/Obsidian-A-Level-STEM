@@ -26,7 +26,7 @@ PDF sources are kept under `assets/`:
 - [[30 Computer Science/00 Overview/Syllabus and Paper Map|Syllabus and Paper Map]]
 - [[30 Computer Science/00 Overview/Textbook Chapter Map|Textbook Chapter Map]]
 - [[30 Computer Science/04 Reference/Pseudocode and Programming Reference|Pseudocode and Programming Reference]]
-- [[80 References/Terminology Reference|Terminology Reference]]
+- [[80 References/Terminology|Terminology]]
 
 ## Topic Groups
 
