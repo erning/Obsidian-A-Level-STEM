@@ -56,10 +56,12 @@ The processor turns the stored-program concept into action. This topic covers CP
 - [[30 Computer Science/01 Topics/04 Processor Fundamentals/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/04 Processor Fundamentals/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] supplies the gates and memory this topic uses.
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|15 Hardware and Virtual Machines]] extends this to RISC/CISC and parallel architectures.
+- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] supplies the gates, memory technologies, ports, and buses that this topic turns into CPU execution.
+- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] and [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] support the binary, hexadecimal, signed-value, and bit-pattern work used in machine code, shifts, and masks.
+- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]] extends this topic into RISC/CISC design, parallel architectures, and virtual machines.
+- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] revisits low-level execution ideas when programs work close to memory, data movement, and control flow.
 
 ## Common Traps
 

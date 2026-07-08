@@ -50,10 +50,11 @@ This A Level topic extends section 6 with the cryptography that protects data in
 - [[30 Computer Science/01 Topics/17 Security/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/17 Security/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|6 Security, Privacy and Data Integrity]] is the AS foundation this topic extends.
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|14 Communication and Internet Technologies]] provides the protocols SSL/TLS runs over.
+- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] provides the threat, privacy, integrity, authentication, and encryption foundations that this topic deepens with key-based mechanisms.
+- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]] provides the protocol-stack and client-server context in which SSL/TLS, certificates, and encrypted sessions operate.
+- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]] connects certificates, signatures, privacy, and trust to professional responsibility when systems handle sensitive data.
 
 ## Common Traps
 

@@ -53,13 +53,15 @@ This topic covers the physical components a computer uses to take in data, hold 
 - [[30 Computer Science/01 Topics/03 Hardware/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/03 Hardware/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] uses these gates and memory types inside the CPU.
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|15 Hardware and Virtual Machines]] extends logic circuits into Boolean algebra and adders.
+- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] puts these memory types, buses, registers, logic gates, and storage ideas inside the CPU execution model.
+- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]] extends the logic-circuit work into Boolean algebra, adders, flip-flops, processor architectures, and virtual machines.
+- [[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]] depends on the OS being able to manage hardware devices, memory, files, and peripheral input/output.
+- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] explains the binary values that storage devices, sensors, ADCs, and logic circuits ultimately hold and manipulate.
 
 ## Common Traps
 
 - Mixing up RAM and ROM, or SRAM and DRAM.
-- Forgetting that all gates except NOT have two inputs only at AS Level.
+- Forgetting that every gate in this topic except NOT has exactly two inputs.
 - Drawing a circuit that does not match the derived expression.

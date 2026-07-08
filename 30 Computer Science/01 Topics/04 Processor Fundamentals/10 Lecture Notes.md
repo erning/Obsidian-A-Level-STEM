@@ -441,9 +441,15 @@ You are ready to move on when you can answer these without notes.
 - [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] supplies the
   logic gates, flip-flops, and SRAM/DRAM that the registers, cache, and buses in
   this topic are built from.
+- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]]
+  and [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]]
+  supply the binary, hexadecimal, signed-value, and bit-pattern ideas used in
+  machine code, shifts, and masks.
 - [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]]
   takes this CPU further into RISC versus CISC, parallel processing, and the
-  relationship between virtual machines and real hardware at A Level.
+  relationship between virtual machines and real hardware; [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]]
+  reuses the same low-level ideas when reasoning about memory, data movement,
+  and control flow.
 
 ## Study Sequence
 

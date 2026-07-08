@@ -55,10 +55,12 @@ Code that works has to be designed, tested, and maintained. This topic covers th
 - [[30 Computer Science/01 Topics/12 Software Development/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/12 Software Development/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] produces the code this topic manages.
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|20 Further Programming]] continues into paradigms and exception handling.
+- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] supplies decomposition and stepwise refinement, which reappear here as structure charts and module design.
+- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] produces the code that this topic designs, tests, and maintains.
+- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] supports the record, array, and file choices made during program design.
+- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] continues the same development concerns through paradigms, file processing, and exception handling.
 
 ## Common Traps
 

@@ -54,10 +54,12 @@ This A Level topic extends section 5 with the internals of an operating system (
 - [[30 Computer Science/01 Topics/16 System Software/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/16 System Software/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/05 System Software/00 Overview|5 System Software]] is the AS foundation this topic extends.
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|4 Processor Fundamentals]] supplies the interrupts and registers the scheduler uses.
+- [[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]] is the foundation for OS purposes, utilities, translators, libraries, and IDE support; this topic opens up the internal mechanisms.
+- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] supplies interrupts, registers, program counter state, and fetch-execute ideas used when the kernel switches processes.
+- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]] connects through virtual machines, processor families, interrupt costs, and resource sharing.
+- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] and [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] connect to compilation, BNF grammar, RPN evaluation, and the source code that translators process.
 
 ## Common Traps
 

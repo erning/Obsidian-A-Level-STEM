@@ -331,4 +331,5 @@ ASR #1   1001 0110  (有符号负数)
 ## 关联内容
 
 - [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] 提供了本主题中寄存器、缓存和总线所用的逻辑门、触发器以及 SRAM/DRAM。
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]] 在 A Level 把这里的 CPU 进一步推向 RISC 与 CISC、并行处理，以及虚拟机与真实硬件的关系。
+- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] 和 [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] 提供了机器码、移位和掩码中反复用到的二进制、十六进制、有符号数和位模式基础。
+- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]] 把这里的 CPU 进一步推向 RISC 与 CISC、并行处理，以及虚拟机与真实硬件的关系；[[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] 会在靠近内存、数据移动和控制流的程序设计中再次用到这些底层思想。

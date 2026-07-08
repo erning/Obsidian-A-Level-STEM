@@ -54,10 +54,12 @@ This topic turns algorithm designs into working pseudocode. It covers variables 
 - [[30 Computer Science/01 Topics/11 Programming/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/11 Programming/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|20 Further Programming]] extends this with paradigms, file processing, and exception handling.
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] supplies the designs this topic implements.
+- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] supplies the designs, constructs, and refinement habits this topic implements as pseudocode.
+- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] supplies the types, arrays, records, files, and ADTs used in declarations and routines.
+- [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] places programming inside a design, testing, and maintenance cycle.
+- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] extends this foundation into programming paradigms, file processing, and exception handling.
 - Use the [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Pseudocode Guide 2027-2029.pdf|Pseudocode Guide]] as the notation reference.
 
 ## Common Traps

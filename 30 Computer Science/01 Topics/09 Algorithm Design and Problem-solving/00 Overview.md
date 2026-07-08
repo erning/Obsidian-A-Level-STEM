@@ -53,10 +53,12 @@ Computational thinking turns a problem into something a computer can do. This to
 - [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|19 Computational Thinking and Problem-solving]] extends this with searching, sorting, ADT operations, recursion, and complexity.
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] turns these designs into code.
+- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]] extends this foundation into searching, sorting, ADT operations, recursion, and complexity.
+- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] gives the arrays, records, files, stacks, queues, and linked lists that many algorithms process.
+- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] turns the designs from this topic into executable pseudocode with variables, constructs, procedures, and functions.
+- [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] revisits decomposition through structure charts, parameter flow, testing, and maintenance.
 - Use the [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Pseudocode Guide 2027-2029.pdf|Pseudocode Guide]] as the notation reference.
 
 ## Common Traps

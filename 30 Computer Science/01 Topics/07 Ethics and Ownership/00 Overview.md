@@ -49,10 +49,12 @@ Computing happens in a society. This topic covers the professional and legal res
 - [[30 Computer Science/01 Topics/07 Ethics and Ownership/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/07 Ethics and Ownership/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|18 Artificial Intelligence]] gives the technical basis for the AI impact discussed here.
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] covers the related duty to protect data.
+- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] gives the practical measures, access controls, and privacy concepts that an ethical computing professional must apply.
+- [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] extends that duty into trust mechanisms such as digital certificates, signatures, and protected client-server communication.
+- [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]] gives the technical basis for the AI systems whose social, economic, and environmental impact is discussed here.
+- [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] connects ethical reasoning to system design, testing, maintenance, and responsibility for released software.
 
 ## Common Traps
 

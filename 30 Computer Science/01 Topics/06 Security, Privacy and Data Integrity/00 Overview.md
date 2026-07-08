@@ -51,10 +51,12 @@ Security protects data and systems from harm; privacy protects who can see data;
 - [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/17 Security/00 Overview|17 Security]] extends this with encryption protocols and digital certificates.
-- [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]] is where many of these threats appear.
+- [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]] supplies the network and internet setting where malware, hackers, phishing, pharming, parity checks, and checksums become necessary.
+- [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] extends these foundations into key-based encryption, SSL/TLS, digital certificates, and trusted public keys.
+- [[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]] reuses validation, verification, access rights, backup, and data-integrity ideas inside a DBMS.
+- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]] connects the privacy and access-control ideas here to professional responsibility when handling other people's data.
 
 ## Common Traps
 

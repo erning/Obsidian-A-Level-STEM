@@ -53,10 +53,13 @@ This A Level topic extends section 11 with programming paradigms (low-level, imp
 - [[30 Computer Science/01 Topics/20 Further Programming/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/20 Further Programming/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|11 Programming]] is the AS foundation this topic extends.
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|13 Data Representation]] supplies the file organisations and record types used here.
+- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] is the procedural foundation this topic extends into larger paradigms, files, and exception handling.
+- [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] provides the testing, maintenance, and design context for writing robust programs.
+- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] supplies the addressing modes and low-level execution ideas used in the low-level programming part of this topic.
+- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] supplies the file organisations and record types used here.
+- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]] connects through ADTs, recursion, and algorithmic reasoning.
 - See [[30 Computer Science/04 Reference/Pseudocode and Programming Reference|Pseudocode and Programming Reference]] for Java, Visual Basic .NET, and Python patterns.
 
 ## Common Traps

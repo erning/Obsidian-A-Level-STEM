@@ -57,10 +57,12 @@ This A Level topic extends section 1 with the data types programmers define, the
 - [[30 Computer Science/01 Topics/13 Data Representation/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/13 Data Representation/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|1 Information Representation]] is the AS foundation this topic extends.
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|20 Further Programming]] uses these types and file modes in real code.
+- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] is the foundation for the number bases, two's complement, storage sizes, and bit-level thinking used here.
+- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] prepares the idea that data has type, structure, and operations; this topic formalises larger user-defined types and file organisation.
+- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] uses records, classes, pointers, file modes, and floating-point limits in real programs.
+- [[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]] connects to records, keys, file organisation, and the need to retrieve structured data accurately.
 
 ## Common Traps
 

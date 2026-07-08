@@ -55,10 +55,12 @@ Everything in a computer is stored as bits. This topic covers how numbers, text,
 - [[30 Computer Science/01 Topics/01 Information Representation/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/01 Information Representation/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|13 Data Representation]] extends this topic with user-defined types, file organisation, and floating-point numbers.
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] consumes the bits that this topic defines.
+- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] extends the same bit-level ideas into floating-point numbers, user-defined data types, and file organisation.
+- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] uses binary arithmetic, overflow, shifts, masks, and character-sized data as part of low-level execution.
+- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] gives the physical context for storage devices, displays, speakers, microphones, and the logic circuits that make binary possible.
+- [[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]] uses compression, files, and translators that all depend on accurate representation of data.
 
 ## Common Traps
 

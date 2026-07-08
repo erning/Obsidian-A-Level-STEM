@@ -52,10 +52,11 @@ This A Level topic extends section 2 with the protocols that let computers talk 
 - [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/02 Communication/00 Overview|2 Communication]] is the AS foundation this topic extends.
-- [[30 Computer Science/01 Topics/17 Security/00 Overview|17 Security]] builds on protocols with SSL/TLS.
+- [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]] provides the LAN/WAN, hardware, IP addressing, DNS, and router foundations that make protocol stacks and switching meaningful here.
+- [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] builds directly on these protocol ideas: SSL/TLS uses the client-server network path to add encryption, authentication, and integrity.
+- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] explains the threats and transfer-integrity checks that motivate secure communication over the networks studied here.
 
 ## Common Traps
 

@@ -53,10 +53,12 @@ A database stores related data so it can be queried, kept consistent, and protec
 - [[30 Computer Science/01 Topics/08 Databases/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/08 Databases/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] supplies the validation and access rights used here.
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] shares the idea of structured records.
+- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] supplies the validation, verification, access rights, backup, and integrity ideas that reappear as DBMS features.
+- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] shares the idea of structured records, fields, data types, and relationships between stored values.
+- [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] connects database design to larger system work: requirements, data modelling, testing, and maintenance.
+- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]] adds the responsibility side of storing personal data, controlling access, and respecting ownership.
 
 ## Common Traps
 

@@ -52,10 +52,13 @@ This A Level topic extends section 9 with the standard searching and sorting alg
 - [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|9 Algorithm Design and Problem-solving]] is the AS foundation this topic extends.
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|10 Data Types and Structures]] supplies the ADTs these algorithms operate on.
+- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] is the foundation this topic extends: abstraction, decomposition, constructs, pseudocode, and tracing all carry forward.
+- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] supplies the arrays, stacks, queues, linked lists, and files that these algorithms operate on.
+- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] supplies the routine structure, parameter passing, and control-flow fluency needed to write these algorithms cleanly.
+- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] reuses the same algorithmic thinking in paradigms, files, exception handling, and low-level links.
+- [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]] depends on algorithm choice, data representation, and complexity limits when systems scale.
 
 ## Common Traps
 

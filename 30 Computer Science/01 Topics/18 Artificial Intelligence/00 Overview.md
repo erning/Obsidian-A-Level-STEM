@@ -49,10 +49,13 @@ This A Level topic covers the core ideas behind modern AI: graphs as a structure
 - [[30 Computer Science/01 Topics/18 Artificial Intelligence/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/18 Artificial Intelligence/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|19 Computational Thinking and Problem-solving]] treats the graph as an abstract data type.
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|7 Ethics and Ownership]] covers the social, economic, and environmental impact of these methods.
+- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|9 Algorithm Design and Problem-solving]] prepares the tracing discipline used when following Dijkstra's algorithm and A\* step by step.
+- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|19 Computational Thinking and Problem-solving]] treats the graph as an abstract data type: the structure searched here is the structure implemented and reasoned about there.
+- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|13 Data Representation]] connects to the way learning systems turn examples, labels, weights, and continuous predicted values into data that can be stored and processed.
+- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|15 Hardware and Virtual Machines]] extends the performance side: larger search spaces and neural-network models depend on processing power, memory, and sometimes parallel execution.
+- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|7 Ethics and Ownership]] covers the social, economic, environmental, and responsibility questions raised by these technical methods.
 
 ## Common Traps
 

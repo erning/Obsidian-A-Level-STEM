@@ -55,10 +55,13 @@ Programs act on data, and the way data is grouped changes what the program can d
 - [[30 Computer Science/01 Topics/10 Data Types and Structures/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/10 Data Types and Structures/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|19 Computational Thinking and Problem-solving]] requires algorithmic operations on these structures.
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] supplies the pseudocode notation.
+- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] supplies the pseudocode notation and tracing habits used to process these structures.
+- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] uses these data types in declarations, expressions, procedures, and functions.
+- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]] turns stacks, queues, linked lists, trees, searches, and sorts into full algorithmic operations.
+- [[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]] connects records, fields, keys, and structured data storage to larger data management.
+- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] extends the storage view into file organisation and user-defined types.
 
 ## Common Traps
 

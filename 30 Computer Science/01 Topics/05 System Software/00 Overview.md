@@ -51,10 +51,12 @@ System software sits between the hardware and the user's programs. This topic co
 - [[30 Computer Science/01 Topics/05 System Software/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/05 System Software/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/16 System Software/00 Overview|16 System Software]] extends this with process scheduling, virtual memory, and the stages of compilation.
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] produces the source code that translators process.
+- [[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]] extends this topic from OS roles and translator types into process scheduling, virtual memory, compilation stages, BNF, and RPN.
+- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] produces the source code that assemblers, compilers, interpreters, IDEs, and libraries support.
+- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] supplies the memory, storage, input/output devices, and peripherals that the OS manages through drivers and utilities.
+- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] explains why translated programs must become instructions that the CPU can fetch, decode, execute, and interrupt.
 
 ## Common Traps
 

@@ -53,9 +53,12 @@ This A Level topic extends sections 3 and 4 with processor architectures, parall
 - [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/31 Key Practice Solutions|Key Practice Solutions]]
 - [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/80 Review Checklist|Review Checklist]]
 
-## Connections
+## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|3 Hardware]] and [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|4 Processor Fundamentals]] are the AS foundations this topic extends.
+- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] supplies the logic gates, memory technologies, storage devices, and control ideas that are extended into adders, flip-flops, and larger processor systems.
+- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] prepares the CPU, register, interrupt, and addressing ideas that become RISC/CISC comparisons and Flynn architectures here.
+- [[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]] connects to virtual machines, interrupt handling, scheduling, memory management, and the way software uses processor and memory resources.
+- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] underpins the binary addition and Boolean behaviour used by adders, flip-flops, and logic simplification.
 
 ## Common Traps
 
