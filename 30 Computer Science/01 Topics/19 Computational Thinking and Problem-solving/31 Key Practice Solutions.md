@@ -25,19 +25,17 @@ Found ← FALSE
 Index ← 1
 
 WHILE Found = FALSE AND Index <= Upper
-    IF Data[Index] = TargetValue
-        THEN
-            Found ← TRUE
-        ELSE
-            Index ← Index + 1
+    IF Data[Index] = TargetValue THEN
+        Found ← TRUE
+    ELSE
+        Index ← Index + 1
     ENDIF
 ENDWHILE
 
-IF Found = TRUE
-    THEN
-        OUTPUT "Found at position ", Index
-    ELSE
-        OUTPUT "Not found"
+IF Found = TRUE THEN
+    OUTPUT "Found at position ", Index
+ELSE
+    OUTPUT "Not found"
 ENDIF
 ```
 
@@ -59,24 +57,21 @@ Higher ← Upper
 
 WHILE Found = FALSE AND Lower <= Higher
     Mid ← (Lower + Higher) DIV 2
-    IF Data[Mid] = TargetValue
-        THEN
-            Found ← TRUE
+    IF Data[Mid] = TargetValue THEN
+        Found ← TRUE
+    ELSE
+        IF Data[Mid] < TargetValue THEN
+            Lower ← Mid + 1
         ELSE
-            IF Data[Mid] < TargetValue
-                THEN
-                    Lower ← Mid + 1
-                ELSE
-                    Higher ← Mid - 1
-            ENDIF
+            Higher ← Mid - 1
+        ENDIF
     ENDIF
 ENDWHILE
 
-IF Found = TRUE
-    THEN
-        OUTPUT "Found at position ", Mid
-    ELSE
-        OUTPUT "Not found"
+IF Found = TRUE THEN
+    OUTPUT "Found at position ", Mid
+ELSE
+    OUTPUT "Not found"
 ENDIF
 ```
 
@@ -102,12 +97,11 @@ DECLARE Index : INTEGER
 REPEAT
     Swapped ← FALSE
     FOR Index ← 1 TO Upper - 1
-        IF Data[Index] > Data[Index + 1]
-            THEN
-                Temp ← Data[Index]
-                Data[Index] ← Data[Index + 1]
-                Data[Index + 1] ← Temp
-                Swapped ← TRUE
+        IF Data[Index] > Data[Index + 1] THEN
+            Temp ← Data[Index]
+            Data[Index] ← Data[Index + 1]
+            Data[Index + 1] ← Temp
+            Swapped ← TRUE
         ENDIF
     NEXT Index
 UNTIL Swapped = FALSE
@@ -174,19 +168,17 @@ Found ← FALSE
 CurrentPointer ← Head
 
 WHILE Found = FALSE AND CurrentPointer <> NullPointer
-    IF CurrentPointer.Data = TargetValue
-        THEN
-            Found ← TRUE
-        ELSE
-            CurrentPointer ← CurrentPointer.Next
+    IF CurrentPointer.Data = TargetValue THEN
+        Found ← TRUE
+    ELSE
+        CurrentPointer ← CurrentPointer.Next
     ENDIF
 ENDWHILE
 
-IF Found = TRUE
-    THEN
-        OUTPUT "Found"
-    ELSE
-        OUTPUT "Not found"
+IF Found = TRUE THEN
+    OUTPUT "Found"
+ELSE
+    OUTPUT "Not found"
 ENDIF
 ```
 
@@ -212,23 +204,20 @@ CurrentPointer ← Head
 PreviousPointer ← NullPointer
 
 WHILE Found = FALSE AND CurrentPointer <> NullPointer
-    IF CurrentPointer.Data = TargetValue
-        THEN
-            Found ← TRUE
-        ELSE
-            PreviousPointer ← CurrentPointer
-            CurrentPointer ← CurrentPointer.Next
+    IF CurrentPointer.Data = TargetValue THEN
+        Found ← TRUE
+    ELSE
+        PreviousPointer ← CurrentPointer
+        CurrentPointer ← CurrentPointer.Next
     ENDIF
 ENDWHILE
 
-IF Found = TRUE
-    THEN
-        IF PreviousPointer = NullPointer
-            THEN
-                Head ← CurrentPointer.Next
-            ELSE
-                PreviousPointer.Next ← CurrentPointer.Next
-        ENDIF
+IF Found = TRUE THEN
+    IF PreviousPointer = NullPointer THEN
+        Head ← CurrentPointer.Next
+    ELSE
+        PreviousPointer.Next ← CurrentPointer.Next
+    ENDIF
 ENDIF
 ```
 
@@ -237,50 +226,46 @@ When the target is the head node, `PreviousPointer` is still `NullPointer`, so `
 **14.** Push:
 
 ```pseudocode
-IF TopPointer = MaxSize
-    THEN
-        OUTPUT "Stack overflow"
-    ELSE
-        TopPointer ← TopPointer + 1
-        Stack[TopPointer] ← NewValue
+IF TopPointer = MaxSize THEN
+    OUTPUT "Stack overflow"
+ELSE
+    TopPointer ← TopPointer + 1
+    Stack[TopPointer] ← NewValue
 ENDIF
 ```
 
 Pop:
 
 ```pseudocode
-IF TopPointer = 0
-    THEN
-        OUTPUT "Stack underflow"
-    ELSE
-        PoppedValue ← Stack[TopPointer]
-        TopPointer ← TopPointer - 1
+IF TopPointer = 0 THEN
+    OUTPUT "Stack underflow"
+ELSE
+    PoppedValue ← Stack[TopPointer]
+    TopPointer ← TopPointer - 1
 ENDIF
 ```
 
 **15.** Enqueue:
 
 ```pseudocode
-IF NumberOfItems = MaxSize
-    THEN
-        OUTPUT "Queue full"
-    ELSE
-        RearPointer ← (RearPointer MOD MaxSize) + 1
-        Queue[RearPointer] ← NewValue
-        NumberOfItems ← NumberOfItems + 1
+IF NumberOfItems = MaxSize THEN
+    OUTPUT "Queue full"
+ELSE
+    RearPointer ← (RearPointer MOD MaxSize) + 1
+    Queue[RearPointer] ← NewValue
+    NumberOfItems ← NumberOfItems + 1
 ENDIF
 ```
 
 Dequeue:
 
 ```pseudocode
-IF NumberOfItems = 0
-    THEN
-        OUTPUT "Queue empty"
-    ELSE
-        DequeuedValue ← Queue[FrontPointer]
-        FrontPointer ← (FrontPointer MOD MaxSize) + 1
-        NumberOfItems ← NumberOfItems - 1
+IF NumberOfItems = 0 THEN
+    OUTPUT "Queue empty"
+ELSE
+    DequeuedValue ← Queue[FrontPointer]
+    FrontPointer ← (FrontPointer MOD MaxSize) + 1
+    NumberOfItems ← NumberOfItems - 1
 ENDIF
 ```
 
@@ -311,11 +296,10 @@ Two suitable situations:
 
 ```pseudocode
 FUNCTION Factorial(N : INTEGER) RETURNS INTEGER
-    IF N = 0
-        THEN
-            RETURN 1
-        ELSE
-            RETURN N * Factorial(N - 1)
+    IF N = 0 THEN
+        RETURN 1
+    ELSE
+        RETURN N * Factorial(N - 1)
     ENDIF
 ENDFUNCTION
 ```

@@ -62,10 +62,10 @@ A **register** is a very fast storage location inside the CPU, built from
 flip-flops. They divide into two kinds.
 
 - **General-purpose registers** can be used by the programmer for any holding
-  job. In this instruction set there is exactly one: the **Accumulator (ACC)**,
-  which is the register every calculation works through. The **Index Register
-  (IX)** is also programmer-addressable and is used mainly for indexed
-  addressing and as a counter.
+  job. In this instruction set there is exactly one general-purpose working
+  register: the **Accumulator (ACC)**, which every calculation works through.
+  The **Index Register (IX)** is separate: it is programmer-addressable, but
+  its dedicated role is indexed addressing and it is often used as a counter.
 - **Special-purpose registers** each have a single fixed role in the
   fetch-execute cycle and cannot be used for anything else.
 
@@ -75,8 +75,8 @@ flip-flops. They divide into two kinds.
 | Memory Address Register | MAR | Holds the address in memory that is currently being read from or written to |
 | Memory Data Register | MDR | Holds the data just read from memory or about to be written to memory (a.k.a. Memory Buffer Register) |
 | Current Instruction Register | CIR | Holds the instruction currently being decoded and executed |
-| Accumulator | ACC | General-purpose working register; every arithmetic and logic result is built here |
-| Index Register | IX | Holds an offset used in indexed addressing; often used as a loop counter |
+| Accumulator | ACC | The single general-purpose working register; every arithmetic and logic result is built here |
+| Index Register | IX | Dedicated index register; holds an offset used in indexed addressing and often used as a loop counter |
 | Status Register | - | Holds flag bits set by the ALU, e.g. the compare flag (result of CMP), zero flag, sign flag, overflow flag, carry flag |
 
 The Status Register is sometimes called the flag register. Each bit records one
@@ -248,8 +248,8 @@ hexadecimal.
 | `CMI` | `<address>` | Compare ACC with the contents of the address held at address (indirect) |
 | `JPE` | `<address>` | Jump if the compare flag is True (equal) |
 | `JPN` | `<address>` | Jump if the compare flag is False (not equal) |
-| `IN` | - | Input a value into ACC |
-| `OUT` | - | Output the value in ACC |
+| `IN` | - | Key in a character and store its ASCII value in ACC |
+| `OUT` | - | Output the character whose ASCII value is stored in ACC |
 | `AND` | `#n`/`Bn`/`&n` or `<address>` | Bitwise AND of ACC with the operand |
 | `OR` | `#n`/`Bn`/`&n` or `<address>` | Bitwise OR of ACC with the operand |
 | `XOR` | `#n`/`Bn`/`&n` or `<address>` | Bitwise XOR of ACC with the operand |
@@ -385,8 +385,9 @@ bit, and XOR with a mask toggles it.
 
 1. For any CPU question, name the component by its role first (ALU calculates,
    CU directs, clock synchronises, IAS stores inside the CPU), then add detail.
-2. For register questions, separate general-purpose (ACC, IX) from
-   special-purpose, and never confuse MAR (the address) with MDR (the data).
+2. For register questions, separate the single general-purpose working
+   register (ACC), the Index Register (IX), and the other special-purpose
+   registers; never confuse MAR (the address) with MDR (the data).
 3. When describing the fetch-execute cycle, write it in register-transfer
    notation and tick off PC → MAR → MDR → CIR → PC+1 in that order.
 4. For assembly tracing, set up a table with one column per register and per

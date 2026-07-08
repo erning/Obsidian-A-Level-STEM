@@ -73,4 +73,4 @@ These problems cover the full AS Section 8 scope: relational concepts, normalisa
 
 23. Write SQL to insert a new customer with ID 14, name "Sara", email "sara@example.com", joined today's date, and then write a query using `COUNT` and `GROUP BY` to show how many orders each customer has placed.
 
-24. Write a query that uses `INNER JOIN`, `GROUP BY`, and `AVG` to show the average order value per customer, and explain in one sentence why `HAVING` rather than `WHERE` would be used to filter customers whose average is above a threshold.
+24. Given `Customer(CustomerID, CustomerName)` and `Order(OrderID, OrderDate, CustomerID, TotalValue)`, write a query that uses `INNER JOIN`, `WHERE`, `GROUP BY`, and `AVG` to show each customer's ID, name, and average order value for orders on or after 1 January 2026, ordered from highest average to lowest.

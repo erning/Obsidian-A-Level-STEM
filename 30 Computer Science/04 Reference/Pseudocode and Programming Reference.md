@@ -10,7 +10,7 @@ tags:
 
 # Pseudocode and Programming Reference
 
-This reference summarises the pseudocode notation used in CAIE Computer Science 9618 Paper 2 and Paper 4, and gives the equivalent patterns in Java, Visual Basic .NET, and Python. The authoritative source is the [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Pseudocode Guide 2027-2029.pdf|Pseudocode Guide for Teachers 2027-2029]]; this note is a quick lookup.
+This reference summarises the pseudocode notation used in CAIE Computer Science 9618 Paper 2, and gives equivalent Paper 4 programming patterns in Java, Visual Basic .NET, and Python. The authoritative source for pseudocode is the [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Pseudocode Guide 2027-2029.pdf|Pseudocode Guide for Teachers 2027-2029]]; this note is a quick lookup.
 
 ## Pseudocode Conventions
 
@@ -231,7 +231,7 @@ A trace table tracks the value of each variable after each statement executes. U
 
 Paper 4 is completed in Java (console mode), Visual Basic .NET (console mode), or Python (console mode). The table gives the equivalent of common pseudocode operations in each language.
 
-| Operation | Pseudocode | Java | VB.NET | Python |
+| Operation | Pseudocode | Java | Visual Basic .NET | Python |
 |---|---|---|---|---|
 | Declare / assign | `Counter ← 0` | `int counter = 0;` | `Dim counter As Integer = 0` | `counter = 0` |
 | Integer division | `a DIV b` | `a / b` (cast) | `a \ b` | `a // b` |
@@ -248,15 +248,15 @@ Paper 4 is completed in Java (console mode), Visual Basic .NET (console mode), o
 
 Exceptions are raised when a program cannot continue normally, for example on division by zero, a missing file, or invalid input. Handling prevents a crash and lets the program respond cleanly.
 
-```pseudocode
-TRY
-   <statement(s)>
-CATCH <error>
-   <statement(s)>
-ENDTRY
-```
+The official CAIE Pseudocode Guide does not define an exception-handling pseudocode construct. Section 20.2 asks candidates to write program code, so use the construct from the chosen Paper 4 language:
 
-In the chosen language, use the matching construct: Java `try / catch`, VB.NET `Try / Catch`, Python `try / except`.
+| Language | Form |
+|---|---|
+| Java | `try { ... } catch (SpecificException e) { ... } catch (Exception e) { ... }` |
+| Visual Basic .NET | `Try ... Catch ex As SpecificException ... Catch ex As Exception ... End Try` |
+| Python | `try: ... except SpecificError: ... except Exception: ...` |
+
+Catch the most specific exception first and use a broad catch only as a final safety net with a clear recovery action.
 
 ## How to Use This Reference
 

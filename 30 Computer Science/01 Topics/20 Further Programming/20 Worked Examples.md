@@ -17,7 +17,7 @@ These worked examples cover 9618 A Level section 20 Further Programming: the fou
 
 - Syllabus 9618 A Level section 20 Further Programming.
 - 20.1 Programming Paradigms - low-level (addressing modes), imperative/procedural, object-oriented, declarative.
-- 20.2 File Processing and Exception Handling - open/close, read/write records, serial/sequential/random files, exceptions and `TRY/CATCH`.
+- 20.2 File Processing and Exception Handling - open/close, read/write records, serial/sequential/random files, and exception handling in Java, Visual Basic .NET, or Python program code.
 - Assessed in Paper 3 (all paradigms) and Paper 4 (practical, excluding low-level and declarative).
 
 ## Example 1: Classify a task by paradigm
@@ -42,16 +42,16 @@ These worked examples cover 9618 A Level section 20 Further Programming: the fou
 
 ## Example 2: Low-level code for each addressing mode
 
-**Prompt.** Assume an accumulator `ACC`, an index register `IX`, and a program counter `PC`. Write one load or jump instruction that uses each of the five addressing modes (immediate, direct, indirect, indexed, relative) and state the effect of each.
+**Prompt.** Using the Topic 4 instruction-set notation, assume an accumulator `ACC`, an index register `IX`, and a program counter `PC`. Write one load or jump instruction that uses each of the five addressing modes (immediate, direct, indirect, indexed, relative) and state the effect of each.
 
 **Solution.**
 
 ```pseudocode
 LDM #10         // Immediate: ACC ← 10 (the operand is the literal value)
-LDD [500]       // Direct:   ACC ← M[500] (operand is at the given address)
-LDI [500]       // Indirect: ACC ← M[M[500]] (address 500 holds another address)
-LDX [500]       // Indexed:  ACC ← M[500 + IX] (base address plus the index register)
-JMP #3          // Relative: PC ← PC + 3 (jump an offset from the current PC)
+LDD 500         // Direct:   ACC ← M[500] (operand is at the given address)
+LDI 500         // Indirect: ACC ← M[M[500]] (address 500 holds another address)
+LDX 500         // Indexed:  ACC ← M[500 + IX] (base address plus the index register)
+JMP +3          // Relative: PC ← PC + 3 (jump an offset from the current PC)
 ```
 
 **Check.** `LDM` loads the literal shown after `#`. `LDD` dereferences the address once. `LDI` dereferences twice, so it is the value at the address held at the named address. `LDX` adds the index register to the base address, which is how arrays are stepped through. Relative addressing makes the code position-independent because every jump is measured from where execution currently is.
@@ -171,7 +171,7 @@ CLOSEFILE "Data.dat"
 
 **Solution.** An exception is an error condition raised while a program runs, for example division by zero, a missing file, an out-of-range array index, or invalid input. If it is not handled, the program crashes.
 
-Handling is appropriate when a failure is possible but not normal and there is a genuine recovery path: reading a file the user named, parsing input, dividing by a value that might be zero. In those cases a `try`/`catch` block can report the problem, use a default, or retry, so execution continues or stops cleanly.
+Handling is appropriate when a failure is possible but not normal and there is a genuine recovery path: reading a file the user named, parsing input, dividing by a value that might be zero. In those cases a language exception handler can report the problem, use a default, or retry, so execution continues or stops cleanly.
 
 Handling is a mistake when it catches a bare `Exception` around code that cannot realistically fail, or around a bug such as a logic error. Catching too broadly hides the real fault, making the program harder to debug and giving the appearance of correctness while the data is wrong.
 
@@ -179,7 +179,7 @@ Handling is a mistake when it catches a bare `Exception` around code that cannot
 
 ## Example 8: Exception-handling code
 
-**Prompt.** Write a program that inputs a divisor and prints 100 divided by it. Handle division by zero with a clear message, and any other failure with a different message. Give the solution in Java, in Python, and in CAIE pseudocode (`TRY/CATCH/ENDTRY`).
+**Prompt.** Write a program that inputs a divisor and prints 100 divided by it. Handle division by zero with a clear message, and any other failure with a different message. Give the solution in Java, Visual Basic .NET, and Python program code.
 
 **Solution.**
 
@@ -205,6 +205,25 @@ class Main {
 }
 ```
 
+Visual Basic .NET:
+
+```vbnet
+Module MainModule
+    Sub Main()
+        Console.Write("Enter a divisor: ")
+        Try
+            Dim d As Integer = Integer.Parse(Console.ReadLine())
+            Dim result As Integer = 100 \ d
+            Console.WriteLine("100 / " & d & " = " & result)
+        Catch ex As DivideByZeroException   ' division by zero, handled first
+            Console.WriteLine("Cannot divide by zero.")
+        Catch ex As Exception               ' any other failure, e.g. bad input
+            Console.WriteLine("Invalid input.")
+        End Try
+    End Sub
+End Module
+```
+
 Python:
 
 ```python
@@ -218,22 +237,7 @@ except Exception:                # any other failure, e.g. non-numeric input
     print("Invalid input.")
 ```
 
-Pseudocode:
-
-```pseudocode
-DECLARE Divisor, Result : REAL
-
-TRY
-    OUTPUT "Enter a divisor: "
-    INPUT Divisor
-    Result ← 100 / Divisor
-    OUTPUT "Result is ", Result
-CATCH DivByZero
-    OUTPUT "Cannot divide by zero."
-ENDTRY
-```
-
-**Check.** Each solution wraps the risky statement inside a `try` block, and the most specific exception (`ArithmeticException` / `ZeroDivisionError` / `DivByZero`) is caught first. The general catch sits last as a safety net so that an unexpected failure still produces a message instead of a crash. The pseudocode form `TRY / CATCH / ENDTRY` matches VB.NET's `Try / Catch` and the Java and Python forms shown above.
+**Check.** Each solution wraps the risky statement inside the language's exception construct, and the most specific exception (`ArithmeticException` / `DivideByZeroException` / `ZeroDivisionError`) is caught first. The general catch sits last as a safety net so that an unexpected failure still produces a message instead of a crash. The CAIE Pseudocode Guide does not provide a separate exception-handling pseudocode syntax, so exam practice should use a Paper 4 language.
 
 ## Study Routine
 

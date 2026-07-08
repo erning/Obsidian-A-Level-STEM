@@ -16,7 +16,7 @@ These notes cover **section 20 Further Programming** of the 9618 A Level syllabu
 ## Source Route
 
 - Syllabus 20.1 Programming Paradigms - low-level, imperative (procedural), object-oriented, declarative.
-- Syllabus 20.2 File Processing and Exception Handling - file operations on serial, sequential, random files; exceptions and `TRY/CATCH`.
+- Syllabus 20.2 File Processing and Exception Handling - file operations on serial, sequential, random files; exception handling in Java, Visual Basic .NET, or Python program code.
 - Paper 3 (theory, all paradigms) and Paper 4 (practical; excludes low-level and declarative).
 
 ## 1. Programming paradigms
@@ -34,24 +34,24 @@ A **programming paradigm** is a style or way of thinking about how a program is 
 
 ## 2. Low-level programming
 
-Low-level code uses the CPU's own instructions. Each **addressing mode** is the rule the CPU follows to locate the operand. The table shows the load instruction that uses each mode; the same operand rules apply to `ADD`, `STO` and so on.
+Low-level code uses the CPU's own instructions. Each **addressing mode** is the rule the CPU follows to locate the operand. This is a paradigm-level recap; use the instruction-set notation from [[30 Computer Science/01 Topics/04 Processor Fundamentals/10 Lecture Notes|Topic 4 Processor Fundamentals]]. Write CAIE operands plainly, such as `LDD 100`, and use memory notation such as `M[100]` only when explaining the effect.
 
 | Mode | How the operand is found | Mnemonic example | Effect |
 |------|--------------------------|------------------|--------|
 | Immediate | The operand *is* the value written in the instruction | `LDM #5` | ACC ← 5 |
-| Direct | The operand is stored at the address given | `LDD [100]` | ACC ← M[100] |
-| Indirect | The address given holds *another* address; the operand is there | `LDI [100]` | ACC ← M[M[100]] |
-| Indexed | The operand is at (given address + Index Register) | `LDX [100]` | ACC ← M[100 + IX] |
-| Relative | The address is an offset from the current PC | `JMP #3` (concept) | jump to PC + offset |
+| Direct | The operand is stored at the address given | `LDD 100` | ACC ← M[100] |
+| Indirect | The address given holds *another* address; the operand is there | `LDI 100` | ACC ← M[M[100]] |
+| Indexed | The operand is at (given address + Index Register) | `LDX 100` | ACC ← M[100 + IX] |
+| Relative | The address is an offset from the current PC | `JMP +3` (concept) | jump to PC + offset |
 
 One worked instruction per mode:
 
 ```pseudocode
 LDM #10         // Immediate: load the literal 10 into ACC
-LDD [500]       // Direct:   load the value stored at address 500
-LDI [500]       // Indirect: address 500 holds an address; load from there
-LDX [500]       // Indexed:  load from address 500 + IX (array element)
-JMP #3          // Relative: jump 3 instructions forward from the PC
+LDD 500         // Direct:   load the value stored at address 500
+LDI 500         // Indirect: address 500 holds an address; load from there
+LDX 500         // Indexed:  load from address 500 + IX (array element)
+JMP +3          // Relative: jump 3 instructions forward from the PC
 ```
 
 Indexed addressing is the workhorse for arrays: store the base address of the array, then vary IX to step through elements. Relative addressing gives position-independent code - the same bytes run correctly wherever they are loaded.
@@ -246,20 +246,37 @@ class Main {
 }
 ```
 
-The pseudocode form is `TRY / CATCH / ENDTRY`:
+The CAIE Pseudocode Guide does not define exception-handling pseudocode. For Paper 4, write real program code in the chosen language. The same structure in Visual Basic .NET and Python is:
 
-```pseudocode
-TRY
-    OUTPUT "Enter a divisor: "
-    INPUT Divisor
-    Result ← 100 / Divisor
-    OUTPUT "Result is ", Result
-CATCH DivByZero
-    OUTPUT "Cannot divide by zero."
-ENDTRY
+```vbnet
+Module MainModule
+    Sub Main()
+        Console.Write("Enter a divisor: ")
+        Try
+            Dim d As Integer = Integer.Parse(Console.ReadLine())
+            Dim result As Integer = 100 \ d
+            Console.WriteLine("100 / " & d & " = " & result)
+        Catch ex As DivideByZeroException
+            Console.WriteLine("Cannot divide by zero.")
+        Catch ex As Exception
+            Console.WriteLine("Invalid input.")
+        End Try
+    End Sub
+End Module
 ```
 
-The matching construct in each Paper 4 language is Java `try / catch`, VB.NET `Try / Catch`, Python `try / except`.
+```python
+try:
+    d = int(input("Enter a divisor: "))
+    result = 100 / d
+    print("100 /", d, "=", result)
+except ZeroDivisionError:
+    print("Cannot divide by zero.")
+except Exception:
+    print("Invalid input.")
+```
+
+The pattern is the same in all three Paper 4 languages: put the risky statements inside the language's protected block, catch `ArithmeticException` / `DivideByZeroException` / `ZeroDivisionError` before a broader `Exception`, and make each handler do something useful.
 
 ## Worked-Thinking Routine
 
@@ -286,7 +303,7 @@ The matching construct in each Paper 4 language is Java `try / catch`, VB.NET `T
 - Design a `BankAccount` class with a private balance, a getter and a validated setter.
 - Write a declarative rule for `sibling(X, Y)` using a `parent/2` fact.
 - Write pseudocode to append a record to a sequential file and to update a random record.
-- Write a `TRY/CATCH` block that handles a missing-file error, and state its Java form.
+- Write exception-handling code in your Paper 4 language that handles a missing-file error, and state why the specific exception should be caught before a broad one.
 
 ## Connections
 

@@ -100,9 +100,8 @@ OUTPUT "Total = ", Total
 DECLARE MaxMark : INTEGER
 MaxMark ← Marks[1]
 FOR Index ← 2 TO 5
-    IF Marks[Index] > MaxMark
-        THEN
-            MaxMark ← Marks[Index]
+    IF Marks[Index] > MaxMark THEN
+        MaxMark ← Marks[Index]
     ENDIF
 NEXT Index
 OUTPUT "Highest = ", MaxMark
@@ -132,12 +131,11 @@ DECLARE Swapped : BOOLEAN
 REPEAT
     Swapped ← FALSE
     FOR Index ← 1 TO 4          // compare adjacent pairs 1-2 ... 4-5
-        IF Marks[Index] > Marks[Index + 1]
-            THEN
-                Temp ← Marks[Index]
-                Marks[Index] ← Marks[Index + 1]
-                Marks[Index + 1] ← Temp
-                Swapped ← TRUE
+        IF Marks[Index] > Marks[Index + 1] THEN
+            Temp ← Marks[Index]
+            Marks[Index] ← Marks[Index + 1]
+            Marks[Index + 1] ← Temp
+            Swapped ← TRUE
         ENDIF
     NEXT Index
 UNTIL Swapped = FALSE
@@ -160,19 +158,17 @@ Index ← 1
 TargetValue ← INPUT
 
 WHILE Found = FALSE AND Index <= 5
-    IF Marks[Index] = TargetValue
-        THEN
-            Found ← TRUE
-        ELSE
-            Index ← Index + 1
+    IF Marks[Index] = TargetValue THEN
+        Found ← TRUE
+    ELSE
+        Index ← Index + 1
     ENDIF
 ENDWHILE
 
-IF Found = TRUE
-    THEN
-        OUTPUT "Found at position ", Index
-    ELSE
-        OUTPUT "Not found"
+IF Found = TRUE THEN
+    OUTPUT "Found at position ", Index
+ELSE
+    OUTPUT "Not found"
 ENDIF
 ```
 
@@ -191,7 +187,7 @@ CAIE pseudocode handles **text files** - files made of one or more lines of char
 | `OPENFILE <filename> FOR APPEND` | Open a file to add lines at the end (keeps existing contents). |
 | `READFILE <filename>, <variable>` | Read the next line into the variable. |
 | `WRITEFILE <filename>, <data>` | Write a line of data to the file. |
-| `EOF(<filename>)` | Returns TRUE if the last READFILE reached the end of the file. |
+| `EOF(<filename>)` | Returns TRUE when there are no more lines to read. |
 | `CLOSEFILE <filename>` | Close the file, flushing and releasing it. |
 
 The standard pattern for reading a whole file is a `WHILE NOT EOF(...)` loop: open for read, then keep reading one line at a time and processing it until there is nothing left, then close.

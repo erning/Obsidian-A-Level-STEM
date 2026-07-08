@@ -34,13 +34,13 @@ Full solutions to the [[30 Key Practice Problems|Key Practice Problems]] for A L
 
 ```pseudocode
 LDM #25         // Immediate: ACC ← 25
-LDD [600]       // Direct:   ACC ← M[600]
-LDI [600]       // Indirect: ACC ← M[M[600]]
-LDX [600]       // Indexed:  ACC ← M[600 + IX]
-JMP #2          // Relative: PC ← PC + 2
+LDD 600         // Direct:   ACC ← M[600]
+LDI 600         // Indirect: ACC ← M[M[600]]
+LDX 600         // Indexed:  ACC ← M[600 + IX]
+JMP +2          // Relative: PC ← PC + 2
 ```
 
-**6.** With direct addressing the operand is stored at the address given, so `LDD [600]` puts the value at address 600 into `ACC`. With indirect addressing the given address holds *another* address, and the operand is there, so `LDI [600]` reads address 600 to find an address, then reads from that address. Indirect addressing is useful when a pointer variable must be followed, for example walking a linked structure where each node stores the address of the next node.
+**6.** With direct addressing the operand is stored at the address given, so `LDD 600` puts the value at address 600 into `ACC`. With indirect addressing the given address holds *another* address, and the operand is there, so `LDI 600` reads address 600 to find an address, then reads from that address. Indirect addressing is useful when a pointer variable must be followed, for example walking a linked structure where each node stores the address of the next node.
 
 ## B. Object-oriented and declarative
 
@@ -192,22 +192,20 @@ CLOSEFILE "Accounts.dat"
 
 **22.** Handling is appropriate when a failure is possible but not normal and there is a real recovery action, for example prompting again when a user types a non-numeric value. Catching an exception broadly would be a mistake when it hides a real bug, for example wrapping a calculation that should never fail in a bare `catch (Exception)`: the fault is masked, the data looks correct, and the cause is hard to find. The rule is to catch the most specific exception first.
 
-**23.**
+**23.** One valid Python answer:
 
-```pseudocode
-DECLARE Divisor, Result : REAL
-
-TRY
-    OUTPUT "Enter a divisor: "
-    INPUT Divisor
-    Result ← 100 / Divisor
-    OUTPUT "Result is ", Result
-CATCH DivByZero
-    OUTPUT "Cannot divide by zero."
-ENDTRY
+```python
+try:
+    d = int(input("Enter a divisor: "))
+    result = 100 / d
+    print("100 /", d, "=", result)
+except ZeroDivisionError:
+    print("Cannot divide by zero.")
+except Exception:
+    print("Invalid input.")
 ```
 
-**24.** Java:
+**24.** A Java version:
 
 ```java
 import java.util.Scanner;
@@ -229,17 +227,23 @@ class Main {
 }
 ```
 
-Python:
+A Visual Basic .NET version:
 
-```python
-try:
-    d = int(input("Enter a divisor: "))
-    result = 100 / d
-    print("100 /", d, "=", result)
-except ZeroDivisionError:        # most specific, handled first
-    print("Cannot divide by zero.")
-except Exception:                # general safety net
-    print("Invalid input.")
+```vbnet
+Module MainModule
+    Sub Main()
+        Console.Write("Enter a divisor: ")
+        Try
+            Dim d As Integer = Integer.Parse(Console.ReadLine())
+            Dim result As Integer = 100 \ d
+            Console.WriteLine("100 / " & d & " = " & result)
+        Catch ex As DivideByZeroException
+            Console.WriteLine("Cannot divide by zero.")
+        Catch ex As Exception
+            Console.WriteLine("Invalid input.")
+        End Try
+    End Sub
+End Module
 ```
 
 **25.** Reading a file whose name the user types is a good candidate for exception handling because the file may not exist or may be unreadable, which is outside the program's control; this is possible but not normal, and the program can recover. The kind of exception is a file-not-found (or `IOException`). A sensible recovery action is to report that the file could not be opened and let the user type the name again or cancel, rather than crash.

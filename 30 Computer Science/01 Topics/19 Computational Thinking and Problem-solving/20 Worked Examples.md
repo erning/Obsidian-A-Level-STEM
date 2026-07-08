@@ -31,19 +31,17 @@ Found ← FALSE
 Index ← 1
 
 WHILE Found = FALSE AND Index <= Upper
-    IF Data[Index] = TargetValue
-        THEN
-            Found ← TRUE
-        ELSE
-            Index ← Index + 1
+    IF Data[Index] = TargetValue THEN
+        Found ← TRUE
+    ELSE
+        Index ← Index + 1
     ENDIF
 ENDWHILE
 
-IF Found = TRUE
-    THEN
-        OUTPUT "Found at position ", Index
-    ELSE
-        OUTPUT "Not found"
+IF Found = TRUE THEN
+    OUTPUT "Found at position ", Index
+ELSE
+    OUTPUT "Not found"
 ENDIF
 ```
 
@@ -85,24 +83,21 @@ Higher ← Upper
 
 WHILE Found = FALSE AND Lower <= Higher
     Mid ← (Lower + Higher) DIV 2
-    IF Data[Mid] = TargetValue
-        THEN
-            Found ← TRUE
+    IF Data[Mid] = TargetValue THEN
+        Found ← TRUE
+    ELSE
+        IF Data[Mid] < TargetValue THEN
+            Lower ← Mid + 1
         ELSE
-            IF Data[Mid] < TargetValue
-                THEN
-                    Lower ← Mid + 1
-                ELSE
-                    Higher ← Mid - 1
-            ENDIF
+            Higher ← Mid - 1
+        ENDIF
     ENDIF
 ENDWHILE
 
-IF Found = TRUE
-    THEN
-        OUTPUT "Found at position ", Mid
-    ELSE
-        OUTPUT "Not found"
+IF Found = TRUE THEN
+    OUTPUT "Found at position ", Mid
+ELSE
+    OUTPUT "Not found"
 ENDIF
 ```
 
@@ -142,12 +137,11 @@ DECLARE Index : INTEGER
 REPEAT
     Swapped ← FALSE
     FOR Index ← 1 TO Upper - 1
-        IF Data[Index] > Data[Index + 1]
-            THEN
-                Temp ← Data[Index]
-                Data[Index] ← Data[Index + 1]
-                Data[Index + 1] ← Temp
-                Swapped ← TRUE
+        IF Data[Index] > Data[Index + 1] THEN
+            Temp ← Data[Index]
+            Data[Index] ← Data[Index + 1]
+            Data[Index + 1] ← Temp
+            Swapped ← TRUE
         ENDIF
     NEXT Index
 UNTIL Swapped = FALSE
@@ -201,12 +195,11 @@ Push:
 
 ```pseudocode
 // Push NewValue onto the stack (LIFO)
-IF TopPointer = MaxSize
-    THEN
-        OUTPUT "Stack overflow"
-    ELSE
-        TopPointer ← TopPointer + 1
-        Stack[TopPointer] ← NewValue
+IF TopPointer = MaxSize THEN
+    OUTPUT "Stack overflow"
+ELSE
+    TopPointer ← TopPointer + 1
+    Stack[TopPointer] ← NewValue
 ENDIF
 ```
 
@@ -235,12 +228,11 @@ NewNode.Next ← Head
 Head ← NewNode
 
 // Pop: remove and return the value at the head
-IF Head = NullPointer
-    THEN
-        OUTPUT "Stack underflow"
-    ELSE
-        PoppedValue ← Head.Data
-        Head ← Head.Next
+IF Head = NullPointer THEN
+    OUTPUT "Stack underflow"
+ELSE
+    PoppedValue ← Head.Data
+    Head ← Head.Next
 ENDIF
 ```
 
@@ -256,11 +248,10 @@ $$n! = n \times (n-1)!, \quad 0! = 1$$
 
 ```pseudocode
 FUNCTION Factorial(N : INTEGER) RETURNS INTEGER
-    IF N = 0
-        THEN
-            RETURN 1
-        ELSE
-            RETURN N * Factorial(N - 1)
+    IF N = 0 THEN
+        RETURN 1
+    ELSE
+        RETURN N * Factorial(N - 1)
     ENDIF
 ENDFUNCTION
 ```

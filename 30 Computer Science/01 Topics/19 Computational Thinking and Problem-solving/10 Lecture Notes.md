@@ -35,19 +35,17 @@ Found ← FALSE
 Index ← 1
 
 WHILE Found = FALSE AND Index <= Upper
-    IF Data[Index] = TargetValue
-        THEN
-            Found ← TRUE
-        ELSE
-            Index ← Index + 1
+    IF Data[Index] = TargetValue THEN
+        Found ← TRUE
+    ELSE
+        Index ← Index + 1
     ENDIF
 ENDWHILE
 
-IF Found = TRUE
-    THEN
-        OUTPUT "Found at position ", Index
-    ELSE
-        OUTPUT "Not found"
+IF Found = TRUE THEN
+    OUTPUT "Found at position ", Index
+ELSE
+    OUTPUT "Not found"
 ENDIF
 ```
 
@@ -78,24 +76,21 @@ Higher ← Upper
 
 WHILE Found = FALSE AND Lower <= Higher
     Mid ← (Lower + Higher) DIV 2
-    IF Data[Mid] = TargetValue
-        THEN
-            Found ← TRUE
+    IF Data[Mid] = TargetValue THEN
+        Found ← TRUE
+    ELSE
+        IF Data[Mid] < TargetValue THEN
+            Lower ← Mid + 1      // target is in the upper half
         ELSE
-            IF Data[Mid] < TargetValue
-                THEN
-                    Lower ← Mid + 1      // target is in the upper half
-                ELSE
-                    Higher ← Mid - 1     // target is in the lower half
-            ENDIF
+            Higher ← Mid - 1     // target is in the lower half
+        ENDIF
     ENDIF
 ENDWHILE
 
-IF Found = TRUE
-    THEN
-        OUTPUT "Found at position ", Mid
-    ELSE
-        OUTPUT "Not found"
+IF Found = TRUE THEN
+    OUTPUT "Found at position ", Mid
+ELSE
+    OUTPUT "Not found"
 ENDIF
 ```
 
@@ -128,12 +123,11 @@ DECLARE Index : INTEGER
 REPEAT
     Swapped ← FALSE
     FOR Index ← 1 TO Upper - 1
-        IF Data[Index] > Data[Index + 1]
-            THEN
-                Temp ← Data[Index]
-                Data[Index] ← Data[Index + 1]
-                Data[Index + 1] ← Temp
-                Swapped ← TRUE
+        IF Data[Index] > Data[Index + 1] THEN
+            Temp ← Data[Index]
+            Data[Index] ← Data[Index + 1]
+            Data[Index + 1] ← Temp
+            Swapped ← TRUE
         ENDIF
     NEXT Index
 UNTIL Swapped = FALSE
@@ -217,19 +211,17 @@ Found ← FALSE
 CurrentPointer ← Head
 
 WHILE Found = FALSE AND CurrentPointer <> NullPointer
-    IF CurrentPointer.Data = TargetValue
-        THEN
-            Found ← TRUE
-        ELSE
-            CurrentPointer ← CurrentPointer.Next
+    IF CurrentPointer.Data = TargetValue THEN
+        Found ← TRUE
+    ELSE
+        CurrentPointer ← CurrentPointer.Next
     ENDIF
 ENDWHILE
 
-IF Found = TRUE
-    THEN
-        OUTPUT "Found"
-    ELSE
-        OUTPUT "Not found"
+IF Found = TRUE THEN
+    OUTPUT "Found"
+ELSE
+    OUTPUT "Not found"
 ENDIF
 ```
 
@@ -237,12 +229,11 @@ ENDIF
 
 ```pseudocode
 // Push NewValue onto the stack (LIFO: add at the top)
-IF TopPointer = MaxSize
-    THEN
-        OUTPUT "Stack overflow"
-    ELSE
-        TopPointer ← TopPointer + 1
-        Stack[TopPointer] ← NewValue
+IF TopPointer = MaxSize THEN
+    OUTPUT "Stack overflow"
+ELSE
+    TopPointer ← TopPointer + 1
+    Stack[TopPointer] ← NewValue
 ENDIF
 ```
 
@@ -250,13 +241,12 @@ ENDIF
 
 ```pseudocode
 // Enqueue NewValue into the queue (FIFO: add at the rear)
-IF NumberOfItems = MaxSize
-    THEN
-        OUTPUT "Queue full"
-    ELSE
-        RearPointer ← (RearPointer MOD MaxSize) + 1   // wrap round (circular)
-        Queue[RearPointer] ← NewValue
-        NumberOfItems ← NumberOfItems + 1
+IF NumberOfItems = MaxSize THEN
+    OUTPUT "Queue full"
+ELSE
+    RearPointer ← (RearPointer MOD MaxSize) + 1   // wrap round (circular)
+    Queue[RearPointer] ← NewValue
+    NumberOfItems ← NumberOfItems + 1
 ENDIF
 ```
 
@@ -278,40 +268,36 @@ The new node's `Next` is set to the node that used to follow `CurrentPointer`, t
 DECLARE CurrentPointer : POINTER
 DECLARE Inserted : BOOLEAN
 
-IF Root = NullPointer
-    THEN
-        Root.Data ← NewValue
-        Root.Left ← NullPointer
-        Root.Right ← NullPointer
-    ELSE
-        CurrentPointer ← Root
-        Inserted ← FALSE
-        WHILE Inserted = FALSE
-            IF NewValue < CurrentPointer.Data
-                THEN
-                    IF CurrentPointer.Left = NullPointer
-                        THEN
-                            CurrentPointer.Left ← NewNode
-                            NewNode.Data ← NewValue
-                            NewNode.Left ← NullPointer
-                            NewNode.Right ← NullPointer
-                            Inserted ← TRUE
-                        ELSE
-                            CurrentPointer ← CurrentPointer.Left
-                    ENDIF
-                ELSE
-                    IF CurrentPointer.Right = NullPointer
-                        THEN
-                            CurrentPointer.Right ← NewNode
-                            NewNode.Data ← NewValue
-                            NewNode.Left ← NullPointer
-                            NewNode.Right ← NullPointer
-                            Inserted ← TRUE
-                        ELSE
-                            CurrentPointer ← CurrentPointer.Right
-                    ENDIF
+IF Root = NullPointer THEN
+    Root.Data ← NewValue
+    Root.Left ← NullPointer
+    Root.Right ← NullPointer
+ELSE
+    CurrentPointer ← Root
+    Inserted ← FALSE
+    WHILE Inserted = FALSE
+        IF NewValue < CurrentPointer.Data THEN
+            IF CurrentPointer.Left = NullPointer THEN
+                CurrentPointer.Left ← NewNode
+                NewNode.Data ← NewValue
+                NewNode.Left ← NullPointer
+                NewNode.Right ← NullPointer
+                Inserted ← TRUE
+            ELSE
+                CurrentPointer ← CurrentPointer.Left
             ENDIF
-        ENDWHILE
+        ELSE
+            IF CurrentPointer.Right = NullPointer THEN
+                CurrentPointer.Right ← NewNode
+                NewNode.Data ← NewValue
+                NewNode.Left ← NullPointer
+                NewNode.Right ← NullPointer
+                Inserted ← TRUE
+            ELSE
+                CurrentPointer ← CurrentPointer.Right
+            ENDIF
+        ENDIF
+    ENDWHILE
 ENDIF
 ```
 
@@ -319,12 +305,11 @@ ENDIF
 
 ```pseudocode
 // Pop the top value from the stack (LIFO: remove from the top)
-IF TopPointer = 0
-    THEN
-        OUTPUT "Stack underflow"
-    ELSE
-        PoppedValue ← Stack[TopPointer]
-        TopPointer ← TopPointer - 1
+IF TopPointer = 0 THEN
+    OUTPUT "Stack underflow"
+ELSE
+    PoppedValue ← Stack[TopPointer]
+    TopPointer ← TopPointer - 1
 ENDIF
 ```
 
@@ -332,13 +317,12 @@ ENDIF
 
 ```pseudocode
 // Dequeue the next value from the queue (FIFO: remove from the front)
-IF NumberOfItems = 0
-    THEN
-        OUTPUT "Queue empty"
-    ELSE
-        DequeuedValue ← Queue[FrontPointer]
-        FrontPointer ← (FrontPointer MOD MaxSize) + 1   // wrap round (circular)
-        NumberOfItems ← NumberOfItems - 1
+IF NumberOfItems = 0 THEN
+    OUTPUT "Queue empty"
+ELSE
+    DequeuedValue ← Queue[FrontPointer]
+    FrontPointer ← (FrontPointer MOD MaxSize) + 1   // wrap round (circular)
+    NumberOfItems ← NumberOfItems - 1
 ENDIF
 ```
 
@@ -355,23 +339,20 @@ CurrentPointer ← Head
 PreviousPointer ← NullPointer
 
 WHILE Found = FALSE AND CurrentPointer <> NullPointer
-    IF CurrentPointer.Data = TargetValue
-        THEN
-            Found ← TRUE
-        ELSE
-            PreviousPointer ← CurrentPointer
-            CurrentPointer ← CurrentPointer.Next
+    IF CurrentPointer.Data = TargetValue THEN
+        Found ← TRUE
+    ELSE
+        PreviousPointer ← CurrentPointer
+        CurrentPointer ← CurrentPointer.Next
     ENDIF
 ENDWHILE
 
-IF Found = TRUE
-    THEN
-        IF PreviousPointer = NullPointer
-            THEN
-                Head ← CurrentPointer.Next          // deleting the head node
-            ELSE
-                PreviousPointer.Next ← CurrentPointer.Next   // bypass the node
-        ENDIF
+IF Found = TRUE THEN
+    IF PreviousPointer = NullPointer THEN
+        Head ← CurrentPointer.Next          // deleting the head node
+    ELSE
+        PreviousPointer.Next ← CurrentPointer.Next   // bypass the node
+    ENDIF
 ENDIF
 ```
 
@@ -420,11 +401,10 @@ $$n! = n \times (n-1)!, \quad 0! = 1$$
 
 ```pseudocode
 FUNCTION Factorial(N : INTEGER) RETURNS INTEGER
-    IF N = 0
-        THEN
-            RETURN 1                    // base case
-        ELSE
-            RETURN N * Factorial(N - 1) // recursive case
+    IF N = 0 THEN
+        RETURN 1                    // base case
+    ELSE
+        RETURN N * Factorial(N - 1) // recursive case
     ENDIF
 ENDFUNCTION
 ```

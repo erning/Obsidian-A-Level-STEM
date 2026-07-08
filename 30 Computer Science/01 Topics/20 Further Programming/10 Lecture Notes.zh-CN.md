@@ -17,7 +17,7 @@ tags:
 ## 来源范围
 
 - 大纲 20.1 Programming Paradigms —— 低级语言、命令式/过程式、面向对象、声明式。
-- 大纲 20.2 File Processing and Exception Handling —— 对串行、顺序、随机文件的操作；异常与 `TRY/CATCH`。
+- 大纲 20.2 File Processing and Exception Handling —— 对串行、顺序、随机文件的操作；用 Java、Visual Basic .NET 或 Python 程序代码进行异常处理。
 - Paper 3（理论，全部范式）与 Paper 4（实践；不含低级语言和声明式）。
 
 ## 1. 编程范式
@@ -35,24 +35,24 @@ tags:
 
 ## 2. 低级语言
 
-低级语言代码使用 CPU 自身的指令。**寻址方式**是 CPU 定位操作数时遵循的规则。下表列出每种方式所用的取数指令，同样的操作数规则也适用于 `ADD`、`STO` 等。
+低级语言代码使用 CPU 自身的指令。**寻址方式**是 CPU 定位操作数时遵循的规则。这里是范式层面的回顾；具体指令集记号沿用 [[30 Computer Science/01 Topics/04 Processor Fundamentals/10 Lecture Notes|Topic 4 Processor Fundamentals]]。CAIE 操作数直接写成 `LDD 100`，`M[100]` 这类记号只用于解释内存效果。
 
 | 寻址方式 | 操作数的定位方法 | 助记符示例 | 效果 |
 |----------|------------------|------------|------|
 | 立即数 | 操作数就是指令中写出的值本身 | `LDM #5` | ACC ← 5 |
-| 直接 | 操作数存放在给出的地址处 | `LDD [100]` | ACC ← M[100] |
-| 间接 | 给出的地址里存放的是*另一个*地址，操作数在那个地址 | `LDI [100]` | ACC ← M[M[100]] |
-| 变址 | 操作数在（给出地址 + 变址寄存器）处 | `LDX [100]` | ACC ← M[100 + IX] |
-| 相对 | 地址是相对于当前 PC 的偏移量 | `JMP #3`（概念） | 跳到 PC + 偏移量 |
+| 直接 | 操作数存放在给出的地址处 | `LDD 100` | ACC ← M[100] |
+| 间接 | 给出的地址里存放的是*另一个*地址，操作数在那个地址 | `LDI 100` | ACC ← M[M[100]] |
+| 变址 | 操作数在（给出地址 + 变址寄存器）处 | `LDX 100` | ACC ← M[100 + IX] |
+| 相对 | 地址是相对于当前 PC 的偏移量 | `JMP +3`（概念） | 跳到 PC + 偏移量 |
 
 每种方式各一条示例指令：
 
 ```pseudocode
 LDM #10         // 立即数：把字面量 10 装入 ACC
-LDD [500]       // 直接：   装入地址 500 处存放的值
-LDI [500]       // 间接：   地址 500 存放一个地址，从那里装入
-LDX [500]       // 变址：   从地址 500 + IX 处装入（数组元素）
-JMP #3          // 相对：   从 PC 向前跳 3 条指令
+LDD 500         // 直接：   装入地址 500 处存放的值
+LDI 500         // 间接：   地址 500 存放一个地址，从那里装入
+LDX 500         // 变址：   从地址 500 + IX 处装入（数组元素）
+JMP +3          // 相对：   从 PC 向前跳 3 条指令
 ```
 
 变址寻址是数组的主力：存放数组基地址，再通过改变 IX 遍历各元素。相对寻址能生成位置无关代码——同样的字节无论装入何处都能正确运行。
@@ -95,14 +95,14 @@ OOP 把问题建模为一组互相协作的**对象**。考官期望的术语如
 | 方法（method） | 属于类的过程或函数，即对象的行为 |
 | 封装（encapsulation） | 把数据与处理它的代码捆绑在一起，并对外隐藏内部细节 |
 | 取值方法（getter） | 返回某个私有属性值的方法 |
-| 赋值方法（setter） | 给某个私有属性赋值的方法，通常带校验 |
+| 赋值方法（setter） | 给某个私有属性赋值的方法，通常带有效性检查 |
 | 继承（inheritance） | 子类继承父类的属性和方法，并可扩展或覆盖 |
 | 多态（polymorphism） | 不同对象对同一方法调用各自作出不同响应（常通过覆盖实现） |
 | 包含/聚合（containment/aggregation） | 一个类由其他对象组装而成（"has-a"关系） |
 
 **类的设计。** 先列出问题中的名词——每个候选都可能是一个类。每个类拥有它必须记住的属性和必须执行的方法。把属性标记为私有，通过取值/赋值方法对外暴露，这样外界就无法破坏数据。只有当一类确实*是一个*另一类时才用继承；当一个类*拥有*其他对象作为组成部分时用包含。
 
-示例——`Vehicle` 类加一个 `Car` 子类，展示封装（私有属性）、取值方法与带校验的赋值方法、继承，以及多态（覆盖 `describe`）：
+示例——`Vehicle` 类加一个 `Car` 子类，展示封装（私有属性）、取值方法与带有效性检查的赋值方法、继承，以及多态（覆盖 `describe`）：
 
 ```python
 class Vehicle:
@@ -246,20 +246,37 @@ class Main {
 }
 ```
 
-伪代码形式为 `TRY / CATCH / ENDTRY`：
+CAIE Pseudocode Guide 没有定义异常处理伪代码。Paper 4 要求用所选语言写真实程序代码。Visual Basic .NET 和 Python 中的同一模式如下：
 
-```pseudocode
-TRY
-    OUTPUT "Enter a divisor: "
-    INPUT Divisor
-    Result ← 100 / Divisor
-    OUTPUT "Result is ", Result
-CATCH DivByZero
-    OUTPUT "Cannot divide by zero."
-ENDTRY
+```vbnet
+Module MainModule
+    Sub Main()
+        Console.Write("Enter a divisor: ")
+        Try
+            Dim d As Integer = Integer.Parse(Console.ReadLine())
+            Dim result As Integer = 100 \ d
+            Console.WriteLine("100 / " & d & " = " & result)
+        Catch ex As DivideByZeroException   ' 除以零
+            Console.WriteLine("Cannot divide by zero.")
+        Catch ex As Exception               ' 其他失败，例如输入非法
+            Console.WriteLine("Invalid input.")
+        End Try
+    End Sub
+End Module
 ```
 
-各 Paper 4 语言对应的构造是：Java `try / catch`、VB.NET `Try / Catch`、Python `try / except`。
+```python
+try:
+    d = int(input("Enter a divisor: "))
+    result = 100 / d
+    print("100 /", d, "=", result)
+except ZeroDivisionError:           # 除以零
+    print("Cannot divide by zero.")
+except Exception:                   # 其他失败，例如输入非法
+    print("Invalid input.")
+```
+
+三种 Paper 4 语言的模式相同：把可能失败的语句放入该语言的保护块，先捕获 `ArithmeticException` / `DivideByZeroException` / `ZeroDivisionError`，再用更宽泛的 `Exception` 兜底，并让每个处理分支做有意义的恢复或提示。
 
 ## 做题顺序
 
@@ -283,10 +300,10 @@ ENDTRY
 
 - 说出四种范式以及各自最适合的一种场景。
 - 为五种寻址方式各写一条取数指令并说明其效果。
-- 设计一个 `BankAccount` 类，含私有余额、一个取值方法和一个带校验的赋值方法。
+- 设计一个 `BankAccount` 类，含私有余额、一个取值方法和一个带有效性检查的赋值方法。
 - 用 `parent/2` 事实写一条 `sibling(X, Y)` 的声明式规则。
 - 写出向顺序文件追加记录、以及更新随机文件记录的伪代码。
-- 写一个处理"文件缺失"错误的 `TRY/CATCH` 块，并写出它的 Java 形式。
+- 用你的 Paper 4 语言写一段处理“文件缺失”错误的异常处理代码，并说明为什么要先捕获具体异常。
 
 ## 关联内容
 

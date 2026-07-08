@@ -238,11 +238,12 @@ GROUP BY CustomerID;
 ### 24. Average order value per customer with INNER JOIN
 
 ```sql
-SELECT Customer.CustomerID, AVG(OrderLine.LinePrice)
+SELECT Customer.CustomerID, Customer.CustomerName, AVG(Order.TotalValue)
 FROM Customer
 INNER JOIN Order ON Customer.CustomerID = Order.CustomerID
-INNER JOIN OrderLine ON Order.OrderID = OrderLine.OrderID
-GROUP BY Customer.CustomerID;
+WHERE Order.OrderDate >= '2026-01-01'
+GROUP BY Customer.CustomerID, Customer.CustomerName
+ORDER BY AVG(Order.TotalValue) DESC;
 ```
 
-`HAVING` would be used (rather than `WHERE`) to filter customers whose average is above a threshold, because the condition applies to an aggregate value computed per group after grouping. `WHERE` filters rows before grouping and cannot reference `AVG`.
+The `INNER JOIN` matches customers to their orders, `WHERE` keeps only orders on or after 1 January 2026, `GROUP BY` creates one group per customer, and `AVG(Order.TotalValue)` calculates the mean order value for each group.

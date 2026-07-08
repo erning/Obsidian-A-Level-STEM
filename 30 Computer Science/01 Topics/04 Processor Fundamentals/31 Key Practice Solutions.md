@@ -24,7 +24,7 @@ These solutions correspond to [[30 Computer Science/01 Topics/04 Processor Funda
 
 ### Problem 2
 
-A general-purpose register can be used by the programmer for any holding job; in this instruction set the **Accumulator (ACC)** is the general-purpose working register, and the **Index Register (IX)** is also programmer-addressable. A special-purpose register has a single fixed role in the fetch-execute cycle and cannot be used for anything else, for example the PC or the MAR. The ACC is the working register through which every arithmetic and logic result passes.
+A general-purpose register can be used by the programmer for any holding job. In this instruction set the **Accumulator (ACC)** is the single general-purpose working register, and every arithmetic and logic result passes through it. The **Index Register (IX)** should be described separately: it is programmer-addressable, but its dedicated role is indexed addressing and it is often used as a counter. Other special-purpose registers have a single fixed role in the fetch-execute cycle, for example the PC or the MAR.
 
 ### Problem 3
 

@@ -76,8 +76,8 @@ parent(kay, lee).
 
 22. Explain when it is appropriate to handle an exception rather than let the program stop, and give one situation in which catching an exception broadly would be a mistake.
 
-23. Write pseudocode using `TRY / CATCH / ENDTRY` that inputs a number, divides 100 by it, and outputs the result. A division by zero must produce the message "Cannot divide by zero." instead of crashing.
+23. Write program code in Java, Visual Basic .NET, or Python that inputs a number, divides 100 by it, and outputs the result. A division by zero must produce the message "Cannot divide by zero." instead of crashing, and any other invalid input must produce a different message.
 
-24. Rewrite the program from question 23 in Java or Python, using `try` with the most specific exception caught first and a general exception caught second.
+24. Rewrite the program from question 23 in a different Paper 4 language, using the most specific exception handler first and a general exception handler second.
 
 25. A program reads from a file whose name the user types in. Explain why this is a good candidate for exception handling, name the kind of exception that could occur, and describe a sensible recovery action.

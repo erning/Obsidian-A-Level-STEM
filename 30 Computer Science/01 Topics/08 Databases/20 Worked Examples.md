@@ -151,28 +151,33 @@ CREATE TABLE Employee (
 
 **Check.** Identify the "one" side first, create it first, and put the foreign key on the "many" side. Each `FOREIGN KEY ... REFERENCES` must point at an existing primary key.
 
-## Example 7: DML Query with INNER JOIN and an Aggregate
+## Example 7: DML Query with INNER JOIN and Aggregates
 
-**Prompt.** Given `Employee(EmpID, EmpName, Salary, DeptID)` and `Department(DeptID, DeptName)`, write SQL to show, for each department, the department name and the average salary of its employees, but only for departments whose average salary is greater than 30000. List the results from highest average to lowest.
+**Prompt.** Given `Employee(EmpID, EmpName, Salary, HireDate, DeptID)` and `Department(DeptID, DeptName)`, write SQL to show, for each department, the department name, the number of employees hired on or after 1 January 2020, the total salary of those employees, and their average salary. List the results from highest average salary to lowest.
 
 **Solution.**
 
 ```sql
-SELECT Department.DeptName, AVG(Employee.Salary)
+SELECT Department.DeptName,
+       COUNT(Employee.EmpID),
+       SUM(Employee.Salary),
+       AVG(Employee.Salary)
 FROM Department
 INNER JOIN Employee ON Department.DeptID = Employee.DeptID
+WHERE Employee.HireDate >= '2020-01-01'
 GROUP BY Department.DeptName
-HAVING AVG(Employee.Salary) > 30000
 ORDER BY AVG(Employee.Salary) DESC;
 ```
 
 - `INNER JOIN` matches each employee to their department on the shared `DeptID`.
-- `GROUP BY Department.DeptName` collapses rows into one group per department.
+- `WHERE Employee.HireDate >= '2020-01-01'` filters individual employee rows before grouping.
+- `GROUP BY Department.DeptName` collapses the remaining rows into one group per department.
+- `COUNT(Employee.EmpID)` counts the employees in each group.
+- `SUM(Employee.Salary)` totals the salaries in each group.
 - `AVG(Employee.Salary)` computes the mean salary for each group.
-- `HAVING` filters groups after aggregation (a `WHERE` cannot be used here because the condition is on an aggregate).
 - `ORDER BY ... DESC` sorts the output from the highest average to the lowest.
 
-**Check.** Use `WHERE` to filter rows before grouping, and `HAVING` to filter groups after aggregation. If the condition mentions an aggregate function, it must be in `HAVING`.
+**Check.** In the 9618 subset, keep aggregate examples inside the listed DML features: use `WHERE` for row conditions before grouping, then `GROUP BY`, the aggregate function, and `ORDER BY` for the final sort.
 
 ## Example 8: DML UPDATE and DELETE
 
