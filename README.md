@@ -1,109 +1,75 @@
 # A-Level STEM Study Notes
 
-这是一个给自学用的 Obsidian 笔记库。
+这是一份用来重新打基础的 Obsidian 笔记库，骨架是四门 CAIE A-Level 课程：物理 9702、数学 9709 与进阶数学 9231、计算机科学 9618、化学 9701。
 
-它以 CAIE A-Level Physics 9702、Mathematics 9709、Further Mathematics 9231、Computer Science 9618 和 Chemistry 9701 为骨架。Syllabus 和教材提供一个足够完整、足够标准的路线，用来把数学、物理、化学和计算机科学重新学得扎实一点：知道概念从哪里来，公式什么时候能用，题目背后到底在问什么。
+选 CAIE 当路线，是因为考纲足够完整，教材足够标准。考纲划出每一节的边界和官方措辞，教材给出阅读顺序、例题和图示。把它们当成地图和路况，数学、物理、化学和计算机就能重新学得扎实一点：清楚概念从哪里来，公式在什么条件下能用，一道题到底在问什么。
 
-如果只是想快速进入笔记，从这里开始：
+考试只是路标。真正想留下的，是以后还用得上的理解。
 
-- [Physics 9702](<10 Physics/README.md>)：想学物理，或者想从运动、力、电磁、热学、量子这些主题进入。
-- [Mathematics 9709 and 9231](<20 Mathematics/README.md>)：想学纯数、力学、统计，或者想把 9709 和 9231 合成一条数学路线。
-- [Computer Science 9618](<30 Computer Science/README.md>)：想学数据表示、硬件、系统软件、网络、算法和编程。
-- [Chemistry 9701](<40 Chemistry/00 Overview/Learning Map.md>)：想学物质结构、计量、物理化学、无机化学、有机化学、分析和实验能力。
-- [Terminology](<80 References/Terminology.md>)：想查 A-Level 标准英文术语和中国大陆常用中文术语。
-- [Project Rules](<AGENTS.md>)：想知道这个 vault 的写作、命名、公式和生成材料规则。
+## 四门学科，从这里进入
 
-## 这个库怎么读
+| 学科 | 一句话 |
+| --- | --- |
+| [物理](<10 Physics/README.md>) | 从测量和运动起步，经力学、波动、电磁，走到量子、核物理与宇宙学 |
+| [数学](<20 Mathematics/README.md>) | 从代数与函数起步，经微积分、向量与复数，走到力学与概率统计 |
+| [计算机](<30 Computer Science/README.md>) | 从数据表示与硬件出发，经系统软件、网络、数据库，走到算法与编程 |
+| [化学](<40 Chemistry/00 Overview/Learning Map.md>) | 从原子结构与化学键起步，经物化、无机、有机，走到分析与实验能力 |
 
-每个正式主题都会被整理成一个小的学习材料包。打开一个主题目录后，一般会看到：
+每个学科的入口里，都放着学习地图、学习清单、教材章节对照和完整的主题索引。
 
-- `00 Overview.md`：这一节学什么、为什么学、和哪些主题相连。
-- `10 Lecture Notes.md`：英文主讲义，尽量使用 CAIE syllabus 和教材里的标准说法。
-- `10 Lecture Notes.zh-CN.md`：中文快速讲义，用自然中文解释这一节，不做逐句翻译。
-- `20 Worked Examples.md`：例题和解题思路。
-- `30 Key Practice Problems.md`：重点练习题，不放答案。
-- `31 Key Practice Solutions.md`：练习题解析。
-- `80 Review Checklist.md`：复习清单，用来检查自己是不是真的能进入下一节。
+## 每个主题里有什么
 
-物理、化学、数学和计算机科学 topic 都按同样结构推进；其中化学 topic 已按 Chemistry 9701 顺序补齐完整学习材料包。
+每个正式主题都被整理成一套同样的学习材料，放在同名目录里。打开任意一个主题，都会看到下面这些文件。
 
-推荐的读法很简单：
+| 文件 | 用来做什么 |
+| --- | --- |
+| `00 Overview.md` | 这一节学什么、为什么学、和哪些主题相连 |
+| `10 Lecture Notes.md` | 英文主讲义，使用 CAIE 考纲和教材里的标准表述 |
+| `10 Lecture Notes.zh-CN.md` | 中文讲义，用母语快速复述主线，不是逐句翻译 |
+| `20 Worked Examples.md` | 例题和完整的解题思路 |
+| `30 Key Practice Problems.md` | 重点练习题，不放答案，留给主动回忆 |
+| `31 Key Practice Solutions.md` | 对应练习的解析和检查 |
+| `80 Review Checklist.md` | 复习清单，自测能否进入下一节 |
 
-1. 先读 `00 Overview.md`，弄清楚这一节的边界。
-2. 再读 `10 Lecture Notes.md`，把英文术语和标准表述过一遍。
-3. 用 `10 Lecture Notes.zh-CN.md` 快速复述主线。
-4. 看 `20 Worked Examples.md`，注意它为什么选这个方法。
-5. 做 `30 Key Practice Problems.md`，再用 `31 Key Practice Solutions.md` 对照。
-6. 最后过 `80 Review Checklist.md`。卡住的地方回去补。
+这套结构在物理、数学、计算机和化学里是一样的。学会用了一个主题，就学会了用所有主题。
 
-## 目录结构
+## 怎样读完一个主题
 
-```text
-A-Level-STEM/
-├── 10 Physics/
-│   ├── 00 Overview/
-│   ├── 01 Topics/
-│   ├── 02 Experimental Thinking/
-│   └── 04 Reference/
-├── 20 Mathematics/
-│   ├── 00 Overview/
-│   ├── 01 Pure Mathematics/
-│   ├── 02 Mechanics/
-│   ├── 03 Probability and Statistics/
-│   └── 04 Reference/
-├── 30 Computer Science/
-│   ├── 00 Overview/
-│   ├── 01 Topics/
-│   └── 04 Reference/
-├── 40 Chemistry/
-│   ├── 00 Overview/
-│   ├── 01 Topics/
-│   ├── 02 Practical Skills/
-│   └── 04 Reference/
-├── 80 References/
-├── assets/
-└── AGENTS.md
-```
+读完一个主题，建议按下面的顺序：
 
-`assets/` 里放 syllabus 和教材 PDF。它们是本地参考资料，当前不提交到仓库。
+1. 先看 `00 Overview.md`，弄清楚这一节的边界和动机。
+2. 读 `10 Lecture Notes.md`，把英文术语和标准表述过一遍。
+3. 用 `10 Lecture Notes.zh-CN.md` 快速复述主线，确认自己抓住了要点。
+4. 看 `20 Worked Examples.md`，留意每道题为什么选这个方法。
+5. 做 `30 Key Practice Problems.md`，再对照 `31 Key Practice Solutions.md`。
+6. 最后过一遍 `80 Review Checklist.md`。卡住的地方，回去补。
 
-## 学习路线
+## 四门学科怎样彼此呼应
 
-物理部分以 [CAIE Physics 9702](<10 Physics/README.md>) 为主线。它从物理量、测量和运动开始，逐步进入力学、材料、波、电学、电磁场、热学、量子、核物理和宇宙学。
+这四门学科不是各自孤立的。
 
-数学部分把 [CAIE Mathematics 9709 and Further Mathematics 9231](<20 Mathematics/README.md>) 合在一起学。9709 提供基础语言，9231 继续把同一套语言推向更深的代数、几何、微积分、力学和统计。
+物理里的运动学、电路、场和振动，处处用到数学；化学里的计量、平衡、速率、热力学和谱图分析，离不开数学模型和物理图像；数学里的向量、微积分、微分方程和统计，因为物理和化学里的真实问题变得更具体；计算机里的数据表示、算法和建模，又把数学语言变成可以运行的系统。
 
-计算机科学部分以 [CAIE Computer Science 9618](<30 Computer Science/README.md>) 为主线。它从数据表示、硬件和系统软件开始，逐步进入网络、数据库、算法、编程、软件开发和人工智能。
+所以读到某个概念时，值得顺手看看它在别的学科里以什么形式出现。每个主题都标了相邻主题的链接，就是为了方便这种横向的走动。
 
-化学部分以 [CAIE Chemistry 9701](<40 Chemistry/00 Overview/Learning Map.md>) 为主线。它从原子结构、计量、化学键和物质状态开始，逐步进入物理化学、无机化学、有机化学、分析技术和实验能力。完整 topic 索引在 [Chemistry Topics Overview](<40 Chemistry/01 Topics/00 Overview.md>)。
+## 阅读时的几条约定
 
-这几个目录不是彼此孤立的。物理里的运动学、电路、场、振动会不断用到数学；化学里的计量、平衡、速率、热力学和谱图分析也离不开数学和物理模型；数学里的向量、微积分、微分方程、统计会因为物理和化学问题变得更具体；计算机科学里的数据表示、算法和建模又会把数学语言带回到可执行的系统里。
+打开笔记后，有几条约定值得先知道。
 
-## 写作约定
+- **学科笔记以英文为主。** 原因很实际：CAIE 考纲、教材和题目本身都是英文，术语最好从源头保持一致。
+- **中文讲义做陪伴。** 每个主题另有一份中文讲义，用自然中文解释同一节内容，方便快速理解，不作逐句翻译。
+- **公式用 LaTeX。** 行内公式是 `$...$`，独立公式是 `$$...$$`，化学式和化学方程式用 `\ce{...}`。
+- **术语可以查。** [Terminology](<80 References/Terminology.md>) 把 A-Level 标准英文术语和中国大陆常用名称对应起来。
+- **原始资料在 `assets/`。** 考纲和教材 PDF 放在这里，作为术语和表述的最终依据，不提交到仓库。
 
-这个库里的主要学科笔记使用英文，原因很现实：CAIE syllabus、coursebook 和题目本身都是英文，术语最好从源头保持一致。
+## 回来时从哪继续
 
-中文会用在两类地方：
+笔记会越积越多。隔一段时间回来，如果一时不知道从哪接着读，可以先打开这些清单：
 
-- 中文快速讲义：帮助自己更快地复述和理解。
-- 术语对照：把 A-Level 标准英文和中国大陆常用名称对应起来。
+- [物理学习清单](<10 Physics/00 Overview/Learning Checklist.md>)
+- [数学学习清单](<20 Mathematics/00 Overview/Learning Checklist.md>)
+- [计算机学习清单](<30 Computer Science/00 Overview/Learning Checklist.md>)
+- [化学学习清单](<40 Chemistry/00 Overview/Learning Checklist.md>)
+- [数学整合路线](<20 Mathematics/00 Overview/Integrated Sequence.md>)：把 9709 和 9231 当成一条连贯的路线
 
-数学、物理和化学公式都用 LaTeX 写。行内公式用 `$...$`，展示公式用 `$$...$$`。化学式和化学方程式优先使用 `\ce{...}`。除非真的是代码，不把公式放进 code span。
-
-## 本地环境
-
-普通阅读不需要 Python。
-
-如果要生成解题草稿、检查数值、画数学图像，使用项目里的 `.venv/`。这个虚拟环境不提交。需要处理 PDF 时，也可以使用同一个本地环境。
-
-## 这个 README 之外
-
-真正的内容在笔记里。README 只是门口的地图。
-
-如果一段时间后回来，不知道从哪里继续，就先打开：
-
-- [Physics Learning Checklist](<10 Physics/00 Overview/Learning Checklist.md>)
-- [Mathematics Learning Checklist](<20 Mathematics/00 Overview/Learning Checklist.md>)
-- [Computer Science Learning Checklist](<30 Computer Science/00 Overview/Learning Checklist.md>)
-- [Chemistry Learning Checklist](<40 Chemistry/00 Overview/Learning Checklist.md>)
-- [Mathematics Integrated Sequence](<20 Mathematics/00 Overview/Integrated Sequence.md>)
+这份 README 只是门口的地图。真正的内容，在笔记里。
