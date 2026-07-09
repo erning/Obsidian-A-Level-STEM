@@ -2,13 +2,14 @@
 
 这是一个给自学用的 Obsidian 笔记库。
 
-它以 CAIE A-Level Physics 9702、Mathematics 9709、Further Mathematics 9231 和 Computer Science 9618 为骨架，但目标不是“刷考试”。这些 syllabus 和教材只是提供一个足够完整、足够标准的路线。真正想做的事情，是把数学、物理和计算机科学重新学得扎实一点：知道概念从哪里来，公式什么时候能用，题目背后到底在问什么。
+它以 CAIE A-Level Physics 9702、Mathematics 9709、Further Mathematics 9231、Computer Science 9618 和 Chemistry 9701 为骨架，但目标不是“刷考试”。这些 syllabus 和教材只是提供一个足够完整、足够标准的路线。真正想做的事情，是把数学、物理、化学和计算机科学重新学得扎实一点：知道概念从哪里来，公式什么时候能用，题目背后到底在问什么。
 
 如果只是想快速进入笔记，从这里开始：
 
 - [Physics 9702](<10 Physics/README.md>)：想学物理，或者想从运动、力、电磁、热学、量子这些主题进入。
 - [Mathematics 9709 and 9231](<20 Mathematics/README.md>)：想学纯数、力学、统计，或者想把 9709 和 9231 合成一条数学路线。
 - [Computer Science 9618](<30 Computer Science/README.md>)：想学数据表示、硬件、系统软件、网络、算法和编程。
+- [Chemistry 9701](<40 Chemistry/00 Overview/Learning Map.md>)：想学物质结构、计量、物理化学、无机化学、有机化学、分析和实验能力。
 - [Terminology](<80 References/Terminology.md>)：想查 A-Level 标准英文术语和中国大陆常用中文术语。
 - [Project Rules](<AGENTS.md>)：想知道这个 vault 的写作、命名、公式和生成材料规则。
 
@@ -24,7 +25,7 @@
 - `31 Key Practice Solutions.md`：练习题解析。
 - `80 Review Checklist.md`：复习清单，用来检查自己是不是真的能进入下一节。
 
-物理 topic 目前已经补齐英文主讲义和中文快速讲义。数学和计算机科学 topic 也按同样结构推进。
+物理、化学、数学和计算机科学 topic 都按同样结构推进；其中化学 topic 已按 Chemistry 9701 顺序补齐完整学习材料包。
 
 推荐的读法很简单：
 
@@ -54,6 +55,11 @@ A-Level-STEM/
 │   ├── 00 Overview/
 │   ├── 01 Topics/
 │   └── 04 Reference/
+├── 40 Chemistry/
+│   ├── 00 Overview/
+│   ├── 01 Topics/
+│   ├── 02 Practical Skills/
+│   └── 04 Reference/
 ├── 80 References/
 ├── assets/
 └── AGENTS.md
@@ -69,7 +75,9 @@ A-Level-STEM/
 
 计算机科学部分以 [CAIE Computer Science 9618](<30 Computer Science/README.md>) 为主线。它从数据表示、硬件和系统软件开始，逐步进入网络、数据库、算法、编程、软件开发和人工智能。
 
-这几个目录不是彼此孤立的。物理里的运动学、电路、场、振动会不断用到数学；数学里的向量、微积分、微分方程、统计也会因为物理问题变得更具体；计算机科学里的数据表示、算法和建模又会把数学语言带回到可执行的系统里。
+化学部分以 [CAIE Chemistry 9701](<40 Chemistry/00 Overview/Learning Map.md>) 为主线。它从原子结构、计量、化学键和物质状态开始，逐步进入物理化学、无机化学、有机化学、分析技术和实验能力。完整 topic 索引在 [Chemistry Topics Overview](<40 Chemistry/01 Topics/00 Overview.md>)。
+
+这几个目录不是彼此孤立的。物理里的运动学、电路、场、振动会不断用到数学；化学里的计量、平衡、速率、热力学和谱图分析也离不开数学和物理模型；数学里的向量、微积分、微分方程、统计会因为物理和化学问题变得更具体；计算机科学里的数据表示、算法和建模又会把数学语言带回到可执行的系统里。
 
 ## 写作约定
 
@@ -80,7 +88,7 @@ A-Level-STEM/
 - 中文快速讲义：帮助自己更快地复述和理解。
 - 术语对照：把 A-Level 标准英文和中国大陆常用名称对应起来。
 
-数学和物理公式都用 LaTeX 写。行内公式用 `$...$`，展示公式用 `$$...$$`。除非真的是代码，不把公式放进 code span。
+数学、物理和化学公式都用 LaTeX 写。行内公式用 `$...$`，展示公式用 `$$...$$`。化学式和化学方程式优先使用 `\ce{...}`。除非真的是代码，不把公式放进 code span。
 
 ## 本地环境
 
@@ -97,4 +105,5 @@ A-Level-STEM/
 - [Physics Learning Checklist](<10 Physics/00 Overview/Learning Checklist.md>)
 - [Mathematics Learning Checklist](<20 Mathematics/00 Overview/Learning Checklist.md>)
 - [Computer Science Learning Checklist](<30 Computer Science/00 Overview/Learning Checklist.md>)
+- [Chemistry Learning Checklist](<40 Chemistry/00 Overview/Learning Checklist.md>)
 - [Mathematics Integrated Sequence](<20 Mathematics/00 Overview/Integrated Sequence.md>)
