@@ -10,7 +10,7 @@ tags:
 
 # CAIE Computer Science 9618
 
-This directory uses CAIE Computer Science 9618 as the main course framework for learning computer science. The syllabus supplies the boundary and the official topic wording; the pseudocode guide supplies the programming notation expected in Paper 2 answers. The goal is not exam preparation as an end in itself, but a durable understanding of computation: how data is represented, how hardware executes instructions, how systems software manages resources, how networks move data, and how problems are turned into algorithms and code.
+This directory uses CAIE Computer Science 9618 as the main course framework for learning computer science. The syllabus supplies the boundary and the official topic wording; the pseudocode guide supplies the programming notation expected in Paper 2 answers. The route builds durable understanding of computation: how data is represented, how hardware executes instructions, how systems software manages resources, how networks move data, and how problems are turned into algorithms and code.
 
 PDF sources are kept under `assets/`:
 

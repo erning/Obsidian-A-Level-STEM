@@ -10,7 +10,7 @@ tags:
 
 # CAIE Physics 9702
 
-This directory uses CAIE Physics 9702 as the main course framework for learning physics. The syllabus supplies the boundary and the official topic wording; the coursebook supplies the reading route, worked examples, and diagrams. The goal is not exam preparation as an end in itself, but a durable understanding of physical models, measurement, mathematics, and evidence.
+This directory uses CAIE Physics 9702 as the main course framework for learning physics. The syllabus supplies the boundary and the official topic wording; the coursebook supplies the reading route, worked examples, and diagrams. The route builds durable understanding of physical models, measurement, mathematics, and evidence.
 
 PDF sources are kept under `assets/`:
 

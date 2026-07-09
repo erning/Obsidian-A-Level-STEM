@@ -11,7 +11,7 @@ tags:
 
 # Textbook Chapter Map
 
-Sources include the CAIE 9709 and 9231 syllabuses and the coursebooks under `assets/course-books/`. This map is a reading route, not an examination plan.
+Sources include the CAIE 9709 and 9231 syllabuses and the coursebooks under `assets/course-books/`. This map gives a reading route through the relevant source chapters.
 
 ## 9709 Pure Mathematics
 

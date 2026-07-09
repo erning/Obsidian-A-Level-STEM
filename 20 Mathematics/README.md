@@ -13,7 +13,7 @@ tags:
 
 # CAIE Mathematics 9709 and Further Mathematics 9231
 
-This directory combines CAIE Mathematics 9709 and CAIE Further Mathematics 9231 into one mathematics learning route. 9709 supplies the core language; 9231 extends the same ideas into deeper algebra, geometry, calculus, mechanics, and statistics. The notes are organised by conceptual dependency rather than by separate examination papers.
+This directory combines CAIE Mathematics 9709 and CAIE Further Mathematics 9231 into one mathematics learning route. 9709 supplies the core language; 9231 extends the same ideas into deeper algebra, geometry, calculus, mechanics, and statistics. The notes are organised by conceptual dependency across the two syllabuses.
 
 PDF sources are kept under `assets/`:
 

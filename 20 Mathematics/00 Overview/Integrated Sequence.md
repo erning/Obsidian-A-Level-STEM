@@ -11,7 +11,7 @@ tags:
 
 # Integrated Sequence
 
-9709 and 9231 can be studied together, but not as a simple copy of examination order. A better route follows conceptual dependency: learn a core tool, then attach the further extension when the foundation is ready.
+9709 and 9231 can be studied together as one connected sequence. The route follows conceptual dependency: learn a core tool, then attach the further extension when the foundation is ready.
 
 ## Stage 1: Algebraic and Graphical Language
 

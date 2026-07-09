@@ -10,7 +10,7 @@ tags:
 
 # Learning Map
 
-This map uses CAIE Physics 9702 as a coherent route through pre-university physics. The syllabus gives the official scope and topic wording; the learning goal is deeper than examination technique: explain, model, calculate, measure, and connect.
+This map uses CAIE Physics 9702 as a coherent route through pre-university physics. The syllabus gives the official scope and topic wording; the route emphasises how to explain, model, calculate, measure, and connect.
 
 ## Route
 

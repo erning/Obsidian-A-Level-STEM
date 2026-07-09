@@ -2,7 +2,7 @@
 
 这是一个给自学用的 Obsidian 笔记库。
 
-它以 CAIE A-Level Physics 9702、Mathematics 9709、Further Mathematics 9231、Computer Science 9618 和 Chemistry 9701 为骨架，但目标不是“刷考试”。这些 syllabus 和教材只是提供一个足够完整、足够标准的路线。真正想做的事情，是把数学、物理、化学和计算机科学重新学得扎实一点：知道概念从哪里来，公式什么时候能用，题目背后到底在问什么。
+它以 CAIE A-Level Physics 9702、Mathematics 9709、Further Mathematics 9231、Computer Science 9618 和 Chemistry 9701 为骨架。Syllabus 和教材提供一个足够完整、足够标准的路线，用来把数学、物理、化学和计算机科学重新学得扎实一点：知道概念从哪里来，公式什么时候能用，题目背后到底在问什么。
 
 如果只是想快速进入笔记，从这里开始：
 
