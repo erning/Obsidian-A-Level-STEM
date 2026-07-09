@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]"
+parent: "[Integration](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -27,7 +27,7 @@ The first question is always what the integral represents. An indefinite integra
 
 ## Visual Guide
 
-![[assets/generated/mathematics/integration.svg]]
+![integration](../../../assets/generated/mathematics/integration.svg)
 
 Figure: The guide shows area under a curve as accumulated change. The geometric picture is essential: limits, signs, and regions matter as much as the antiderivative.
 
@@ -331,5 +331,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]
-- [[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]]
+- [Differentiation](../05%20Differentiation/00%20Overview.md)
+- [Continuous Random Variables](../../03%20Probability%20and%20Statistics/05%20Continuous%20Random%20Variables/00%20Overview.md)

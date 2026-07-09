@@ -2,7 +2,7 @@
 title: System Software Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]]"
+parent: "[System Software](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -49,8 +49,8 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Explain why an interpreter stops at the first error while a compiler reports errors after translating the program.
 - [ ] Trace the Java route from `.java` source to `.class` bytecode to execution on a target machine.
 - [ ] Explain how single stepping, breakpoints, and watch variables work together during debugging.
-- [ ] Connect OS hardware management to [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]].
-- [ ] Connect translators to [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] and CPU execution in [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]].
+- [ ] Connect OS hardware management to [Hardware](../03%20Hardware/00%20Overview.md).
+- [ ] Connect translators to [Programming](../11%20Programming/00%20Overview.md) and CPU execution in [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md).
 
 ## Common Errors to Avoid
 
@@ -75,5 +75,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can justify compiler versus interpreter choices from a scenario rather than from a memorised list.
 - [ ] I can describe the Java bytecode and JVM route without losing either step.
 - [ ] I can map IDE features to coding, error detection, presentation, and debugging.
-- [ ] I can explain how this topic prepares for [[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]].
-- [ ] I can connect translators and IDEs to source code in [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]].
+- [ ] I can explain how this topic prepares for [System Software](../16%20System%20Software/00%20Overview.md).
+- [ ] I can connect translators and IDEs to source code in [Programming](../11%20Programming/00%20Overview.md).

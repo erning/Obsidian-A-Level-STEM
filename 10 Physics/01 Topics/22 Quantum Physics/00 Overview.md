@@ -47,17 +47,17 @@ Quantum physics uses particle and wave models together because experiments deman
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/22 Quantum Physics/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/22 Quantum Physics/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/22 Quantum Physics/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/22 Quantum Physics/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/22 Quantum Physics/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/22 Quantum Physics/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]
+- [Superposition](../08%20Superposition/00%20Overview.md)
+- [Nuclear Physics](../23%20Nuclear%20Physics/00%20Overview.md)
 
 ## Common Traps
 

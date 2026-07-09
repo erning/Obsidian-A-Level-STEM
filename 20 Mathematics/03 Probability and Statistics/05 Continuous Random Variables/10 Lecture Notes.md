@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]]"
+parent: "[Continuous Random Variables](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -23,7 +23,7 @@ A continuous random variable is described by density, not by point probabilities
 
 ## Visual Guide
 
-![[assets/generated/mathematics/continuous-random-variables.svg]]
+![continuous-random-variables](../../../assets/generated/mathematics/continuous-random-variables.svg)
 
 Figure: use the guide to connect density as local shape with cumulative distribution as accumulated area.
 
@@ -259,9 +259,9 @@ because $X$ is non-negative on its support. If the support included negative val
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]
-- [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]
-- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
+- [Integration](../../01%20Pure%20Mathematics/06%20Integration/00%20Overview.md)
+- [Normal and Poisson Distributions](../04%20Normal%20and%20Poisson%20Distributions/00%20Overview.md)
+- [Sampling, Estimation and Hypothesis Tests](../06%20Sampling%20Estimation%20and%20Hypothesis%20Tests/00%20Overview.md)
 
 ## Study Sequence
 

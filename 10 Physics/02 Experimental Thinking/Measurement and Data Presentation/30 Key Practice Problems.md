@@ -2,7 +2,7 @@
 title: Measurement and Data Presentation Key Practice Problems
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]"
+parent: "[Measurement and Data Presentation](00%20Overview.md)"
 status: active
 tags:
   - physics/9702

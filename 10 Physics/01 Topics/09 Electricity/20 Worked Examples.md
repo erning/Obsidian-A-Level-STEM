@@ -2,7 +2,7 @@
 title: Electricity Worked Examples
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]]"
+parent: "[Electricity](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

@@ -181,6 +181,6 @@ through steps involving $\ce{Fe^{2+}}$ and $\ce{Fe^{3+}}$ being interconverted.
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/00 Overview|AS Reaction Kinetics]]
-- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|A Level Equilibria]]
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|A Level Chemical Energetics]]
+- [AS Reaction Kinetics](../08%20Reaction%20Kinetics/00%20Overview.md)
+- [A Level Equilibria](../25%20Equilibria/00%20Overview.md)
+- [A Level Chemical Energetics](../23%20Chemical%20Energetics/00%20Overview.md)

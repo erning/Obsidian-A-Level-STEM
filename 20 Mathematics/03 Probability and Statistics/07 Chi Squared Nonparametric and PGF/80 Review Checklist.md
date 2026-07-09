@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/00 Overview|Chi-Squared, Non-Parametric Tests and PGF]]"
+parent: "[Chi-Squared, Non-Parametric Tests and PGF](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Chi-Squared, Non-Parametric Tests and PGF Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/10 Lecture Notes|Chi-Squared, Non-Parametric Tests and PGF Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Chi-Squared, Non-Parametric Tests and PGF Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

@@ -2,7 +2,7 @@
 title: Software Development Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]]"
+parent: "[Software Development](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -244,8 +244,8 @@ After release the program is **maintained**. The syllabus distinguishes three re
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] produces the code that these life-cycle stages manage.
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] extends testing and maintenance into larger paradigms.
+- [Programming](../11%20Programming/00%20Overview.md) produces the code that these life-cycle stages manage.
+- [Further Programming](../20%20Further%20Programming/00%20Overview.md) extends testing and maintenance into larger paradigms.
 
 ## Study Sequence
 

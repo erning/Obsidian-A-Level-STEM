@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]]"
+parent: "[Complex Numbers](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -24,7 +24,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/complex-numbers.svg]]
+![complex-numbers](../../../assets/generated/mathematics/complex-numbers.svg)
 
 这张图用来快速理解“复数”：在复平面上看模和辐角。
 
@@ -345,5 +345,5 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/01 Pure Mathematics/03 Trigonometry and Circular Measure/00 Overview|Trigonometry and Circular Measure]]：复数的极坐标形式和 de Moivre's theorem 依赖三角函数语言。
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]：幂、根和展开式会在复数恒等式与根的结构中继续出现。
+- [Trigonometry and Circular Measure](../03%20Trigonometry%20and%20Circular%20Measure/00%20Overview.md)：复数的极坐标形式和 de Moivre's theorem 依赖三角函数语言。
+- [Sequences, Series and Binomial Expansions](../04%20Sequences%20Series%20and%20Binomial%20Expansions/00%20Overview.md)：幂、根和展开式会在复数恒等式与根的结构中继续出现。

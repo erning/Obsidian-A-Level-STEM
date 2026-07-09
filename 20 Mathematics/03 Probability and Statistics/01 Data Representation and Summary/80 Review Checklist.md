@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/01 Data Representation and Summary/00 Overview|Data Representation and Summary]]"
+parent: "[Data Representation and Summary](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Data Representation and Summary Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/03 Probability and Statistics/01 Data Representation and Summary/10 Lecture Notes|Data Representation and Summary Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Data Representation and Summary Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

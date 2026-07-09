@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]"
+parent: "[Sequences, Series and Binomial Expansions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -13,7 +13,7 @@ tags:
 
 # Sequences, Series and Binomial Expansions Key Practice Solutions
 
-Use these solutions to check method choice and algebra for [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/30 Key Practice Problems|Key Practice Problems]].
+Use these solutions to check method choice and algebra for [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Arithmetic and Geometric Progressions
 

@@ -46,18 +46,18 @@ Dynamics explains changes in motion using force, mass, momentum, and system boun
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/03 Dynamics/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/03 Dynamics/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/03 Dynamics/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/03 Dynamics/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/03 Dynamics/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/03 Dynamics/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/02 Kinematics/00 Overview|Kinematics]]
-- [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]]
-- [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/00 Overview|Momentum, Collisions and Impulse]]
+- [Kinematics](../02%20Kinematics/00%20Overview.md)
+- [Work, Energy and Power](../05%20Work%20Energy%20and%20Power/00%20Overview.md)
+- [Momentum, Collisions and Impulse](../../../20%20Mathematics/02%20Mechanics/03%20Momentum%20Collisions%20and%20Impulse/00%20Overview.md)
 
 ## Common Traps
 

@@ -2,7 +2,7 @@
 title: Particle Physics Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/11 Particle Physics/00 Overview|Particle Physics]]"
+parent: "[Particle Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -25,7 +25,7 @@ There is not much algebra compared with mechanics or circuits. The skill is care
 
 ## Visual Guide
 
-![[assets/generated/physics/particle-physics.svg]]
+![particle-physics](../../../assets/generated/physics/particle-physics.svg)
 
 The visual guide is a classification map. Use it to keep the levels separate: atoms contain nuclei and electrons; nuclei contain protons and neutrons; protons and neutrons are hadrons made from quarks.
 
@@ -472,6 +472,6 @@ You should be able to answer these without looking back:
 
 ## Connections
 
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]] uses photons and particle behaviour at small scales.
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]] develops decay, binding energy, mass defect, and nuclear reactions in more detail.
-- [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]] explains how charged particles are deflected in fields.
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md) uses photons and particle behaviour at small scales.
+- [Nuclear Physics](../23%20Nuclear%20Physics/00%20Overview.md) develops decay, binding energy, mass defect, and nuclear reactions in more detail.
+- [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md) explains how charged particles are deflected in fields.

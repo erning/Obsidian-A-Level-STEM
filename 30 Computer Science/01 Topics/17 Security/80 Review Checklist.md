@@ -2,7 +2,7 @@
 title: Security Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/17 Security/00 Overview|Security]]"
+parent: "[Security](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -50,7 +50,7 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Explain how observing quantum states reveals eavesdropping and why the key is discarded.
 - [ ] Trace a CA certificate from applicant public key, identity check, CA signature, and publication.
 - [ ] Explain how a CA prevents an attacker from substituting their own public key.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]] by explaining where SSL/TLS sits in client-server communication.
+- [ ] Connect this topic to [Communication and Internet Technologies](../14%20Communication%20and%20Internet%20Technologies/00%20Overview.md) by explaining where SSL/TLS sits in client-server communication.
 
 ## Common Errors to Avoid
 
@@ -73,5 +73,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can explain why TLS combines asymmetric setup with symmetric session encryption.
 - [ ] I can describe certificate acquisition and verification, including the CA's private-key signature and trusted public key.
 - [ ] I can distinguish certificate, public key, private key, and digital signature in one coherent explanation.
-- [ ] I can explain how this topic extends [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] from general protection into cryptographic mechanisms.
-- [ ] I can connect TLS and certificates back to the protocol context in [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]].
+- [ ] I can explain how this topic extends [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) from general protection into cryptographic mechanisms.
+- [ ] I can connect TLS and certificates back to the protocol context in [Communication and Internet Technologies](../14%20Communication%20and%20Internet%20Technologies/00%20Overview.md).

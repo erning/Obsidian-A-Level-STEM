@@ -2,7 +2,7 @@
 title: Security, Privacy and Data Integrity Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]]"
+parent: "[Security, Privacy and Data Integrity](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -49,8 +49,8 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Trace a byte parity check and state why it detects but does not locate an error.
 - [ ] Trace a parity block and show how one failing row and one failing column identify a bit.
 - [ ] Explain a checksum failure case where two changes cancel each other out.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]] by explaining why networked systems introduce threats and transfer errors.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]] by explaining how validation, access rights, backup, and integrity appear inside a DBMS.
+- [ ] Connect this topic to [Communication](../02%20Communication/00%20Overview.md) by explaining why networked systems introduce threats and transfer errors.
+- [ ] Connect this topic to [Databases](../08%20Databases/00%20Overview.md) by explaining how validation, access rights, backup, and integrity appear inside a DBMS.
 
 ## Common Errors to Avoid
 
@@ -73,5 +73,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can calculate and verify a check digit without skipping the weighted-sum step.
 - [ ] I can work byte parity, block parity, and checksum examples and state what each can and cannot do.
 - [ ] I can explain validation versus verification using the questions "acceptable?" and "correct?".
-- [ ] I can connect network threats back to [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]].
-- [ ] I can see how this topic prepares for cryptographic security in [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] and database integrity in [[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]].
+- [ ] I can connect network threats back to [Communication](../02%20Communication/00%20Overview.md).
+- [ ] I can see how this topic prepares for cryptographic security in [Security](../17%20Security/00%20Overview.md) and database integrity in [Databases](../08%20Databases/00%20Overview.md).

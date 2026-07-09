@@ -2,7 +2,7 @@
 title: Nuclear Physics Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]"
+parent: "[Nuclear Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -75,5 +75,5 @@ count rate, or number of undecayed nuclei.
       equations with consistent units.
 - [ ] I can use a decay graph or linearised graph to find half-life or decay
       constant.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]
-      and [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]].
+- [ ] I can connect this topic to [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md)
+      and [Logarithms, Exponentials and Numerical Methods](../../../20%20Mathematics/01%20Pure%20Mathematics/07%20Logarithms%20Exponentials%20and%20Numerical%20Methods/00%20Overview.md).

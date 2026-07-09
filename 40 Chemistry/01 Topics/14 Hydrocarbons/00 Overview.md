@@ -45,19 +45,19 @@ Hydrocarbons introduce the contrast between relatively unreactive alkanes and re
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]] supplies formulae, naming and mechanism language.
-- [[40 Chemistry/01 Topics/20 Polymerisation/00 Overview|Polymerisation]] uses alkene addition to form poly(alkene)s.
-- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/00 Overview|Nitrogen and Sulfur]] connects hydrocarbon combustion with atmospheric pollutants.
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/00 Overview|A Level Hydrocarbons]] extends hydrocarbons into arenes.
+- [An Introduction to AS Level Organic Chemistry](../13%20An%20Introduction%20to%20AS%20Level%20Organic%20Chemistry/00%20Overview.md) supplies formulae, naming and mechanism language.
+- [Polymerisation](../20%20Polymerisation/00%20Overview.md) uses alkene addition to form poly(alkene)s.
+- [Nitrogen and Sulfur](../12%20Nitrogen%20and%20Sulfur/00%20Overview.md) connects hydrocarbon combustion with atmospheric pollutants.
+- [A Level Hydrocarbons](../30%20Hydrocarbons/00%20Overview.md) extends hydrocarbons into arenes.
 
 ## Common Traps
 

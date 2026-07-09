@@ -2,7 +2,7 @@
 title: Nuclear Physics Key Practice Problems
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]"
+parent: "[Nuclear Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

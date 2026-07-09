@@ -78,6 +78,6 @@ The products look similar if written too quickly, so always identify whether the
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|AS Halogen Compounds]]
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/00 Overview|A Level Hydrocarbons]]
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|A Level Carboxylic Acids and Derivatives]]
+- [AS Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md)
+- [A Level Hydrocarbons](../30%20Hydrocarbons/00%20Overview.md)
+- [A Level Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md)

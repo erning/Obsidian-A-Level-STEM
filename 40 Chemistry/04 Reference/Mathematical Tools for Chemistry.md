@@ -79,6 +79,6 @@ $$
 
 ## Connections
 
-- [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/00 Overview|Measurement, Observation and Calculation]]
-- [[40 Chemistry/02 Practical Skills/Planning Analysis and Evaluation/00 Overview|Planning, Analysis and Evaluation]]
-- [[40 Chemistry/04 Reference/Data and Periodic Table|Data and Periodic Table]]
+- [Measurement, Observation and Calculation](../02%20Practical%20Skills/Measurement%20Observation%20and%20Calculation/00%20Overview.md)
+- [Planning, Analysis and Evaluation](../02%20Practical%20Skills/Planning%20Analysis%20and%20Evaluation/00%20Overview.md)
+- [Data and Periodic Table](Data%20and%20Periodic%20Table.md)

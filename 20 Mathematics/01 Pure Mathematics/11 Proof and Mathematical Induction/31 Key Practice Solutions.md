@@ -3,7 +3,7 @@ title: Proof and Mathematical Induction Key Practice Solutions
 subject: Mathematics
 syllabus:
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/00 Overview|Proof and Mathematical Induction]]"
+parent: "[Proof and Mathematical Induction](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -12,7 +12,7 @@ tags:
 
 # Proof and Mathematical Induction Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/30 Key Practice Problems|Proof and Mathematical Induction Key Practice Problems]]. Check that each induction proof has a valid starting case, a clearly stated hypothesis, a real step from $k$ to $k+1$, and a conclusion with the correct range.
+This note gives worked solutions for [Proof and Mathematical Induction Key Practice Problems](30%20Key%20Practice%20Problems.md). Check that each induction proof has a valid starting case, a clearly stated hypothesis, a real step from $k$ to $k+1$, and a conclusion with the correct range.
 
 ## A. Core Induction Structure
 

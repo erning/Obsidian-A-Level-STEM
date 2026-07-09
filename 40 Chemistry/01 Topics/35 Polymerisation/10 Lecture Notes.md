@@ -115,6 +115,6 @@ Polyesters and polyamides are biodegradable by acidic and alkaline hydrolysis be
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/20 Polymerisation/00 Overview|AS Polymerisation]]
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/00 Overview|A Level Organic Synthesis]]
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|A Level Carboxylic Acids and Derivatives]]
+- [AS Polymerisation](../20%20Polymerisation/00%20Overview.md)
+- [A Level Organic Synthesis](../36%20Organic%20Synthesis/00%20Overview.md)
+- [A Level Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md)

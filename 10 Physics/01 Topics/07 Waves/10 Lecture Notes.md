@@ -2,7 +2,7 @@
 title: Waves Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]"
+parent: "[Waves](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -27,7 +27,7 @@ Confusing these two is the source of many mistakes.
 
 ## Visual guide
 
-![[assets/generated/physics/waves.svg]]
+![waves](../../../assets/generated/physics/waves.svg)
 
 Use the diagram to locate amplitude, wavelength, period, frequency, phase, and
 wave speed on a progressive wave. A displacement-position graph and a
@@ -123,7 +123,7 @@ $$
 $$
 
 Phase language becomes essential in
-[[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]], where
+[Superposition](../08%20Superposition/00%20Overview.md), where
 waves meet and combine.
 
 ## 4. CRO measurements
@@ -409,12 +409,12 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]] uses
+- [Superposition](../08%20Superposition/00%20Overview.md) uses
   phase and displacement to explain interference, diffraction, and stationary
   waves.
-- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]] studies the
+- [Oscillations](../17%20Oscillations/00%20Overview.md) studies the
   motion of one vibrating point in more detail.
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md)
   returns to electromagnetic radiation from a photon point of view.
-- [[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]]
+- [Astronomy and Cosmology](../25%20Astronomy%20and%20Cosmology/00%20Overview.md)
   uses wavelength shifts and electromagnetic spectra to study distant objects.

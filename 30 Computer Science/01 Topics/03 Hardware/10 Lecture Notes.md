@@ -2,7 +2,7 @@
 title: Hardware Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]]"
+parent: "[Hardware](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -418,10 +418,10 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]]
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md)
   puts these same logic gates and memory types inside the CPU, and uses registers
   and buses built from them.
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]]
+- [Hardware and Virtual Machines](../15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md)
   extends logic circuits into Boolean algebra and into adders and other
   combinational circuits at A Level.
 

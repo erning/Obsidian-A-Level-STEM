@@ -47,17 +47,17 @@ A gravitational field describes how a mass affects space around it through force
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/13 Gravitational Fields/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/13 Gravitational Fields/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/13 Gravitational Fields/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/13 Gravitational Fields/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/13 Gravitational Fields/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/13 Gravitational Fields/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]]
-- [[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]]
+- [Motion in a Circle](../12%20Motion%20in%20a%20Circle/00%20Overview.md)
+- [Electric Fields](../18%20Electric%20Fields/00%20Overview.md)
 
 ## Common Traps
 

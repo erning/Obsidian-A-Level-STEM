@@ -2,7 +2,7 @@
 title: Nuclear Physics Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]"
+parent: "[Nuclear Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -13,7 +13,7 @@ tags:
 # Nuclear Physics Key Practice Solutions
 
 Use these solutions to check conservation, unit conversions, decay reasoning,
-and final answers for [[10 Physics/01 Topics/23 Nuclear Physics/30 Key Practice Problems|Key Practice Problems]].
+and final answers for [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Nuclear Equations and Binding Energy
 

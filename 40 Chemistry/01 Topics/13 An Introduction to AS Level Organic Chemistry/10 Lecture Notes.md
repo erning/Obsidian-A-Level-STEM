@@ -160,6 +160,6 @@ For any new organic molecule, first identify the formula type, then the function
 - Forgetting that cis/trans isomerism needs each double-bond carbon to bear two different groups.
 ## Connections
 
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/00 Overview|Chemical Bonding]]
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]]
-- [[40 Chemistry/01 Topics/04 Reference/Organic Structures and Nomenclature/00 Overview|Organic Structures and Nomenclature]]
+- [Chemical Bonding](../03%20Chemical%20Bonding/00%20Overview.md)
+- [Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md)
+- [Organic Structures and Nomenclature](../../04%20Reference/Organic%20Structures%20and%20Nomenclature.md)

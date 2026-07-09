@@ -50,19 +50,19 @@ Chemical bonding explains how particles are held together and why substances hav
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/01 Atomic Structure/00 Overview|Atomic Structure]] provides the electron arrangements behind bonding.
-- [[40 Chemistry/01 Topics/04 States of Matter/00 Overview|States of Matter]] applies bonding to crystalline and molecular structures.
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]] uses bonding to explain Period 3 physical and chemical trends.
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]] extends sigma and pi bonding into organic molecules.
+- [Atomic Structure](../01%20Atomic%20Structure/00%20Overview.md) provides the electron arrangements behind bonding.
+- [States of Matter](../04%20States%20of%20Matter/00%20Overview.md) applies bonding to crystalline and molecular structures.
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md) uses bonding to explain Period 3 physical and chemical trends.
+- [An Introduction to AS Level Organic Chemistry](../13%20An%20Introduction%20to%20AS%20Level%20Organic%20Chemistry/00%20Overview.md) extends sigma and pi bonding into organic molecules.
 
 ## Common Traps
 

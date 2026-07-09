@@ -45,19 +45,19 @@ AS nitrogen compounds focus on primary amines, nitriles and hydroxynitriles as p
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/10 Lecture Notes.zh-CN|中文讲义]]
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]] provides substitution routes to amines and nitriles.
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]] provides aldehydes and ketones for hydroxynitrile formation.
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]] connects nitriles to carboxylic acids.
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/00 Overview|A Level Nitrogen Compounds]] extends nitrogen chemistry to further amines, amides, amino acids and related compounds.
+- [Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md) provides substitution routes to amines and nitriles.
+- [Carbonyl Compounds](../17%20Carbonyl%20Compounds/00%20Overview.md) provides aldehydes and ketones for hydroxynitrile formation.
+- [Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) connects nitriles to carboxylic acids.
+- [A Level Nitrogen Compounds](../34%20Nitrogen%20Compounds/00%20Overview.md) extends nitrogen chemistry to further amines, amides, amino acids and related compounds.
 
 ## Common Traps
 

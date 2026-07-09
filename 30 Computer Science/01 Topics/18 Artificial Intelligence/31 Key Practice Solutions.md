@@ -2,7 +2,7 @@
 title: Artificial Intelligence Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]]"
+parent: "[Artificial Intelligence](00%20Overview.md)"
 status: active
 tags:
   - computerscience/advanced
@@ -11,7 +11,7 @@ tags:
 
 # Artificial Intelligence Key Practice Solutions
 
-These solutions correspond to [[30 Computer Science/01 Topics/18 Artificial Intelligence/30 Key Practice Problems|Key Practice Problems]]. The reasoning is the point: read the justification against the alternatives, not just the final answer.
+These solutions correspond to [Key Practice Problems](30%20Key%20Practice%20Problems.md). The reasoning is the point: read the justification against the alternatives, not just the final answer.
 
 ## A. Graphs and search
 

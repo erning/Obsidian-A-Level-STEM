@@ -2,7 +2,7 @@
 title: Communication and Internet Technologies Worked Examples
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]]"
+parent: "[Communication and Internet Technologies](00%20Overview.md)"
 status: active
 tags:
   - computerscience/networks

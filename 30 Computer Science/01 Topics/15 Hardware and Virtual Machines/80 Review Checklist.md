@@ -2,7 +2,7 @@
 title: Hardware and Virtual Machines Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]]"
+parent: "[Hardware and Virtual Machines](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -54,7 +54,7 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Explain why $S=1, R=1$ is forbidden in an SR flip-flop and why $J=1, K=1$ toggles in a JK flip-flop.
 - [ ] Trace De Morgan's law as "break the bar, swap the operator, invert each term".
 - [ ] Explain why K-map edge wrapping and power-of-two groups preserve valid adjacencies.
-- [ ] Connect adders and flip-flops to [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] and CPU work in [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]].
+- [ ] Connect adders and flip-flops to [Hardware](../03%20Hardware/00%20Overview.md) and CPU work in [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md).
 
 ## Common Errors to Avoid
 
@@ -79,5 +79,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can build and explain half-adder and full-adder truth tables and chain full adders into a ripple-carry adder.
 - [ ] I can draw SR and JK flip-flop truth tables and explain hold, set, reset, forbidden, and toggle cases.
 - [ ] I can simplify a Boolean expression using algebra and check it with a K-map.
-- [ ] I can explain how this topic extends [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] and [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]].
-- [ ] I can connect virtual machines and interrupt costs to [[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]].
+- [ ] I can explain how this topic extends [Hardware](../03%20Hardware/00%20Overview.md) and [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md).
+- [ ] I can connect virtual machines and interrupt costs to [System Software](../16%20System%20Software/00%20Overview.md).

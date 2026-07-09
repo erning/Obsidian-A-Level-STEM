@@ -43,18 +43,18 @@ AS polymerisation focuses on addition polymerisation, where alkene monomers join
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/20 Polymerisation/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/20 Polymerisation/10 Lecture Notes.zh-CN|中文讲义]]
-- [[40 Chemistry/01 Topics/20 Polymerisation/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/20 Polymerisation/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/20 Polymerisation/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/20 Polymerisation/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]] supplies alkenes and addition reaction ideas.
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]] uses polymerisation as one possible route from functional group chemistry.
-- [[40 Chemistry/01 Topics/35 Polymerisation/00 Overview|A Level Polymerisation]] extends polymerisation to condensation polymers, prediction of polymerisation type and degradable polymers.
+- [Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md) supplies alkenes and addition reaction ideas.
+- [Organic Synthesis](../21%20Organic%20Synthesis/00%20Overview.md) uses polymerisation as one possible route from functional group chemistry.
+- [A Level Polymerisation](../35%20Polymerisation/00%20Overview.md) extends polymerisation to condensation polymers, prediction of polymerisation type and degradable polymers.
 
 ## Common Traps
 

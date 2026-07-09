@@ -2,7 +2,7 @@
 title: Data Representation 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]]"
+parent: "[Data Representation](00%20Overview.md)"
 status: active
 tags:
   - computerscience/data
@@ -272,5 +272,5 @@ address = key MOD numberOfRecords
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]]——AS 阶段的基础：进制、二补码整数、文本/图像/声音的编码，本主题正是建立其上。
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]]——用到这里的用户自定义类型（记录、类、指针）以及实际程序中的文件模式。
+- [Information Representation](../01%20Information%20Representation/00%20Overview.md)——AS 阶段的基础：进制、二补码整数、文本/图像/声音的编码，本主题正是建立其上。
+- [Further Programming](../20%20Further%20Programming/00%20Overview.md)——用到这里的用户自定义类型（记录、类、指针）以及实际程序中的文件模式。

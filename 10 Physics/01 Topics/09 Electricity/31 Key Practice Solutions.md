@@ -2,7 +2,7 @@
 title: Electricity Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]]"
+parent: "[Electricity](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -12,7 +12,7 @@ tags:
 
 # Electricity Key Practice Solutions
 
-These solutions correspond to [[10 Physics/01 Topics/09 Electricity/30 Key Practice Problems|Key Practice Problems]].
+These solutions correspond to [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 Use $e=1.60\times 10^{-19}\ \mathrm{C}$ where needed.
 

@@ -10,7 +10,7 @@ tags:
 
 # Experimental Design and Safety - Worked Examples
 
-These examples model how to turn a question into a plan with clear variables, apparatus, controls and matched safety precautions. They follow the routine in [[40 Chemistry/02 Practical Skills/Experimental Design and Safety/10 Lecture Notes|the lecture notes]].
+These examples model how to turn a question into a plan with clear variables, apparatus, controls and matched safety precautions. They follow the routine in [the lecture notes](10%20Lecture%20Notes.md).
 
 ## Example 1: Rate of the thiosulfate-acid reaction
 

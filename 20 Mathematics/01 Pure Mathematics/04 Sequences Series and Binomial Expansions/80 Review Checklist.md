@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]"
+parent: "[Sequences, Series and Binomial Expansions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -78,6 +78,6 @@ return to the lecture notes or worked examples.
 - [ ] I can use standard sums for polynomial series.
 - [ ] I can use partial fractions to create telescoping sums.
 - [ ] I can identify the boundary terms that survive in method of differences.
-- [ ] I can connect this topic to [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]],
-      [[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/00 Overview|Proof and Mathematical Induction]],
-      and [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]].
+- [ ] I can connect this topic to [Logarithms, Exponentials and Numerical Methods](../07%20Logarithms%20Exponentials%20and%20Numerical%20Methods/00%20Overview.md),
+      [Proof and Mathematical Induction](../11%20Proof%20and%20Mathematical%20Induction/00%20Overview.md),
+      and [Further Calculus and Differential Equations](../13%20Further%20Calculus%20and%20Differential%20Equations/00%20Overview.md).

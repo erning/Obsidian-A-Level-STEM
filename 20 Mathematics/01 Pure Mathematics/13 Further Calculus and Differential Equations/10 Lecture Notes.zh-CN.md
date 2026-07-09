@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]"
+parent: "[Further Calculus and Differential Equations](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -25,7 +25,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/further-calculus-and-differential-equations.svg]]
+![further-calculus-and-differential-equations](../../../assets/generated/mathematics/further-calculus-and-differential-equations.svg)
 
 这张图用来快速理解“进阶微积分与微分方程”：用斜率场看微分方程的解曲线。
 
@@ -433,6 +433,6 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]：进一步求导、Maclaurin 级数和微分方程都依赖导数语言。
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]：分离变量、一阶线性方程和递推公式都需要积分方法。
-- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Physics Oscillations]]：常系数线性微分方程会在振动模型中再次出现。
+- [Differentiation](../05%20Differentiation/00%20Overview.md)：进一步求导、Maclaurin 级数和微分方程都依赖导数语言。
+- [Integration](../06%20Integration/00%20Overview.md)：分离变量、一阶线性方程和递推公式都需要积分方法。
+- [Physics Oscillations](../../../10%20Physics/01%20Topics/17%20Oscillations/00%20Overview.md)：常系数线性微分方程会在振动模型中再次出现。

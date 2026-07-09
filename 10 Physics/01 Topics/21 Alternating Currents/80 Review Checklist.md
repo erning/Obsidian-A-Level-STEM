@@ -2,7 +2,7 @@
 title: Alternating Currents Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]]"
+parent: "[Alternating Currents](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -75,5 +75,5 @@ mean.
       power for a sinusoidal alternating current.
 - [ ] I can sketch and compare half-wave and full-wave rectification.
 - [ ] I can explain capacitor smoothing using charge, discharge, and ripple.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]
-      and [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]].
+- [ ] I can connect this topic to [Capacitance](../19%20Capacitance/00%20Overview.md)
+      and [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md).

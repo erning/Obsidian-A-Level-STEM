@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]"
+parent: "[Sampling, Estimation and Hypothesis Tests](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Sampling, Estimation and Hypothesis Tests Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/30 Key Practice Problems|Key Practice Problems]]. For tests, mark the hypotheses, test direction, calculation, and conclusion in context.
+This note gives worked solutions for [Key Practice Problems](30%20Key%20Practice%20Problems.md). For tests, mark the hypotheses, test direction, calculation, and conclusion in context.
 
 ## Problem 1
 

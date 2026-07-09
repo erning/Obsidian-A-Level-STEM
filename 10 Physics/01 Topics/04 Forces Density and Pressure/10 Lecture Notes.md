@@ -2,7 +2,7 @@
 title: Forces, Density and Pressure Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Forces, Density and Pressure]]"
+parent: "[Forces, Density and Pressure](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -13,7 +13,7 @@ tags:
 # Forces, Density and Pressure Lecture Notes
 
 This topic takes the force ideas from
-[[10 Physics/01 Topics/03 Dynamics/10 Lecture Notes|Dynamics]] and uses them in
+[Dynamics](../03%20Dynamics/10%20Lecture%20Notes.md) and uses them in
 three new ways. A force can be added to other forces as a vector. A force can
 produce a turning effect when its line of action does not pass through a pivot.
 A force spread over an area produces pressure, and pressure differences in a
@@ -28,7 +28,7 @@ The recurring question is: what effect of the force matters here?
 
 ## Visual guide
 
-![[assets/generated/physics/forces-density-and-pressure.svg]]
+![forces-density-and-pressure](../../../assets/generated/physics/forces-density-and-pressure.svg)
 
 Use the diagram as a map. The left side is the rotational route: centre of
 gravity, line of action, moment, couple, torque, and equilibrium. The right side
@@ -435,11 +435,11 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[10 Physics/01 Topics/03 Dynamics/10 Lecture Notes|Dynamics]] gives the
+- [Dynamics](../03%20Dynamics/10%20Lecture%20Notes.md) gives the
   force and acceleration ideas used here.
-- [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]]
+- [Work, Energy and Power](../05%20Work%20Energy%20and%20Power/00%20Overview.md)
   uses force with displacement rather than force with perpendicular distance.
-- [[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]]
+- [Deformation of Solids](../06%20Deformation%20of%20Solids/00%20Overview.md)
   uses force and area again when defining stress.
-- [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]]
+- [Forces and Equilibrium](../../../20%20Mathematics/02%20Mechanics/01%20Forces%20and%20Equilibrium/00%20Overview.md)
   develops the mathematical treatment of resolving forces and moments.

@@ -2,7 +2,7 @@
 title: Ethics and Ownership Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]]"
+parent: "[Ethics and Ownership](00%20Overview.md)"
 status: active
 tags:
   - computerscience/foundations
@@ -11,7 +11,7 @@ tags:
 
 # Ethics and Ownership Key Practice Solutions
 
-This note gives worked solutions for [[30 Computer Science/01 Topics/07 Ethics and Ownership/30 Key Practice Problems|Ethics and Ownership Key Practice Problems]]. Each solution shows the full reasoning, so you can find the step where your argument diverged rather than only comparing final answers. Where a question asks you to justify a choice, the marks are in the justification tied to the scenario, not in naming the term alone.
+This note gives worked solutions for [Ethics and Ownership Key Practice Problems](30%20Key%20Practice%20Problems.md). Each solution shows the full reasoning, so you can find the step where your argument diverged rather than only comparing final answers. Where a question asks you to justify a choice, the marks are in the justification tied to the scenario, not in naming the term alone.
 
 ## A. Professional ethics
 

@@ -2,7 +2,7 @@
 title: System Software Worked Examples
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]]"
+parent: "[System Software](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems

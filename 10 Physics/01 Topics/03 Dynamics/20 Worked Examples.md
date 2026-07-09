@@ -2,7 +2,7 @@
 title: Dynamics Worked Examples
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]]"
+parent: "[Dynamics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

@@ -78,6 +78,6 @@ tags:
 
 ## Ready to Connect
 
-- [ ] I can connect redox feasibility to [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|Electrochemistry]].
-- [ ] I can connect $K_\mathrm{stab}$ to [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|Equilibria]].
-- [ ] I can connect catalytic explanations to [[40 Chemistry/01 Topics/26 Reaction Kinetics/00 Overview|Reaction Kinetics]].
+- [ ] I can connect redox feasibility to [Electrochemistry](../24%20Electrochemistry/00%20Overview.md).
+- [ ] I can connect $K_\mathrm{stab}$ to [Equilibria](../25%20Equilibria/00%20Overview.md).
+- [ ] I can connect catalytic explanations to [Reaction Kinetics](../26%20Reaction%20Kinetics/00%20Overview.md).

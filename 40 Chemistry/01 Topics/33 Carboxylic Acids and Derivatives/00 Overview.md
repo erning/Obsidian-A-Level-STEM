@@ -47,19 +47,19 @@ A Level carboxylic acid chemistry centres on benzoic acid, acyl chlorides, ester
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/10 Lecture Notes|Lecture Notes]] cover benzoic acid formation, acyl chlorides, esters, acidity trends, oxidation, and addition-elimination.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/10 Lecture Notes.zh-CN|中文讲义]] gives a concise Chinese companion explanation of carboxylic acid and derivative chemistry.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/20 Worked Examples|Worked Examples]] model acidity reasoning, acyl chloride reactions, hydrolysis comparisons, and mechanisms.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/30 Key Practice Problems|Key Practice Problems]] provide active recall, mechanism, and synthesis prompts without answers.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/31 Key Practice Solutions|Key Practice Solutions]] mirror the practice set with working and checks.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/80 Review Checklist|Review Checklist]] is the final self-test before using acyl derivatives in nitrogen chemistry, polymerisation, and synthesis.
+- [Lecture Notes](10%20Lecture%20Notes.md) cover benzoic acid formation, acyl chlorides, esters, acidity trends, oxidation, and addition-elimination.
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md) gives a concise Chinese companion explanation of carboxylic acid and derivative chemistry.
+- [Worked Examples](20%20Worked%20Examples.md) model acidity reasoning, acyl chloride reactions, hydrolysis comparisons, and mechanisms.
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md) provide active recall, mechanism, and synthesis prompts without answers.
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md) mirror the practice set with working and checks.
+- [Review Checklist](80%20Review%20Checklist.md) is the final self-test before using acyl derivatives in nitrogen chemistry, polymerisation, and synthesis.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|AS Carboxylic Acids and Derivatives]] supplies the AS reactions of carboxylic acids and esters.
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/00 Overview|Hydrocarbons]] supplies side-chain oxidation to benzoic acid.
-- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/00 Overview|Hydroxy Compounds]] connects alcohols and phenols to ester formation.
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/00 Overview|Nitrogen Compounds]] uses acyl chlorides to make amides.
+- [AS Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) supplies the AS reactions of carboxylic acids and esters.
+- [Hydrocarbons](../30%20Hydrocarbons/00%20Overview.md) supplies side-chain oxidation to benzoic acid.
+- [Hydroxy Compounds](../32%20Hydroxy%20Compounds/00%20Overview.md) connects alcohols and phenols to ester formation.
+- [Nitrogen Compounds](../34%20Nitrogen%20Compounds/00%20Overview.md) uses acyl chlorides to make amides.
 
 ## Common Traps
 

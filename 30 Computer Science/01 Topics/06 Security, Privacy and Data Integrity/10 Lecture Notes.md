@@ -2,7 +2,7 @@
 title: Security, Privacy and Data Integrity Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]]"
+parent: "[Security, Privacy and Data Integrity](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -203,8 +203,8 @@ Like parity, a checksum **detects** corruption but does **not correct** it; the 
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] (A Level) extends this with encryption protocols, SSL/TLS, digital certificates and the public-key infrastructure that underpins digital signatures.
-- [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]] covers the networks and the internet whose connectivity introduces the threats described here, and whose data transfer is checked by parity and checksum.
+- [Security](../17%20Security/00%20Overview.md) (A Level) extends this with encryption protocols, SSL/TLS, digital certificates and the public-key infrastructure that underpins digital signatures.
+- [Communication](../02%20Communication/00%20Overview.md) covers the networks and the internet whose connectivity introduces the threats described here, and whose data transfer is checked by parity and checksum.
 
 ## Study Sequence
 

@@ -48,19 +48,19 @@ A Level analytical techniques use chromatography and NMR spectroscopy to separat
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/37 Analytical Techniques/10 Lecture Notes|Lecture Notes]] cover TLC, gas / liquid chromatography, carbon-13 NMR, proton NMR, TMS, deuterated solvents, and D2O exchange.
-- [[40 Chemistry/01 Topics/37 Analytical Techniques/10 Lecture Notes.zh-CN|中文讲义]] gives a concise Chinese companion explanation of chromatography and NMR evidence.
-- [[40 Chemistry/01 Topics/37 Analytical Techniques/20 Worked Examples|Worked Examples]] model $R_f$ calculations, chromatogram composition, carbon environments, proton splitting, and combined structure deduction.
-- [[40 Chemistry/01 Topics/37 Analytical Techniques/30 Key Practice Problems|Key Practice Problems]] provide active recall and data-interpretation prompts without answers.
-- [[40 Chemistry/01 Topics/37 Analytical Techniques/31 Key Practice Solutions|Key Practice Solutions]] mirror the practice set with working and checks.
-- [[40 Chemistry/01 Topics/37 Analytical Techniques/80 Review Checklist|Review Checklist]] is the final self-test before combining analysis with synthesis routes.
+- [Lecture Notes](10%20Lecture%20Notes.md) cover TLC, gas / liquid chromatography, carbon-13 NMR, proton NMR, TMS, deuterated solvents, and D2O exchange.
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md) gives a concise Chinese companion explanation of chromatography and NMR evidence.
+- [Worked Examples](20%20Worked%20Examples.md) model $R_f$ calculations, chromatogram composition, carbon environments, proton splitting, and combined structure deduction.
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md) provide active recall and data-interpretation prompts without answers.
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md) mirror the practice set with working and checks.
+- [Review Checklist](80%20Review%20Checklist.md) is the final self-test before combining analysis with synthesis routes.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|AS Analytical Techniques]] supplies mass spectrometry and infrared spectroscopy foundations.
-- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|Equilibria]] supports partition ideas that underlie chromatography.
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/00 Overview|An Introduction to A Level Organic Chemistry]] supplies formulae, isomerism, and functional-group recognition.
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/00 Overview|Organic Synthesis]] uses analytical data to confirm products and check purity.
+- [AS Analytical Techniques](../22%20Analytical%20Techniques/00%20Overview.md) supplies mass spectrometry and infrared spectroscopy foundations.
+- [Equilibria](../25%20Equilibria/00%20Overview.md) supports partition ideas that underlie chromatography.
+- [An Introduction to A Level Organic Chemistry](../29%20An%20Introduction%20to%20A%20Level%20Organic%20Chemistry/00%20Overview.md) supplies formulae, isomerism, and functional-group recognition.
+- [Organic Synthesis](../36%20Organic%20Synthesis/00%20Overview.md) uses analytical data to confirm products and check purity.
 
 ## Common Traps
 

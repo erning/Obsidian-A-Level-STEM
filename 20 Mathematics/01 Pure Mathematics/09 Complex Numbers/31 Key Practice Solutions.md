@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]]"
+parent: "[Complex Numbers](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -13,7 +13,7 @@ tags:
 
 # Complex Numbers Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/30 Key Practice Problems|Complex Numbers Key Practice Problems]]. Use it to check the form chosen, the Argand diagram interpretation, and any branch or argument decisions.
+This note gives worked solutions for [Complex Numbers Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check the form chosen, the Argand diagram interpretation, and any branch or argument decisions.
 
 ## A. 9709 Core Complex Number Skills
 

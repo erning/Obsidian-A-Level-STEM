@@ -2,7 +2,7 @@
 title: Nuclear Physics 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]"
+parent: "[Nuclear Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -17,7 +17,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/nuclear-physics.svg]]
+![nuclear-physics](../../../assets/generated/physics/nuclear-physics.svg)
 
 这张图把两个核心图像放在一起：比结合能曲线解释稳定性和核能来源，指数衰变曲线描述不稳定原子核的统计规律。
 
@@ -299,6 +299,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/11 Particle Physics/00 Overview|Particle Physics]]
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]
-- [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]
+- [Particle Physics](../11%20Particle%20Physics/00%20Overview.md)
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md)
+- [Logarithms, Exponentials and Numerical Methods](../../../20%20Mathematics/01%20Pure%20Mathematics/07%20Logarithms%20Exponentials%20and%20Numerical%20Methods/00%20Overview.md)

@@ -33,7 +33,7 @@ This A Level topic extends section 2 with the protocols that let computers talk 
 
 ## How to Study
 
-- Place this topic after [[30 Computer Science/01 Topics/02 Communication/00 Overview|2 Communication]] so the network foundations are already in place.
+- Place this topic after [2 Communication](../02%20Communication/00%20Overview.md) so the network foundations are already in place.
 - Draw the four TCP/IP layers and map a message's journey down the sender's stack and up the receiver's.
 - Compare circuit and packet switching on delay, resource use, and robustness.
 
@@ -45,18 +45,18 @@ This A Level topic extends section 2 with the protocols that let computers talk 
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]] provides the LAN/WAN, hardware, IP addressing, DNS, and router foundations that make protocol stacks and switching meaningful here.
-- [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] builds directly on these protocol ideas: SSL/TLS uses the client-server network path to add encryption, authentication, and integrity.
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] explains the threats and transfer-integrity checks that motivate secure communication over the networks studied here.
+- [Communication](../02%20Communication/00%20Overview.md) provides the LAN/WAN, hardware, IP addressing, DNS, and router foundations that make protocol stacks and switching meaningful here.
+- [Security](../17%20Security/00%20Overview.md) builds directly on these protocol ideas: SSL/TLS uses the client-server network path to add encryption, authentication, and integrity.
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) explains the threats and transfer-integrity checks that motivate secure communication over the networks studied here.
 
 ## Common Traps
 

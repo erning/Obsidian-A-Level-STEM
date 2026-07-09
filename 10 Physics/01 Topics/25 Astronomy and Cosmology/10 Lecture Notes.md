@@ -2,7 +2,7 @@
 title: Astronomy and Cosmology Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]]"
+parent: "[Astronomy and Cosmology](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -27,7 +27,7 @@ The central skill is to separate what a star or galaxy actually emits from what 
 
 ## Visual Guide
 
-![[assets/generated/physics/astronomy-and-cosmology.svg]]
+![astronomy-and-cosmology](../../../assets/generated/physics/astronomy-and-cosmology.svg)
 
 Figure: Stellar measurements connect luminosity, temperature, radius, redshift, and distance.
 
@@ -259,6 +259,6 @@ You have the topic if you can do these without notes:
 
 ## Connections
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-- [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]
+- [Waves](../07%20Waves/00%20Overview.md)
+- [Superposition](../08%20Superposition/00%20Overview.md)
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md)

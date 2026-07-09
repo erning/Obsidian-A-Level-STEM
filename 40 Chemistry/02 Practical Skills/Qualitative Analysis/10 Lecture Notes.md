@@ -129,7 +129,7 @@ For an observational problem:
 
 ## Connections
 
-- [[40 Chemistry/02 Practical Skills/Experimental Design and Safety/10 Lecture Notes|Experimental Design and Safety]] covers safe handling of unknowns.
-- [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/10 Lecture Notes|Measurement, Observation and Calculation]] covers recording discipline.
-- [[40 Chemistry/04 Reference/Chemical Formulae and Equations|Chemical Formulae and Equations]] supports writing ionic equations for the tests.
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]] and [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]] give the theory behind the organic tests.
+- [Experimental Design and Safety](../Experimental%20Design%20and%20Safety/10%20Lecture%20Notes.md) covers safe handling of unknowns.
+- [Measurement, Observation and Calculation](../Measurement%20Observation%20and%20Calculation/10%20Lecture%20Notes.md) covers recording discipline.
+- [Chemical Formulae and Equations](../../04%20Reference/Chemical%20Formulae%20and%20Equations.md) supports writing ionic equations for the tests.
+- [Carbonyl Compounds](../../01%20Topics/17%20Carbonyl%20Compounds/00%20Overview.md) and [Hydroxy Compounds](../../01%20Topics/16%20Hydroxy%20Compounds/00%20Overview.md) give the theory behind the organic tests.

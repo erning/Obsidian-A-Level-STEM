@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]"
+parent: "[Kinematics and Newtonian Motion](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Kinematics and Newtonian Motion Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/10 Lecture Notes|Kinematics and Newtonian Motion Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Kinematics and Newtonian Motion Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

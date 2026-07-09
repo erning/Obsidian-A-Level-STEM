@@ -45,6 +45,6 @@ Paper 5 expects candidates to identify a safe and efficient procedure, choose su
 
 ## Connections
 
-- [[40 Chemistry/02 Practical Skills/Planning Analysis and Evaluation/00 Overview|Planning, Analysis and Evaluation]]
-- [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/00 Overview|Measurement, Observation and Calculation]]
-- [[40 Chemistry/04 Reference/Mathematical Tools for Chemistry|Mathematical Tools for Chemistry]]
+- [Planning, Analysis and Evaluation](../Planning%20Analysis%20and%20Evaluation/00%20Overview.md)
+- [Measurement, Observation and Calculation](../Measurement%20Observation%20and%20Calculation/00%20Overview.md)
+- [Mathematical Tools for Chemistry](../../04%20Reference/Mathematical%20Tools%20for%20Chemistry.md)

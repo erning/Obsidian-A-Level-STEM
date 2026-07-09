@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/01 Data Representation and Summary/00 Overview|Data Representation and Summary]]"
+parent: "[Data Representation and Summary](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics

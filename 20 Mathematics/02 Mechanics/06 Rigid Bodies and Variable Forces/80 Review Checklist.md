@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces/00 Overview|Rigid Bodies and Variable Forces]]"
+parent: "[Rigid Bodies and Variable Forces](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Rigid Bodies and Variable Forces Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces/10 Lecture Notes|Rigid Bodies and Variable Forces Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Rigid Bodies and Variable Forces Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

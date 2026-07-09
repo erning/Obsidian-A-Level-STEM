@@ -170,6 +170,6 @@ Always explain the property using particles, structure and attraction. For examp
 - Explaining graphite's conductivity without linking it to delocalised electrons in the layers.
 ## Connections
 
-- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/10 Lecture Notes|Atoms, Molecules and Stoichiometry]] supplies amount of substance for gas calculations.
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/10 Lecture Notes|Chemical Bonding]] supplies ionic, metallic, covalent and intermolecular-force explanations.
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]] uses structure and bonding to explain Period 3 trends.
+- [Atoms, Molecules and Stoichiometry](../02%20Atoms%20Molecules%20and%20Stoichiometry/10%20Lecture%20Notes.md) supplies amount of substance for gas calculations.
+- [Chemical Bonding](../03%20Chemical%20Bonding/10%20Lecture%20Notes.md) supplies ionic, metallic, covalent and intermolecular-force explanations.
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md) uses structure and bonding to explain Period 3 trends.

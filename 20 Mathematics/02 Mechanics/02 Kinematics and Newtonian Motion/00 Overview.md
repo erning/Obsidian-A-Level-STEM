@@ -44,17 +44,17 @@ Kinematics describes motion, and Newtonian motion explains it with force and acc
 
 ## Learning Materials
 
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/02 Kinematics/00 Overview|Physics Kinematics]]
-- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Physics Dynamics]]
+- [Physics Kinematics](../../../10%20Physics/01%20Topics/02%20Kinematics/00%20Overview.md)
+- [Physics Dynamics](../../../10%20Physics/01%20Topics/03%20Dynamics/00%20Overview.md)
 
 ## Common Traps
 

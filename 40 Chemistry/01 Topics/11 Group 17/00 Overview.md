@@ -46,12 +46,12 @@ Group 17 chemistry compares halogens and halide ions through volatility, bond st
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/11 Group 17/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/11 Group 17/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/11 Group 17/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/11 Group 17/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/11 Group 17/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/11 Group 17/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Practice Directions
 
@@ -63,9 +63,9 @@ Group 17 chemistry compares halogens and halide ions through volatility, bond st
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/06 Electrochemistry/00 Overview|Electrochemistry]] gives the redox language for halogens and halide ions.
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]] frames the group trends.
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]] transfers halogen chemistry into organic halogenoalkanes.
+- [Electrochemistry](../06%20Electrochemistry/00%20Overview.md) gives the redox language for halogens and halide ions.
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md) frames the group trends.
+- [Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md) transfers halogen chemistry into organic halogenoalkanes.
 
 ## Common Traps
 

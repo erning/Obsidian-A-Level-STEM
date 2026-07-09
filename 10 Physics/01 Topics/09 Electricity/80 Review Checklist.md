@@ -2,7 +2,7 @@
 title: Electricity Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]]"
+parent: "[Electricity](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -84,11 +84,11 @@ interpretation.
 ## Connections
 
 - [ ] I can connect these definitions to
-  [[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]].
+  [D.C. Circuits](../10%20DC%20Circuits/00%20Overview.md).
 - [ ] I can connect potential difference to
-  [[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]].
+  [Electric Fields](../18%20Electric%20Fields/00%20Overview.md).
 - [ ] I can connect current as moving charge to
-  [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]].
+  [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md).
 
 ## Ready to Move On When
 

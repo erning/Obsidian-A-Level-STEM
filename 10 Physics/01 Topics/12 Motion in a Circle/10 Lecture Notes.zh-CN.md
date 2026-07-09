@@ -2,7 +2,7 @@
 title: Motion in a Circle 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]]"
+parent: "[Motion in a Circle](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -26,7 +26,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/motion-in-a-circle.svg]]
+![motion-in-a-circle](../../../assets/generated/physics/motion-in-a-circle.svg)
 
 这张图要当作方向图来读：速度沿切线，加速度指向圆心，合力也指向圆心。
 
@@ -275,7 +275,7 @@ $$
 
 卫星或行星做近似圆周轨道运动时，重力提供向心力。物体一直在向中心天体“下落”，但同时有切向速度，所以沿弯曲路径绕行。
 
-这会直接连接到 [[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]]。
+这会直接连接到 [Gravitational Fields](../13%20Gravitational%20Fields/00%20Overview.md)。
 
 ## 10. 做题流程
 
@@ -320,7 +320,7 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]] 提供 Newton 定律和合力思想。
-- [[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]] 会用圆周运动分析轨道。
-- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]] 会继续使用角频率和弧度。
-- [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]] 会用到带电粒子在磁场中的圆周运动。
+- [Dynamics](../03%20Dynamics/00%20Overview.md) 提供 Newton 定律和合力思想。
+- [Gravitational Fields](../13%20Gravitational%20Fields/00%20Overview.md) 会用圆周运动分析轨道。
+- [Oscillations](../17%20Oscillations/00%20Overview.md) 会继续使用角频率和弧度。
+- [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md) 会用到带电粒子在磁场中的圆周运动。

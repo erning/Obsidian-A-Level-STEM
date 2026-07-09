@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]]"
+parent: "[Matrices and Transformations](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -23,7 +23,7 @@ Matrices organise linear operations. They can store coefficients in simultaneous
 
 ## Visual Guide
 
-![[assets/generated/mathematics/matrices-and-transformations.svg]]
+![matrices-and-transformations](../../../assets/generated/mathematics/matrices-and-transformations.svg)
 
 Figure: The guide shows a matrix transformation acting on a square grid. Watch where the basis vectors go; their images become the columns of the transformation matrix.
 
@@ -394,5 +394,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/08 Vectors/00 Overview|Vectors]]
-- [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]
+- [Vectors](../08%20Vectors/00%20Overview.md)
+- [Coordinate Geometry and Graphs](../02%20Coordinate%20Geometry%20and%20Graphs/00%20Overview.md)

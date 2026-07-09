@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/03 Trigonometry and Circular Measure/00 Overview|Trigonometry and Circular Measure]]"
+parent: "[Trigonometry and Circular Measure](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure

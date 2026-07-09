@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]"
+parent: "[Work, Energy, Power and Elasticity](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -23,7 +23,7 @@ Energy methods replace a step-by-step force analysis with an account of what cha
 
 ## Visual Guide
 
-![[assets/generated/mathematics/work-energy-power-and-elasticity.svg]]
+![work-energy-power-and-elasticity](../../../assets/generated/mathematics/work-energy-power-and-elasticity.svg)
 
 Figure: use the guide to track energy transfer by work and energy storage in an elastic string or spring.
 
@@ -219,11 +219,11 @@ The normal reaction cannot be found from energy alone, because it does no work a
 
 ## Connections
 
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
-- [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/00 Overview|Projectiles and Circular Motion]]
-- [[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces/00 Overview|Rigid Bodies and Variable Forces]]
-- [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Physics Work, Energy and Power]]
-- [[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Physics Deformation of Solids]]
+- [Kinematics and Newtonian Motion](../02%20Kinematics%20and%20Newtonian%20Motion/00%20Overview.md)
+- [Projectiles and Circular Motion](../05%20Projectiles%20and%20Circular%20Motion/00%20Overview.md)
+- [Rigid Bodies and Variable Forces](../06%20Rigid%20Bodies%20and%20Variable%20Forces/00%20Overview.md)
+- [Physics Work, Energy and Power](../../../10%20Physics/01%20Topics/05%20Work%20Energy%20and%20Power/00%20Overview.md)
+- [Physics Deformation of Solids](../../../10%20Physics/01%20Topics/06%20Deformation%20of%20Solids/00%20Overview.md)
 
 ## Study Sequence
 

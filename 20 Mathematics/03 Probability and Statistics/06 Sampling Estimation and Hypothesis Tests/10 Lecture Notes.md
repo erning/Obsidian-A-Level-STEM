@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]"
+parent: "[Sampling, Estimation and Hypothesis Tests](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -24,7 +24,7 @@ Statistical inference uses a sample to make a controlled, uncertain statement ab
 
 ## Visual Guide
 
-![[assets/generated/mathematics/sampling-estimation-and-hypothesis-tests.svg]]
+![sampling-estimation-and-hypothesis-tests](../../../assets/generated/mathematics/sampling-estimation-and-hypothesis-tests.svg)
 
 Figure: use the guide to connect sampling distributions, confidence intervals, and rejection regions.
 
@@ -301,8 +301,8 @@ These errors are not just vocabulary. They describe the trade-off between being 
 
 ## Connections
 
-- [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]
-- [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/00 Overview|Chi-Squared, Non-Parametric Tests and PGF]]
+- [Normal and Poisson Distributions](../04%20Normal%20and%20Poisson%20Distributions/00%20Overview.md)
+- [Chi-Squared, Non-Parametric Tests and PGF](../07%20Chi%20Squared%20Nonparametric%20and%20PGF/00%20Overview.md)
 
 ## Study Sequence
 

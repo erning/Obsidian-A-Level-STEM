@@ -246,9 +246,9 @@ If two structures fit one piece of data, keep both until another clue separates 
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]]
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]]
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|Nitrogen Compounds]]
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]]
-- [[40 Chemistry/02 Practical Skills/Qualitative Analysis/00 Overview|Qualitative Analysis]]
-- [[40 Chemistry/04 Reference/Data and Periodic Table|Data and Periodic Table]]
+- [Carbonyl Compounds](../17%20Carbonyl%20Compounds/00%20Overview.md)
+- [Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md)
+- [Nitrogen Compounds](../19%20Nitrogen%20Compounds/00%20Overview.md)
+- [Organic Synthesis](../21%20Organic%20Synthesis/00%20Overview.md)
+- [Qualitative Analysis](../../02%20Practical%20Skills/Qualitative%20Analysis/00%20Overview.md)
+- [Data and Periodic Table](../../04%20Reference/Data%20and%20Periodic%20Table.md)

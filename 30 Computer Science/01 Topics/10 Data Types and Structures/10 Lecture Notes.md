@@ -2,7 +2,7 @@
 title: Data Types and Structures Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]]"
+parent: "[Data Types and Structures](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -270,8 +270,8 @@ The point to remember is that an ADT is *not* the same thing as its array implem
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]] takes the ADTs defined here and turns their operations into full algorithms (push, pop, enqueue, dequeue, traverse).
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] supplies the pseudocode notation and the tracing habits used throughout this note.
+- [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md) takes the ADTs defined here and turns their operations into full algorithms (push, pop, enqueue, dequeue, traverse).
+- [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) supplies the pseudocode notation and the tracing habits used throughout this note.
 
 ## Study Sequence
 

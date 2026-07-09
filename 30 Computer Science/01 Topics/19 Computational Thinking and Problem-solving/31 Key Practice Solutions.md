@@ -2,7 +2,7 @@
 title: Computational Thinking and Problem-solving Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]]"
+parent: "[Computational Thinking and Problem-solving](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -11,7 +11,7 @@ tags:
 
 # Computational Thinking and Problem-solving Key Practice Solutions
 
-Full solutions to the [[30 Key Practice Problems|Key Practice Problems]] for 9618 A Level section 19. Pseudocode follows the CAIE 9618 Pseudocode Guide, including the assignment arrow ←. Complexity is given in Big O notation with justification from the loop structure.
+Full solutions to the [Key Practice Problems](30%20Key%20Practice%20Problems.md) for 9618 A Level section 19. Pseudocode follows the CAIE 9618 Pseudocode Guide, including the assignment arrow ←. Complexity is given in Big O notation with justification from the loop structure.
 
 ## A. Searching
 

@@ -2,7 +2,7 @@
 title: Data Types and Structures Worked Examples
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]]"
+parent: "[Data Types and Structures](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming

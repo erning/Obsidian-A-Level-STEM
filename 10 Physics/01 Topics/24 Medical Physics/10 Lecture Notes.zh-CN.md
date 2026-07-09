@@ -2,7 +2,7 @@
 title: Medical Physics 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/24 Medical Physics/00 Overview|Medical Physics]]"
+parent: "[Medical Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -19,7 +19,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/medical-physics.svg]]
+![medical-physics](../../../assets/generated/physics/medical-physics.svg)
 
 这张图对应两个核心图像：超声依靠组织边界的反射成像，衰减公式描述波束强度在物质中怎样降低。
 
@@ -268,6 +268,6 @@ PET 题：
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]
+- [Waves](../07%20Waves/00%20Overview.md)
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md)
+- [Nuclear Physics](../23%20Nuclear%20Physics/00%20Overview.md)

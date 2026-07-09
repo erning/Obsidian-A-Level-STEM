@@ -45,17 +45,17 @@ Sequences and series describe patterns, approximations, and accumulated sums.
 
 ## Learning Materials
 
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/00 Overview|Proof and Mathematical Induction]]
-- [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]
+- [Proof and Mathematical Induction](../11%20Proof%20and%20Mathematical%20Induction/00%20Overview.md)
+- [Further Calculus and Differential Equations](../13%20Further%20Calculus%20and%20Differential%20Equations/00%20Overview.md)
 
 ## Common Traps
 

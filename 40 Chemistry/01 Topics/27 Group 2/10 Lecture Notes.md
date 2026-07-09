@@ -233,6 +233,6 @@ For solubility:
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/10 Group 2/00 Overview|AS Group 2]]
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|Chemical Energetics]]
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]]
+- [AS Group 2](../10%20Group%202/00%20Overview.md)
+- [Chemical Energetics](../23%20Chemical%20Energetics/00%20Overview.md)
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md)

@@ -2,7 +2,7 @@
 title: System Software Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]]"
+parent: "[System Software](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -11,7 +11,7 @@ tags:
 
 # System Software Key Practice Problems
 
-These problems cover the core skills of 9618 A Level Section 16: process states and scheduling, virtual memory, paging and segmentation, the stages of compilation, BNF, and RPN. Attempt them on paper before reading [[30 Computer Science/01 Topics/16 System Software/31 Key Practice Solutions|the solutions]]. For every trace question, draw the full table and compute the required average before checking. No answers are given here on purpose: the point is active recall and full written working.
+These problems cover the core skills of 9618 A Level Section 16: process states and scheduling, virtual memory, paging and segmentation, the stages of compilation, BNF, and RPN. Attempt them on paper before reading [the solutions](31%20Key%20Practice%20Solutions.md). For every trace question, draw the full table and compute the required average before checking. No answers are given here on purpose: the point is active recall and full written working.
 
 ## A. Process management
 
@@ -92,4 +92,4 @@ Draw the trace table showing the contents of the frames after each reference, an
 
 ---
 
-After finishing, check your working against [[30 Computer Science/01 Topics/16 System Software/31 Key Practice Solutions|the solutions]] and re-attempt any question you could not complete in full.
+After finishing, check your working against [the solutions](31%20Key%20Practice%20Solutions.md) and re-attempt any question you could not complete in full.

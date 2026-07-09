@@ -2,7 +2,7 @@
 title: Medical Physics Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/24 Medical Physics/00 Overview|Medical Physics]]"
+parent: "[Medical Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -80,5 +80,5 @@ risk or limitation.
 - [ ] I can describe PET from tracer injection to positron emission,
       annihilation, gamma detection, and image reconstruction.
 - [ ] I can compare the three methods by information gained and radiation risk.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-      and [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]].
+- [ ] I can connect this topic to [Waves](../07%20Waves/00%20Overview.md)
+      and [Nuclear Physics](../23%20Nuclear%20Physics/00%20Overview.md).

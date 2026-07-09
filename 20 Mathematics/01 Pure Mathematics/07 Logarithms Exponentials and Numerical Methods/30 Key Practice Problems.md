@@ -3,7 +3,7 @@ title: Logarithms, Exponentials and Numerical Methods Key Practice Problems
 subject: Mathematics
 syllabus:
   - 9709
-parent: "[[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]"
+parent: "[Logarithms, Exponentials and Numerical Methods](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure

@@ -2,7 +2,7 @@
 title: Measurement and Data Presentation Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]"
+parent: "[Measurement and Data Presentation](00%20Overview.md)"
 status: active
 tags:
   - physics/9702
@@ -26,7 +26,7 @@ The habit to practise on every measurement is:
 
 ## Visual guide
 
-![[assets/generated/physics/measurement-and-data-presentation.svg]]
+![measurement-and-data-presentation](../../../assets/generated/physics/measurement-and-data-presentation.svg)
 
 This guide highlights the three things a good practical record keeps visible: the uncertainty on each reading, the error bar that uncertainty produces on a graph, and the range of gradients that the error bars still allow.
 
@@ -288,6 +288,6 @@ After working through this note, you should be able to:
 
 ## Connections
 
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physical Quantities and Units]]
-- [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]
-- [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]
+- [Physical Quantities and Units](../../01%20Topics/01%20Physical%20Quantities%20and%20Units/00%20Overview.md)
+- [Experimental Design and Data Analysis](../Experimental%20Design%20and%20Data%20Analysis/00%20Overview.md)
+- [Math Tools and Formulae](../../04%20Reference/Math%20Tools%20and%20Formulae.md)

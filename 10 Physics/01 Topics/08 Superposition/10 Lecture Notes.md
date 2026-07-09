@@ -2,7 +2,7 @@
 title: Superposition Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]"
+parent: "[Superposition](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -14,7 +14,7 @@ tags:
 
 Superposition is the part of wave physics where one wave no longer acts alone. Two waves can pass through the same region at the same time, and the observed displacement is produced by both of them together. This single idea explains stationary waves, diffraction patterns, interference fringes, and diffraction gratings.
 
-This topic should feel like a continuation of [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]. Keep the wave model from that topic visible: displacement has a sign, phase tells you where a point is in its cycle, and wavelength gives the spatial repeat of the pattern.
+This topic should feel like a continuation of [Waves](../07%20Waves/00%20Overview.md). Keep the wave model from that topic visible: displacement has a sign, phase tells you where a point is in its cycle, and wavelength gives the spatial repeat of the pattern.
 
 ## Source Route
 
@@ -25,7 +25,7 @@ This topic should feel like a continuation of [[10 Physics/01 Topics/07 Waves/00
 
 ## Visual Guide
 
-![[assets/generated/physics/superposition.svg]]
+![superposition](../../../assets/generated/physics/superposition.svg)
 
 The visual guide is a reminder that superposition is displacement addition. A crest meeting a crest gives a larger crest. A crest meeting an equal trough gives zero displacement at that instant.
 
@@ -347,6 +347,6 @@ You should be able to answer these without looking back:
 
 ## Connections
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]] gives the language of wavelength, phase, amplitude, and intensity.
-- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]] helps with phase and sinusoidal motion.
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]] uses interference and diffraction as evidence for wave behaviour of particles and light.
+- [Waves](../07%20Waves/00%20Overview.md) gives the language of wavelength, phase, amplitude, and intensity.
+- [Oscillations](../17%20Oscillations/00%20Overview.md) helps with phase and sinusoidal motion.
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md) uses interference and diffraction as evidence for wave behaviour of particles and light.

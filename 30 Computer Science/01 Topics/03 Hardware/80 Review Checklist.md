@@ -2,7 +2,7 @@
 title: Hardware Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]]"
+parent: "[Hardware](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -50,7 +50,7 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Trace a control loop from physical quantity to sensor, ADC, computer decision, actuator, changed quantity, and feedback.
 - [ ] Explain why a smoke alarm that only warns is monitoring, while a system that changes the environment is control.
 - [ ] Trace a logic circuit row by row from inputs through intermediate gate outputs to final output.
-- [ ] Connect gates, RAM, ROM, and buses to [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]].
+- [ ] Connect gates, RAM, ROM, and buses to [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md).
 
 ## Common Errors to Avoid
 
@@ -73,6 +73,6 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can separate monitoring from control and explain the closed feedback loop in a control system.
 - [ ] I can write and check the six basic gate truth tables from their meanings.
 - [ ] I can move between statement, expression, circuit, and truth table in either direction.
-- [ ] I can explain how this topic prepares for [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]].
-- [ ] I can explain how logic circuits are extended in [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]].
-- [ ] I can connect binary values in hardware to [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]].
+- [ ] I can explain how this topic prepares for [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md).
+- [ ] I can explain how logic circuits are extended in [Hardware and Virtual Machines](../15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md).
+- [ ] I can connect binary values in hardware to [Information Representation](../01%20Information%20Representation/00%20Overview.md).

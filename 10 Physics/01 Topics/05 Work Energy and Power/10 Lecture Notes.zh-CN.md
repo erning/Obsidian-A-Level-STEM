@@ -2,7 +2,7 @@
 title: Work, Energy and Power 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]]"
+parent: "[Work, Energy and Power](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -23,7 +23,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/work-energy-and-power.svg]]
+![work-energy-and-power](../../../assets/generated/physics/work-energy-and-power.svg)
 
 这张图把力、位移、做功、能量转移和功率连起来。做能量题时，先确定初态、末态、系统边界和有用能量转移，不要一上来就套公式。
 
@@ -90,7 +90,7 @@ $$
 W = \text{area under the } F\text{-}s \text{ graph}
 $$
 
-这个思想在 [[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]] 里会很有用。弹簧或金属丝储存的弹性势能，来自力-伸长量图像下的面积。
+这个思想在 [Deformation of Solids](../06%20Deformation%20of%20Solids/00%20Overview.md) 里会很有用。弹簧或金属丝储存的弹性势能，来自力-伸长量图像下的面积。
 
 ## 4. 重力势能
 
@@ -328,7 +328,7 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/03 Dynamics/10 Lecture Notes|Dynamics]] 提供与能量方法互补的力和加速度路线。
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/10 Lecture Notes|Forces, Density and Pressure]] 引入了本节需要的力、距离和力的分量。
-- [[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]] 会把力-伸长量图像下面积解释为储存的弹性势能。
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]] 从数学力学角度继续处理同一组概念。
+- [Dynamics](../03%20Dynamics/10%20Lecture%20Notes.md) 提供与能量方法互补的力和加速度路线。
+- [Forces, Density and Pressure](../04%20Forces%20Density%20and%20Pressure/10%20Lecture%20Notes.md) 引入了本节需要的力、距离和力的分量。
+- [Deformation of Solids](../06%20Deformation%20of%20Solids/00%20Overview.md) 会把力-伸长量图像下面积解释为储存的弹性势能。
+- [Work, Energy, Power and Elasticity](../../../20%20Mathematics/02%20Mechanics/04%20Work%20Energy%20Power%20and%20Elasticity/00%20Overview.md) 从数学力学角度继续处理同一组概念。

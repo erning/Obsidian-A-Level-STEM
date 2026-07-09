@@ -14,10 +14,10 @@ This folder contains short lookup notes for recurring Chemistry 9701 notation, d
 
 ## Reference Notes
 
-- [[40 Chemistry/04 Reference/Chemical Formulae and Equations|Chemical Formulae and Equations]]
-- [[40 Chemistry/04 Reference/Organic Structures and Nomenclature|Organic Structures and Nomenclature]]
-- [[40 Chemistry/04 Reference/Data and Periodic Table|Data and Periodic Table]]
-- [[40 Chemistry/04 Reference/Mathematical Tools for Chemistry|Mathematical Tools for Chemistry]]
+- [Chemical Formulae and Equations](Chemical%20Formulae%20and%20Equations.md)
+- [Organic Structures and Nomenclature](Organic%20Structures%20and%20Nomenclature.md)
+- [Data and Periodic Table](Data%20and%20Periodic%20Table.md)
+- [Mathematical Tools for Chemistry](Mathematical%20Tools%20for%20Chemistry.md)
 
 ## Source Scope
 

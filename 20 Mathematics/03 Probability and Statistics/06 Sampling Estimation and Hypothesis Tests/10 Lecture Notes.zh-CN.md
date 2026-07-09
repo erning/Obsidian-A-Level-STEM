@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]"
+parent: "[Sampling, Estimation and Hypothesis Tests](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -25,8 +25,8 @@ tags:
 
 ## 关联内容
 
-- [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]
-- [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/00 Overview|Chi-Squared, Non-Parametric Tests and PGF]]
+- [Normal and Poisson Distributions](../04%20Normal%20and%20Poisson%20Distributions/00%20Overview.md)
+- [Chi-Squared, Non-Parametric Tests and PGF](../07%20Chi%20Squared%20Nonparametric%20and%20PGF/00%20Overview.md)
 
 ## 学习顺序
 
@@ -39,7 +39,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/sampling-estimation-and-hypothesis-tests.svg]]
+![sampling-estimation-and-hypothesis-tests](../../../assets/generated/mathematics/sampling-estimation-and-hypothesis-tests.svg)
 
 这张图用抽样分布连接置信区间和拒绝域。置信区间看“哪些参数值仍然合理”，拒绝域看“样本结果是否太极端”。
 

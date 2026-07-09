@@ -2,7 +2,7 @@
 title: Oscillations Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]]"
+parent: "[Oscillations](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -27,7 +27,7 @@ The topic is best learned through three representations at the same time: the ph
 
 ## Visual Guide
 
-![[assets/generated/physics/oscillations.svg]]
+![oscillations](../../../assets/generated/physics/oscillations.svg)
 
 Figure: SHM connects displacement, velocity, acceleration, energy transfer, damping, and resonance.
 
@@ -300,5 +300,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-- [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]
+- [Waves](../07%20Waves/00%20Overview.md)
+- [Further Calculus and Differential Equations](../../../20%20Mathematics/01%20Pure%20Mathematics/13%20Further%20Calculus%20and%20Differential%20Equations/00%20Overview.md)

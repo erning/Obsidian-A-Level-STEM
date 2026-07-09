@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]"
+parent: "[Sequences, Series and Binomial Expansions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure

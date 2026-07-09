@@ -16,7 +16,7 @@ No Chemistry 9701 coursebook has been verified in this vault yet. The available 
 
 ## Current Use
 
-- Use [[40 Chemistry/01 Topics/00 Overview|the topic index]] as the syllabus-order route for now.
+- Use [the topic index](../01%20Topics/00%20Overview.md) as the syllabus-order route for now.
 - Do not assign chapter numbers until a specific Chemistry 9701 coursebook edition has been added and checked.
 - When a coursebook is verified, map each syllabus topic to chapter sections and examples without replacing the syllabus order as the main note structure.
 

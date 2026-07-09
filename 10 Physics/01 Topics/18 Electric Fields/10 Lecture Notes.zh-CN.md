@@ -2,7 +2,7 @@
 title: Electric Fields 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]]"
+parent: "[Electric Fields](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -19,7 +19,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/electric-fields.svg]]
+![electric-fields](../../../assets/generated/physics/electric-fields.svg)
 
 这张图用场线表示电场方向和强弱，用等势线表示电势分布。复习时要同时问：正电荷受力往哪边？电势往哪边降低？场线和等势线是什么关系？
 
@@ -297,5 +297,5 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]]
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]
+- [Gravitational Fields](../13%20Gravitational%20Fields/00%20Overview.md)
+- [Capacitance](../19%20Capacitance/00%20Overview.md)

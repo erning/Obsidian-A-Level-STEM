@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]"
+parent: "[Normal and Poisson Distributions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -27,8 +27,8 @@ tags:
 
 ## 关联内容
 
-- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]
-- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
+- [Discrete Random Variables](../03%20Discrete%20Random%20Variables/00%20Overview.md)
+- [Sampling, Estimation and Hypothesis Tests](../06%20Sampling%20Estimation%20and%20Hypothesis%20Tests/00%20Overview.md)
 
 ## 学习顺序
 
@@ -40,7 +40,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/normal-and-poisson-distributions.svg]]
+![normal-and-poisson-distributions](../../../assets/generated/mathematics/normal-and-poisson-distributions.svg)
 
 这张图比较连续正态面积和离散泊松计数。正态图像下的面积是概率；泊松分布的每个整数点都有一个概率。
 

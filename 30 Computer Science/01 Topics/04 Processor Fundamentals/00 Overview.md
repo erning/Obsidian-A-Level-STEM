@@ -49,19 +49,19 @@ The processor turns the stored-program concept into action. This topic covers CP
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] supplies the gates, memory technologies, ports, and buses that this topic turns into CPU execution.
-- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] and [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] support the binary, hexadecimal, signed-value, and bit-pattern work used in machine code, shifts, and masks.
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]] extends this topic into RISC/CISC design, parallel architectures, and virtual machines.
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] revisits low-level execution ideas when programs work close to memory, data movement, and control flow.
+- [Hardware](../03%20Hardware/00%20Overview.md) supplies the gates, memory technologies, ports, and buses that this topic turns into CPU execution.
+- [Information Representation](../01%20Information%20Representation/00%20Overview.md) and [Data Representation](../13%20Data%20Representation/00%20Overview.md) support the binary, hexadecimal, signed-value, and bit-pattern work used in machine code, shifts, and masks.
+- [Hardware and Virtual Machines](../15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md) extends this topic into RISC/CISC design, parallel architectures, and virtual machines.
+- [Further Programming](../20%20Further%20Programming/00%20Overview.md) revisits low-level execution ideas when programs work close to memory, data movement, and control flow.
 
 ## Common Traps
 

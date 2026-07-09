@@ -47,18 +47,18 @@ Computers gain value when they are connected. This topic covers how networks are
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/02 Communication/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/02 Communication/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/02 Communication/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/02 Communication/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/02 Communication/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/02 Communication/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]] extends these foundations into protocol stacks, application protocols, circuit switching, packet switching, and router behaviour across the internet.
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] uses the network and internet context here to explain malware, hackers, phishing, pharming, and data-transfer integrity checks.
-- [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] builds on the same client-server and internet ideas when explaining SSL/TLS, certificates, and encrypted communication.
+- [Communication and Internet Technologies](../14%20Communication%20and%20Internet%20Technologies/00%20Overview.md) extends these foundations into protocol stacks, application protocols, circuit switching, packet switching, and router behaviour across the internet.
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) uses the network and internet context here to explain malware, hackers, phishing, pharming, and data-transfer integrity checks.
+- [Security](../17%20Security/00%20Overview.md) builds on the same client-server and internet ideas when explaining SSL/TLS, certificates, and encrypted communication.
 
 ## Common Traps
 

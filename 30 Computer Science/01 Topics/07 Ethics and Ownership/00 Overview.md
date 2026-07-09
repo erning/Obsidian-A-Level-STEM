@@ -32,7 +32,7 @@ Computing happens in a society. This topic covers the professional and legal res
 
 - Compare licences on two axes: cost and freedom to modify.
 - Use case studies to reason about ethical impact rather than memorise rules.
-- Note that AI appears here as impact and applications; the technical content is in [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|18 Artificial Intelligence]].
+- Note that AI appears here as impact and applications; the technical content is in [18 Artificial Intelligence](../18%20Artificial%20Intelligence/00%20Overview.md).
 
 ## Practice Directions
 
@@ -42,19 +42,19 @@ Computing happens in a society. This topic covers the professional and legal res
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] gives the practical measures, access controls, and privacy concepts that an ethical computing professional must apply.
-- [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] extends that duty into trust mechanisms such as digital certificates, signatures, and protected client-server communication.
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]] gives the technical basis for the AI systems whose social, economic, and environmental impact is discussed here.
-- [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] connects ethical reasoning to system design, testing, maintenance, and responsibility for released software.
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) gives the practical measures, access controls, and privacy concepts that an ethical computing professional must apply.
+- [Security](../17%20Security/00%20Overview.md) extends that duty into trust mechanisms such as digital certificates, signatures, and protected client-server communication.
+- [Artificial Intelligence](../18%20Artificial%20Intelligence/00%20Overview.md) gives the technical basis for the AI systems whose social, economic, and environmental impact is discussed here.
+- [Software Development](../12%20Software%20Development/00%20Overview.md) connects ethical reasoning to system design, testing, maintenance, and responsibility for released software.
 
 ## Common Traps
 

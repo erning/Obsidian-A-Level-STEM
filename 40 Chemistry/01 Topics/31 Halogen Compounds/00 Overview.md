@@ -41,19 +41,19 @@ A Level halogen compounds compare halogenoarenes with halogenoalkanes. The centr
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/31 Halogen Compounds/10 Lecture Notes|Lecture Notes]] explain halogenoarene formation and the reactivity contrast with halogenoalkanes.
-- [[40 Chemistry/01 Topics/31 Halogen Compounds/10 Lecture Notes.zh-CN|中文讲义]] gives a concise Chinese companion explanation of the same comparison.
-- [[40 Chemistry/01 Topics/31 Halogen Compounds/20 Worked Examples|Worked Examples]] model product prediction and bonding-based reactivity explanations.
-- [[40 Chemistry/01 Topics/31 Halogen Compounds/30 Key Practice Problems|Key Practice Problems]] provide active recall and explanation prompts without answers.
-- [[40 Chemistry/01 Topics/31 Halogen Compounds/31 Key Practice Solutions|Key Practice Solutions]] mirror the practice set with working and checks.
-- [[40 Chemistry/01 Topics/31 Halogen Compounds/80 Review Checklist|Review Checklist]] is the final self-test before using halogen compounds in synthesis.
+- [Lecture Notes](10%20Lecture%20Notes.md) explain halogenoarene formation and the reactivity contrast with halogenoalkanes.
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md) gives a concise Chinese companion explanation of the same comparison.
+- [Worked Examples](20%20Worked%20Examples.md) model product prediction and bonding-based reactivity explanations.
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md) provide active recall and explanation prompts without answers.
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md) mirror the practice set with working and checks.
+- [Review Checklist](80%20Review%20Checklist.md) is the final self-test before using halogen compounds in synthesis.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|AS Halogen Compounds]] supplies halogenoalkane substitution, elimination, and mechanism foundations.
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/00 Overview|Hydrocarbons]] supplies the arene halogenation route.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]] later compares hydrolysis of acyl chlorides, alkyl chlorides, and aryl chlorides.
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/00 Overview|Organic Synthesis]] uses halogen compounds as route-building intermediates.
+- [AS Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md) supplies halogenoalkane substitution, elimination, and mechanism foundations.
+- [Hydrocarbons](../30%20Hydrocarbons/00%20Overview.md) supplies the arene halogenation route.
+- [Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) later compares hydrolysis of acyl chlorides, alkyl chlorides, and aryl chlorides.
+- [Organic Synthesis](../36%20Organic%20Synthesis/00%20Overview.md) uses halogen compounds as route-building intermediates.
 
 ## Common Traps
 

@@ -127,6 +127,6 @@ When faced with a new A Level organic molecule:
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]]
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/00 Overview|A Level Hydrocarbons]]
-- [[40 Chemistry/01 Topics/04 Reference/Organic Structures and Nomenclature/00 Overview|Organic Structures and Nomenclature]]
+- [An Introduction to AS Level Organic Chemistry](../13%20An%20Introduction%20to%20AS%20Level%20Organic%20Chemistry/00%20Overview.md)
+- [A Level Hydrocarbons](../30%20Hydrocarbons/00%20Overview.md)
+- [Organic Structures and Nomenclature](../../04%20Reference/Organic%20Structures%20and%20Nomenclature.md)

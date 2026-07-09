@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]"
+parent: "[Differentiation](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -27,7 +27,7 @@ The central question is always: what is changing with respect to what? Write the
 
 ## Visual Guide
 
-![[assets/generated/mathematics/differentiation.svg]]
+![differentiation](../../../assets/generated/mathematics/differentiation.svg)
 
 Figure: The diagram shows a tangent gradient becoming a derivative function. The point is not only to calculate $f'(x)$, but to understand what $f'(x)$ says about the graph of $f$.
 
@@ -354,5 +354,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
+- [Integration](../06%20Integration/00%20Overview.md)
+- [Kinematics and Newtonian Motion](../../02%20Mechanics/02%20Kinematics%20and%20Newtonian%20Motion/00%20Overview.md)

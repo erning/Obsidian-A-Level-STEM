@@ -2,7 +2,7 @@
 title: Information Representation Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]]"
+parent: "[Information Representation](00%20Overview.md)"
 status: active
 tags:
   - computerscience/foundations
@@ -11,7 +11,7 @@ tags:
 
 # Information Representation Key Practice Solutions
 
-This note gives worked solutions for [[30 Computer Science/01 Topics/01 Information Representation/30 Key Practice Problems|Information Representation Key Practice Problems]]. Each solution shows the full working so you can find the step where your reasoning diverged, not just compare final answers.
+This note gives worked solutions for [Information Representation Key Practice Problems](30%20Key%20Practice%20Problems.md). Each solution shows the full working so you can find the step where your reasoning diverged, not just compare final answers.
 
 ## A. Number systems
 

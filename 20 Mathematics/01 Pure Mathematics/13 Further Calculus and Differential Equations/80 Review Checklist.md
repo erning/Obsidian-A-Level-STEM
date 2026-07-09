@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]"
+parent: "[Further Calculus and Differential Equations](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -13,7 +13,7 @@ tags:
 
 # Further Calculus and Differential Equations Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/10 Lecture Notes|Further Calculus and Differential Equations Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Further Calculus and Differential Equations Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

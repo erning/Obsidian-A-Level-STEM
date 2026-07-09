@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]"
+parent: "[Logarithms, Exponentials and Numerical Methods](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -23,7 +23,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/logarithms-exponentials-and-numerical-methods.svg]]
+![logarithms-exponentials-and-numerical-methods](../../../assets/generated/mathematics/logarithms-exponentials-and-numerical-methods.svg)
 
 这张图用来快速理解“对数、指数函数与数值方法”：把指数、对数互为反函数和牛顿迭代放在一起看。
 
@@ -299,5 +299,5 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Physics Capacitance]]：指数衰减模型会用于电容放电。
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Physics Nuclear Physics]]：半衰期和指数衰减会用于放射性衰变模型。
+- [Physics Capacitance](../../../10%20Physics/01%20Topics/19%20Capacitance/00%20Overview.md)：指数衰减模型会用于电容放电。
+- [Physics Nuclear Physics](../../../10%20Physics/01%20Topics/23%20Nuclear%20Physics/00%20Overview.md)：半衰期和指数衰减会用于放射性衰变模型。

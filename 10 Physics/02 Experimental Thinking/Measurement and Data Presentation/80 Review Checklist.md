@@ -2,7 +2,7 @@
 title: Measurement and Data Presentation Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]"
+parent: "[Measurement and Data Presentation](00%20Overview.md)"
 status: active
 tags:
   - physics/9702
@@ -83,5 +83,5 @@ and conclusion are all visible.
 - [ ] I can find a gradient, intercept, and their uncertainties from graph
       work.
 - [ ] I can linearise power-law and exponential relationships.
-- [ ] I can connect this topic to [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]
-      and [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]].
+- [ ] I can connect this topic to [Experimental Design and Data Analysis](../Experimental%20Design%20and%20Data%20Analysis/00%20Overview.md)
+      and [Math Tools and Formulae](../../04%20Reference/Math%20Tools%20and%20Formulae.md).

@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]]"
+parent: "[Forces and Equilibrium](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Forces and Equilibrium Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/30 Key Practice Problems|Forces and Equilibrium Key Practice Problems]]. Use it to check the force diagram, equations, signs, units, and physical interpretation. Take $g=9.8\ \mathrm{m\ s^{-2}}$ where a mass is given.
+This note gives worked solutions for [Forces and Equilibrium Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check the force diagram, equations, signs, units, and physical interpretation. Take $g=9.8\ \mathrm{m\ s^{-2}}$ where a mass is given.
 
 ## A. Particle Equilibrium and Components
 

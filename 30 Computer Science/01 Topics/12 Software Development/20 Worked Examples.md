@@ -2,7 +2,7 @@
 title: Software Development Worked Examples
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]]"
+parent: "[Software Development](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming

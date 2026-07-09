@@ -114,7 +114,7 @@ The exact product positions depend on the aromatic system, but the reasoning sta
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|AS Hydroxy Compounds]]
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|A Level Carboxylic Acids and Derivatives]]
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/00 Overview|A Level Nitrogen Compounds]]
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/00 Overview|An Introduction to A Level Organic Chemistry]]
+- [AS Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md)
+- [A Level Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md)
+- [A Level Nitrogen Compounds](../34%20Nitrogen%20Compounds/00%20Overview.md)
+- [An Introduction to A Level Organic Chemistry](../29%20An%20Introduction%20to%20A%20Level%20Organic%20Chemistry/00%20Overview.md)

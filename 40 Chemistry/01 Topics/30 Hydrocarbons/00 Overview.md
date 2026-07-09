@@ -44,19 +44,19 @@ A Level hydrocarbons focuses on arenes. The topic explains why benzene and methy
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/10 Lecture Notes|Lecture Notes]] cover arene bonding, electrophilic substitution, directing effects, side-chain reactions, and hydrogenation.
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/10 Lecture Notes.zh-CN|中文讲义]] gives a concise Chinese companion explanation of the same arene chemistry.
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/20 Worked Examples|Worked Examples]] model mechanisms, product prediction, conditions, and short synthetic decisions.
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/30 Key Practice Problems|Key Practice Problems]] provide active recall and mechanism practice without answers.
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/31 Key Practice Solutions|Key Practice Solutions]] mirror the practice set with working and checks.
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/80 Review Checklist|Review Checklist]] is the final self-test before moving into halogen compounds and other aromatic reactions.
+- [Lecture Notes](10%20Lecture%20Notes.md) cover arene bonding, electrophilic substitution, directing effects, side-chain reactions, and hydrogenation.
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md) gives a concise Chinese companion explanation of the same arene chemistry.
+- [Worked Examples](20%20Worked%20Examples.md) model mechanisms, product prediction, conditions, and short synthetic decisions.
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md) provide active recall and mechanism practice without answers.
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md) mirror the practice set with working and checks.
+- [Review Checklist](80%20Review%20Checklist.md) is the final self-test before moving into halogen compounds and other aromatic reactions.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|AS Hydrocarbons]] provides alkane and alkene reaction patterns for comparison.
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/00 Overview|An Introduction to A Level Organic Chemistry]] supplies aromatic bonding and electrophilic substitution language.
-- [[40 Chemistry/01 Topics/31 Halogen Compounds/00 Overview|Halogen Compounds]] develops halogenoarenes from arene reactions.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]] uses side-chain oxidation to form benzoic acid.
+- [AS Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md) provides alkane and alkene reaction patterns for comparison.
+- [An Introduction to A Level Organic Chemistry](../29%20An%20Introduction%20to%20A%20Level%20Organic%20Chemistry/00%20Overview.md) supplies aromatic bonding and electrophilic substitution language.
+- [Halogen Compounds](../31%20Halogen%20Compounds/00%20Overview.md) develops halogenoarenes from arene reactions.
+- [Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) uses side-chain oxidation to form benzoic acid.
 
 ## Common Traps
 

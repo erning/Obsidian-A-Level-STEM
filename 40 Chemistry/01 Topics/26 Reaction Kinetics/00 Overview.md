@@ -46,20 +46,20 @@ A Level reaction kinetics explains rate data with rate equations, orders of reac
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/26 Reaction Kinetics/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/26 Reaction Kinetics/10 Lecture Notes.zh-CN|Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/26 Reaction Kinetics/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/26 Reaction Kinetics/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/26 Reaction Kinetics/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/26 Reaction Kinetics/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 - Scope is checked against the local CAIE Chemistry 9701 syllabus sections 26.1-26.2. No Chemistry coursebook alignment is claimed.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/00 Overview|AS Reaction Kinetics]] gives the collision theory, activation energy, and basic rate measurement foundation.
-- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|Equilibria]] helps separate rate from final position of equilibrium.
-- [[40 Chemistry/01 Topics/28 Chemistry of Transition Elements/00 Overview|Chemistry of Transition Elements]] extends catalysis through transition element chemistry.
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/00 Overview|Organic Synthesis]] uses mechanism thinking to select plausible routes.
+- [AS Reaction Kinetics](../08%20Reaction%20Kinetics/00%20Overview.md) gives the collision theory, activation energy, and basic rate measurement foundation.
+- [Equilibria](../25%20Equilibria/00%20Overview.md) helps separate rate from final position of equilibrium.
+- [Chemistry of Transition Elements](../28%20Chemistry%20of%20Transition%20Elements/00%20Overview.md) extends catalysis through transition element chemistry.
+- [Organic Synthesis](../36%20Organic%20Synthesis/00%20Overview.md) uses mechanism thinking to select plausible routes.
 
 ## Common Traps
 

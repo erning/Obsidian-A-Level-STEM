@@ -2,7 +2,7 @@
 title: Quantum Physics Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]"
+parent: "[Quantum Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -26,7 +26,7 @@ Quantum physics in this course is not a complete theory of the microscopic world
 
 ## Visual Guide
 
-![[assets/generated/physics/quantum-physics.svg]]
+![quantum-physics](../../../assets/generated/physics/quantum-physics.svg)
 
 Figure: Photon energy, threshold frequency, and the work function provide the basic model for the photoelectric effect.
 
@@ -277,7 +277,7 @@ You have the topic if you can do these without notes:
 
 ## Connections
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-- [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]
-- [[10 Physics/01 Topics/11 Particle Physics/00 Overview|Particle Physics]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]
+- [Waves](../07%20Waves/00%20Overview.md)
+- [Superposition](../08%20Superposition/00%20Overview.md)
+- [Particle Physics](../11%20Particle%20Physics/00%20Overview.md)
+- [Nuclear Physics](../23%20Nuclear%20Physics/00%20Overview.md)

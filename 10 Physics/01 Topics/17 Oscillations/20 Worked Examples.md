@@ -2,7 +2,7 @@
 title: Oscillations Worked Examples
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]]"
+parent: "[Oscillations](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

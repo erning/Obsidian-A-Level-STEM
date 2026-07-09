@@ -2,7 +2,7 @@
 title: Physical Quantities and Units Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physical Quantities and Units]]"
+parent: "[Physical Quantities and Units](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -12,7 +12,7 @@ tags:
 
 # Physical Quantities and Units Review Checklist
 
-Use this after working through [[10 Physics/01 Topics/01 Physical Quantities and Units/10 Lecture Notes|Lecture Notes]], [[10 Physics/01 Topics/01 Physical Quantities and Units/20 Worked Examples|Worked Examples]], and [[10 Physics/01 Topics/01 Physical Quantities and Units/30 Key Practice Problems|Key Practice Problems]].
+Use this after working through [Lecture Notes](10%20Lecture%20Notes.md), [Worked Examples](20%20Worked%20Examples.md), and [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## Core Ideas
 
@@ -52,14 +52,14 @@ Use this after working through [[10 Physics/01 Topics/01 Physical Quantities and
 
 ## Ready to Connect
 
-You are ready to connect this topic to [[10 Physics/01 Topics/02 Kinematics/00 Overview|Kinematics]] when you can:
+You are ready to connect this topic to [Kinematics](../02%20Kinematics/00%20Overview.md) when you can:
 
 - convert all distances, times, velocities, and accelerations to consistent SI units;
 - tell the difference between distance and displacement, and between speed and velocity;
 - use vector components to describe motion in perpendicular directions;
 - check the unit of each term in a motion equation.
 
-You are ready to connect this topic to [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]] when you can:
+You are ready to connect this topic to [Measurement and Data Presentation](../../02%20Experimental%20Thinking/Measurement%20and%20Data%20Presentation/00%20Overview.md) when you can:
 
 - choose a sensible uncertainty for a single reading or repeated readings;
 - recognise whether a measurement problem is random or systematic;

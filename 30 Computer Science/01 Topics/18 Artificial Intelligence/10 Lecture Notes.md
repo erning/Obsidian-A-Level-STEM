@@ -2,7 +2,7 @@
 title: Artificial Intelligence Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]]"
+parent: "[Artificial Intelligence](00%20Overview.md)"
 status: active
 tags:
   - computerscience/advanced
@@ -346,10 +346,10 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]]
+- [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md)
   treats the **graph as an abstract data type** - the structure this topic
   searches is the same one you implement there.
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]]
+- [Ethics and Ownership](../07%20Ethics%20and%20Ownership/00%20Overview.md)
   is where the **impact and applications** of these AI methods are examined;
   this topic is the technical basis that underpins them.
 

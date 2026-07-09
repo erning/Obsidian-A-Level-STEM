@@ -98,7 +98,7 @@ syllabus 列出了与具体风险对应的预防措施：
 
 ## 连接
 
-- [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/10 Lecture Notes|Measurement, Observation and Calculation]] 处理精度、表格、图与有效数字。
-- [[40 Chemistry/02 Practical Skills/Planning Analysis and Evaluation/10 Lecture Notes|Planning, Analysis and Evaluation]] 把设计扩展为完整的 Paper 5 方案。
-- [[40 Chemistry/02 Practical Skills/Qualitative Analysis/10 Lecture Notes|Qualitative Analysis]] 讲基于观察的鉴定。
-- [[40 Chemistry/04 Reference/Mathematical Tools for Chemistry|Mathematical Tools for Chemistry]] 提供计算工具。
+- [Measurement, Observation and Calculation](../Measurement%20Observation%20and%20Calculation/10%20Lecture%20Notes.md) 处理精度、表格、图与有效数字。
+- [Planning, Analysis and Evaluation](../Planning%20Analysis%20and%20Evaluation/10%20Lecture%20Notes.md) 把设计扩展为完整的 Paper 5 方案。
+- [Qualitative Analysis](../Qualitative%20Analysis/10%20Lecture%20Notes.md) 讲基于观察的鉴定。
+- [Mathematical Tools for Chemistry](../../04%20Reference/Mathematical%20Tools%20for%20Chemistry.md) 提供计算工具。

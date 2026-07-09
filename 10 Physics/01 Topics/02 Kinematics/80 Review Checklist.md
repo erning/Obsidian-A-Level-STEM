@@ -2,7 +2,7 @@
 title: Kinematics Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/02 Kinematics/00 Overview|Kinematics]]"
+parent: "[Kinematics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -12,7 +12,7 @@ tags:
 
 # Kinematics Review Checklist
 
-Use this after working through [[10 Physics/01 Topics/02 Kinematics/10 Lecture Notes|Lecture Notes]], [[10 Physics/01 Topics/02 Kinematics/20 Worked Examples|Worked Examples]], and [[10 Physics/01 Topics/02 Kinematics/30 Key Practice Problems|Key Practice Problems]].
+Use this after working through [Lecture Notes](10%20Lecture%20Notes.md), [Worked Examples](20%20Worked%20Examples.md), and [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## Core Ideas
 
@@ -64,14 +64,14 @@ Use this after working through [[10 Physics/01 Topics/02 Kinematics/10 Lecture N
 
 ## Ready to Connect
 
-You are ready to connect this topic to [[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]] when you can:
+You are ready to connect this topic to [Dynamics](../03%20Dynamics/00%20Overview.md) when you can:
 
 - describe a motion fully before asking what force caused it;
 - connect acceleration direction with the later idea of resultant force direction;
 - interpret velocity-time graph gradients as physical accelerations;
 - keep signs and directions explicit in one-dimensional motion.
 
-You are ready to connect it to [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]] when you can:
+You are ready to connect it to [Kinematics and Newtonian Motion](../../../20%20Mathematics/02%20Mechanics/02%20Kinematics%20and%20Newtonian%20Motion/00%20Overview.md) when you can:
 
 - move fluently between graph, equation, and vector-component descriptions;
 - solve multi-step constant-acceleration problems without changing sign convention;

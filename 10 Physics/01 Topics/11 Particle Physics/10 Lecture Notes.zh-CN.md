@@ -2,7 +2,7 @@
 title: Particle Physics 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/11 Particle Physics/00 Overview|Particle Physics]]"
+parent: "[Particle Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -26,7 +26,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/particle-physics.svg]]
+![particle-physics](../../../assets/generated/physics/particle-physics.svg)
 
 这张图是分类地图。用它把层级分清：原子包含原子核和电子；原子核包含质子和中子；质子和中子属于强子，由夸克组成。
 
@@ -473,6 +473,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]] 会继续使用光子和微观粒子行为。
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]] 会进一步研究衰变、结合能、质量亏损和核反应。
-- [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]] 能解释带电粒子在磁场中的偏转。
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md) 会继续使用光子和微观粒子行为。
+- [Nuclear Physics](../23%20Nuclear%20Physics/00%20Overview.md) 会进一步研究衰变、结合能、质量亏损和核反应。
+- [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md) 能解释带电粒子在磁场中的偏转。

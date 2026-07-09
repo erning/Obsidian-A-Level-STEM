@@ -2,7 +2,7 @@
 title: System Software Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]]"
+parent: "[System Software](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -52,7 +52,7 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Trace source code through tokens, parse tree, generated code, and optimised code.
 - [ ] Explain why BNF can express the grammar used by syntax analysis.
 - [ ] Trace an RPN expression by pushing operands and popping operands only when an operator is read.
-- [ ] Connect process switching to interrupts and registers in [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]].
+- [ ] Connect process switching to interrupts and registers in [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md).
 
 ## Common Errors to Avoid
 
@@ -80,5 +80,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can name each compilation stage, say what it consumes and produces, and link syntax analysis to grammar.
 - [ ] I can write simple BNF rules and check whether a string matches them.
 - [ ] I can convert and evaluate RPN expressions using a stack without adding hidden precedence rules.
-- [ ] I can explain how this topic extends [[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]].
-- [ ] I can connect scheduling and interrupts to [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] and virtualisation to [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]].
+- [ ] I can explain how this topic extends [System Software](../05%20System%20Software/00%20Overview.md).
+- [ ] I can connect scheduling and interrupts to [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) and virtualisation to [Hardware and Virtual Machines](../15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md).

@@ -46,17 +46,17 @@ D.C. circuit analysis is conservation of charge and conservation of energy writt
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/10 DC Circuits/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/10 DC Circuits/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/10 DC Circuits/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/10 DC Circuits/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/10 DC Circuits/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/10 DC Circuits/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]]
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]
+- [Electricity](../09%20Electricity/00%20Overview.md)
+- [Capacitance](../19%20Capacitance/00%20Overview.md)
 
 ## Common Traps
 

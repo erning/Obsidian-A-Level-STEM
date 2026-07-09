@@ -44,16 +44,16 @@ Momentum and impulse handle interactions where forces act over time, especially 
 
 ## Learning Materials
 
-- [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Physics Dynamics]]
+- [Physics Dynamics](../../../10%20Physics/01%20Topics/03%20Dynamics/00%20Overview.md)
 
 ## Common Traps
 

@@ -13,7 +13,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 
 ## AS Level
 
-### [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|1 Information Representation]]
+### [1 Information Representation](../01%20Topics/01%20Information%20Representation/00%20Overview.md)
 
 - [ ] Binary prefixes (kibi/mebi/gibi/tebi) versus decimal prefixes (kilo/mega/giga/tera).
 - [ ] Binary, denary, hexadecimal, BCD, one's and two's complement representations.
@@ -25,7 +25,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Sound: sampling, sampling rate, sampling resolution, and analogue-to-digital conversion.
 - [ ] Lossy and lossless compression, including run-length encoding.
 
-### [[30 Computer Science/01 Topics/02 Communication/00 Overview|2 Communication]]
+### [2 Communication](../01%20Topics/02%20Communication/00%20Overview.md)
 
 - [ ] Purpose and benefits of networking; LAN and WAN characteristics.
 - [ ] Client-server and peer-to-peer models; thin-client and thick-client.
@@ -39,7 +39,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] IP addressing: IPv4 and IPv6, subnetting, public/private and static/dynamic addresses.
 - [ ] URL structure and the role of DNS.
 
-### [[30 Computer Science/01 Topics/03 Hardware/00 Overview|3 Hardware]]
+### [3 Hardware](../01%20Topics/03%20Hardware/00%20Overview.md)
 
 - [ ] Need for input, output, primary memory, and secondary/removable storage.
 - [ ] Embedded systems: benefits and drawbacks.
@@ -49,7 +49,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] PROM, EPROM, and EEPROM.
 - [ ] Monitoring and control systems: sensors, actuators, and feedback.
 
-### [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|4 Processor Fundamentals]]
+### [4 Processor Fundamentals](../01%20Topics/04%20Processor%20Fundamentals/00%20Overview.md)
 
 - [ ] Von Neumann model and the stored-program concept.
 - [ ] Registers: PC, MDR, MAR, ACC, IX, CIR, Status Register; general versus special purpose.
@@ -62,7 +62,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Tracing assembly language; instruction groups and addressing modes (immediate, direct, indirect, indexed, relative).
 - [ ] Bit manipulation: logical, arithmetic, and cyclic shifts; bit masking.
 
-### [[30 Computer Science/01 Topics/05 System Software/00 Overview|5 System Software]]
+### [5 System Software](../01%20Topics/05%20System%20Software/00%20Overview.md)
 
 - [ ] Purpose of an operating system; memory, file, security, hardware, and process management.
 - [ ] Utility software: disk formatter, virus checker, defragmentation, disk repair, compression, backup.
@@ -71,7 +71,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Partial compilation and partial interpretation (Java console mode).
 - [ ] IDE features: coding prompts, dynamic syntax checks, prettyprint, debugging tools.
 
-### [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|6 Security, Privacy and Data Integrity]]
+### [6 Security, Privacy and Data Integrity](../01%20Topics/06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md)
 
 - [ ] Differences between security, privacy, and integrity.
 - [ ] Security measures: user accounts, passwords, authentication (digital signatures, biometrics), firewall, anti-virus, anti-spyware, encryption.
@@ -79,7 +79,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Data validation: range, format, length, presence, existence, limit, check digit.
 - [ ] Data verification: visual check and double entry (data entry); parity check and checksum (data transfer).
 
-### [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|7 Ethics and Ownership]]
+### [7 Ethics and Ownership](../01%20Topics/07%20Ethics%20and%20Ownership/00%20Overview.md)
 
 - [ ] Need for ethics as a computing professional; professional bodies (BCS, IEEE).
 - [ ] Impact of acting ethically or unethically in a given situation.
@@ -87,7 +87,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Software licences: Free Software Foundation, Open Source Initiative, shareware, commercial.
 - [ ] Artificial Intelligence: social, economic, and environmental impact, and applications.
 
-### [[30 Computer Science/01 Topics/08 Databases/00 Overview|8 Databases]]
+### [8 Databases](../01%20Topics/08%20Databases/00%20Overview.md)
 
 - [ ] Limitations of a file-based approach; relational database features.
 - [ ] Relational terminology: entity, table, record, field, tuple, attribute, primary key, candidate key, secondary key, foreign key, relationships, referential integrity, indexing.
@@ -98,7 +98,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] DDL: CREATE DATABASE, CREATE TABLE, ALTER TABLE, PRIMARY KEY, FOREIGN KEY.
 - [ ] DML: SELECT ... FROM, WHERE, ORDER BY, GROUP BY, INNER JOIN, SUM, COUNT, AVG, INSERT INTO, DELETE FROM, UPDATE.
 
-### [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|9 Algorithm Design and Problem-solving]]
+### [9 Algorithm Design and Problem-solving](../01%20Topics/09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md)
 
 - [ ] Abstraction: purpose, benefits, and producing an abstract model.
 - [ ] Decomposition into sub-problems and modules.
@@ -108,7 +108,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Documenting algorithms: structured English, flowcharts, pseudocode.
 - [ ] Stepwise refinement and logic statements.
 
-### [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|10 Data Types and Structures]]
+### [10 Data Types and Structures](../01%20Topics/10%20Data%20Types%20and%20Structures/00%20Overview.md)
 
 - [ ] Data types: INTEGER, REAL, CHAR, STRING, BOOLEAN, DATE, ARRAY, FILE.
 - [ ] Record structures: defining, reading, and writing.
@@ -117,7 +117,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Text file handling in pseudocode.
 - [ ] Abstract data types: stack, queue, linked list; key features, justification, and array implementation.
 
-### [[30 Computer Science/01 Topics/11 Programming/00 Overview|11 Programming]]
+### [11 Programming](../01%20Topics/11%20Programming/00%20Overview.md)
 
 - [ ] Constants, variables, assignment, arithmetic and logical operators, input and output.
 - [ ] Built-in functions and library routines.
@@ -127,7 +127,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Procedure and function terminology: header, interface, parameter, argument, return value.
 - [ ] Writing efficient pseudocode.
 
-### [[30 Computer Science/01 Topics/12 Software Development/00 Overview|12 Software Development]]
+### [12 Software Development](../01%20Topics/12%20Software%20Development/00%20Overview.md)
 
 - [ ] Development life cycles: waterfall, iterative, rapid application development (RAD).
 - [ ] Analysis, design, coding, testing, and maintenance stages.
@@ -140,7 +140,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 
 ## A Level
 
-### [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|13 Data Representation]]
+### [13 Data Representation](../01%20Topics/13%20Data%20Representation/00%20Overview.md)
 
 - [ ] User-defined types: non-composite (enumerated, pointer) and composite (set, record, class/object).
 - [ ] Choosing and designing an appropriate user-defined type.
@@ -152,7 +152,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Converting between binary floating-point and denary; normalisation and its reasons.
 - [ ] Approximation, underflow, overflow, and rounding errors.
 
-### [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|14 Communication and Internet Technologies]]
+### [14 Communication and Internet Technologies](../01%20Topics/14%20Communication%20and%20Internet%20Technologies/00%20Overview.md)
 
 - [ ] Why protocols are essential; protocol stacks and layers.
 - [ ] TCP/IP suite: Application, Transport, Internet, and Link layers.
@@ -160,7 +160,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Circuit switching versus packet switching: benefits, drawbacks, and applicability.
 - [ ] Router function in packet switching and how messages cross a network.
 
-### [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|15 Hardware and Virtual Machines]]
+### [15 Hardware and Virtual Machines](../01%20Topics/15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md)
 
 - [ ] RISC versus CISC; interrupt handling on each; pipelining and registers in RISC.
 - [ ] Four architectures: SISD, SIMD, MISD, MIMD.
@@ -170,7 +170,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Boolean algebra and De Morgan's laws; simplifying logic circuits and expressions.
 - [ ] Karnaugh maps and their benefits.
 
-### [[30 Computer Science/01 Topics/16 System Software/00 Overview|16 System Software]]
+### [16 System Software](../01%20Topics/16%20System%20Software/00%20Overview.md)
 
 - [ ] How an OS maximises resource use; user interface hiding hardware complexity.
 - [ ] Process management: multi-tasking, process states (running, ready, blocked), scheduling routines.
@@ -181,7 +181,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Grammar via syntax diagrams or Backus-Naur Form (BNF).
 - [ ] Reverse Polish Notation (RPN) for expression evaluation.
 
-### [[30 Computer Science/01 Topics/17 Security/00 Overview|17 Security]]
+### [17 Security](../01%20Topics/17%20Security/00%20Overview.md)
 
 - [ ] Encryption: public key, private key, plain text, cipher text, symmetric and asymmetric cryptography.
 - [ ] Sending a private message and a verified message using keys.
@@ -189,7 +189,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] SSL/TLS: purpose, client-server use, and appropriate situations.
 - [ ] Digital certification: acquisition and use for digital signatures.
 
-### [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|18 Artificial Intelligence]]
+### [18 Artificial Intelligence](../01%20Topics/18%20Artificial%20Intelligence/00%20Overview.md)
 
 - [ ] Graphs in AI: purpose and structure.
 - [ ] A\* and Dijkstra's algorithms for graph search (no algorithm writing required).
@@ -198,7 +198,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Machine learning categories: supervised and unsupervised.
 - [ ] Back propagation of errors and regression methods.
 
-### [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|19 Computational Thinking and Problem-solving]]
+### [19 Computational Thinking and Problem-solving](../01%20Topics/19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md)
 
 - [ ] Linear and binary search: writing, conditions for binary search, and performance.
 - [ ] Insertion sort and bubble sort: writing and performance dependence on data.
@@ -208,7 +208,7 @@ This checklist follows CAIE 9618 topic wording. A checked item means you can def
 - [ ] Recursion: essential features, expression in a language, writing and tracing.
 - [ ] When recursion is beneficial; compiler translation of recursion using stacks and unwinding.
 
-### [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|20 Further Programming]]
+### [20 Further Programming](../01%20Topics/20%20Further%20Programming/00%20Overview.md)
 
 - [ ] Programming paradigms: low-level, imperative (procedural), object-oriented, declarative.
 - [ ] Low-level code using addressing modes.

@@ -25,12 +25,12 @@ Equilibria describes reversible systems in which forward and reverse reactions c
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/07 Equilibria/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/07 Equilibria/10 Lecture Notes.zh-CN|Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/07 Equilibria/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/07 Equilibria/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/07 Equilibria/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/07 Equilibria/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## What to Learn
 
@@ -66,10 +66,10 @@ For Le Chatelier questions, state the change, identify how the system can minimi
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/00 Overview|Chemical Energetics]] helps explain temperature effects on equilibrium.
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/00 Overview|Reaction Kinetics]] helps distinguish equilibrium position from rate of approach.
-- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/00 Overview|Nitrogen and Sulfur]] uses ammonia and sulfur dioxide chemistry in industrial contexts.
-- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|A Level Equilibria]] extends equilibria into quantitative acids and bases and partition coefficients.
+- [Chemical Energetics](../05%20Chemical%20Energetics/00%20Overview.md) helps explain temperature effects on equilibrium.
+- [Reaction Kinetics](../08%20Reaction%20Kinetics/00%20Overview.md) helps distinguish equilibrium position from rate of approach.
+- [Nitrogen and Sulfur](../12%20Nitrogen%20and%20Sulfur/00%20Overview.md) uses ammonia and sulfur dioxide chemistry in industrial contexts.
+- [A Level Equilibria](../25%20Equilibria/00%20Overview.md) extends equilibria into quantitative acids and bases and partition coefficients.
 
 ## Common Traps
 

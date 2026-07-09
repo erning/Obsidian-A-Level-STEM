@@ -48,20 +48,20 @@ A Level chemical energetics extends AS enthalpy work into ionic energy cycles, e
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/10 Lecture Notes.zh-CN|Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 - Scope is checked against the local CAIE Chemistry 9701 syllabus sections 23.1-23.4. No Chemistry coursebook alignment is claimed.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/00 Overview|AS Chemical Energetics]] supplies the enthalpy definitions, Hess cycles, bond energy work, and calorimetry habits used here.
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/00 Overview|Chemical Bonding]] supports the ionic charge, ionic radius, and lattice structure explanations.
-- [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|Electrochemistry]] later links Gibbs free energy to standard cell potentials.
-- [[40 Chemistry/01 Topics/27 Group 2/00 Overview|Group 2]] uses lattice and hydration ideas to explain solubility trends.
+- [AS Chemical Energetics](../05%20Chemical%20Energetics/00%20Overview.md) supplies the enthalpy definitions, Hess cycles, bond energy work, and calorimetry habits used here.
+- [Chemical Bonding](../03%20Chemical%20Bonding/00%20Overview.md) supports the ionic charge, ionic radius, and lattice structure explanations.
+- [Electrochemistry](../24%20Electrochemistry/00%20Overview.md) later links Gibbs free energy to standard cell potentials.
+- [Group 2](../27%20Group%202/00%20Overview.md) uses lattice and hydration ideas to explain solubility trends.
 
 ## Common Traps
 

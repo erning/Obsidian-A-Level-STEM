@@ -46,20 +46,20 @@ A Level electrochemistry turns redox ideas into quantitative predictions. It cov
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/24 Electrochemistry/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/24 Electrochemistry/10 Lecture Notes.zh-CN|Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/24 Electrochemistry/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/24 Electrochemistry/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/24 Electrochemistry/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/24 Electrochemistry/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 - Scope is checked against the local CAIE Chemistry 9701 syllabus sections 24.1-24.2. No Chemistry coursebook alignment is claimed.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/06 Electrochemistry/00 Overview|AS Electrochemistry]] provides oxidation numbers, redox equations, and the basic electrochemical series.
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|Chemical Energetics]] connects cell potentials with Gibbs free energy.
-- [[40 Chemistry/01 Topics/28 Chemistry of Transition Elements/00 Overview|Chemistry of Transition Elements]] uses electrode potentials in transition metal redox systems.
-- [[40 Chemistry/02 Practical Skills/00 Overview|Practical Skills]] supports electrolysis measurements and uncertainty in quantitative work.
+- [AS Electrochemistry](../06%20Electrochemistry/00%20Overview.md) provides oxidation numbers, redox equations, and the basic electrochemical series.
+- [Chemical Energetics](../23%20Chemical%20Energetics/00%20Overview.md) connects cell potentials with Gibbs free energy.
+- [Chemistry of Transition Elements](../28%20Chemistry%20of%20Transition%20Elements/00%20Overview.md) uses electrode potentials in transition metal redox systems.
+- [Practical Skills](../../02%20Practical%20Skills/00%20Overview.md) supports electrolysis measurements and uncertainty in quantitative work.
 
 ## Common Traps
 

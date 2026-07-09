@@ -48,19 +48,19 @@ Code that works has to be designed, tested, and maintained. This topic covers th
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/12 Software Development/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/12 Software Development/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/12 Software Development/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/12 Software Development/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/12 Software Development/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/12 Software Development/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] supplies decomposition and stepwise refinement, which reappear here as structure charts and module design.
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] produces the code that this topic designs, tests, and maintains.
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] supports the record, array, and file choices made during program design.
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] continues the same development concerns through paradigms, file processing, and exception handling.
+- [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) supplies decomposition and stepwise refinement, which reappear here as structure charts and module design.
+- [Programming](../11%20Programming/00%20Overview.md) produces the code that this topic designs, tests, and maintains.
+- [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) supports the record, array, and file choices made during program design.
+- [Further Programming](../20%20Further%20Programming/00%20Overview.md) continues the same development concerns through paradigms, file processing, and exception handling.
 
 ## Common Traps
 

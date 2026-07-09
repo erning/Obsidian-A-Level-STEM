@@ -2,7 +2,7 @@
 title: Work, Energy and Power Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]]"
+parent: "[Work, Energy and Power](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -12,7 +12,7 @@ tags:
 
 # Work, Energy and Power Key Practice Solutions
 
-These solutions correspond to [[10 Physics/01 Topics/05 Work Energy and Power/30 Key Practice Problems|Key Practice Problems]].
+These solutions correspond to [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 Take $g=9.81\ \mathrm{m\ s^{-2}}$ where needed.
 

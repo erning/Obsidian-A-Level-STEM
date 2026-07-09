@@ -2,7 +2,7 @@
 title: Computational Thinking and Problem-solving Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]]"
+parent: "[Computational Thinking and Problem-solving](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -483,8 +483,8 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] is the AS foundation this topic extends - abstraction, decomposition, the three constructs, and the pseudocode notation all come from there.
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] defines the ADTs (stack, queue, linked list) and their array implementations; this topic turns their operations into full algorithms.
+- [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) is the AS foundation this topic extends - abstraction, decomposition, the three constructs, and the pseudocode notation all come from there.
+- [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) defines the ADTs (stack, queue, linked list) and their array implementations; this topic turns their operations into full algorithms.
 
 ## Study Sequence
 

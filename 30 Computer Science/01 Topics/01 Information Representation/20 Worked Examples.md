@@ -2,7 +2,7 @@
 title: Information Representation Worked Examples
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]]"
+parent: "[Information Representation](00%20Overview.md)"
 status: active
 tags:
   - computerscience/foundations
@@ -11,7 +11,7 @@ tags:
 
 # Information Representation Worked Examples
 
-These worked examples turn the rules from the [[30 Computer Science/01 Topics/01 Information Representation/10 Lecture Notes|lecture notes]] into routines you can imitate. Each one shows the full working and a short check, so the value is in the steps, not the final answer. Cover the solution, attempt the prompt on paper, then compare.
+These worked examples turn the rules from the [lecture notes](10%20Lecture%20Notes.md) into routines you can imitate. Each one shows the full working and a short check, so the value is in the steps, not the final answer. Cover the solution, attempt the prompt on paper, then compare.
 
 ## Source Route
 

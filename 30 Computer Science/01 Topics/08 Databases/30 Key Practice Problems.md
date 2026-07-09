@@ -2,7 +2,7 @@
 title: Databases Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]]"
+parent: "[Databases](00%20Overview.md)"
 status: active
 tags:
   - computerscience/data
@@ -11,7 +11,7 @@ tags:
 
 # Databases Key Practice Problems
 
-These problems cover the full AS Section 8 scope: relational concepts, normalisation, the DBMS, and SQL. Work them on paper before checking the [[30 Computer Science/01 Topics/08 Databases/31 Key Practice Solutions|solutions]]. No answers are given in this file.
+These problems cover the full AS Section 8 scope: relational concepts, normalisation, the DBMS, and SQL. Work them on paper before checking the [solutions](31%20Key%20Practice%20Solutions.md). No answers are given in this file.
 
 ## A. Relational Concepts
 

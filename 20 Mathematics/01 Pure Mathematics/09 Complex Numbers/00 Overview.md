@@ -44,17 +44,17 @@ Complex numbers extend algebra into a plane where multiplication naturally inclu
 
 ## Learning Materials
 
-- [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/03 Trigonometry and Circular Measure/00 Overview|Trigonometry and Circular Measure]]
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]
+- [Trigonometry and Circular Measure](../03%20Trigonometry%20and%20Circular%20Measure/00%20Overview.md)
+- [Sequences, Series and Binomial Expansions](../04%20Sequences%20Series%20and%20Binomial%20Expansions/00%20Overview.md)
 
 ## Common Traps
 

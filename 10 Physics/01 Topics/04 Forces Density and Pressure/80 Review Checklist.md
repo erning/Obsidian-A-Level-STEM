@@ -2,7 +2,7 @@
 title: Forces, Density and Pressure Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Forces, Density and Pressure]]"
+parent: "[Forces, Density and Pressure](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -12,7 +12,7 @@ tags:
 
 # Forces, Density and Pressure Review Checklist
 
-Use this after working through [[10 Physics/01 Topics/04 Forces Density and Pressure/10 Lecture Notes|Lecture Notes]], [[10 Physics/01 Topics/04 Forces Density and Pressure/20 Worked Examples|Worked Examples]], and [[10 Physics/01 Topics/04 Forces Density and Pressure/30 Key Practice Problems|Key Practice Problems]].
+Use this after working through [Lecture Notes](10%20Lecture%20Notes.md), [Worked Examples](20%20Worked%20Examples.md), and [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## Moments and Equilibrium
 
@@ -56,13 +56,13 @@ Use this after working through [[10 Physics/01 Topics/04 Forces Density and Pres
 
 ## Ready to Connect
 
-You are ready to connect this topic to [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]] when you can:
+You are ready to connect this topic to [Work, Energy and Power](../05%20Work%20Energy%20and%20Power/00%20Overview.md) when you can:
 
 - identify the component of a force in the direction of displacement;
 - keep force, moment, torque, pressure, and work as separate quantities;
 - explain how a force can produce translation, rotation, or pressure depending on context.
 
-You are ready to connect it to [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]] when you can:
+You are ready to connect it to [Forces and Equilibrium](../../../20%20Mathematics/02%20Mechanics/01%20Forces%20and%20Equilibrium/00%20Overview.md) when you can:
 
 - write independent force and moment equations;
 - use components for coplanar equilibrium;

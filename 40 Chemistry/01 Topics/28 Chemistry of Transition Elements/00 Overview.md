@@ -51,19 +51,19 @@ Transition element chemistry links electronic structure to variable oxidation st
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/28 Chemistry of Transition Elements/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/28 Chemistry of Transition Elements/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/28 Chemistry of Transition Elements/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/28 Chemistry of Transition Elements/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/28 Chemistry of Transition Elements/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/28 Chemistry of Transition Elements/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]] supports the periodic context for d-block elements.
-- [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|Electrochemistry]] supplies standard electrode potentials and redox feasibility.
-- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|Equilibria]] supports stability constants and ligand exchange.
-- [[40 Chemistry/01 Topics/26 Reaction Kinetics/00 Overview|Reaction Kinetics]] connects transition elements with catalysis.
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md) supports the periodic context for d-block elements.
+- [Electrochemistry](../24%20Electrochemistry/00%20Overview.md) supplies standard electrode potentials and redox feasibility.
+- [Equilibria](../25%20Equilibria/00%20Overview.md) supports stability constants and ligand exchange.
+- [Reaction Kinetics](../26%20Reaction%20Kinetics/00%20Overview.md) connects transition elements with catalysis.
 
 ## Common Traps
 

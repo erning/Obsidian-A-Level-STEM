@@ -2,7 +2,7 @@
 title: Further Programming 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]]"
+parent: "[Further Programming](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -35,7 +35,7 @@ tags:
 
 ## 2. 低级语言
 
-低级语言代码使用 CPU 自身的指令。**寻址方式**是 CPU 定位操作数时遵循的规则。这里是范式层面的回顾；具体指令集记号沿用 [[30 Computer Science/01 Topics/04 Processor Fundamentals/10 Lecture Notes|Topic 4 Processor Fundamentals]]。CAIE 操作数直接写成 `LDD 100`，`M[100]` 这类记号只用于解释内存效果。
+低级语言代码使用 CPU 自身的指令。**寻址方式**是 CPU 定位操作数时遵循的规则。这里是范式层面的回顾；具体指令集记号沿用 [Topic 4 Processor Fundamentals](../04%20Processor%20Fundamentals/10%20Lecture%20Notes.md)。CAIE 操作数直接写成 `LDD 100`，`M[100]` 这类记号只用于解释内存效果。
 
 | 寻址方式 | 操作数的定位方法 | 助记符示例 | 效果 |
 |----------|------------------|------------|------|
@@ -307,6 +307,6 @@ except Exception:                   # 其他失败，例如输入非法
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] —— 本主题扩展的 AS 基础。
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] —— 此处使用的文件组织方式和记录类型。
-- [[30 Computer Science/04 Reference/Pseudocode and Programming Reference|Pseudocode and Programming Reference]] —— 文件处理、异常与 Paper 4 语言对照。
+- [Programming](../11%20Programming/00%20Overview.md) —— 本主题扩展的 AS 基础。
+- [Data Representation](../13%20Data%20Representation/00%20Overview.md) —— 此处使用的文件组织方式和记录类型。
+- [Pseudocode and Programming Reference](../../04%20Reference/Pseudocode%20and%20Programming%20Reference.md) —— 文件处理、异常与 Paper 4 语言对照。

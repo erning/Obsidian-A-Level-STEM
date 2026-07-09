@@ -2,7 +2,7 @@
 title: Forces, Density and Pressure 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Forces, Density and Pressure]]"
+parent: "[Forces, Density and Pressure](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -13,7 +13,7 @@ tags:
 
 # 力、密度与压强讲义
 
-这一节把 [[10 Physics/01 Topics/03 Dynamics/10 Lecture Notes|Dynamics]] 里的力继续往三个方向展开。第一，力是矢量，所以多个力要按矢量相加。第二，力不一定只让物体平动；如果力的作用线不通过转轴或支点，它还会产生转动效果。第三，力分布在面积上就形成压强，而流体中的压强差会产生浮力。
+这一节把 [Dynamics](../03%20Dynamics/10%20Lecture%20Notes.md) 里的力继续往三个方向展开。第一，力是矢量，所以多个力要按矢量相加。第二，力不一定只让物体平动；如果力的作用线不通过转轴或支点，它还会产生转动效果。第三，力分布在面积上就形成压强，而流体中的压强差会产生浮力。
 
 读这一节时，可以反复问同一个问题：这里关心的是力的哪一种作用效果？
 
@@ -23,7 +23,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/forces-density-and-pressure.svg]]
+![forces-density-and-pressure](../../../assets/generated/physics/forces-density-and-pressure.svg)
 
 这张图可以当作本节地图。左边是转动路线：重心、作用线、力矩、力偶、转矩和平衡。右边是流体路线：密度、压强、液体静压强和浮力。
 
@@ -348,7 +348,7 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/03 Dynamics/10 Lecture Notes|Dynamics]] 提供本节需要的力和加速度基础。
-- [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]] 会把力和位移联系起来，而不是把力和垂直距离联系起来。
-- [[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]] 会再次使用“力除以面积”的思想来定义应力。
-- [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]] 从数学力学角度继续处理力的分解和平衡。
+- [Dynamics](../03%20Dynamics/10%20Lecture%20Notes.md) 提供本节需要的力和加速度基础。
+- [Work, Energy and Power](../05%20Work%20Energy%20and%20Power/00%20Overview.md) 会把力和位移联系起来，而不是把力和垂直距离联系起来。
+- [Deformation of Solids](../06%20Deformation%20of%20Solids/00%20Overview.md) 会再次使用“力除以面积”的思想来定义应力。
+- [Forces and Equilibrium](../../../20%20Mathematics/02%20Mechanics/01%20Forces%20and%20Equilibrium/00%20Overview.md) 从数学力学角度继续处理力的分解和平衡。

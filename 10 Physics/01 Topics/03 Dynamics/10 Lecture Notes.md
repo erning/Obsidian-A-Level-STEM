@@ -2,7 +2,7 @@
 title: Dynamics Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]]"
+parent: "[Dynamics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -13,7 +13,7 @@ tags:
 # Dynamics Lecture Notes
 
 Dynamics is the part of mechanics that explains why motion changes. In
-[[10 Physics/01 Topics/02 Kinematics/10 Lecture Notes|kinematics]] you describe
+[kinematics](../02%20Kinematics/10%20Lecture%20Notes.md) you describe
 motion using displacement, velocity, acceleration, and graphs. In dynamics you
 ask what interactions produce the acceleration, and when it is better to
 describe the same interaction through momentum.
@@ -31,7 +31,7 @@ conservation of momentum.
 
 ## Visual guide
 
-![[assets/generated/physics/dynamics.svg]]
+![dynamics](../../../assets/generated/physics/dynamics.svg)
 
 Use this diagram as a map of the topic. The left side is the force route:
 free-body diagram, resultant force, acceleration. The right side is the
@@ -475,11 +475,11 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[10 Physics/01 Topics/02 Kinematics/10 Lecture Notes|Kinematics]] gives the
+- [Kinematics](../02%20Kinematics/10%20Lecture%20Notes.md) gives the
   displacement, velocity, and acceleration language used here.
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Forces, Density and Pressure]]
+- [Forces, Density and Pressure](../04%20Forces%20Density%20and%20Pressure/00%20Overview.md)
   develops force ideas that become important for pressure and fluids.
-- [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]]
+- [Work, Energy and Power](../05%20Work%20Energy%20and%20Power/00%20Overview.md)
   explains energy transfers that complement momentum conservation.
-- [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/00 Overview|Momentum, Collisions and Impulse]]
+- [Momentum, Collisions and Impulse](../../../20%20Mathematics/02%20Mechanics/03%20Momentum%20Collisions%20and%20Impulse/00%20Overview.md)
   gives a mathematics route through the same collision ideas.

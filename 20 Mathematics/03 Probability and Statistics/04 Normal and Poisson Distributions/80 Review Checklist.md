@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]"
+parent: "[Normal and Poisson Distributions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Normal and Poisson Distributions Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/10 Lecture Notes|Normal and Poisson Distributions Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Normal and Poisson Distributions Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

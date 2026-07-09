@@ -2,7 +2,7 @@
 title: Work, Energy and Power Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]]"
+parent: "[Work, Energy and Power](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -25,7 +25,7 @@ This topic is built around three questions.
 
 ## Visual guide
 
-![[assets/generated/physics/work-energy-and-power.svg]]
+![work-energy-and-power](../../../assets/generated/physics/work-energy-and-power.svg)
 
 The diagram links force, displacement, work done, energy transfer, and power.
 Use it as a reminder that energy calculations usually begin by identifying the
@@ -111,7 +111,7 @@ W = \text{area under the } F\text{-}s \text{ graph}
 $$
 
 This idea will become especially useful in
-[[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]],
+[Deformation of Solids](../06%20Deformation%20of%20Solids/00%20Overview.md),
 where the energy stored in a stretched spring comes from the area under a
 force-extension graph.
 
@@ -401,11 +401,11 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[10 Physics/01 Topics/03 Dynamics/10 Lecture Notes|Dynamics]] gives the
+- [Dynamics](../03%20Dynamics/10%20Lecture%20Notes.md) gives the
   force and acceleration route that complements energy methods.
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/10 Lecture Notes|Forces, Density and Pressure]]
+- [Forces, Density and Pressure](../04%20Forces%20Density%20and%20Pressure/10%20Lecture%20Notes.md)
   introduced force, distance, and force components used here.
-- [[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]]
+- [Deformation of Solids](../06%20Deformation%20of%20Solids/00%20Overview.md)
   uses the area under a force-extension graph as stored elastic energy.
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
+- [Work, Energy, Power and Elasticity](../../../20%20Mathematics/02%20Mechanics/04%20Work%20Energy%20Power%20and%20Elasticity/00%20Overview.md)
   gives a mathematical mechanics version of the same ideas.

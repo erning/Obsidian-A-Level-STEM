@@ -2,7 +2,7 @@
 title: Temperature Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]"
+parent: "[Temperature](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -25,7 +25,7 @@ This topic connects three ideas: how temperature is measured, how temperature sc
 
 ## Visual Guide
 
-![[assets/generated/physics/temperature.svg]]
+![temperature](../../../assets/generated/physics/temperature.svg)
 
 The visual guide links three pictures: a thermometer reaches thermal equilibrium with what it measures, the kelvin scale is anchored at absolute zero, and heating curves separate temperature change from change of state.
 
@@ -331,6 +331,6 @@ You should be able to answer these without looking back:
 
 ## Connections
 
-- [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]] uses kelvin temperature in gas laws and kinetic theory.
-- [[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]] develops internal energy and the first law of thermodynamics.
-- [[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]] provides $P = VI$ for electrical heating experiments.
+- [Ideal Gases](../15%20Ideal%20Gases/00%20Overview.md) uses kelvin temperature in gas laws and kinetic theory.
+- [Thermodynamics](../16%20Thermodynamics/00%20Overview.md) develops internal energy and the first law of thermodynamics.
+- [Electricity](../09%20Electricity/00%20Overview.md) provides $P = VI$ for electrical heating experiments.

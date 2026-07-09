@@ -2,7 +2,7 @@
 title: Capacitance 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]"
+parent: "[Capacitance](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -19,7 +19,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/capacitance.svg]]
+![capacitance](../../../assets/generated/physics/capacitance.svg)
 
 这张图把电容器的储能和通过电阻放电的指数衰减放在一起。复习时可以先问：哪些量相同？哪些量相加？为什么放电电流越来越小？
 
@@ -310,6 +310,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]]
-- [[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]]
-- [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]
+- [D.C. Circuits](../10%20DC%20Circuits/00%20Overview.md)
+- [Alternating Currents](../21%20Alternating%20Currents/00%20Overview.md)
+- [Logarithms, Exponentials and Numerical Methods](../../../20%20Mathematics/01%20Pure%20Mathematics/07%20Logarithms%20Exponentials%20and%20Numerical%20Methods/00%20Overview.md)

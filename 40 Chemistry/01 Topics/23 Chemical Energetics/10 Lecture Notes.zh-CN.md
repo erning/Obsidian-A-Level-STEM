@@ -166,4 +166,4 @@ $$
 
 ## 连接
 
-本章直接连接 [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|Electrochemistry]]，其中 $\Delta G^\circ$ 会与 standard cell potential 联系起来。它也支持 [[40 Chemistry/01 Topics/27 Group 2/00 Overview|Group 2]] 中关于溶解性和热稳定性的趋势解释。
+本章直接连接 [Electrochemistry](../24%20Electrochemistry/00%20Overview.md)，其中 $\Delta G^\circ$ 会与 standard cell potential 联系起来。它也支持 [Group 2](../27%20Group%202/00%20Overview.md) 中关于溶解性和热稳定性的趋势解释。

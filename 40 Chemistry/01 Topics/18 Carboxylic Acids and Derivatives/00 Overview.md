@@ -45,19 +45,19 @@ Carboxylic acids and esters extend carbonyl chemistry into acid-base reactions, 
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/10 Lecture Notes.zh-CN|中文讲义]]
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]] supplies alcohols for oxidation and esterification.
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]] connects aldehydes to carboxylic acids.
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|Nitrogen Compounds]] links nitrile hydrolysis to carboxylic acid formation.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|A Level Carboxylic Acids and Derivatives]] extends this family to acyl chlorides and further reactions.
+- [Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md) supplies alcohols for oxidation and esterification.
+- [Carbonyl Compounds](../17%20Carbonyl%20Compounds/00%20Overview.md) connects aldehydes to carboxylic acids.
+- [Nitrogen Compounds](../19%20Nitrogen%20Compounds/00%20Overview.md) links nitrile hydrolysis to carboxylic acid formation.
+- [A Level Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) extends this family to acyl chlorides and further reactions.
 
 ## Common Traps
 

@@ -153,6 +153,6 @@ $$
 
 ## 连接
 
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/10 Lecture Notes|Reaction Kinetics]]
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|A Level Chemical Energetics]]
-- [[40 Chemistry/02 Practical Skills/00 Overview|Practical Skills]]
+- [Reaction Kinetics](../08%20Reaction%20Kinetics/10%20Lecture%20Notes.md)
+- [A Level Chemical Energetics](../23%20Chemical%20Energetics/00%20Overview.md)
+- [Practical Skills](../../02%20Practical%20Skills/00%20Overview.md)

@@ -2,7 +2,7 @@
 title: Waves 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]"
+parent: "[Waves](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -24,7 +24,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/waves.svg]]
+![waves](../../../assets/generated/physics/waves.svg)
 
 这张图用来定位振幅、波长、周期、频率、相位和波速。位移-位置图像和位移-时间图像可能长得很像，但回答的问题不同。
 
@@ -99,7 +99,7 @@ $$
 \phi = 2\pi \frac{\Delta t}{T}
 $$
 
-相位语言在 [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]] 中会变得很重要，因为后面要讨论波相遇后如何叠加。
+相位语言在 [Superposition](../08%20Superposition/00%20Overview.md) 中会变得很重要，因为后面要讨论波相遇后如何叠加。
 
 ## 4. CRO 测量
 
@@ -334,7 +334,7 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]] 会用相位和位移解释干涉、衍射和驻波。
-- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]] 会更细致地研究单个振动点的运动。
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]] 会从光子的角度重新理解电磁辐射。
-- [[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]] 会用波长移动和电磁波谱研究遥远天体。
+- [Superposition](../08%20Superposition/00%20Overview.md) 会用相位和位移解释干涉、衍射和驻波。
+- [Oscillations](../17%20Oscillations/00%20Overview.md) 会更细致地研究单个振动点的运动。
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md) 会从光子的角度重新理解电磁辐射。
+- [Astronomy and Cosmology](../25%20Astronomy%20and%20Cosmology/00%20Overview.md) 会用波长移动和电磁波谱研究遥远天体。

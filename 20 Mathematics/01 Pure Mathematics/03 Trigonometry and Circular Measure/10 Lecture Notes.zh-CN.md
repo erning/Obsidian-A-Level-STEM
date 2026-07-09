@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/03 Trigonometry and Circular Measure/00 Overview|Trigonometry and Circular Measure]]"
+parent: "[Trigonometry and Circular Measure](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -25,7 +25,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/trigonometry-and-circular-measure.svg]]
+![trigonometry-and-circular-measure](../../../assets/generated/mathematics/trigonometry-and-circular-measure.svg)
 
 这张图用来快速理解“三角函数与弧度制”：把单位圆上的坐标和正弦图像连起来。
 
@@ -417,6 +417,6 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]：三角函数图像和标准导数会在微分中反复使用。
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]：三角恒等式和弧度制是三角积分的基础。
-- [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]]：de Moivre's theorem 会把三角形式和复数幂联系起来。
+- [Differentiation](../05%20Differentiation/00%20Overview.md)：三角函数图像和标准导数会在微分中反复使用。
+- [Integration](../06%20Integration/00%20Overview.md)：三角恒等式和弧度制是三角积分的基础。
+- [Complex Numbers](../09%20Complex%20Numbers/00%20Overview.md)：de Moivre's theorem 会把三角形式和复数幂联系起来。

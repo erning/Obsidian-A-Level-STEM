@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/08 Vectors/00 Overview|Vectors]]"
+parent: "[Vectors](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -25,7 +25,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/vectors.svg]]
+![vectors](../../../assets/generated/mathematics/vectors.svg)
 
 这张图用来快速理解“向量”：用向量加法和参数直线看方向与位置。
 
@@ -249,5 +249,5 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]]：矩阵变换可以看作对向量和基向量的线性作用。
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physics Vectors]]：物理中的位移、速度、加速度和力都需要向量语言。
+- [Matrices and Transformations](../10%20Matrices%20and%20Transformations/00%20Overview.md)：矩阵变换可以看作对向量和基向量的线性作用。
+- [Physics Vectors](../../../10%20Physics/01%20Topics/01%20Physical%20Quantities%20and%20Units/00%20Overview.md)：物理中的位移、速度、加速度和力都需要向量语言。

@@ -47,18 +47,18 @@ Stoichiometry turns chemical formulas and equations into measurable amounts. The
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/01 Atomic Structure/00 Overview|Atomic Structure]] supplies isotopic mass and relative atomic mass ideas.
-- [[40 Chemistry/01 Topics/04 States of Matter/00 Overview|States of Matter]] uses amount of substance in gas calculations.
-- [[40 Chemistry/02 Practical Skills/00 Overview|Practical Skills]] connects stoichiometry to titration, yield and data handling.
+- [Atomic Structure](../01%20Atomic%20Structure/00%20Overview.md) supplies isotopic mass and relative atomic mass ideas.
+- [States of Matter](../04%20States%20of%20Matter/00%20Overview.md) uses amount of substance in gas calculations.
+- [Practical Skills](../../02%20Practical%20Skills/00%20Overview.md) connects stoichiometry to titration, yield and data handling.
 
 ## Common Traps
 

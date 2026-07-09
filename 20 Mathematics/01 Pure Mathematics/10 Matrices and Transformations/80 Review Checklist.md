@@ -3,7 +3,7 @@ title: Matrices and Transformations Review Checklist
 subject: Mathematics
 syllabus:
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]]"
+parent: "[Matrices and Transformations](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -12,7 +12,7 @@ tags:
 
 # Matrices and Transformations Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/10 Lecture Notes|Matrices and Transformations Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Matrices and Transformations Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

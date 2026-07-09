@@ -2,7 +2,7 @@
 title: Magnetic Fields 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]]"
+parent: "[Magnetic Fields](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -19,7 +19,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/magnetic-fields.svg]]
+![magnetic-fields](../../../assets/generated/physics/magnetic-fields.svg)
 
 这张图把磁力方向、带电粒子圆周运动、霍尔电压、磁通量和电磁感应放在一起。复习时先问：谁在运动？磁场方向怎样？有没有磁通量变化？
 
@@ -382,6 +382,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]]
-- [[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]]
-- [[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]]
+- [Motion in a Circle](../12%20Motion%20in%20a%20Circle/00%20Overview.md)
+- [Electric Fields](../18%20Electric%20Fields/00%20Overview.md)
+- [Alternating Currents](../21%20Alternating%20Currents/00%20Overview.md)

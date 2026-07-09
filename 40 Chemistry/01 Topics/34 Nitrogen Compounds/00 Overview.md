@@ -48,19 +48,19 @@ A Level nitrogen chemistry brings together amines, phenylamine, diazonium salts,
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/10 Lecture Notes|Lecture Notes]] cover amine preparation, basicity, phenylamine, diazonium salts, azo compounds, amides, amino acids, peptide bonds, and electrophoresis.
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/10 Lecture Notes.zh-CN|中文讲义]] gives a concise Chinese companion explanation of the same nitrogen chemistry.
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/20 Worked Examples|Worked Examples]] model route selection, basicity comparisons, diazonium chemistry, amide reactions, and electrophoresis.
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/30 Key Practice Problems|Key Practice Problems]] provide active recall, synthesis, and data-interpretation prompts without answers.
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/31 Key Practice Solutions|Key Practice Solutions]] mirror the practice set with working and checks.
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/80 Review Checklist|Review Checklist]] is the final self-test before using nitrogen compounds in synthesis, polymers, and analysis.
+- [Lecture Notes](10%20Lecture%20Notes.md) cover amine preparation, basicity, phenylamine, diazonium salts, azo compounds, amides, amino acids, peptide bonds, and electrophoresis.
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md) gives a concise Chinese companion explanation of the same nitrogen chemistry.
+- [Worked Examples](20%20Worked%20Examples.md) model route selection, basicity comparisons, diazonium chemistry, amide reactions, and electrophoresis.
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md) provide active recall, synthesis, and data-interpretation prompts without answers.
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md) mirror the practice set with working and checks.
+- [Review Checklist](80%20Review%20Checklist.md) is the final self-test before using nitrogen compounds in synthesis, polymers, and analysis.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|AS Nitrogen Compounds]] supplies nitrile and amine foundations.
-- [[40 Chemistry/01 Topics/31 Halogen Compounds/00 Overview|Halogen Compounds]] supplies halogenoalkane routes to amines.
-- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/00 Overview|Hydroxy Compounds]] connects phenol with diazonium coupling.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]] supplies acyl chloride routes to amides.
+- [AS Nitrogen Compounds](../19%20Nitrogen%20Compounds/00%20Overview.md) supplies nitrile and amine foundations.
+- [Halogen Compounds](../31%20Halogen%20Compounds/00%20Overview.md) supplies halogenoalkane routes to amines.
+- [Hydroxy Compounds](../32%20Hydroxy%20Compounds/00%20Overview.md) connects phenol with diazonium coupling.
+- [Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) supplies acyl chloride routes to amides.
 
 ## Common Traps
 

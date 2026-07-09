@@ -2,7 +2,7 @@
 title: Kinematics Worked Examples
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/02 Kinematics/00 Overview|Kinematics]]"
+parent: "[Kinematics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/00 Overview|Polar Coordinates and Parametric Curves]]"
+parent: "[Polar Coordinates and Parametric Curves](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -23,7 +23,7 @@ Polar and parametric forms are alternative languages for curves. Polar coordinat
 
 ## Visual Guide
 
-![[assets/generated/mathematics/polar-coordinates-and-parametric-curves.svg]]
+![polar-coordinates-and-parametric-curves](../../../assets/generated/mathematics/polar-coordinates-and-parametric-curves.svg)
 
 Figure: The guide compares polar and parametric descriptions of curves. Use it to remember that a curve can be easier to understand in a coordinate system chosen for its shape.
 
@@ -318,5 +318,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]
-- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]
+- [Coordinate Geometry and Graphs](../02%20Coordinate%20Geometry%20and%20Graphs/00%20Overview.md)
+- [Differentiation](../05%20Differentiation/00%20Overview.md)

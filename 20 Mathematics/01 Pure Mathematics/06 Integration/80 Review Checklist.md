@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]"
+parent: "[Integration](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -79,6 +79,6 @@ return to the lecture notes or worked examples.
 - [ ] I can use the trapezium rule with correct weights.
 - [ ] I can recognise when a further integration formula, such as arc length,
       is being tested.
-- [ ] I can connect this topic to [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]],
-      [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]],
-      and [[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]].
+- [ ] I can connect this topic to [Differentiation](../05%20Differentiation/00%20Overview.md),
+      [Further Calculus and Differential Equations](../13%20Further%20Calculus%20and%20Differential%20Equations/00%20Overview.md),
+      and [Continuous Random Variables](../../03%20Probability%20and%20Statistics/05%20Continuous%20Random%20Variables/00%20Overview.md).

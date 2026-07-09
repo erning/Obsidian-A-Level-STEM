@@ -2,7 +2,7 @@
 title: Ideal Gases 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]]"
+parent: "[Ideal Gases](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -19,7 +19,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/ideal-gases.svg]]
+![ideal-gases](../../../assets/generated/physics/ideal-gases.svg)
 
 这张图把分子模型、压强、体积、温度放在一起看。复习时可以先顺着图问自己：分子运动怎样产生压强？温度升高时，分子层面到底发生了什么？
 
@@ -289,5 +289,5 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]
-- [[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]
+- [Temperature](../14%20Temperature/00%20Overview.md)
+- [Thermodynamics](../16%20Thermodynamics/00%20Overview.md)

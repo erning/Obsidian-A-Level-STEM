@@ -47,18 +47,18 @@ This topic gives the language of AS organic chemistry: functional groups, formul
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]] applies the first reaction mechanisms to alkanes and alkenes.
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]], [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]] and [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]] build the main AS functional group sequence.
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/00 Overview|An Introduction to A Level Organic Chemistry]] extends formulae, mechanisms and isomerism at A Level.
+- [Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md) applies the first reaction mechanisms to alkanes and alkenes.
+- [Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md), [Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md) and [Carbonyl Compounds](../17%20Carbonyl%20Compounds/00%20Overview.md) build the main AS functional group sequence.
+- [An Introduction to A Level Organic Chemistry](../29%20An%20Introduction%20to%20A%20Level%20Organic%20Chemistry/00%20Overview.md) extends formulae, mechanisms and isomerism at A Level.
 
 ## Common Traps
 

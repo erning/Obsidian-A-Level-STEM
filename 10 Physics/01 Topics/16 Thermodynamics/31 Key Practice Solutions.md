@@ -2,7 +2,7 @@
 title: Thermodynamics Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]"
+parent: "[Thermodynamics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

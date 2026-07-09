@@ -2,7 +2,7 @@
 title: Kinematics Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/02 Kinematics/00 Overview|Kinematics]]"
+parent: "[Kinematics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -24,7 +24,7 @@ Most mistakes in kinematics come from mixing these layers. A formula may be corr
 
 ## Visual guide
 
-![[assets/generated/physics/kinematics.svg]]
+![kinematics](../../../assets/generated/physics/kinematics.svg)
 
 This guide connects the main ideas of the topic: displacement, velocity, acceleration, graph gradients, graph areas, free fall, and projectile components.
 
@@ -34,7 +34,7 @@ The syllabus route is CAIE Physics 9702, section 2:
 
 - 2.1 Equations of motion
 
-The coursebook route is Chapter 1, Kinematics: describing motion, and Chapter 2, Accelerated motion. The same ideas also depend on [[10 Physics/01 Topics/01 Physical Quantities and Units/10 Lecture Notes|Physical Quantities and Units]], especially units, vectors, and sign conventions.
+The coursebook route is Chapter 1, Kinematics: describing motion, and Chapter 2, Accelerated motion. The same ideas also depend on [Physical Quantities and Units](../01%20Physical%20Quantities%20and%20Units/10%20Lecture%20Notes.md), especially units, vectors, and sign conventions.
 
 ## 1. The language of motion
 
@@ -568,6 +568,6 @@ You are ready to move on when you can do these without looking up the method:
 
 ## Connections
 
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/10 Lecture Notes|Physical Quantities and Units]]
-- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]]
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
+- [Physical Quantities and Units](../01%20Physical%20Quantities%20and%20Units/10%20Lecture%20Notes.md)
+- [Dynamics](../03%20Dynamics/00%20Overview.md)
+- [Kinematics and Newtonian Motion](../../../20%20Mathematics/02%20Mechanics/02%20Kinematics%20and%20Newtonian%20Motion/00%20Overview.md)

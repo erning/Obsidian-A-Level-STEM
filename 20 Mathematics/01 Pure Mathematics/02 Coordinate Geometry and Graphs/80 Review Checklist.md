@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]"
+parent: "[Coordinate Geometry and Graphs](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -75,5 +75,5 @@ return to the diagram and identify the geometric condition being translated.
 - [ ] I can solve and classify graph intersections.
 - [ ] I can find tangents to circles by geometry or discriminants.
 - [ ] I can transform $y=f(x)$ and update points, domain, and range.
-- [ ] I can connect this topic to [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]
-      and [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/00 Overview|Polar Coordinates and Parametric Curves]].
+- [ ] I can connect this topic to [Algebra and Functions](../01%20Algebra%20and%20Functions/00%20Overview.md)
+      and [Polar Coordinates and Parametric Curves](../12%20Polar%20Coordinates%20and%20Parametric%20Curves/00%20Overview.md).

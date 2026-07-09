@@ -2,7 +2,7 @@
 title: Capacitance Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]"
+parent: "[Capacitance](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -61,5 +61,5 @@ wrong, label which capacitors share voltage and which share charge.
 - [ ] I can calculate stored energy from formulae or graph area.
 - [ ] I can use $RC$ and exponential decay to analyse discharge.
 - [ ] I can explain why discharge current decreases with time.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]]
-      and [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]].
+- [ ] I can connect this topic to [D.C. Circuits](../10%20DC%20Circuits/00%20Overview.md)
+      and [Logarithms, Exponentials and Numerical Methods](../../../20%20Mathematics/01%20Pure%20Mathematics/07%20Logarithms%20Exponentials%20and%20Numerical%20Methods/00%20Overview.md).

@@ -45,18 +45,18 @@ States of matter connects the particle model of gases with the structures of sol
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/04 States of Matter/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/04 States of Matter/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/04 States of Matter/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/04 States of Matter/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/04 States of Matter/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/04 States of Matter/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/00 Overview|Atoms, Molecules and Stoichiometry]] supplies amount of substance for gas calculations.
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/00 Overview|Chemical Bonding]] provides the bonding and intermolecular force explanations.
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]] uses structure and bonding to explain Period 3 trends.
+- [Atoms, Molecules and Stoichiometry](../02%20Atoms%20Molecules%20and%20Stoichiometry/00%20Overview.md) supplies amount of substance for gas calculations.
+- [Chemical Bonding](../03%20Chemical%20Bonding/00%20Overview.md) provides the bonding and intermolecular force explanations.
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md) uses structure and bonding to explain Period 3 trends.
 
 ## Common Traps
 

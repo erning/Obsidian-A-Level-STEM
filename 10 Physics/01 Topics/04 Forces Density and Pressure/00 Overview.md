@@ -46,17 +46,17 @@ This topic extends force from translation to rotation and from point objects to 
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]]
-- [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]]
+- [Dynamics](../03%20Dynamics/00%20Overview.md)
+- [Forces and Equilibrium](../../../20%20Mathematics/02%20Mechanics/01%20Forces%20and%20Equilibrium/00%20Overview.md)
 
 ## Common Traps
 

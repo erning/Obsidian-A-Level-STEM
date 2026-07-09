@@ -2,7 +2,7 @@
 title: Deformation of Solids 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]]"
+parent: "[Deformation of Solids](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -19,7 +19,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/deformation-of-solids.svg]]
+![deformation-of-solids](../../../assets/generated/physics/deformation-of-solids.svg)
 
 这张图把载荷、伸长量、胡克定律、应力、应变、杨氏模量、弹性形变、塑性形变和弹性势能连起来。
 
@@ -300,6 +300,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/10 Lecture Notes|Forces, Density and Pressure]] 引入了单位面积上的力，本节把它发展成应力。
-- [[10 Physics/01 Topics/05 Work Energy and Power/10 Lecture Notes|Work, Energy and Power]] 讲过做功等于力-位移图像下面积，本节把它用到形变能量。
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]] 会从数学力学角度继续处理弹簧和弹性势能。
+- [Forces, Density and Pressure](../04%20Forces%20Density%20and%20Pressure/10%20Lecture%20Notes.md) 引入了单位面积上的力，本节把它发展成应力。
+- [Work, Energy and Power](../05%20Work%20Energy%20and%20Power/10%20Lecture%20Notes.md) 讲过做功等于力-位移图像下面积，本节把它用到形变能量。
+- [Work, Energy, Power and Elasticity](../../../20%20Mathematics/02%20Mechanics/04%20Work%20Energy%20Power%20and%20Elasticity/00%20Overview.md) 会从数学力学角度继续处理弹簧和弹性势能。

@@ -2,7 +2,7 @@
 title: Processor Fundamentals Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]]"
+parent: "[Processor Fundamentals](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -49,8 +49,8 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Explain why `CMP` changes the compare flag but does not change ACC.
 - [ ] Trace indirect addressing as "address to address to value" and indexed addressing as "base address plus IX".
 - [ ] Explain how bit masks allow a program to monitor or control one device bit without disturbing the others.
-- [ ] Connect CPU execution to [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] by explaining which lower-level components make registers, buses, and cache possible.
-- [ ] Connect bit patterns and masks to [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] and [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]].
+- [ ] Connect CPU execution to [Hardware](../03%20Hardware/00%20Overview.md) by explaining which lower-level components make registers, buses, and cache possible.
+- [ ] Connect bit patterns and masks to [Information Representation](../01%20Information%20Representation/00%20Overview.md) and [Data Representation](../13%20Data%20Representation/00%20Overview.md).
 
 ## Common Errors to Avoid
 
@@ -74,6 +74,6 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can trace an assembly loop without losing the ACC value, memory updates, PC changes, or compare flag.
 - [ ] I can choose the correct addressing mode and calculate the operand or jump target from the instruction and register values.
 - [ ] I can use full binary masks to test, set, clear, and toggle individual bits.
-- [ ] I can explain how this topic extends [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] from components into execution.
-- [ ] I can connect processor-level binary work to [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] and [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]].
-- [ ] I can see how assembly tracing prepares for lower-level programming ideas in [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] and CPU design extensions in [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]].
+- [ ] I can explain how this topic extends [Hardware](../03%20Hardware/00%20Overview.md) from components into execution.
+- [ ] I can connect processor-level binary work to [Information Representation](../01%20Information%20Representation/00%20Overview.md) and [Data Representation](../13%20Data%20Representation/00%20Overview.md).
+- [ ] I can see how assembly tracing prepares for lower-level programming ideas in [Further Programming](../20%20Further%20Programming/00%20Overview.md) and CPU design extensions in [Hardware and Virtual Machines](../15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md).

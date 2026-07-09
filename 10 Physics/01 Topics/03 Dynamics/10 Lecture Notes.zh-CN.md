@@ -2,7 +2,7 @@
 title: Dynamics 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]]"
+parent: "[Dynamics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -14,7 +14,7 @@ tags:
 # 动力学讲义
 
 动力学研究的是“为什么运动会改变”。在
-[[10 Physics/01 Topics/02 Kinematics/10 Lecture Notes|运动学]]里，我们用位移、速度、加速度和图像来描述运动；到了动力学，就要进一步追问：是什么相互作用让物体产生加速度？什么时候用力来分析更方便，什么时候用动量来分析更方便？
+[运动学](../02%20Kinematics/10%20Lecture%20Notes.md)里，我们用位移、速度、加速度和图像来描述运动；到了动力学，就要进一步追问：是什么相互作用让物体产生加速度？什么时候用力来分析更方便，什么时候用动量来分析更方便？
 
 这一章的主线可以先记成一句话：
 
@@ -26,7 +26,7 @@ $$
 
 ## 图示导读
 
-![[assets/generated/physics/dynamics.svg]]
+![dynamics](../../../assets/generated/physics/dynamics.svg)
 
 这张图可以当作本章地图。左边是“力”的路线：受力图、合力、加速度。右边是“动量”的路线：动量、动量变化、孤立系统中的动量守恒。很多题的关键不是计算很复杂，而是先判断该走哪条路线。
 
@@ -363,7 +363,7 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/02 Kinematics/10 Lecture Notes|Kinematics]] 提供位移、速度和加速度的语言。
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Forces, Density and Pressure]] 会继续发展力、压强和流体相关概念。
-- [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]] 用能量角度补充动量分析。
-- [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/00 Overview|Momentum, Collisions and Impulse]] 提供数学力学里处理碰撞和冲量的路线。
+- [Kinematics](../02%20Kinematics/10%20Lecture%20Notes.md) 提供位移、速度和加速度的语言。
+- [Forces, Density and Pressure](../04%20Forces%20Density%20and%20Pressure/00%20Overview.md) 会继续发展力、压强和流体相关概念。
+- [Work, Energy and Power](../05%20Work%20Energy%20and%20Power/00%20Overview.md) 用能量角度补充动量分析。
+- [Momentum, Collisions and Impulse](../../../20%20Mathematics/02%20Mechanics/03%20Momentum%20Collisions%20and%20Impulse/00%20Overview.md) 提供数学力学里处理碰撞和冲量的路线。

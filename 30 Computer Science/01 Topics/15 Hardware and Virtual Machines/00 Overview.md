@@ -34,7 +34,7 @@ This A Level topic extends sections 3 and 4 with processor architectures, parall
 
 ## How to Study
 
-- Place this after [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|4 Processor Fundamentals]] and [[30 Computer Science/01 Topics/03 Hardware/00 Overview|3 Hardware]].
+- Place this after [4 Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) and [3 Hardware](../03%20Hardware/00%20Overview.md).
 - Simplify each circuit in two ways (Boolean algebra and K-map) and check the answers agree.
 - Trace a flip-flop by watching its outputs across clock transitions.
 
@@ -46,19 +46,19 @@ This A Level topic extends sections 3 and 4 with processor architectures, parall
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] supplies the logic gates, memory technologies, storage devices, and control ideas that are extended into adders, flip-flops, and larger processor systems.
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] prepares the CPU, register, interrupt, and addressing ideas that become RISC/CISC comparisons and Flynn architectures here.
-- [[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]] connects to virtual machines, interrupt handling, scheduling, memory management, and the way software uses processor and memory resources.
-- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] underpins the binary addition and Boolean behaviour used by adders, flip-flops, and logic simplification.
+- [Hardware](../03%20Hardware/00%20Overview.md) supplies the logic gates, memory technologies, storage devices, and control ideas that are extended into adders, flip-flops, and larger processor systems.
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) prepares the CPU, register, interrupt, and addressing ideas that become RISC/CISC comparisons and Flynn architectures here.
+- [System Software](../16%20System%20Software/00%20Overview.md) connects to virtual machines, interrupt handling, scheduling, memory management, and the way software uses processor and memory resources.
+- [Information Representation](../01%20Information%20Representation/00%20Overview.md) underpins the binary addition and Boolean behaviour used by adders, flip-flops, and logic simplification.
 
 ## Common Traps
 

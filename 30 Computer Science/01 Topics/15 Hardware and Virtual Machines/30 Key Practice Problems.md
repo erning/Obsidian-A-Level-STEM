@@ -2,7 +2,7 @@
 title: Hardware and Virtual Machines Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]]"
+parent: "[Hardware and Virtual Machines](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems

@@ -11,7 +11,7 @@ tags:
 
 # 24 Electrochemistry - Key Practice Problems
 
-Answers are intentionally excluded. Use [[40 Chemistry/01 Topics/24 Electrochemistry/31 Key Practice Solutions|Key Practice Solutions]] after attempting the questions.
+Answers are intentionally excluded. Use [Key Practice Solutions](31%20Key%20Practice%20Solutions.md) after attempting the questions.
 
 ## 1. Electrolysis Product Prediction
 

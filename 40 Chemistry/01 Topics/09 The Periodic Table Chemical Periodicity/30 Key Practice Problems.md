@@ -11,7 +11,7 @@ tags:
 
 # The Periodic Table: Chemical Periodicity - Key Practice Problems
 
-Keep answers out of this file during active recall. Use [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/31 Key Practice Solutions|31 Key Practice Solutions]] only after attempting the questions.
+Keep answers out of this file during active recall. Use [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md) only after attempting the questions.
 
 ## Questions
 

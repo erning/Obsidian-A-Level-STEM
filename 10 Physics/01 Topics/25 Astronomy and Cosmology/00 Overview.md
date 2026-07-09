@@ -46,17 +46,17 @@ Astronomy and cosmology turn light measurements into distances, stellar properti
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/25 Astronomy and Cosmology/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/25 Astronomy and Cosmology/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/25 Astronomy and Cosmology/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/25 Astronomy and Cosmology/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/25 Astronomy and Cosmology/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/25 Astronomy and Cosmology/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]
+- [Waves](../07%20Waves/00%20Overview.md)
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md)
 
 ## Common Traps
 

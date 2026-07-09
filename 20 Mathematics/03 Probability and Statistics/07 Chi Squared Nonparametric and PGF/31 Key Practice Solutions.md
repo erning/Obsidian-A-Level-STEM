@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/00 Overview|Chi-Squared, Non-Parametric Tests and PGF]]"
+parent: "[Chi-Squared, Non-Parametric Tests and PGF](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Chi-Squared, Non-Parametric Tests and PGF Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/30 Key Practice Problems|Key Practice Problems]]. For tests, check assumptions and state conclusions in context.
+This note gives worked solutions for [Key Practice Problems](30%20Key%20Practice%20Problems.md). For tests, check assumptions and state conclusions in context.
 
 ## Problem 1
 

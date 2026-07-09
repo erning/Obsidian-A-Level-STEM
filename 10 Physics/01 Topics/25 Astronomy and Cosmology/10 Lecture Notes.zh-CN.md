@@ -2,7 +2,7 @@
 title: Astronomy and Cosmology 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]]"
+parent: "[Astronomy and Cosmology](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -19,7 +19,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/astronomy-and-cosmology.svg]]
+![astronomy-and-cosmology](../../../assets/generated/physics/astronomy-and-cosmology.svg)
 
 这张图把恒星性质和宇宙学证据放在一起：光度、温度、半径、红移和距离都来自光的观测。
 
@@ -253,6 +253,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-- [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]
+- [Waves](../07%20Waves/00%20Overview.md)
+- [Superposition](../08%20Superposition/00%20Overview.md)
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md)

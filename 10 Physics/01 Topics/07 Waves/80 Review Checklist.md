@@ -2,7 +2,7 @@
 title: Waves Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]"
+parent: "[Waves](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -90,13 +90,13 @@ picture.
 ## Connections
 
 - [ ] I can connect phase and displacement to
-  [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]].
+  [Superposition](../08%20Superposition/00%20Overview.md).
 - [ ] I can connect period, frequency, and amplitude to
-  [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]].
+  [Oscillations](../17%20Oscillations/00%20Overview.md).
 - [ ] I can connect electromagnetic radiation to
-  [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]].
+  [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md).
 - [ ] I can connect Doppler shifts and spectra to
-  [[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]].
+  [Astronomy and Cosmology](../25%20Astronomy%20and%20Cosmology/00%20Overview.md).
 
 ## Ready to Move On When
 

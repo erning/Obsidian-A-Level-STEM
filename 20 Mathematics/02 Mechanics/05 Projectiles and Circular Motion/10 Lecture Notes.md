@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/00 Overview|Projectiles and Circular Motion]]"
+parent: "[Projectiles and Circular Motion](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -23,7 +23,7 @@ Projectile motion and circular motion are both two-dimensional models, but they 
 
 ## Visual Guide
 
-![[assets/generated/mathematics/projectiles-and-circular-motion.svg]]
+![projectiles-and-circular-motion](../../../assets/generated/mathematics/projectiles-and-circular-motion.svg)
 
 Figure: use the diagram to compare component motion in projectiles with radial acceleration in circular motion.
 
@@ -222,10 +222,10 @@ Energy is often paired with circular motion. Use conservation of mechanical ener
 
 ## Connections
 
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
-- [[10 Physics/01 Topics/02 Kinematics/00 Overview|Physics Kinematics]]
-- [[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Physics Motion in a Circle]]
+- [Kinematics and Newtonian Motion](../02%20Kinematics%20and%20Newtonian%20Motion/00%20Overview.md)
+- [Work, Energy, Power and Elasticity](../04%20Work%20Energy%20Power%20and%20Elasticity/00%20Overview.md)
+- [Physics Kinematics](../../../10%20Physics/01%20Topics/02%20Kinematics/00%20Overview.md)
+- [Physics Motion in a Circle](../../../10%20Physics/01%20Topics/12%20Motion%20in%20a%20Circle/00%20Overview.md)
 
 ## Study Sequence
 

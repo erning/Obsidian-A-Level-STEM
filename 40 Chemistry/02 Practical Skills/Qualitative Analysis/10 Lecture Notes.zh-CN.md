@@ -118,7 +118,7 @@ tags:
 
 ## 连接
 
-- [[40 Chemistry/02 Practical Skills/Experimental Design and Safety/10 Lecture Notes|Experimental Design and Safety]] 讲未知物的安全处理。
-- [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/10 Lecture Notes|Measurement, Observation and Calculation]] 讲记录规范。
-- [[40 Chemistry/04 Reference/Chemical Formulae and Equations|Chemical Formulae and Equations]] 支持写出检验的离子方程式。
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]] 和 [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]] 提供有机检验背后的原理。
+- [Experimental Design and Safety](../Experimental%20Design%20and%20Safety/10%20Lecture%20Notes.md) 讲未知物的安全处理。
+- [Measurement, Observation and Calculation](../Measurement%20Observation%20and%20Calculation/10%20Lecture%20Notes.md) 讲记录规范。
+- [Chemical Formulae and Equations](../../04%20Reference/Chemical%20Formulae%20and%20Equations.md) 支持写出检验的离子方程式。
+- [Carbonyl Compounds](../../01%20Topics/17%20Carbonyl%20Compounds/00%20Overview.md) 和 [Hydroxy Compounds](../../01%20Topics/16%20Hydroxy%20Compounds/00%20Overview.md) 提供有机检验背后的原理。

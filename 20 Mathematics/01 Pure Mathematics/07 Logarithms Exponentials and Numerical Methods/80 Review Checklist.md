@@ -3,7 +3,7 @@ title: Logarithms, Exponentials and Numerical Methods Review Checklist
 subject: Mathematics
 syllabus:
   - 9709
-parent: "[[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]"
+parent: "[Logarithms, Exponentials and Numerical Methods](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -69,6 +69,6 @@ return to the lecture notes or worked examples.
 - [ ] I can use sign changes to locate roots.
 - [ ] I can carry out fixed-point iteration with sensible rounding.
 - [ ] I can explain how an iteration formula relates to the original equation.
-- [ ] I can connect this topic to [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]],
-      [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]],
-      and [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]].
+- [ ] I can connect this topic to [Differentiation](../05%20Differentiation/00%20Overview.md),
+      [Integration](../06%20Integration/00%20Overview.md),
+      and [Complex Numbers](../09%20Complex%20Numbers/00%20Overview.md).

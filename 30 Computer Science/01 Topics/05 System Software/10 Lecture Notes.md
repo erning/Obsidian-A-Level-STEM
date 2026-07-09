@@ -2,7 +2,7 @@
 title: System Software Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]]"
+parent: "[System Software](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -272,10 +272,10 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]]
+- [System Software](../16%20System%20Software/00%20Overview.md)
   extends this at A Level with process scheduling, virtual memory, and the stages
   of compilation (lexical, syntax, semantic, optimisation, code generation).
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]]
+- [Programming](../11%20Programming/00%20Overview.md)
   produces the source code that the translators in this note convert into a
   runnable program, and uses the IDE features described here.
 

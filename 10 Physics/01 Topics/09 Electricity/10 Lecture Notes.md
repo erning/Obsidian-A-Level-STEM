@@ -2,7 +2,7 @@
 title: Electricity Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]]"
+parent: "[Electricity](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -25,7 +25,7 @@ Every formula in this topic is attached to one of those ideas. If you keep charg
 
 ## Visual Guide
 
-![[assets/generated/physics/electricity.svg]]
+![electricity](../../../assets/generated/physics/electricity.svg)
 
 The visual guide shows the basic circuit language: charge flows around a complete circuit, potential difference is measured across a component, and resistance controls the size of the current.
 
@@ -400,6 +400,6 @@ You should be able to answer these without looking back:
 
 ## Connections
 
-- [[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]] uses these definitions to analyse complete circuits.
-- [[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]] gives a deeper model of force and energy per unit charge.
-- [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]] uses current as moving charge that produces magnetic effects.
+- [D.C. Circuits](../10%20DC%20Circuits/00%20Overview.md) uses these definitions to analyse complete circuits.
+- [Electric Fields](../18%20Electric%20Fields/00%20Overview.md) gives a deeper model of force and energy per unit charge.
+- [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md) uses current as moving charge that produces magnetic effects.

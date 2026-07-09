@@ -44,19 +44,19 @@ Carbonyl compounds introduce aldehydes and ketones, their preparation from alcoh
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]] provides oxidation routes to carbonyl compounds and reduction routes back to alcohols.
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]] follows from oxidation of aldehydes.
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|Nitrogen Compounds]] connects carbonyl compounds to hydroxynitriles.
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|Analytical Techniques]] uses spectra to identify functional groups and molecular mass.
+- [Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md) provides oxidation routes to carbonyl compounds and reduction routes back to alcohols.
+- [Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) follows from oxidation of aldehydes.
+- [Nitrogen Compounds](../19%20Nitrogen%20Compounds/00%20Overview.md) connects carbonyl compounds to hydroxynitriles.
+- [Analytical Techniques](../22%20Analytical%20Techniques/00%20Overview.md) uses spectra to identify functional groups and molecular mass.
 
 ## Common Traps
 

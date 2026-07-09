@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/00 Overview|Momentum, Collisions and Impulse]]"
+parent: "[Momentum, Collisions and Impulse](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics

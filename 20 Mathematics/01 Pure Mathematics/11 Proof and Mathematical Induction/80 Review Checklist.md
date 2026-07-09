@@ -3,7 +3,7 @@ title: Proof and Mathematical Induction Review Checklist
 subject: Mathematics
 syllabus:
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/00 Overview|Proof and Mathematical Induction]]"
+parent: "[Proof and Mathematical Induction](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -12,7 +12,7 @@ tags:
 
 # Proof and Mathematical Induction Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/10 Lecture Notes|Proof and Mathematical Induction Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Proof and Mathematical Induction Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

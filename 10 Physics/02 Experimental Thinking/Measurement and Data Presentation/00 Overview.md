@@ -44,18 +44,18 @@ Measurement turns a physical idea into evidence. A result is incomplete unless i
 
 ## Learning Materials
 
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/20 Worked Examples|Worked Examples]]
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physical Quantities and Units]]
-- [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]
-- [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]
+- [Physical Quantities and Units](../../01%20Topics/01%20Physical%20Quantities%20and%20Units/00%20Overview.md)
+- [Experimental Design and Data Analysis](../Experimental%20Design%20and%20Data%20Analysis/00%20Overview.md)
+- [Math Tools and Formulae](../../04%20Reference/Math%20Tools%20and%20Formulae.md)
 
 ## Common Traps
 

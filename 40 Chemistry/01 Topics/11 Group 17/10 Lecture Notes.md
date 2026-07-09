@@ -288,6 +288,6 @@ $$
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/06 Electrochemistry/00 Overview|Electrochemistry]]
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]]
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]]
+- [Electrochemistry](../06%20Electrochemistry/00%20Overview.md)
+- [Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md)
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md)

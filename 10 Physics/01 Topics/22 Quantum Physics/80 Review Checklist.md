@@ -2,7 +2,7 @@
 title: Quantum Physics Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]"
+parent: "[Quantum Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -83,5 +83,5 @@ the evidence supports.
 - [ ] I can explain electron diffraction using de Broglie wavelength.
 - [ ] I can calculate wavelengths from atomic energy-level transitions.
 - [ ] I can distinguish emission and absorption line spectra.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]
-      and [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]].
+- [ ] I can connect this topic to [Superposition](../08%20Superposition/00%20Overview.md)
+      and [Nuclear Physics](../23%20Nuclear%20Physics/00%20Overview.md).

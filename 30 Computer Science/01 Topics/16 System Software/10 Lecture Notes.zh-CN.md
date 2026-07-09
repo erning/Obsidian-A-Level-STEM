@@ -2,7 +2,7 @@
 title: System Software 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]]"
+parent: "[System Software](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -294,5 +294,5 @@ RPN 非常适合 **基于栈的求值**：
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]]——AS 基础：OS 的作用以及系统软件与应用软件的区别。
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]]——寄存器、取指执行周期和中断，为这里的进程管理与内核处理提供支撑。
+- [System Software](../05%20System%20Software/00%20Overview.md)——AS 基础：OS 的作用以及系统软件与应用软件的区别。
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md)——寄存器、取指执行周期和中断，为这里的进程管理与内核处理提供支撑。

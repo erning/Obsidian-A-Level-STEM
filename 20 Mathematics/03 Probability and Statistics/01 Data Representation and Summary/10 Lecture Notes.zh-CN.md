@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/01 Data Representation and Summary/00 Overview|Data Representation and Summary]]"
+parent: "[Data Representation and Summary](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -25,7 +25,7 @@ tags:
 
 ## 关联内容
 
-- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
+- [Sampling, Estimation and Hypothesis Tests](../06%20Sampling%20Estimation%20and%20Hypothesis%20Tests/00%20Overview.md)
 
 ## 学习顺序
 
@@ -37,7 +37,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/data-representation-and-summary.svg]]
+![data-representation-and-summary](../../../assets/generated/mathematics/data-representation-and-summary.svg)
 
 这张图把直方图、箱线图和离群值放在一起看。直方图看整体形状，箱线图看中位数和四分位数，离群值提醒你平均数可能会被拉偏。
 

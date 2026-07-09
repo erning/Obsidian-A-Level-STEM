@@ -2,7 +2,7 @@
 title: Programming Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]]"
+parent: "[Programming](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -11,7 +11,7 @@ tags:
 
 # Programming Key Practice Problems
 
-These problems cover AS section 11 Programming: variables and expressions, selection with `IF` and `CASE`, the three loop types, and procedures and functions with parameter passing. Attempt every problem on paper before checking the [[31 Key Practice Solutions|solutions file]]. No answers appear in this file so it can be used for active recall.
+These problems cover AS section 11 Programming: variables and expressions, selection with `IF` and `CASE`, the three loop types, and procedures and functions with parameter passing. Attempt every problem on paper before checking the [solutions file](31%20Key%20Practice%20Solutions.md). No answers appear in this file so it can be used for active recall.
 
 ## A. Variables and expressions
 

@@ -171,7 +171,7 @@ acyl chlorides > alkyl chlorides > halogenoarenes
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|AS Carboxylic Acids and Derivatives]]
-- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/00 Overview|A Level Hydroxy Compounds]]
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/00 Overview|A Level Nitrogen Compounds]]
-- [[40 Chemistry/01 Topics/31 Halogen Compounds/00 Overview|A Level Halogen Compounds]]
+- [AS Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md)
+- [A Level Hydroxy Compounds](../32%20Hydroxy%20Compounds/00%20Overview.md)
+- [A Level Nitrogen Compounds](../34%20Nitrogen%20Compounds/00%20Overview.md)
+- [A Level Halogen Compounds](../31%20Halogen%20Compounds/00%20Overview.md)

@@ -48,6 +48,6 @@ Examples of observation wording:
 
 ## Connections
 
-- [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/00 Overview|Measurement, Observation and Calculation]]
-- [[40 Chemistry/04 Reference/Chemical Formulae and Equations|Chemical Formulae and Equations]]
-- [[40 Chemistry/04 Reference/Data and Periodic Table|Data and Periodic Table]]
+- [Measurement, Observation and Calculation](../Measurement%20Observation%20and%20Calculation/00%20Overview.md)
+- [Chemical Formulae and Equations](../../04%20Reference/Chemical%20Formulae%20and%20Equations.md)
+- [Data and Periodic Table](../../04%20Reference/Data%20and%20Periodic%20Table.md)

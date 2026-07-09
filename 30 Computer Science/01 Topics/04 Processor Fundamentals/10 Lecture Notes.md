@@ -2,7 +2,7 @@
 title: Processor Fundamentals Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]]"
+parent: "[Processor Fundamentals](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -438,16 +438,16 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] supplies the
+- [Hardware](../03%20Hardware/00%20Overview.md) supplies the
   logic gates, flip-flops, and SRAM/DRAM that the registers, cache, and buses in
   this topic are built from.
-- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]]
-  and [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]]
+- [Information Representation](../01%20Information%20Representation/00%20Overview.md)
+  and [Data Representation](../13%20Data%20Representation/00%20Overview.md)
   supply the binary, hexadecimal, signed-value, and bit-pattern ideas used in
   machine code, shifts, and masks.
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]]
+- [Hardware and Virtual Machines](../15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md)
   takes this CPU further into RISC versus CISC, parallel processing, and the
-  relationship between virtual machines and real hardware; [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]]
+  relationship between virtual machines and real hardware; [Further Programming](../20%20Further%20Programming/00%20Overview.md)
   reuses the same low-level ideas when reasoning about memory, data movement,
   and control flow.
 

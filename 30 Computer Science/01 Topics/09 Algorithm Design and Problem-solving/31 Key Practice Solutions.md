@@ -2,7 +2,7 @@
 title: Algorithm Design and Problem-solving Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]]"
+parent: "[Algorithm Design and Problem-solving](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -11,7 +11,7 @@ tags:
 
 # Algorithm Design and Problem-solving Key Practice Solutions
 
-This note gives worked solutions for [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/30 Key Practice Problems|Algorithm Design and Problem-solving Key Practice Problems]]. All pseudocode follows the CAIE Pseudocode Guide, including the assignment arrow `←`.
+This note gives worked solutions for [Algorithm Design and Problem-solving Key Practice Problems](30%20Key%20Practice%20Problems.md). All pseudocode follows the CAIE Pseudocode Guide, including the assignment arrow `←`.
 
 ## A. Abstraction and decomposition
 

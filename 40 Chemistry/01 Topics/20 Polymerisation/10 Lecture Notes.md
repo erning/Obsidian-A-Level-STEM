@@ -155,6 +155,6 @@ Good answers should connect the disposal problem to chemical structure. Poly(alk
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]]
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]]
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|Analytical Techniques]]
+- [Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md)
+- [Organic Synthesis](../21%20Organic%20Synthesis/00%20Overview.md)
+- [Analytical Techniques](../22%20Analytical%20Techniques/00%20Overview.md)

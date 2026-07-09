@@ -43,19 +43,19 @@ Organic synthesis brings the AS organic topics together. The aim is to recognise
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/10 Lecture Notes.zh-CN|中文讲义]]
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]] provides naming, formula and mechanism language.
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]], [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]], [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]], [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]], [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]] and [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|Nitrogen Compounds]] form the AS synthesis toolkit.
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|Analytical Techniques]] supplies evidence for identifying products.
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/00 Overview|A Level Organic Synthesis]] extends synthesis routes at A Level.
+- [An Introduction to AS Level Organic Chemistry](../13%20An%20Introduction%20to%20AS%20Level%20Organic%20Chemistry/00%20Overview.md) provides naming, formula and mechanism language.
+- [Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md), [Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md), [Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md), [Carbonyl Compounds](../17%20Carbonyl%20Compounds/00%20Overview.md), [Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) and [Nitrogen Compounds](../19%20Nitrogen%20Compounds/00%20Overview.md) form the AS synthesis toolkit.
+- [Analytical Techniques](../22%20Analytical%20Techniques/00%20Overview.md) supplies evidence for identifying products.
+- [A Level Organic Synthesis](../36%20Organic%20Synthesis/00%20Overview.md) extends synthesis routes at A Level.
 
 ## Common Traps
 

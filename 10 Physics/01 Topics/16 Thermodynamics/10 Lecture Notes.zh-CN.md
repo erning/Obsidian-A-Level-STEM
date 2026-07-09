@@ -2,7 +2,7 @@
 title: Thermodynamics 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]"
+parent: "[Thermodynamics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -19,7 +19,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/thermodynamics.svg]]
+![thermodynamics](../../../assets/generated/physics/thermodynamics.svg)
 
 这张图用能量流向看热力学：能量可以通过热传递进入系统，也可以通过外界对系统做功进入系统，最后表现为内能的变化。
 
@@ -52,7 +52,7 @@ $$
 
 温度升高通常意味着内能增加。很多情况下，这是因为分子的平均无规则动能增加。发生物态变化时，温度可能不变，但内能仍然增加，因为能量主要用来改变分子间的距离和排列，而不是提高平均动能。
 
-对理想气体来说，分子间势能被忽略，所以内能主要来自分子的动能。这就是上一节 [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]] 中“温度和分子平均平动动能成正比”为什么重要。
+对理想气体来说，分子间势能被忽略，所以内能主要来自分子的动能。这就是上一节 [Ideal Gases](../15%20Ideal%20Gases/00%20Overview.md) 中“温度和分子平均平动动能成正比”为什么重要。
 
 ## 3. 加热和做功
 
@@ -271,5 +271,5 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]
-- [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]]
+- [Temperature](../14%20Temperature/00%20Overview.md)
+- [Ideal Gases](../15%20Ideal%20Gases/00%20Overview.md)

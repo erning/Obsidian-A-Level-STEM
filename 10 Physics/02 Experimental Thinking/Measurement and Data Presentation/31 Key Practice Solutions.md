@@ -2,7 +2,7 @@
 title: Measurement and Data Presentation Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]"
+parent: "[Measurement and Data Presentation](00%20Overview.md)"
 status: active
 tags:
   - physics/9702
@@ -13,7 +13,7 @@ tags:
 # Measurement and Data Presentation Key Practice Solutions
 
 Use these solutions to check practical judgement, uncertainty handling, graph
-work, and final presentation for [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/30 Key Practice Problems|Key Practice Problems]].
+work, and final presentation for [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Measurement, Tables, and Significant Figures
 

@@ -2,7 +2,7 @@
 title: Databases Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]]"
+parent: "[Databases](00%20Overview.md)"
 status: active
 tags:
   - computerscience/data
@@ -306,8 +306,8 @@ Read it in this order: which table(s) (`FROM` + `INNER JOIN`), which rows (`WHER
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] supplies the validation, access rights and backup concepts that appear here as DBMS data-integrity and data-security features.
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] shares the idea of structured records and field types, which reappear here as SQL data types and table columns.
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) supplies the validation, access rights and backup concepts that appear here as DBMS data-integrity and data-security features.
+- [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) shares the idea of structured records and field types, which reappear here as SQL data types and table columns.
 
 ## Study Sequence
 

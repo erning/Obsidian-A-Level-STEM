@@ -2,7 +2,7 @@
 title: Programming Worked Examples
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]]"
+parent: "[Programming](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming

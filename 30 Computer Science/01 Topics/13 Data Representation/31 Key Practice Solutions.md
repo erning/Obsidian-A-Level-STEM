@@ -2,7 +2,7 @@
 title: Data Representation Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]]"
+parent: "[Data Representation](00%20Overview.md)"
 status: active
 tags:
   - computerscience/data
@@ -11,7 +11,7 @@ tags:
 
 # Data Representation Key Practice Solutions
 
-This note gives worked solutions for [[30 Computer Science/01 Topics/13 Data Representation/30 Key Practice Problems|Data Representation Key Practice Problems]]. Each solution shows the full working so you can find the step where your reasoning diverged, not just compare final answers. All floating-point values use an 8-bit mantissa and a 4-bit exponent in two's complement unless stated otherwise.
+This note gives worked solutions for [Data Representation Key Practice Problems](30%20Key%20Practice%20Problems.md). Each solution shows the full working so you can find the step where your reasoning diverged, not just compare final answers. All floating-point values use an 8-bit mantissa and a 4-bit exponent in two's complement unless stated otherwise.
 
 ## A. User-defined types
 

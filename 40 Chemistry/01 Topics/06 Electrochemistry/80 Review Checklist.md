@@ -44,4 +44,4 @@ tags:
 - You can explain redox using both electron transfer and oxidation number.
 - You can balance a redox equation and check total charge.
 - You can recognise disproportionation from a full equation.
-- You can see how these redox tools prepare for [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|A Level Electrochemistry]].
+- You can see how these redox tools prepare for [A Level Electrochemistry](../24%20Electrochemistry/00%20Overview.md).

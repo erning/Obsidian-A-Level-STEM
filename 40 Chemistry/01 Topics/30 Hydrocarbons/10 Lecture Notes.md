@@ -134,7 +134,7 @@ For example, methylbenzene tends to form 2- and 4-nitromethylbenzene on nitratio
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|AS Hydrocarbons]]
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/00 Overview|An Introduction to A Level Organic Chemistry]]
-- [[40 Chemistry/01 Topics/31 Halogen Compounds/00 Overview|A Level Halogen Compounds]]
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|A Level Carboxylic Acids and Derivatives]]
+- [AS Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md)
+- [An Introduction to A Level Organic Chemistry](../29%20An%20Introduction%20to%20A%20Level%20Organic%20Chemistry/00%20Overview.md)
+- [A Level Halogen Compounds](../31%20Halogen%20Compounds/00%20Overview.md)
+- [A Level Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md)

@@ -45,6 +45,6 @@ tags:
 
 ## Ready to Connect
 
-- [ ] I can connect Group 2 solubility to [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|Chemical Energetics]].
-- [ ] I can connect Group 2 trends to [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]].
-- [ ] I can revisit [[40 Chemistry/01 Topics/10 Group 2/00 Overview|AS Group 2]] without confusing AS reaction descriptions with A Level energetic explanations.
+- [ ] I can connect Group 2 solubility to [Chemical Energetics](../23%20Chemical%20Energetics/00%20Overview.md).
+- [ ] I can connect Group 2 trends to [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md).
+- [ ] I can revisit [AS Group 2](../10%20Group%202/00%20Overview.md) without confusing AS reaction descriptions with A Level energetic explanations.

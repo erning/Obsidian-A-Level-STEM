@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/00 Overview|Counting and Probability]]"
+parent: "[Counting and Probability](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -23,7 +23,7 @@ Probability becomes reliable only after the sample space is clear. Counting is t
 
 ## Visual Guide
 
-![[assets/generated/mathematics/counting-and-probability.svg]]
+![counting-and-probability](../../../assets/generated/mathematics/counting-and-probability.svg)
 
 Figure: use the probability tree to see how multi-stage sample spaces branch.
 
@@ -176,7 +176,7 @@ A table is useful for two dice, two categorical variables, or any situation wher
 
 ## Connections
 
-- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]
+- [Discrete Random Variables](../03%20Discrete%20Random%20Variables/00%20Overview.md)
 
 ## Study Sequence
 

@@ -166,4 +166,4 @@ Feasibility is thermodynamic. It does not prove that a reaction is fast. A react
 
 ## Connections
 
-This topic supports [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|Electrochemistry]], where $\Delta G^\circ$ is linked to standard cell potential. It also supports inorganic trend explanations in [[40 Chemistry/01 Topics/27 Group 2/00 Overview|Group 2]], especially solubility and thermal stability patterns.
+This topic supports [Electrochemistry](../24%20Electrochemistry/00%20Overview.md), where $\Delta G^\circ$ is linked to standard cell potential. It also supports inorganic trend explanations in [Group 2](../27%20Group%202/00%20Overview.md), especially solubility and thermal stability patterns.

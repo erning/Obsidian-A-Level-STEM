@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]"
+parent: "[Work, Energy, Power and Elasticity](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics

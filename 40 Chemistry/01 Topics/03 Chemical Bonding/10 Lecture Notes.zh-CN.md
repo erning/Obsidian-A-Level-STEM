@@ -217,6 +217,6 @@ Dot-and-cross diagrams 用不同符号表示不同原子提供的外层电子。
 
 ## 连接
 
-- [[40 Chemistry/01 Topics/01 Atomic Structure/10 Lecture Notes|Atomic Structure]] supplies electronic configuration and orbital ideas.
-- [[40 Chemistry/01 Topics/04 States of Matter/10 Lecture Notes|States of Matter]] applies bonding and intermolecular forces to structures and properties.
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]] uses $\sigma$ and $\pi$ bonding in organic molecules.
+- [Atomic Structure](../01%20Atomic%20Structure/10%20Lecture%20Notes.md) supplies electronic configuration and orbital ideas.
+- [States of Matter](../04%20States%20of%20Matter/10%20Lecture%20Notes.md) applies bonding and intermolecular forces to structures and properties.
+- [An Introduction to AS Level Organic Chemistry](../13%20An%20Introduction%20to%20AS%20Level%20Organic%20Chemistry/00%20Overview.md) uses $\sigma$ and $\pi$ bonding in organic molecules.

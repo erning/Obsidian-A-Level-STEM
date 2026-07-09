@@ -2,7 +2,7 @@
 title: Databases 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]]"
+parent: "[Databases](00%20Overview.md)"
 status: active
 tags:
   - computerscience/data
@@ -310,5 +310,5 @@ ORDER BY TotalQty DESC;
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] 提供了这里作为 DBMS 数据完整性与数据安全功能出现的数据有效性检查、访问权限和备份等概念。
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] 与本节共享"结构化记录与字段类型"的思想，后者在此复现为 SQL 的数据类型和表的列。
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) 提供了这里作为 DBMS 数据完整性与数据安全功能出现的数据有效性检查、访问权限和备份等概念。
+- [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) 与本节共享"结构化记录与字段类型"的思想，后者在此复现为 SQL 的数据类型和表的列。

@@ -2,7 +2,7 @@
 title: Further Programming Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]]"
+parent: "[Further Programming](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -54,7 +54,7 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Trace how a declarative system satisfies a goal by matching facts and applying rules.
 - [ ] Explain why a sequential file is read from the start while a random file can seek directly.
 - [ ] Trace an exception from the risky statement to the first matching handler.
-- [ ] Connect low-level programming to [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] by explaining how addressing modes locate operands.
+- [ ] Connect low-level programming to [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) by explaining how addressing modes locate operands.
 
 ## Common Errors to Avoid
 
@@ -79,6 +79,6 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can choose serial, sequential, or random file organisation from the access pattern.
 - [ ] I can write file-processing code that opens in the correct mode, processes records, and closes the file.
 - [ ] I can write exception-handling code that catches specific failures before general ones.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] by explaining how procedural code is extended.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] by explaining how robust programs are tested and maintained.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] through file organisation and records.
+- [ ] I can connect this topic to [Programming](../11%20Programming/00%20Overview.md) by explaining how procedural code is extended.
+- [ ] I can connect this topic to [Software Development](../12%20Software%20Development/00%20Overview.md) by explaining how robust programs are tested and maintained.
+- [ ] I can connect this topic to [Data Representation](../13%20Data%20Representation/00%20Overview.md) through file organisation and records.

@@ -44,19 +44,19 @@ Security protects data and systems from harm; privacy protects who can see data;
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]] supplies the network and internet setting where malware, hackers, phishing, pharming, parity checks, and checksums become necessary.
-- [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] extends these foundations into key-based encryption, SSL/TLS, digital certificates, and trusted public keys.
-- [[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]] reuses validation, verification, access rights, backup, and data-integrity ideas inside a DBMS.
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]] connects the privacy and access-control ideas here to professional responsibility when handling other people's data.
+- [Communication](../02%20Communication/00%20Overview.md) supplies the network and internet setting where malware, hackers, phishing, pharming, parity checks, and checksums become necessary.
+- [Security](../17%20Security/00%20Overview.md) extends these foundations into key-based encryption, SSL/TLS, digital certificates, and trusted public keys.
+- [Databases](../08%20Databases/00%20Overview.md) reuses validation, verification, access rights, backup, and data-integrity ideas inside a DBMS.
+- [Ethics and Ownership](../07%20Ethics%20and%20Ownership/00%20Overview.md) connects the privacy and access-control ideas here to professional responsibility when handling other people's data.
 
 ## Common Traps
 

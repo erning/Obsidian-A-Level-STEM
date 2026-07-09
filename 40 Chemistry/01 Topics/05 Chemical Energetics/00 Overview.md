@@ -25,12 +25,12 @@ Chemical energetics tracks energy transfer during reactions. AS work focuses on 
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/10 Lecture Notes.zh-CN|Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## What to Learn
 
@@ -61,9 +61,9 @@ For Hess cycles, do not memorise one diagram. Use the principle that enthalpy ch
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/00 Overview|Reaction Kinetics]] shares activation energy and reaction pathway diagrams.
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|A Level Chemical Energetics]] extends energetics into lattice energy, Born-Haber cycles, entropy and Gibbs free energy.
-- [[40 Chemistry/02 Practical Skills/00 Overview|Practical Skills]] supports calorimetry measurements, graph use and uncertainty.
+- [Reaction Kinetics](../08%20Reaction%20Kinetics/00%20Overview.md) shares activation energy and reaction pathway diagrams.
+- [A Level Chemical Energetics](../23%20Chemical%20Energetics/00%20Overview.md) extends energetics into lattice energy, Born-Haber cycles, entropy and Gibbs free energy.
+- [Practical Skills](../../02%20Practical%20Skills/00%20Overview.md) supports calorimetry measurements, graph use and uncertainty.
 
 ## Common Traps
 

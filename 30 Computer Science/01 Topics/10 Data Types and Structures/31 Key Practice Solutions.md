@@ -2,7 +2,7 @@
 title: Data Types and Structures Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]]"
+parent: "[Data Types and Structures](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -11,7 +11,7 @@ tags:
 
 # Data Types and Structures Key Practice Solutions
 
-Full solutions to the [[30 Key Practice Problems|Key Practice Problems]] for AS section 10. Pseudocode follows the CAIE 9618 Pseudocode Guide, including the assignment arrow ←.
+Full solutions to the [Key Practice Problems](30%20Key%20Practice%20Problems.md) for AS section 10. Pseudocode follows the CAIE 9618 Pseudocode Guide, including the assignment arrow ←.
 
 ## A. Data types and records
 

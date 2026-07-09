@@ -241,8 +241,8 @@ When planning a route, write each step with:
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]]
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]]
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|Nitrogen Compounds]]
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]]
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|Analytical Techniques]]
+- [Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md)
+- [Carbonyl Compounds](../17%20Carbonyl%20Compounds/00%20Overview.md)
+- [Nitrogen Compounds](../19%20Nitrogen%20Compounds/00%20Overview.md)
+- [Organic Synthesis](../21%20Organic%20Synthesis/00%20Overview.md)
+- [Analytical Techniques](../22%20Analytical%20Techniques/00%20Overview.md)

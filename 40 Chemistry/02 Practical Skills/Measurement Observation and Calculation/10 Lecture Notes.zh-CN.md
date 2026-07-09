@@ -115,7 +115,7 @@ $$
 
 ## 连接
 
-- [[40 Chemistry/02 Practical Skills/Experimental Design and Safety/10 Lecture Notes|Experimental Design and Safety]] 提供变量、仪器选择与标准实验操作。
-- [[40 Chemistry/02 Practical Skills/Planning Analysis and Evaluation/10 Lecture Notes|Planning, Analysis and Evaluation]] 把这些测量用于完整的 Paper 5 分析。
-- [[40 Chemistry/04 Reference/Mathematical Tools for Chemistry|Mathematical Tools for Chemistry]] 给出计算规范。
-- [[40 Chemistry/04 Reference/Chemical Formulae and Equations|Chemical Formulae and Equations]] 支持基于方程式的计算。
+- [Experimental Design and Safety](../Experimental%20Design%20and%20Safety/10%20Lecture%20Notes.md) 提供变量、仪器选择与标准实验操作。
+- [Planning, Analysis and Evaluation](../Planning%20Analysis%20and%20Evaluation/10%20Lecture%20Notes.md) 把这些测量用于完整的 Paper 5 分析。
+- [Mathematical Tools for Chemistry](../../04%20Reference/Mathematical%20Tools%20for%20Chemistry.md) 给出计算规范。
+- [Chemical Formulae and Equations](../../04%20Reference/Chemical%20Formulae%20and%20Equations.md) 支持基于方程式的计算。

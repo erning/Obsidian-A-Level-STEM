@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]"
+parent: "[Sampling, Estimation and Hypothesis Tests](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Sampling, Estimation and Hypothesis Tests Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/10 Lecture Notes|Sampling, Estimation and Hypothesis Tests Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Sampling, Estimation and Hypothesis Tests Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

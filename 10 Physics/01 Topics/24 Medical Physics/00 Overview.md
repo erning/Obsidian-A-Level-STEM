@@ -46,17 +46,17 @@ Medical physics applies wave, attenuation, detection, and nuclear ideas to imagi
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/24 Medical Physics/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/24 Medical Physics/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/24 Medical Physics/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/24 Medical Physics/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/24 Medical Physics/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/24 Medical Physics/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]
+- [Waves](../07%20Waves/00%20Overview.md)
+- [Nuclear Physics](../23%20Nuclear%20Physics/00%20Overview.md)
 
 ## Common Traps
 

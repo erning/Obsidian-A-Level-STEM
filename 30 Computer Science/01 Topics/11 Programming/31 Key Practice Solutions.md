@@ -2,7 +2,7 @@
 title: Programming Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]]"
+parent: "[Programming](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -11,7 +11,7 @@ tags:
 
 # Programming Key Practice Solutions
 
-Full solutions to the [[30 Key Practice Problems|Key Practice Problems]] for AS section 11 Programming. Pseudocode follows the CAIE 9618 Pseudocode Guide, including the assignment arrow ←.
+Full solutions to the [Key Practice Problems](30%20Key%20Practice%20Problems.md) for AS section 11 Programming. Pseudocode follows the CAIE 9618 Pseudocode Guide, including the assignment arrow ←.
 
 ## A. Variables and expressions
 

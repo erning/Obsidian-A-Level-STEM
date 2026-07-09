@@ -2,7 +2,7 @@
 title: Algorithm Design and Problem-solving Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]]"
+parent: "[Algorithm Design and Problem-solving](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -11,7 +11,7 @@ tags:
 
 # Algorithm Design and Problem-solving Key Practice Problems
 
-These problems cover the core skills of 9618 AS Section 9. Attempt them on paper before reading [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/31 Key Practice Solutions|the solutions]]. The aim is full written reasoning and correct pseudocode, not just naming terms. No answers are given here on purpose: the point is active recall, decomposition, and writing the official pseudocode with the assignment arrow `←`.
+These problems cover the core skills of 9618 AS Section 9. Attempt them on paper before reading [the solutions](31%20Key%20Practice%20Solutions.md). The aim is full written reasoning and correct pseudocode, not just naming terms. No answers are given here on purpose: the point is active recall, decomposition, and writing the official pseudocode with the assignment arrow `←`.
 
 ## A. Abstraction and decomposition
 
@@ -90,4 +90,4 @@ These problems cover the core skills of 9618 AS Section 9. Attempt them on paper
 
 ---
 
-After finishing, check your working against [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/31 Key Practice Solutions|the solutions]] and re-attempt any question you could not complete in full.
+After finishing, check your working against [the solutions](31%20Key%20Practice%20Solutions.md) and re-attempt any question you could not complete in full.

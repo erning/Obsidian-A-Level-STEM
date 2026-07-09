@@ -2,7 +2,7 @@
 title: Hardware 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]]"
+parent: "[Hardware](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -266,5 +266,5 @@ $$
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] 把这里的逻辑门和内存类型放进 CPU，构成寄存器和总线。
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]] 在 A Level 把逻辑电路推广到布尔代数，并发展出加法器等组合电路。
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) 把这里的逻辑门和内存类型放进 CPU，构成寄存器和总线。
+- [Hardware and Virtual Machines](../15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md) 在 A Level 把逻辑电路推广到布尔代数，并发展出加法器等组合电路。

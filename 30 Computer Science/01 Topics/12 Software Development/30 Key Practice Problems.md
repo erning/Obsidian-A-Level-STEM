@@ -2,7 +2,7 @@
 title: Software Development Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]]"
+parent: "[Software Development](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -13,7 +13,7 @@ tags:
 
 Work through these without looking at the solutions. Most prompts are scenario-based, so aim to justify your answer against the alternatives rather than just naming a term. For design questions, draw the chart and label every flag before writing any pseudocode.
 
-Worked solutions are in [[30 Computer Science/01 Topics/12 Software Development/31 Key Practice Solutions|Key Practice Solutions]].
+Worked solutions are in [Key Practice Solutions](31%20Key%20Practice%20Solutions.md).
 
 ## A. Life cycle
 

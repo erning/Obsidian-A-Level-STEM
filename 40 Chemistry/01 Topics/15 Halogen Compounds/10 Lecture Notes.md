@@ -182,7 +182,7 @@ For any halogenoalkane reaction, decide first whether the reagent is acting as a
 - Reporting the silver nitrate test without warming or noting the precipitate colour.
 ## Connections
 
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]]
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]]
-- [[40 Chemistry/01 Topics/11 Group 17/00 Overview|Group 17]]
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]]
+- [Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md)
+- [Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md)
+- [Group 17](../11%20Group%2017/00%20Overview.md)
+- [Organic Synthesis](../21%20Organic%20Synthesis/00%20Overview.md)

@@ -2,7 +2,7 @@
 title: System Software Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]]"
+parent: "[System Software](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -293,8 +293,8 @@ Result: **16**, which matches `(3 + 5) * 2`. The whole evaluation uses only push
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]] - the AS foundation: roles of the OS and the difference between systems and applications software.
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] - registers, the fetch-execute cycle and interrupts, which underpin process management and kernel handling here.
+- [System Software](../05%20System%20Software/00%20Overview.md) - the AS foundation: roles of the OS and the difference between systems and applications software.
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) - registers, the fetch-execute cycle and interrupts, which underpin process management and kernel handling here.
 
 ## Study Sequence
 

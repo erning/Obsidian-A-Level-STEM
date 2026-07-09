@@ -26,12 +26,12 @@ Reaction kinetics explains how fast reactions happen and why rate changes with c
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/10 Lecture Notes.zh-CN|Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## What to Learn
 
@@ -61,10 +61,10 @@ For data questions, decide what is being measured: concentration change, gas vol
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/00 Overview|Chemical Energetics]] shares activation energy and reaction pathway diagrams.
-- [[40 Chemistry/01 Topics/07 Equilibria/00 Overview|Equilibria]] contrasts rate of reaching equilibrium with equilibrium position.
-- [[40 Chemistry/01 Topics/26 Reaction Kinetics/00 Overview|A Level Reaction Kinetics]] extends kinetics into rate equations, orders of reaction and rate constants.
-- [[40 Chemistry/02 Practical Skills/00 Overview|Practical Skills]] supports rate experiments, graph gradients and uncertainty.
+- [Chemical Energetics](../05%20Chemical%20Energetics/00%20Overview.md) shares activation energy and reaction pathway diagrams.
+- [Equilibria](../07%20Equilibria/00%20Overview.md) contrasts rate of reaching equilibrium with equilibrium position.
+- [A Level Reaction Kinetics](../26%20Reaction%20Kinetics/00%20Overview.md) extends kinetics into rate equations, orders of reaction and rate constants.
+- [Practical Skills](../../02%20Practical%20Skills/00%20Overview.md) supports rate experiments, graph gradients and uncertainty.
 
 ## Common Traps
 

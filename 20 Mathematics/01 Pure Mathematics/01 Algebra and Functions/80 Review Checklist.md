@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]"
+parent: "[Algebra and Functions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -13,7 +13,7 @@ tags:
 
 # Algebra and Functions Review Checklist
 
-Use this after working through [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/10 Lecture Notes|Lecture Notes]], [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/20 Worked Examples|Worked Examples]], and [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/30 Key Practice Problems|Key Practice Problems]].
+Use this after working through [Lecture Notes](10%20Lecture%20Notes.md), [Worked Examples](20%20Worked%20Examples.md), and [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## Core Skills
 
@@ -61,14 +61,14 @@ Use this section while studying. Add examples from your own work.
 
 ## Ready to Move On?
 
-You are ready to connect this topic to [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]] when you can:
+You are ready to connect this topic to [Integration](../06%20Integration/00%20Overview.md) when you can:
 
 - use partial fractions reliably;
 - recognise useful algebraic substitutions;
 - control domain restrictions;
 - read graph features from algebraic form.
 
-You are ready to connect it to [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]] when you can:
+You are ready to connect it to [Complex Numbers](../09%20Complex%20Numbers/00%20Overview.md) when you can:
 
 - use polynomial roots as algebraic objects;
 - work with root-coefficient relations;

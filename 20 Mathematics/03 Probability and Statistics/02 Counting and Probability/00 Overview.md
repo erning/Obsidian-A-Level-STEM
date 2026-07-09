@@ -44,16 +44,16 @@ Probability starts with describing the sample space and counting outcomes withou
 
 ## Learning Materials
 
-- [[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]
+- [Discrete Random Variables](../03%20Discrete%20Random%20Variables/00%20Overview.md)
 
 ## Common Traps
 

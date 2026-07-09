@@ -2,7 +2,7 @@
 title: Software Development 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]]"
+parent: "[Software Development](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -245,5 +245,5 @@ OUTPUT "Scores above average = ", Above
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] 产出了这些生命周期阶段所管理的代码。
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] 把测试与维护延伸到更大的编程范式中。
+- [Programming](../11%20Programming/00%20Overview.md) 产出了这些生命周期阶段所管理的代码。
+- [Further Programming](../20%20Further%20Programming/00%20Overview.md) 把测试与维护延伸到更大的编程范式中。

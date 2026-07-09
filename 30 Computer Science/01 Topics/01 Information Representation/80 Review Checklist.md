@@ -2,7 +2,7 @@
 title: Information Representation Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]]"
+parent: "[Information Representation](00%20Overview.md)"
 status: active
 tags:
   - computerscience/foundations
@@ -50,7 +50,7 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Explain why increasing both bitmap width and height changes file size by a factor of four.
 - [ ] Explain how increasing sampling rate and sampling resolution affects sound quality and file size.
 - [ ] Explain why RLE works on large flat regions but usually not on photographs.
-- [ ] Connect bit patterns and overflow to [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]].
+- [ ] Connect bit patterns and overflow to [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md).
 
 ## Common Errors to Avoid
 
@@ -74,6 +74,6 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can calculate bitmap and sound file sizes with correct units at every step.
 - [ ] I can choose between bitmap and vector graphics for a named use and justify the choice.
 - [ ] I can choose between lossy, lossless, and RLE compression from the type of data and the need for exact recovery.
-- [ ] I can explain how this topic prepares for [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]].
-- [ ] I can connect binary arithmetic and masks to [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]].
-- [ ] I can connect stored media and physical devices to [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]].
+- [ ] I can explain how this topic prepares for [Data Representation](../13%20Data%20Representation/00%20Overview.md).
+- [ ] I can connect binary arithmetic and masks to [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md).
+- [ ] I can connect stored media and physical devices to [Hardware](../03%20Hardware/00%20Overview.md).

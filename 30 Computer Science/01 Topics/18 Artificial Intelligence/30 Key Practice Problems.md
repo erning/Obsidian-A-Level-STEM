@@ -2,7 +2,7 @@
 title: Artificial Intelligence Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]]"
+parent: "[Artificial Intelligence](00%20Overview.md)"
 status: active
 tags:
   - computerscience/advanced

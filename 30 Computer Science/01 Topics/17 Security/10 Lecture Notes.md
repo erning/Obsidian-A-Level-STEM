@@ -2,7 +2,7 @@
 title: Security Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/17 Security/00 Overview|Security]]"
+parent: "[Security](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -204,8 +204,8 @@ When you meet a section 17 question:
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] - AS foundation: threats, simple defences, data integrity.
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]] - the network context where TLS and certificates actually run.
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) - AS foundation: threats, simple defences, data integrity.
+- [Communication and Internet Technologies](../14%20Communication%20and%20Internet%20Technologies/00%20Overview.md) - the network context where TLS and certificates actually run.
 
 ## Study Sequence
 

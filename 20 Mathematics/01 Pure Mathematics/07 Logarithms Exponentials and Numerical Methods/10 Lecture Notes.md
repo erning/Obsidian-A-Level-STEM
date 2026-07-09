@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]"
+parent: "[Logarithms, Exponentials and Numerical Methods](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -27,7 +27,7 @@ For logarithms, protect the domain. For iteration, protect the accuracy. A corre
 
 ## Visual Guide
 
-![[assets/generated/mathematics/logarithms-exponentials-and-numerical-methods.svg]]
+![logarithms-exponentials-and-numerical-methods](../../../assets/generated/mathematics/logarithms-exponentials-and-numerical-methods.svg)
 
 Figure: The guide shows exponential and logarithmic graphs as inverses, together with a tangent-based root approximation. Use it to connect algebra, graphs, and numerical approximation.
 
@@ -299,5 +299,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Physics Capacitance]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Physics Nuclear Physics]]
+- [Physics Capacitance](../../../10%20Physics/01%20Topics/19%20Capacitance/00%20Overview.md)
+- [Physics Nuclear Physics](../../../10%20Physics/01%20Topics/23%20Nuclear%20Physics/00%20Overview.md)

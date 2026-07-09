@@ -3,7 +3,7 @@ title: Proof and Mathematical Induction Key Practice Problems
 subject: Mathematics
 syllabus:
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/00 Overview|Proof and Mathematical Induction]]"
+parent: "[Proof and Mathematical Induction](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure

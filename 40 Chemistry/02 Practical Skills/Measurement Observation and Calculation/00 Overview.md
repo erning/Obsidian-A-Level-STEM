@@ -50,6 +50,6 @@ Paper 3 focuses on manipulation, measurement and observation; presentation of da
 
 ## Connections
 
-- [[40 Chemistry/04 Reference/Mathematical Tools for Chemistry|Mathematical Tools for Chemistry]]
-- [[40 Chemistry/04 Reference/Chemical Formulae and Equations|Chemical Formulae and Equations]]
-- [[40 Chemistry/02 Practical Skills/Planning Analysis and Evaluation/00 Overview|Planning, Analysis and Evaluation]]
+- [Mathematical Tools for Chemistry](../../04%20Reference/Mathematical%20Tools%20for%20Chemistry.md)
+- [Chemical Formulae and Equations](../../04%20Reference/Chemical%20Formulae%20and%20Equations.md)
+- [Planning, Analysis and Evaluation](../Planning%20Analysis%20and%20Evaluation/00%20Overview.md)

@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/00 Overview|Projectiles and Circular Motion]]"
+parent: "[Projectiles and Circular Motion](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Projectiles and Circular Motion Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/10 Lecture Notes|Projectiles and Circular Motion Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Projectiles and Circular Motion Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

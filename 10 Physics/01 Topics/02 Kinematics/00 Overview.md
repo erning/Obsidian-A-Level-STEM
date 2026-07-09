@@ -44,17 +44,17 @@ Kinematics describes motion before asking what causes it.
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/02 Kinematics/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/02 Kinematics/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/02 Kinematics/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/02 Kinematics/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/02 Kinematics/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/02 Kinematics/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]]
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
+- [Dynamics](../03%20Dynamics/00%20Overview.md)
+- [Kinematics and Newtonian Motion](../../../20%20Mathematics/02%20Mechanics/02%20Kinematics%20and%20Newtonian%20Motion/00%20Overview.md)
 
 ## Common Traps
 

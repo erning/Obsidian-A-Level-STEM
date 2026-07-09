@@ -2,7 +2,7 @@
 title: Security, Privacy and Data Integrity Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]]"
+parent: "[Security, Privacy and Data Integrity](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -11,7 +11,7 @@ tags:
 
 # Security, Privacy and Data Integrity Key Practice Solutions
 
-This note gives worked solutions for [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/30 Key Practice Problems|Security, Privacy and Data Integrity Key Practice Problems]]. Each solution shows the full reasoning, including the step-by-step computations for the check digit, the parity block, and the checksum, so you can find the step where your argument diverged rather than only comparing final answers.
+This note gives worked solutions for [Security, Privacy and Data Integrity Key Practice Problems](30%20Key%20Practice%20Problems.md). Each solution shows the full reasoning, including the step-by-step computations for the check digit, the parity block, and the checksum, so you can find the step where your argument diverged rather than only comparing final answers.
 
 ## A. Security and threats
 

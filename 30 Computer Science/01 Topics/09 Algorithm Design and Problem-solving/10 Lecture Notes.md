@@ -2,7 +2,7 @@
 title: Algorithm Design and Problem-solving Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]]"
+parent: "[Algorithm Design and Problem-solving](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -475,12 +475,12 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]]
+- [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md)
   extends these skills with searching and sorting algorithms, recursion, ADTs,
   and complexity analysis.
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]]
+- [Programming](../11%20Programming/00%20Overview.md)
   turns these designs into real code in a high-level language.
-- [[30 Computer Science/04 Reference/Pseudocode and Programming Reference|Pseudocode and Programming Reference]]
+- [Pseudocode and Programming Reference](../../04%20Reference/Pseudocode%20and%20Programming%20Reference.md)
   is the notation reference for every pseudocode answer.
 
 ## Study Sequence

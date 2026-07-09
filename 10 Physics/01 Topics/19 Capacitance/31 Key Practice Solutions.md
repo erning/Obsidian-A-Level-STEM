@@ -2,7 +2,7 @@
 title: Capacitance Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]"
+parent: "[Capacitance](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/00 Overview|Chi-Squared, Non-Parametric Tests and PGF]]"
+parent: "[Chi-Squared, Non-Parametric Tests and PGF](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -27,9 +27,9 @@ tags:
 
 ## 关联内容
 
-- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]
-- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]
+- [Discrete Random Variables](../03%20Discrete%20Random%20Variables/00%20Overview.md)
+- [Sampling, Estimation and Hypothesis Tests](../06%20Sampling%20Estimation%20and%20Hypothesis%20Tests/00%20Overview.md)
+- [Sequences, Series and Binomial Expansions](../../01%20Pure%20Mathematics/04%20Sequences%20Series%20and%20Binomial%20Expansions/00%20Overview.md)
 
 ## 学习顺序
 
@@ -42,7 +42,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/chi-squared-non-parametric-tests-and-pgf.svg]]
+![chi-squared-non-parametric-tests-and-pgf](../../../assets/generated/mathematics/chi-squared-non-parametric-tests-and-pgf.svg)
 
 这张图用观察频数和期望频数的差异理解卡方统计量。差异越大，统计量越大，越容易落入右尾拒绝域。
 

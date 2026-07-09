@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]]"
+parent: "[Continuous Random Variables](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics

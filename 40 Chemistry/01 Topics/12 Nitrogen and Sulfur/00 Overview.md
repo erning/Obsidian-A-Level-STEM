@@ -42,12 +42,12 @@ Nitrogen and sulfur chemistry connects bonding, Bronsted-Lowry acid-base behavio
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Practice Directions
 
@@ -59,9 +59,9 @@ Nitrogen and sulfur chemistry connects bonding, Bronsted-Lowry acid-base behavio
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/07 Equilibria/00 Overview|Equilibria]] supplies Bronsted-Lowry acid-base language.
-- [[40 Chemistry/01 Topics/06 Electrochemistry/00 Overview|Electrochemistry]] helps track oxidation number changes.
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]] connects combustion in engines with atmospheric pollutants.
+- [Equilibria](../07%20Equilibria/00%20Overview.md) supplies Bronsted-Lowry acid-base language.
+- [Electrochemistry](../06%20Electrochemistry/00%20Overview.md) helps track oxidation number changes.
+- [Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md) connects combustion in engines with atmospheric pollutants.
 
 ## Common Traps
 

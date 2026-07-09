@@ -2,7 +2,7 @@
 title: Further Programming Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]]"
+parent: "[Further Programming](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -11,7 +11,7 @@ tags:
 
 # Further Programming Key Practice Solutions
 
-Full solutions to the [[30 Key Practice Problems|Key Practice Problems]] for A Level section 20 Further Programming. Pseudocode follows the CAIE 9618 Pseudocode Guide, including the assignment arrow ←. OOP code is given in Java or Python; declarative code is in Prolog-style notation.
+Full solutions to the [Key Practice Problems](30%20Key%20Practice%20Problems.md) for A Level section 20 Further Programming. Pseudocode follows the CAIE 9618 Pseudocode Guide, including the assignment arrow ←. OOP code is given in Java or Python; declarative code is in Prolog-style notation.
 
 ## A. Paradigms
 

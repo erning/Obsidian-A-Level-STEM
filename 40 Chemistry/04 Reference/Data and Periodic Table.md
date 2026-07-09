@@ -50,6 +50,6 @@ Check the official data section before using these in assessed work.
 
 ## Connections
 
-- [[40 Chemistry/04 Reference/Mathematical Tools for Chemistry|Mathematical Tools for Chemistry]]
-- [[40 Chemistry/04 Reference/Chemical Formulae and Equations|Chemical Formulae and Equations]]
-- [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/00 Overview|Measurement, Observation and Calculation]]
+- [Mathematical Tools for Chemistry](Mathematical%20Tools%20for%20Chemistry.md)
+- [Chemical Formulae and Equations](Chemical%20Formulae%20and%20Equations.md)
+- [Measurement, Observation and Calculation](../02%20Practical%20Skills/Measurement%20Observation%20and%20Calculation/00%20Overview.md)

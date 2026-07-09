@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]"
+parent: "[Discrete Random Variables](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -26,9 +26,9 @@ tags:
 
 ## 关联内容
 
-- [[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/00 Overview|Counting and Probability]]
-- [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]
-- [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/00 Overview|Chi-Squared, Non-Parametric Tests and PGF]]
+- [Counting and Probability](../02%20Counting%20and%20Probability/00%20Overview.md)
+- [Normal and Poisson Distributions](../04%20Normal%20and%20Poisson%20Distributions/00%20Overview.md)
+- [Chi-Squared, Non-Parametric Tests and PGF](../07%20Chi%20Squared%20Nonparametric%20and%20PGF/00%20Overview.md)
 
 ## 学习顺序
 
@@ -41,7 +41,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/discrete-random-variables.svg]]
+![discrete-random-variables](../../../assets/generated/mathematics/discrete-random-variables.svg)
 
 这张图把单点概率和累计概率放在一起看。离散变量里，端点是否包含非常重要。
 

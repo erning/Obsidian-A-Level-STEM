@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]"
+parent: "[Work, Energy, Power and Elasticity](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Work, Energy, Power and Elasticity Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/30 Key Practice Problems|Work, Energy, Power and Elasticity Key Practice Problems]]. Use it to check energy accounting, units, and the difference between length and extension. Take $g=10\ \mathrm{m\ s^{-2}}$ unless a question states otherwise.
+This note gives worked solutions for [Work, Energy, Power and Elasticity Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check energy accounting, units, and the difference between length and extension. Take $g=10\ \mathrm{m\ s^{-2}}$ unless a question states otherwise.
 
 ## A. Work and Mechanical Energy
 

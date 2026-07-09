@@ -2,7 +2,7 @@
 title: Electricity 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]]"
+parent: "[Electricity](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -26,7 +26,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/electricity.svg]]
+![electricity](../../../assets/generated/physics/electricity.svg)
 
 这张图说明最基本的电路语言：电荷沿闭合电路流动，电势差要跨接在元件两端测量，电阻控制同一电势差下电流的大小。
 
@@ -401,6 +401,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]] 会用这些定义分析完整电路。
-- [[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]] 会进一步解释单位电荷受力和单位电荷能量。
-- [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]] 会把电流看作运动电荷，并研究它产生的磁效应。
+- [D.C. Circuits](../10%20DC%20Circuits/00%20Overview.md) 会用这些定义分析完整电路。
+- [Electric Fields](../18%20Electric%20Fields/00%20Overview.md) 会进一步解释单位电荷受力和单位电荷能量。
+- [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md) 会把电流看作运动电荷，并研究它产生的磁效应。

@@ -159,8 +159,8 @@ $$
 
 ## 连接
 
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]]
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]]
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]]
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]]
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|Analytical Techniques]]
+- [Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md)
+- [Carbonyl Compounds](../17%20Carbonyl%20Compounds/00%20Overview.md)
+- [Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md)
+- [Organic Synthesis](../21%20Organic%20Synthesis/00%20Overview.md)
+- [Analytical Techniques](../22%20Analytical%20Techniques/00%20Overview.md)

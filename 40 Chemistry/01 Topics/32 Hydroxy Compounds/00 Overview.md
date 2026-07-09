@@ -46,19 +46,19 @@ A Level hydroxy compounds extend alcohol chemistry to reactions with acyl chlori
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/10 Lecture Notes|Lecture Notes]] cover alcohol acylation, phenol preparation, phenol reactions, acidity, and directing effects.
-- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/10 Lecture Notes.zh-CN|中文讲义]] gives a concise Chinese companion explanation of alcohol and phenol chemistry.
-- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/20 Worked Examples|Worked Examples]] model ester formation, phenol acidity, ring substitution, and diazonium chemistry.
-- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/30 Key Practice Problems|Key Practice Problems]] provide active recall and synthesis prompts without answers.
-- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/31 Key Practice Solutions|Key Practice Solutions]] mirror the practice set with working and checks.
-- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/80 Review Checklist|Review Checklist]] is the final self-test before using hydroxy compounds in synthesis and nitrogen chemistry.
+- [Lecture Notes](10%20Lecture%20Notes.md) cover alcohol acylation, phenol preparation, phenol reactions, acidity, and directing effects.
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md) gives a concise Chinese companion explanation of alcohol and phenol chemistry.
+- [Worked Examples](20%20Worked%20Examples.md) model ester formation, phenol acidity, ring substitution, and diazonium chemistry.
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md) provide active recall and synthesis prompts without answers.
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md) mirror the practice set with working and checks.
+- [Review Checklist](80%20Review%20Checklist.md) is the final self-test before using hydroxy compounds in synthesis and nitrogen chemistry.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|AS Hydroxy Compounds]] supplies alcohol reactions, oxidation patterns, and basic hydroxy terminology.
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/00 Overview|Hydrocarbons]] supplies arene reactivity for comparison with phenol.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]] connects alcohols and phenols with acyl chloride ester formation.
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/00 Overview|Nitrogen Compounds]] links phenol with diazonium salts and azo compounds.
+- [AS Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md) supplies alcohol reactions, oxidation patterns, and basic hydroxy terminology.
+- [Hydrocarbons](../30%20Hydrocarbons/00%20Overview.md) supplies arene reactivity for comparison with phenol.
+- [Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) connects alcohols and phenols with acyl chloride ester formation.
+- [Nitrogen Compounds](../34%20Nitrogen%20Compounds/00%20Overview.md) links phenol with diazonium salts and azo compounds.
 
 ## Common Traps
 

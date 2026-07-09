@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces/00 Overview|Rigid Bodies and Variable Forces]]"
+parent: "[Rigid Bodies and Variable Forces](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -23,7 +23,7 @@ This topic extends mechanics in two directions. Rigid bodies make shape and rota
 
 ## Visual Guide
 
-![[assets/generated/mathematics/rigid-bodies-and-variable-forces.svg]]
+![rigid-bodies-and-variable-forces](../../../assets/generated/mathematics/rigid-bodies-and-variable-forces.svg)
 
 Figure: use the diagram to connect moment balance for an extended body with calculus for a variable force.
 
@@ -207,10 +207,10 @@ $$
 
 ## Connections
 
-- [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]]
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]
-- [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]
+- [Forces and Equilibrium](../01%20Forces%20and%20Equilibrium/00%20Overview.md)
+- [Work, Energy, Power and Elasticity](../04%20Work%20Energy%20Power%20and%20Elasticity/00%20Overview.md)
+- [Integration](../../01%20Pure%20Mathematics/06%20Integration/00%20Overview.md)
+- [Further Calculus and Differential Equations](../../01%20Pure%20Mathematics/13%20Further%20Calculus%20and%20Differential%20Equations/00%20Overview.md)
 
 ## Study Sequence
 

@@ -3,7 +3,7 @@ title: Matrices and Transformations Worked Examples
 subject: Mathematics
 syllabus:
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]]"
+parent: "[Matrices and Transformations](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure

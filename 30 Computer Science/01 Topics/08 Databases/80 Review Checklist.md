@@ -2,7 +2,7 @@
 title: Databases Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]]"
+parent: "[Databases](00%20Overview.md)"
 status: active
 tags:
   - computerscience/data
@@ -49,8 +49,8 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Trace the invoice or order normalisation example from unnormalised data to final 3NF tables.
 - [ ] Explain why 2NF only matters when the primary key is composite.
 - [ ] Explain how a data dictionary differs from a logical schema.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] by explaining validation, backup, access rights, and integrity inside a DBMS.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] by explaining records, fields, and data types as structured data.
+- [ ] Connect this topic to [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) by explaining validation, backup, access rights, and integrity inside a DBMS.
+- [ ] Connect this topic to [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) by explaining records, fields, and data types as structured data.
 
 ## Common Errors to Avoid
 
@@ -75,5 +75,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can distinguish DBMS features from DBMS tools.
 - [ ] I can write two related `CREATE TABLE` statements with appropriate types and key constraints.
 - [ ] I can write and read joined SQL queries with filters, grouping, aggregates, and sorting.
-- [ ] I can connect database integrity and security back to [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]].
-- [ ] I can see how record structure connects databases to [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]].
+- [ ] I can connect database integrity and security back to [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md).
+- [ ] I can see how record structure connects databases to [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md).

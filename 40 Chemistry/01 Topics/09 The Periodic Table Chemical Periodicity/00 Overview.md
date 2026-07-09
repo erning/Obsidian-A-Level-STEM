@@ -44,12 +44,12 @@ Chemical periodicity links repeated patterns in electronic structure to trends i
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Practice Directions
 
@@ -60,9 +60,9 @@ Chemical periodicity links repeated patterns in electronic structure to trends i
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/01 Atomic Structure/00 Overview|Atomic Structure]] supplies the electronic structure behind periodic trends.
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/00 Overview|Chemical Bonding]] explains the structures and properties of Period 3 elements and compounds.
-- [[40 Chemistry/01 Topics/10 Group 2/00 Overview|Group 2]] and [[40 Chemistry/01 Topics/11 Group 17/00 Overview|Group 17]] apply periodic thinking down groups.
+- [Atomic Structure](../01%20Atomic%20Structure/00%20Overview.md) supplies the electronic structure behind periodic trends.
+- [Chemical Bonding](../03%20Chemical%20Bonding/00%20Overview.md) explains the structures and properties of Period 3 elements and compounds.
+- [Group 2](../10%20Group%202/00%20Overview.md) and [Group 17](../11%20Group%2017/00%20Overview.md) apply periodic thinking down groups.
 
 ## Common Traps
 

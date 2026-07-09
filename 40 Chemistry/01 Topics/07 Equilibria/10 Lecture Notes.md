@@ -277,6 +277,6 @@ For an acid-base question, decide whether the question is about proton transfer,
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/10 Lecture Notes|Chemical Energetics]]
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/10 Lecture Notes|Reaction Kinetics]]
-- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|A Level Equilibria]]
+- [Chemical Energetics](../05%20Chemical%20Energetics/10%20Lecture%20Notes.md)
+- [Reaction Kinetics](../08%20Reaction%20Kinetics/10%20Lecture%20Notes.md)
+- [A Level Equilibria](../25%20Equilibria/00%20Overview.md)

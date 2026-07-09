@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/00 Overview|Proof and Mathematical Induction]]"
+parent: "[Proof and Mathematical Induction](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -22,7 +22,7 @@ Proof is the part of mathematics where you explain why a statement must be true,
 
 ## Visual Guide
 
-![[assets/generated/mathematics/proof-and-mathematical-induction.svg]]
+![proof-and-mathematical-induction](../../../assets/generated/mathematics/proof-and-mathematical-induction.svg)
 
 Figure: The guide shows the logic of induction: a base case starts the chain, and the induction step passes truth from one integer to the next.
 
@@ -279,4 +279,4 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]
+- [Sequences, Series and Binomial Expansions](../04%20Sequences%20Series%20and%20Binomial%20Expansions/00%20Overview.md)

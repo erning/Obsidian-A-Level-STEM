@@ -2,7 +2,7 @@
 title: Thermodynamics Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]"
+parent: "[Thermodynamics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -65,5 +65,5 @@ the system and keep one sign convention fixed.
 - [ ] I can read simple $p$-$V$ graph areas as work done by a gas.
 - [ ] I can explain constant-volume heating, insulated compression, and
       isothermal ideal-gas expansion in energy terms.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]
-      and [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]].
+- [ ] I can connect this topic to [Temperature](../14%20Temperature/00%20Overview.md)
+      and [Ideal Gases](../15%20Ideal%20Gases/00%20Overview.md).

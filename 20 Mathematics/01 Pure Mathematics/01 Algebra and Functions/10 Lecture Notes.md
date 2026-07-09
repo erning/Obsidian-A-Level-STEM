@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]"
+parent: "[Algebra and Functions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -20,7 +20,7 @@ checking answers against domains and graphs.
 
 ## Visual Guide
 
-![[assets/generated/mathematics/algebra-and-functions.svg]]
+![algebra-and-functions](../../../assets/generated/mathematics/algebra-and-functions.svg)
 
 Figure: This guide highlights quadratic form, vertex information, roots, and rational-function asymptotes.
 

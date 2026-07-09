@@ -146,7 +146,7 @@ For a carbonyl compound, first decide whether the carbonyl is at the end of the 
 - Omitting the curly arrow from CN- to the carbonyl carbon in the mechanism.
 ## Connections
 
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]]
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]]
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|Analytical Techniques]]
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|Nitrogen Compounds]]
+- [Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md)
+- [Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md)
+- [Analytical Techniques](../22%20Analytical%20Techniques/00%20Overview.md)
+- [Nitrogen Compounds](../19%20Nitrogen%20Compounds/00%20Overview.md)

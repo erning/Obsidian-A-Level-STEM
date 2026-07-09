@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]]"
+parent: "[Continuous Random Variables](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Continuous Random Variables Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/30 Key Practice Problems|Key Practice Problems]]. Mark support intervals and integral limits as carefully as final numerical answers.
+This note gives worked solutions for [Key Practice Problems](30%20Key%20Practice%20Problems.md). Mark support intervals and integral limits as carefully as final numerical answers.
 
 ## Problem 1
 

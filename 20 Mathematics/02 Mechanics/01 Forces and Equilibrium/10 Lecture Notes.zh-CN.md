@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]]"
+parent: "[Forces and Equilibrium](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -26,7 +26,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/forces-and-equilibrium.svg]]
+![forces-and-equilibrium](../../../assets/generated/mathematics/forces-and-equilibrium.svg)
 
 这张图把力的平衡和力矩平衡分开看。做题时也要这样分开检查：质点只需要合力为零，刚体还要合力矩为零。
 
@@ -212,9 +212,9 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Physics Forces, Density and Pressure]]
+- [Kinematics and Newtonian Motion](../02%20Kinematics%20and%20Newtonian%20Motion/00%20Overview.md)
+- [Work, Energy, Power and Elasticity](../04%20Work%20Energy%20Power%20and%20Elasticity/00%20Overview.md)
+- [Physics Forces, Density and Pressure](../../../10%20Physics/01%20Topics/04%20Forces%20Density%20and%20Pressure/00%20Overview.md)
 
 ## 学习顺序
 

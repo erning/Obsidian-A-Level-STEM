@@ -2,7 +2,7 @@
 title: Astronomy and Cosmology Worked Examples
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]]"
+parent: "[Astronomy and Cosmology](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

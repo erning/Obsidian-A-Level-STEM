@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/03 Trigonometry and Circular Measure/00 Overview|Trigonometry and Circular Measure]]"
+parent: "[Trigonometry and Circular Measure](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -27,7 +27,7 @@ This topic should not be learned as a long list of identities. The aim is to mov
 
 ## Visual Guide
 
-![[assets/generated/mathematics/trigonometry-and-circular-measure.svg]]
+![trigonometry-and-circular-measure](../../../assets/generated/mathematics/trigonometry-and-circular-measure.svg)
 
 Figure: The diagram links a point on the unit circle with the sine wave. Use it to remember that trigonometric graphs are not arbitrary curves; they come from circular motion.
 
@@ -151,7 +151,7 @@ $$
 x=\frac{\pi}{2}+k\pi,\qquad k\in\mathbb Z.
 $$
 
-Transformations use the same principles as in [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]. For instance:
+Transformations use the same principles as in [Coordinate Geometry and Graphs](../02%20Coordinate%20Geometry%20and%20Graphs/00%20Overview.md). For instance:
 
 - $y=3\sin x$ has amplitude $3$.
 - $y=1-\cos 2x$ has period $\pi$ because $\cos 2x$ completes a cycle twice as fast.
@@ -365,6 +365,6 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]
-- [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]]
+- [Differentiation](../05%20Differentiation/00%20Overview.md)
+- [Integration](../06%20Integration/00%20Overview.md)
+- [Complex Numbers](../09%20Complex%20Numbers/00%20Overview.md)

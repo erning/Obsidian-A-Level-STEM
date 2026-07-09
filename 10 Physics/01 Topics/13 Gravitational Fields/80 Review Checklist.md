@@ -2,7 +2,7 @@
 title: Gravitational Fields Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]]"
+parent: "[Gravitational Fields](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -83,5 +83,5 @@ potential energy, orbital speed, or orbital period.
       centre-to-centre distance.
 - [ ] I can explain why gravitational potential approaches zero from below as
       distance increases.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]]
-      and [[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]].
+- [ ] I can connect this topic to [Motion in a Circle](../12%20Motion%20in%20a%20Circle/00%20Overview.md)
+      and [Electric Fields](../18%20Electric%20Fields/00%20Overview.md).

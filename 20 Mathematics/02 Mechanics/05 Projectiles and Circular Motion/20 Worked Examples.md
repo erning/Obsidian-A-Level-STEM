@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/00 Overview|Projectiles and Circular Motion]]"
+parent: "[Projectiles and Circular Motion](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics

@@ -2,7 +2,7 @@
 title: Programming Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]]"
+parent: "[Programming](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -55,7 +55,7 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Explain how a function call is replaced by its return value in a larger expression.
 - [ ] Trace a `BYREF` procedure and show how the caller's variables change.
 - [ ] Explain how an interface lets a caller use a routine without knowing its body.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] by explaining how algorithm designs become code.
+- [ ] Connect this topic to [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) by explaining how algorithm designs become code.
 
 ## Common Errors to Avoid
 
@@ -78,6 +78,6 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can decide whether a reusable block should be a procedure or a function.
 - [ ] I can explain a routine's header, interface, parameters, arguments, and return value.
 - [ ] I can use pass by reference deliberately and explain why it is needed.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] through declarations, arrays, records, and files.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] by explaining how code is designed, tested, and maintained.
-- [ ] I can see how this foundation prepares for [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]].
+- [ ] I can connect this topic to [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) through declarations, arrays, records, and files.
+- [ ] I can connect this topic to [Software Development](../12%20Software%20Development/00%20Overview.md) by explaining how code is designed, tested, and maintained.
+- [ ] I can see how this foundation prepares for [Further Programming](../20%20Further%20Programming/00%20Overview.md).

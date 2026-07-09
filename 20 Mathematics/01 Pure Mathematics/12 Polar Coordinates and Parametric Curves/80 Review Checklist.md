@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/00 Overview|Polar Coordinates and Parametric Curves]]"
+parent: "[Polar Coordinates and Parametric Curves](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -13,7 +13,7 @@ tags:
 
 # Polar Coordinates and Parametric Curves Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/10 Lecture Notes|Polar Coordinates and Parametric Curves Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Polar Coordinates and Parametric Curves Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

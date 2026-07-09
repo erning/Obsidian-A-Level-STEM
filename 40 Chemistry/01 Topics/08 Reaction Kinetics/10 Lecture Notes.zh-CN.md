@@ -168,6 +168,6 @@ Catalyst 题中，要写出 different mechanism with lower activation energy，�
 
 ## 连接
 
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/10 Lecture Notes|Chemical Energetics]]
-- [[40 Chemistry/01 Topics/07 Equilibria/10 Lecture Notes|Equilibria]]
-- [[40 Chemistry/01 Topics/26 Reaction Kinetics/00 Overview|A Level Reaction Kinetics]]
+- [Chemical Energetics](../05%20Chemical%20Energetics/10%20Lecture%20Notes.md)
+- [Equilibria](../07%20Equilibria/10%20Lecture%20Notes.md)
+- [A Level Reaction Kinetics](../26%20Reaction%20Kinetics/00%20Overview.md)

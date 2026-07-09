@@ -2,7 +2,7 @@
 title: Security Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/17 Security/00 Overview|Security]]"
+parent: "[Security](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -11,7 +11,7 @@ tags:
 
 # Security Key Practice Solutions
 
-This note gives worked solutions for [[30 Computer Science/01 Topics/17 Security/30 Key Practice Problems|Security Key Practice Problems]]. Each solution shows the full reasoning, naming the exact key used at each step (sender or recipient, public or private) and what it achieves, so you can find where your reasoning diverged, not just compare final wording.
+This note gives worked solutions for [Security Key Practice Problems](30%20Key%20Practice%20Problems.md). Each solution shows the full reasoning, naming the exact key used at each step (sender or recipient, public or private) and what it achieves, so you can find where your reasoning diverged, not just compare final wording.
 
 ## A. Encryption
 

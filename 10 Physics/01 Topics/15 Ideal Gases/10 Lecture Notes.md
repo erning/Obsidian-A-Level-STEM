@@ -2,7 +2,7 @@
 title: Ideal Gases Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]]"
+parent: "[Ideal Gases](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -27,7 +27,7 @@ The important skill is to move between these two descriptions without losing the
 
 ## Visual Guide
 
-![[assets/generated/physics/ideal-gases.svg]]
+![ideal-gases](../../../assets/generated/physics/ideal-gases.svg)
 
 Figure: The particle model links microscopic molecular motion with macroscopic pressure, volume, and temperature.
 
@@ -297,5 +297,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]
-- [[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]
+- [Temperature](../14%20Temperature/00%20Overview.md)
+- [Thermodynamics](../16%20Thermodynamics/00%20Overview.md)

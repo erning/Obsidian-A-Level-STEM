@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]"
+parent: "[Differentiation](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -20,7 +20,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/differentiation.svg]]
+![differentiation](../../../assets/generated/mathematics/differentiation.svg)
 
 这张图用来快速理解“微分”：把曲线上的切线斜率理解成导函数。
 
@@ -374,5 +374,5 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]：积分是反向求导，定积分和微分共同描述累积与变化。
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]：速度、加速度和变化率建模会直接使用导数。
+- [Integration](../06%20Integration/00%20Overview.md)：积分是反向求导，定积分和微分共同描述累积与变化。
+- [Kinematics and Newtonian Motion](../../02%20Mechanics/02%20Kinematics%20and%20Newtonian%20Motion/00%20Overview.md)：速度、加速度和变化率建模会直接使用导数。

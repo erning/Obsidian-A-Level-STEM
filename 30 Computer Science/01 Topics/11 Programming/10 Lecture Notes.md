@@ -2,7 +2,7 @@
 title: Programming Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]]"
+parent: "[Programming](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -240,9 +240,9 @@ Here `Larger(...)` is evaluated and its result substituted, so `Larger(Larger(Fi
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]]
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]]
-- [[30 Computer Science/04 Reference/Pseudocode and Programming Reference|Pseudocode and Programming Reference]]
+- [Further Programming](../20%20Further%20Programming/00%20Overview.md)
+- [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md)
+- [Pseudocode and Programming Reference](../../04%20Reference/Pseudocode%20and%20Programming%20Reference.md)
 
 ## Study Sequence
 

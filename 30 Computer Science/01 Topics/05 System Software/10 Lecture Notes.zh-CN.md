@@ -2,7 +2,7 @@
 title: System Software 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]]"
+parent: "[System Software](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -179,5 +179,5 @@ DLL 的好处直接来自这一点：
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]] 在 A Level 把这一节推广到进程调度、虚拟内存，以及编译的各个阶段（词法分析、语法分析、语义分析、优化、代码生成）。
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] 产出本节中翻译器要转换成可运行程序的源代码，并使用这里描述的 IDE 功能。
+- [System Software](../16%20System%20Software/00%20Overview.md) 在 A Level 把这一节推广到进程调度、虚拟内存，以及编译的各个阶段（词法分析、语法分析、语义分析、优化、代码生成）。
+- [Programming](../11%20Programming/00%20Overview.md) 产出本节中翻译器要转换成可运行程序的源代码，并使用这里描述的 IDE 功能。

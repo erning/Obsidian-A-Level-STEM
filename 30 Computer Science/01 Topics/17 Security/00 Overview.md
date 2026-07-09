@@ -31,7 +31,7 @@ This A Level topic extends section 6 with the cryptography that protects data in
 
 ## How to Study
 
-- Place this after [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|6 Security, Privacy and Data Integrity]] and [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|14 Communication and Internet Technologies]].
+- Place this after [6 Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) and [14 Communication and Internet Technologies](../14%20Communication%20and%20Internet%20Technologies/00%20Overview.md).
 - Separate the two questions keys answer: "Can only the recipient read it?" and "Did the stated sender write it?"
 - Trace a message through encryption, transmission, and decryption for both symmetric and asymmetric cases.
 
@@ -43,18 +43,18 @@ This A Level topic extends section 6 with the cryptography that protects data in
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/17 Security/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/17 Security/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/17 Security/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/17 Security/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/17 Security/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/17 Security/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] provides the threat, privacy, integrity, authentication, and encryption foundations that this topic deepens with key-based mechanisms.
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]] provides the protocol-stack and client-server context in which SSL/TLS, certificates, and encrypted sessions operate.
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]] connects certificates, signatures, privacy, and trust to professional responsibility when systems handle sensitive data.
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) provides the threat, privacy, integrity, authentication, and encryption foundations that this topic deepens with key-based mechanisms.
+- [Communication and Internet Technologies](../14%20Communication%20and%20Internet%20Technologies/00%20Overview.md) provides the protocol-stack and client-server context in which SSL/TLS, certificates, and encrypted sessions operate.
+- [Ethics and Ownership](../07%20Ethics%20and%20Ownership/00%20Overview.md) connects certificates, signatures, privacy, and trust to professional responsibility when systems handle sensitive data.
 
 ## Common Traps
 

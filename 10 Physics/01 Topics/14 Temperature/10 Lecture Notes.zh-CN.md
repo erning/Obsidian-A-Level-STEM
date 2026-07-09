@@ -2,7 +2,7 @@
 title: Temperature 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]"
+parent: "[Temperature](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -26,7 +26,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/temperature.svg]]
+![temperature](../../../assets/generated/physics/temperature.svg)
 
 这张图把三件事放在一起：温度计要先和被测物体达到热平衡，开尔文温标以绝对零度为起点，加热曲线把升温和物态变化分开。
 
@@ -332,6 +332,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]] 会在气体定律和分子动理论中使用开尔文温度。
-- [[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]] 会进一步研究内能和热力学第一定律。
-- [[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]] 提供电加热实验中的 $P = VI$。
+- [Ideal Gases](../15%20Ideal%20Gases/00%20Overview.md) 会在气体定律和分子动理论中使用开尔文温度。
+- [Thermodynamics](../16%20Thermodynamics/00%20Overview.md) 会进一步研究内能和热力学第一定律。
+- [Electricity](../09%20Electricity/00%20Overview.md) 提供电加热实验中的 $P = VI$。

@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]"
+parent: "[Coordinate Geometry and Graphs](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -26,7 +26,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/coordinate-geometry-and-graphs.svg]]
+![coordinate-geometry-and-graphs](../../../assets/generated/mathematics/coordinate-geometry-and-graphs.svg)
 
 这张图用来快速理解“坐标几何与图像”：用一张坐标图同时看直线、圆、半径和切线。
 
@@ -411,5 +411,5 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]：函数、方程、判别式和图像变换是坐标几何的代数基础。
-- [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/00 Overview|Polar Coordinates and Parametric Curves]]：极坐标和参数曲线会继续使用坐标、切线和曲线识别的思想。
+- [Algebra and Functions](../01%20Algebra%20and%20Functions/00%20Overview.md)：函数、方程、判别式和图像变换是坐标几何的代数基础。
+- [Polar Coordinates and Parametric Curves](../12%20Polar%20Coordinates%20and%20Parametric%20Curves/00%20Overview.md)：极坐标和参数曲线会继续使用坐标、切线和曲线识别的思想。

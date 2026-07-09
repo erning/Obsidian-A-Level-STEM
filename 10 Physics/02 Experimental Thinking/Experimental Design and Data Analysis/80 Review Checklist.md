@@ -2,7 +2,7 @@
 title: Experimental Design and Data Analysis Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]"
+parent: "[Experimental Design and Data Analysis](00%20Overview.md)"
 status: active
 tags:
   - physics/9702
@@ -81,6 +81,6 @@ uncertainty.
 - [ ] I can use error bars and worst acceptable lines to estimate uncertainty.
 - [ ] I can draw conclusions from uncertainty rather than from expectation.
 - [ ] I can write useful evaluations with realistic improvements.
-- [ ] I can connect this topic to [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]],
-      [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]],
-      and [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]].
+- [ ] I can connect this topic to [Measurement and Data Presentation](../Measurement%20and%20Data%20Presentation/00%20Overview.md),
+      [Oscillations](../../01%20Topics/17%20Oscillations/00%20Overview.md),
+      and [Capacitance](../../01%20Topics/19%20Capacitance/00%20Overview.md).

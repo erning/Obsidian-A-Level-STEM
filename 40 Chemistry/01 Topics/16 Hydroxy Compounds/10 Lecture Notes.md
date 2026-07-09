@@ -193,7 +193,7 @@ For alcohol reactions, identify the alcohol class first. Then choose conditions:
 - Writing the reaction with sodium without showing hydrogen gas.
 ## Connections
 
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]]
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]]
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]]
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]]
+- [Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md)
+- [Carbonyl Compounds](../17%20Carbonyl%20Compounds/00%20Overview.md)
+- [Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md)
+- [Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md)

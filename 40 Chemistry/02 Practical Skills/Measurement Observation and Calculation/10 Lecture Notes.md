@@ -131,7 +131,7 @@ For a quantitative question:
 
 ## Connections
 
-- [[40 Chemistry/02 Practical Skills/Experimental Design and Safety/10 Lecture Notes|Experimental Design and Safety]] supplies variables, apparatus choice and standard laboratory practice.
-- [[40 Chemistry/02 Practical Skills/Planning Analysis and Evaluation/10 Lecture Notes|Planning, Analysis and Evaluation]] uses these measurements in full Paper 5 analysis.
-- [[40 Chemistry/04 Reference/Mathematical Tools for Chemistry|Mathematical Tools for Chemistry]] gives the calculation conventions.
-- [[40 Chemistry/04 Reference/Chemical Formulae and Equations|Chemical Formulae and Equations]] supports equation-based calculations.
+- [Experimental Design and Safety](../Experimental%20Design%20and%20Safety/10%20Lecture%20Notes.md) supplies variables, apparatus choice and standard laboratory practice.
+- [Planning, Analysis and Evaluation](../Planning%20Analysis%20and%20Evaluation/10%20Lecture%20Notes.md) uses these measurements in full Paper 5 analysis.
+- [Mathematical Tools for Chemistry](../../04%20Reference/Mathematical%20Tools%20for%20Chemistry.md) gives the calculation conventions.
+- [Chemical Formulae and Equations](../../04%20Reference/Chemical%20Formulae%20and%20Equations.md) supports equation-based calculations.

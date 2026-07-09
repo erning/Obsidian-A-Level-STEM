@@ -2,7 +2,7 @@
 title: Databases Worked Examples
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]]"
+parent: "[Databases](00%20Overview.md)"
 status: active
 tags:
   - computerscience/data

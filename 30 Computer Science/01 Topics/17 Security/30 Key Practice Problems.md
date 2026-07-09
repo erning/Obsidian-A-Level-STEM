@@ -2,7 +2,7 @@
 title: Security Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/17 Security/00 Overview|Security]]"
+parent: "[Security](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -11,7 +11,7 @@ tags:
 
 # Security Key Practice Problems
 
-These problems cover the core skills of 9618 A Level Section 17 Security: symmetric and asymmetric cryptography, the two key rules for private and verified messages, the combined sign-then-encrypt flow, quantum cryptography, SSL/TLS, and digital certificates. Attempt them on paper before reading [[30 Computer Science/01 Topics/17 Security/31 Key Practice Solutions|the solutions]]. For every question that asks which key is used, name the key explicitly (sender or recipient, public or private) and state what it achieves. No answers are given here on purpose: the point is active recall and full written reasoning.
+These problems cover the core skills of 9618 A Level Section 17 Security: symmetric and asymmetric cryptography, the two key rules for private and verified messages, the combined sign-then-encrypt flow, quantum cryptography, SSL/TLS, and digital certificates. Attempt them on paper before reading [the solutions](31%20Key%20Practice%20Solutions.md). For every question that asks which key is used, name the key explicitly (sender or recipient, public or private) and state what it achieves. No answers are given here on purpose: the point is active recall and full written reasoning.
 
 ## A. Encryption
 
@@ -77,4 +77,4 @@ These problems cover the core skills of 9618 A Level Section 17 Security: symmet
 
 ---
 
-After finishing, check your working against [[30 Computer Science/01 Topics/17 Security/31 Key Practice Solutions|the solutions]] and re-attempt any question you could not answer in full, naming the exact key at each step.
+After finishing, check your working against [the solutions](31%20Key%20Practice%20Solutions.md) and re-attempt any question you could not answer in full, naming the exact key at each step.

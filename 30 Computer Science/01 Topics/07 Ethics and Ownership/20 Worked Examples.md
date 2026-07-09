@@ -2,7 +2,7 @@
 title: Ethics and Ownership Worked Examples
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]]"
+parent: "[Ethics and Ownership](00%20Overview.md)"
 status: active
 tags:
   - computerscience/foundations

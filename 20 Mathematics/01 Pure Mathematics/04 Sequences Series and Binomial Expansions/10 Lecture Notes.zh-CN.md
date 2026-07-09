@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]"
+parent: "[Sequences, Series and Binomial Expansions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -27,7 +27,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/sequences-series-and-binomial-expansions.svg]]
+![sequences-series-and-binomial-expansions](../../../assets/generated/mathematics/sequences-series-and-binomial-expansions.svg)
 
 这张图用来快速理解“数列、级数与二项式展开”：比较等差累积、等比增长和二项式项。
 
@@ -338,5 +338,5 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/00 Overview|Proof and Mathematical Induction]]：求和公式和递推关系常常需要用归纳法证明。
-- [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]：级数、展开式和递推公式会在进一步微积分中继续出现。
+- [Proof and Mathematical Induction](../11%20Proof%20and%20Mathematical%20Induction/00%20Overview.md)：求和公式和递推关系常常需要用归纳法证明。
+- [Further Calculus and Differential Equations](../13%20Further%20Calculus%20and%20Differential%20Equations/00%20Overview.md)：级数、展开式和递推公式会在进一步微积分中继续出现。

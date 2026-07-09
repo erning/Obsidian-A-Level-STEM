@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]]"
+parent: "[Complex Numbers](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure

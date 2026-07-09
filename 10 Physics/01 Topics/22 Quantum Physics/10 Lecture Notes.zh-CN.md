@@ -2,7 +2,7 @@
 title: Quantum Physics 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]"
+parent: "[Quantum Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -17,7 +17,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/quantum-physics.svg]]
+![quantum-physics](../../../assets/generated/physics/quantum-physics.svg)
 
 这张图对应光电效应的主线：光子能量、逸出功、阈频和最大动能。
 
@@ -270,7 +270,7 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-- [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]
-- [[10 Physics/01 Topics/11 Particle Physics/00 Overview|Particle Physics]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]
+- [Waves](../07%20Waves/00%20Overview.md)
+- [Superposition](../08%20Superposition/00%20Overview.md)
+- [Particle Physics](../11%20Particle%20Physics/00%20Overview.md)
+- [Nuclear Physics](../23%20Nuclear%20Physics/00%20Overview.md)

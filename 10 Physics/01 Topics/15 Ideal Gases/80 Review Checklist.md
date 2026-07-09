@@ -2,7 +2,7 @@
 title: Ideal Gases Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]]"
+parent: "[Ideal Gases](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -72,5 +72,5 @@ energy.
 - [ ] I can explain gas pressure through molecular momentum change.
 - [ ] I can use the pressure equation to connect pressure with
       $\langle c^2\rangle$.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]
-      and [[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]].
+- [ ] I can connect this topic to [Temperature](../14%20Temperature/00%20Overview.md)
+      and [Thermodynamics](../16%20Thermodynamics/00%20Overview.md).

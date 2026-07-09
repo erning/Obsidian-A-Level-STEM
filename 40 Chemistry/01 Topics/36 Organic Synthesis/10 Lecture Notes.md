@@ -108,6 +108,6 @@ When a molecule contains more than one reactive site, explain why the chosen rea
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|AS Organic Synthesis]]
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/00 Overview|An Introduction to A Level Organic Chemistry]]
-- [[40 Chemistry/01 Topics/37 Analytical Techniques/00 Overview|A Level Analytical Techniques]]
+- [AS Organic Synthesis](../21%20Organic%20Synthesis/00%20Overview.md)
+- [An Introduction to A Level Organic Chemistry](../29%20An%20Introduction%20to%20A%20Level%20Organic%20Chemistry/00%20Overview.md)
+- [A Level Analytical Techniques](../37%20Analytical%20Techniques/00%20Overview.md)

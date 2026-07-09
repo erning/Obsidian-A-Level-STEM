@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/00 Overview|Momentum, Collisions and Impulse]]"
+parent: "[Momentum, Collisions and Impulse](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Momentum, Collisions and Impulse Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/30 Key Practice Problems|Momentum, Collisions and Impulse Key Practice Problems]]. Use it to check system choice, signs, restitution equations, and units.
+This note gives worked solutions for [Momentum, Collisions and Impulse Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check system choice, signs, restitution equations, and units.
 
 ## A. One-Dimensional Momentum
 

@@ -10,7 +10,7 @@ tags:
 
 # Qualitative Analysis - Worked Examples
 
-These examples show how to move from observations to conclusions using the Qualitative analysis notes. They follow [[40 Chemistry/02 Practical Skills/Qualitative Analysis/10 Lecture Notes|the lecture notes]]. The full cation, anion, gas and element tables are provided in the exam, so these examples focus on reasoning, not memorising.
+These examples show how to move from observations to conclusions using the Qualitative analysis notes. They follow [the lecture notes](10%20Lecture%20Notes.md). The full cation, anion, gas and element tables are provided in the exam, so these examples focus on reasoning, not memorising.
 
 ## Example 1: Identifying a cation
 

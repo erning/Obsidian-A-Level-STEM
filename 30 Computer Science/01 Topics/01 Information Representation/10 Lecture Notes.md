@@ -2,7 +2,7 @@
 title: Information Representation Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]]"
+parent: "[Information Representation](00%20Overview.md)"
 status: active
 tags:
   - computerscience/foundations
@@ -199,8 +199,8 @@ The 12 symbols become 3 pairs. RLE is lossless and very effective on images with
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] - overflow flags feed directly into the CPU's status register.
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] (A Level extension) - integers, floating point, parity and error detection build on this topic.
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) - overflow flags feed directly into the CPU's status register.
+- [Data Representation](../13%20Data%20Representation/00%20Overview.md) (A Level extension) - integers, floating point, parity and error detection build on this topic.
 
 ## Study Sequence
 

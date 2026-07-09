@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]"
+parent: "[Discrete Random Variables](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Discrete Random Variables Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/30 Key Practice Problems|Discrete Random Variables Key Practice Problems]]. Use it to check probability tables, endpoint inequalities, model assumptions, and variance transformations.
+This note gives worked solutions for [Discrete Random Variables Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check probability tables, endpoint inequalities, model assumptions, and variance transformations.
 
 ## A. Probability Tables
 

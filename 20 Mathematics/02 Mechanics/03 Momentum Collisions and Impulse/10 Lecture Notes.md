@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/00 Overview|Momentum, Collisions and Impulse]]"
+parent: "[Momentum, Collisions and Impulse](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -23,7 +23,7 @@ Momentum is the quantity that stays useful when interactions are brief and force
 
 ## Visual Guide
 
-![[assets/generated/mathematics/momentum-collisions-and-impulse.svg]]
+![momentum-collisions-and-impulse](../../../assets/generated/mathematics/momentum-collisions-and-impulse.svg)
 
 Figure: use the guide to separate before-and-after momentum from impulse as force accumulated over time.
 
@@ -194,9 +194,9 @@ Use energy mainly as a check unless the problem explicitly gives an elastic coll
 
 ## Connections
 
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
-- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Physics Dynamics]]
+- [Kinematics and Newtonian Motion](../02%20Kinematics%20and%20Newtonian%20Motion/00%20Overview.md)
+- [Work, Energy, Power and Elasticity](../04%20Work%20Energy%20Power%20and%20Elasticity/00%20Overview.md)
+- [Physics Dynamics](../../../10%20Physics/01%20Topics/03%20Dynamics/00%20Overview.md)
 
 ## Study Sequence
 

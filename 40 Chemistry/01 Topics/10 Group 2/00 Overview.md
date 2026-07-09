@@ -40,12 +40,12 @@ Group 2 chemistry studies the alkaline earth metals from magnesium to barium and
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/10 Group 2/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/10 Group 2/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/10 Group 2/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/10 Group 2/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/10 Group 2/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/10 Group 2/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Practice Directions
 
@@ -56,9 +56,9 @@ Group 2 chemistry studies the alkaline earth metals from magnesium to barium and
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]] prepares the idea of trends down a group.
-- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/00 Overview|Atoms, Molecules and Stoichiometry]] supports equation and reacting mass work.
-- [[40 Chemistry/01 Topics/27 Group 2/00 Overview|A Level Group 2]] extends thermal stability and solubility explanations in more detail.
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md) prepares the idea of trends down a group.
+- [Atoms, Molecules and Stoichiometry](../02%20Atoms%20Molecules%20and%20Stoichiometry/00%20Overview.md) supports equation and reacting mass work.
+- [A Level Group 2](../27%20Group%202/00%20Overview.md) extends thermal stability and solubility explanations in more detail.
 
 ## Common Traps
 

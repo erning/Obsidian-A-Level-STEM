@@ -2,7 +2,7 @@
 title: Superposition Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]"
+parent: "[Superposition](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -81,11 +81,11 @@ interference, grating, or stationary-wave diagram.
 ## Connections
 
 - [ ] I can connect phase, wavelength, amplitude, and intensity to
-  [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]].
+  [Waves](../07%20Waves/00%20Overview.md).
 - [ ] I can connect phase and sinusoidal motion to
-  [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]].
+  [Oscillations](../17%20Oscillations/00%20Overview.md).
 - [ ] I can connect diffraction and interference to
-  [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]].
+  [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md).
 
 ## Ready to Move On When
 

@@ -48,17 +48,17 @@ An electric field describes the force and energy landscape experienced by charge
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/18 Electric Fields/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/18 Electric Fields/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/18 Electric Fields/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/18 Electric Fields/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/18 Electric Fields/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/18 Electric Fields/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]]
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]
+- [Gravitational Fields](../13%20Gravitational%20Fields/00%20Overview.md)
+- [Capacitance](../19%20Capacitance/00%20Overview.md)
 
 ## Common Traps
 

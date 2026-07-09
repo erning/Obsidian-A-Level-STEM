@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/00 Overview|Counting and Probability]]"
+parent: "[Counting and Probability](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Counting and Probability Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/10 Lecture Notes|Counting and Probability Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Counting and Probability Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

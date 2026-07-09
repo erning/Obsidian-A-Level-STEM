@@ -44,19 +44,19 @@ Halogen compounds focus on halogenoalkanes as useful reaction intermediates, esp
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/11 Group 17/00 Overview|Group 17]] gives the inorganic halogen and halide background.
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]] provides alkene addition and alkane substitution routes.
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]] connects halogenoalkanes to alcohols.
-- [[40 Chemistry/01 Topics/31 Halogen Compounds/00 Overview|A Level Halogen Compounds]] revisits halogen compounds at A Level.
+- [Group 17](../11%20Group%2017/00%20Overview.md) gives the inorganic halogen and halide background.
+- [Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md) provides alkene addition and alkane substitution routes.
+- [Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md) connects halogenoalkanes to alcohols.
+- [A Level Halogen Compounds](../31%20Halogen%20Compounds/00%20Overview.md) revisits halogen compounds at A Level.
 
 ## Common Traps
 

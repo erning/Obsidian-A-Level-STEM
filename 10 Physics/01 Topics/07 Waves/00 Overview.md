@@ -48,17 +48,17 @@ A progressive wave transfers energy while the medium or field oscillates.
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/07 Waves/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/07 Waves/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/07 Waves/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/07 Waves/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/07 Waves/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/07 Waves/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]
-- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]]
+- [Superposition](../08%20Superposition/00%20Overview.md)
+- [Oscillations](../17%20Oscillations/00%20Overview.md)
 
 ## Common Traps
 

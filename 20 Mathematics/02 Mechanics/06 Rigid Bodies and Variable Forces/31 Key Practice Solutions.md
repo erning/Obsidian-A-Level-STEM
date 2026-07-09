@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces/00 Overview|Rigid Bodies and Variable Forces]]"
+parent: "[Rigid Bodies and Variable Forces](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Rigid Bodies and Variable Forces Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/02 Mechanics/06 Rigid Bodies and Variable Forces/30 Key Practice Problems|Rigid Bodies and Variable Forces Key Practice Problems]]. Check moment points, centre-of-mass reference axes, integration variables, and initial conditions.
+This note gives worked solutions for [Rigid Bodies and Variable Forces Key Practice Problems](30%20Key%20Practice%20Problems.md). Check moment points, centre-of-mass reference axes, integration variables, and initial conditions.
 
 ## A. Rigid Bodies and Centre of Mass
 

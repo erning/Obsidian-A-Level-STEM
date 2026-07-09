@@ -44,17 +44,17 @@ Vectors describe magnitude and direction in two and three dimensions, then exten
 
 ## Learning Materials
 
-- [[20 Mathematics/01 Pure Mathematics/08 Vectors/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/01 Pure Mathematics/08 Vectors/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/01 Pure Mathematics/08 Vectors/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/01 Pure Mathematics/08 Vectors/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/01 Pure Mathematics/08 Vectors/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/01 Pure Mathematics/08 Vectors/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]]
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physics Vectors]]
+- [Matrices and Transformations](../10%20Matrices%20and%20Transformations/00%20Overview.md)
+- [Physics Vectors](../../../10%20Physics/01%20Topics/01%20Physical%20Quantities%20and%20Units/00%20Overview.md)
 
 ## Common Traps
 

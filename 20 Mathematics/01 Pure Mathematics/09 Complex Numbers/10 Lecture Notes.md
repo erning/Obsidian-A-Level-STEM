@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]]"
+parent: "[Complex Numbers](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -23,7 +23,7 @@ Complex numbers extend the real line into a plane. A complex number can be treat
 
 ## Visual Guide
 
-![[assets/generated/mathematics/complex-numbers.svg]]
+![complex-numbers](../../../assets/generated/mathematics/complex-numbers.svg)
 
 Figure: The guide shows modulus and argument on the Argand diagram. Keep this picture visible whenever a problem mentions $|z|$, $\arg z$, or a locus.
 
@@ -347,5 +347,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/03 Trigonometry and Circular Measure/00 Overview|Trigonometry and Circular Measure]]
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]
+- [Trigonometry and Circular Measure](../03%20Trigonometry%20and%20Circular%20Measure/00%20Overview.md)
+- [Sequences, Series and Binomial Expansions](../04%20Sequences%20Series%20and%20Binomial%20Expansions/00%20Overview.md)

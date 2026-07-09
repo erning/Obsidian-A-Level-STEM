@@ -2,7 +2,7 @@
 title: Security, Privacy and Data Integrity Worked Examples
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]]"
+parent: "[Security, Privacy and Data Integrity](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems

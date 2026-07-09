@@ -2,7 +2,7 @@
 title: Waves Key Practice Problems
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]"
+parent: "[Waves](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

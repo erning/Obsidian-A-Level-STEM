@@ -111,7 +111,7 @@ For a planning or design question:
 
 ## Connections
 
-- [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/10 Lecture Notes|Measurement, Observation and Calculation]] handles precision, tables, graphs and significant figures.
-- [[40 Chemistry/02 Practical Skills/Planning Analysis and Evaluation/10 Lecture Notes|Planning, Analysis and Evaluation]] extends design into the full Paper 5 plan.
-- [[40 Chemistry/02 Practical Skills/Qualitative Analysis/10 Lecture Notes|Qualitative Analysis]] covers observation-based identification.
-- [[40 Chemistry/04 Reference/Mathematical Tools for Chemistry|Mathematical Tools for Chemistry]] supplies the calculation toolkit.
+- [Measurement, Observation and Calculation](../Measurement%20Observation%20and%20Calculation/10%20Lecture%20Notes.md) handles precision, tables, graphs and significant figures.
+- [Planning, Analysis and Evaluation](../Planning%20Analysis%20and%20Evaluation/10%20Lecture%20Notes.md) extends design into the full Paper 5 plan.
+- [Qualitative Analysis](../Qualitative%20Analysis/10%20Lecture%20Notes.md) covers observation-based identification.
+- [Mathematical Tools for Chemistry](../../04%20Reference/Mathematical%20Tools%20for%20Chemistry.md) supplies the calculation toolkit.

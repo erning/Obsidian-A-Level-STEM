@@ -2,7 +2,7 @@
 title: Data Representation Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]]"
+parent: "[Data Representation](00%20Overview.md)"
 status: active
 tags:
   - computerscience/data
@@ -11,7 +11,7 @@ tags:
 
 # Data Representation Key Practice Problems
 
-These problems cover the core skills of 9618 A Level section 13. Attempt them on paper before reading [[30 Computer Science/01 Topics/13 Data Representation/31 Key Practice Solutions|the solutions]]. No answers are given here on purpose: the point is active recall and full written working. Assume an 8-bit mantissa and a 4-bit exponent, both in two's complement, unless a question says otherwise.
+These problems cover the core skills of 9618 A Level section 13. Attempt them on paper before reading [the solutions](31%20Key%20Practice%20Solutions.md). No answers are given here on purpose: the point is active recall and full written working. Assume an 8-bit mantissa and a 4-bit exponent, both in two's complement, unless a question says otherwise.
 
 ## A. User-defined types
 
@@ -56,4 +56,4 @@ These problems cover the core skills of 9618 A Level section 13. Attempt them on
 
 ---
 
-After finishing, check your working against [[30 Computer Science/01 Topics/13 Data Representation/31 Key Practice Solutions|the solutions]] and re-attempt any question you could not complete in full.
+After finishing, check your working against [the solutions](31%20Key%20Practice%20Solutions.md) and re-attempt any question you could not complete in full.

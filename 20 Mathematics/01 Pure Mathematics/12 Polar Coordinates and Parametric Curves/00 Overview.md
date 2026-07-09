@@ -44,17 +44,17 @@ Polar and parametric forms describe curves by changing the coordinate language o
 
 ## Learning Materials
 
-- [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]
-- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]
+- [Coordinate Geometry and Graphs](../02%20Coordinate%20Geometry%20and%20Graphs/00%20Overview.md)
+- [Differentiation](../05%20Differentiation/00%20Overview.md)
 
 ## Common Traps
 

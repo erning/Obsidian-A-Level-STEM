@@ -2,7 +2,7 @@
 title: D.C. Circuits Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]]"
+parent: "[D.C. Circuits](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -25,7 +25,7 @@ The word "circuit" is important. A current needs a complete conducting path. A p
 
 ## Visual Guide
 
-![[assets/generated/physics/dc-circuits.svg]]
+![dc-circuits](../../../assets/generated/physics/dc-circuits.svg)
 
 The visual guide is a reminder to look for structure before calculating: series sections carry the same current, parallel branches share the same p.d., and Kirchhoff's laws are the checks that keep the analysis consistent.
 
@@ -414,6 +414,6 @@ You should be able to answer these without looking back:
 
 ## Connections
 
-- [[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]] provides current, p.d., resistance, power, LDR, and thermistor definitions.
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]] uses potential difference, charge, and circuits with time-dependent behaviour.
-- [[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]] extends circuit ideas to time-varying current and voltage.
+- [Electricity](../09%20Electricity/00%20Overview.md) provides current, p.d., resistance, power, LDR, and thermistor definitions.
+- [Capacitance](../19%20Capacitance/00%20Overview.md) uses potential difference, charge, and circuits with time-dependent behaviour.
+- [Alternating Currents](../21%20Alternating%20Currents/00%20Overview.md) extends circuit ideas to time-varying current and voltage.

@@ -2,7 +2,7 @@
 title: Measurement and Data Presentation 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]"
+parent: "[Measurement and Data Presentation](00%20Overview.md)"
 status: active
 tags:
   - physics/9702
@@ -27,7 +27,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/measurement-and-data-presentation.svg]]
+![measurement-and-data-presentation](../../../assets/generated/physics/measurement-and-data-presentation.svg)
 
 这张图把一份合格的实验记录要一直看见的三件事放在一起：每个读数上的不确定度、它在图像上对应的误差棒，以及这些误差棒仍然允许的斜率范围。
 
@@ -289,6 +289,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physical Quantities and Units]]
-- [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]
-- [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]
+- [Physical Quantities and Units](../../01%20Topics/01%20Physical%20Quantities%20and%20Units/00%20Overview.md)
+- [Experimental Design and Data Analysis](../Experimental%20Design%20and%20Data%20Analysis/00%20Overview.md)
+- [Math Tools and Formulae](../../04%20Reference/Math%20Tools%20and%20Formulae.md)

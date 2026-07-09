@@ -2,7 +2,7 @@
 title: Electric Fields Worked Examples
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]]"
+parent: "[Electric Fields](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

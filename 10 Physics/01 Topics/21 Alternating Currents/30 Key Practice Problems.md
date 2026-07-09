@@ -2,7 +2,7 @@
 title: Alternating Currents Key Practice Problems
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]]"
+parent: "[Alternating Currents](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

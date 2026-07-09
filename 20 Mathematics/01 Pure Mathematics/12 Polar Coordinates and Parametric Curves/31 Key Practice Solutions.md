@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/00 Overview|Polar Coordinates and Parametric Curves]]"
+parent: "[Polar Coordinates and Parametric Curves](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -13,7 +13,7 @@ tags:
 
 # Polar Coordinates and Parametric Curves Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/30 Key Practice Problems|Polar Coordinates and Parametric Curves Key Practice Problems]]. Use it to check coordinate conventions, angle intervals, parameter restrictions, and tangent calculations.
+This note gives worked solutions for [Polar Coordinates and Parametric Curves Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check coordinate conventions, angle intervals, parameter restrictions, and tangent calculations.
 
 ## A. Polar Coordinates and Equations
 

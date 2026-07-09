@@ -2,7 +2,7 @@
 title: Astronomy and Cosmology Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]]"
+parent: "[Astronomy and Cosmology](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -70,5 +70,5 @@ emits, what reaches the observer, and what is inferred from the observation.
 - [ ] I can calculate recession speed from redshift.
 - [ ] I can use Hubble's law to estimate distance, speed, or Hubble time.
 - [ ] I can explain how redshift and Hubble's law lead to the Big Bang model.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-      and [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]].
+- [ ] I can connect this topic to [Waves](../07%20Waves/00%20Overview.md)
+      and [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md).

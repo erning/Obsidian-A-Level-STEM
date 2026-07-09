@@ -215,7 +215,7 @@ For alkanes, think strong non-polar bonds, combustion, cracking and free-radical
 - Saying alkanes are unreactive only because they are non-polar; the strong C-H and C-C bonds also matter.
 ## Connections
 
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]]
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]]
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]]
-- [[40 Chemistry/01 Topics/20 Polymerisation/00 Overview|Polymerisation]]
+- [An Introduction to AS Level Organic Chemistry](../13%20An%20Introduction%20to%20AS%20Level%20Organic%20Chemistry/00%20Overview.md)
+- [Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md)
+- [Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md)
+- [Polymerisation](../20%20Polymerisation/00%20Overview.md)

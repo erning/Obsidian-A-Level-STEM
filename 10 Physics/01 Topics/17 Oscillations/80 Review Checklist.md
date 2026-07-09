@@ -2,7 +2,7 @@
 title: Oscillations Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]]"
+parent: "[Oscillations](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -66,5 +66,5 @@ the equilibrium position, the displacement, and the direction of acceleration.
 - [ ] I can use the energy equation and describe energy exchange physically.
 - [ ] I can compare damping types from displacement-time graphs.
 - [ ] I can explain resonance and the effect of damping on a resonance curve.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-      and [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]].
+- [ ] I can connect this topic to [Waves](../07%20Waves/00%20Overview.md)
+      and [Further Calculus and Differential Equations](../../../20%20Mathematics/01%20Pure%20Mathematics/13%20Further%20Calculus%20and%20Differential%20Equations/00%20Overview.md).

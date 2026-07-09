@@ -2,7 +2,7 @@
 title: Temperature Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]"
+parent: "[Temperature](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -77,5 +77,5 @@ conversion, temperature change, change of state, or experimental loss.
 - [ ] I can choose correctly between $E=mc\Delta\theta$ and $E=mL$.
 - [ ] I can read a heating curve as particle kinetic energy changes and
       particle potential energy changes.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]]
-      and [[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]].
+- [ ] I can connect this topic to [Ideal Gases](../15%20Ideal%20Gases/00%20Overview.md)
+      and [Thermodynamics](../16%20Thermodynamics/00%20Overview.md).

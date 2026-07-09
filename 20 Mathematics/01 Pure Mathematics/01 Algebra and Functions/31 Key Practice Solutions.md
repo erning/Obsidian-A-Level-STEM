@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]"
+parent: "[Algebra and Functions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -13,7 +13,7 @@ tags:
 
 # Algebra and Functions Key Practice Solutions
 
-These solutions correspond to [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/30 Key Practice Problems|Key Practice Problems]].
+These solutions correspond to [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Quadratics
 

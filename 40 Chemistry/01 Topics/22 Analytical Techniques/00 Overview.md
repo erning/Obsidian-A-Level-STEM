@@ -49,18 +49,18 @@ Analytical techniques use evidence from spectra, qualitative observations and se
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/10 Lecture Notes.zh-CN|中文讲义]]
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]] uses analytical evidence to confirm products and identify unknowns.
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]] and [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]] provide common functional groups identified by infrared spectroscopy.
-- [[40 Chemistry/01 Topics/37 Analytical Techniques/00 Overview|A Level Analytical Techniques]] extends analysis to chromatography and NMR spectroscopy.
+- [Organic Synthesis](../21%20Organic%20Synthesis/00%20Overview.md) uses analytical evidence to confirm products and identify unknowns.
+- [Carbonyl Compounds](../17%20Carbonyl%20Compounds/00%20Overview.md) and [Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) provide common functional groups identified by infrared spectroscopy.
+- [A Level Analytical Techniques](../37%20Analytical%20Techniques/00%20Overview.md) extends analysis to chromatography and NMR spectroscopy.
 
 ## Common Traps
 

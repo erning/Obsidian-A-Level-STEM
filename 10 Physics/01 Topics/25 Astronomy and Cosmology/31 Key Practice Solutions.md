@@ -2,7 +2,7 @@
 title: Astronomy and Cosmology Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]]"
+parent: "[Astronomy and Cosmology](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -13,7 +13,7 @@ tags:
 # Astronomy and Cosmology Key Practice Solutions
 
 Use these solutions to check the setup, powers of ten, units, and physical
-interpretation for [[10 Physics/01 Topics/25 Astronomy and Cosmology/30 Key Practice Problems|Key Practice Problems]].
+interpretation for [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Luminosity, Flux, and Standard Candles
 

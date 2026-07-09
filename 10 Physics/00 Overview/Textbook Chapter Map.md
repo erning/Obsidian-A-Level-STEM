@@ -10,7 +10,7 @@ tags:
 
 # Textbook Chapter Map
 
-Source: [[assets/course-books/9702 - Physics/9702 - Physics Coursebook.pdf|Physics Coursebook]]. Use this as a reading map through the coursebook chapters.
+Source: [Physics Coursebook](../../assets/course-books/9702%20-%20Physics/9702%20-%20Physics%20Coursebook.pdf). Use this as a reading map through the coursebook chapters.
 
 ## Foundations
 

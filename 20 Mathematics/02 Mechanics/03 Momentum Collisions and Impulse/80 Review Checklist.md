@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/00 Overview|Momentum, Collisions and Impulse]]"
+parent: "[Momentum, Collisions and Impulse](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Momentum, Collisions and Impulse Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/10 Lecture Notes|Momentum, Collisions and Impulse Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Momentum, Collisions and Impulse Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

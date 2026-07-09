@@ -2,7 +2,7 @@
 title: Deformation of Solids Key Practice Problems
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]]"
+parent: "[Deformation of Solids](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

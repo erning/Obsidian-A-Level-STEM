@@ -10,7 +10,7 @@ tags:
 
 # Learning Checklist
 
-This is a high-level checklist for CAIE Chemistry 9701. A checked item means you can explain the idea, use it in calculation or interpretation, connect it to practical evidence, and link it to nearby topics in [[40 Chemistry/01 Topics/00 Overview|the topic index]].
+This is a high-level checklist for CAIE Chemistry 9701. A checked item means you can explain the idea, use it in calculation or interpretation, connect it to practical evidence, and link it to nearby topics in [the topic index](../01%20Topics/00%20Overview.md).
 
 ## Foundations
 

@@ -2,7 +2,7 @@
 title: Motion in a Circle Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]]"
+parent: "[Motion in a Circle](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -25,7 +25,7 @@ This topic is a clean test of vector thinking. The object is not speeding up, bu
 
 ## Visual Guide
 
-![[assets/generated/physics/motion-in-a-circle.svg]]
+![motion-in-a-circle](../../../assets/generated/physics/motion-in-a-circle.svg)
 
 The visual guide should be read as a direction map: velocity is tangential, acceleration is inward, and the resultant force is also inward.
 
@@ -274,7 +274,7 @@ For a banking aircraft, the lift force is tilted. Its vertical component support
 
 For a satellite or planet in circular orbit, gravity provides the centripetal force. The object is continuously falling towards the central body, but its tangential motion carries it around the curved path.
 
-This connects directly to [[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]].
+This connects directly to [Gravitational Fields](../13%20Gravitational%20Fields/00%20Overview.md).
 
 ## 10. Working Routine
 
@@ -319,7 +319,7 @@ You should be able to answer these without looking back:
 
 ## Connections
 
-- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]] supplies Newton's laws and resultant force.
-- [[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]] uses circular motion for orbits.
-- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]] uses angular frequency and radian measure.
-- [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]] uses circular motion of charged particles in magnetic fields.
+- [Dynamics](../03%20Dynamics/00%20Overview.md) supplies Newton's laws and resultant force.
+- [Gravitational Fields](../13%20Gravitational%20Fields/00%20Overview.md) uses circular motion for orbits.
+- [Oscillations](../17%20Oscillations/00%20Overview.md) uses angular frequency and radian measure.
+- [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md) uses circular motion of charged particles in magnetic fields.

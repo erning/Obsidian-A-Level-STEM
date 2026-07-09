@@ -3,7 +3,7 @@ title: Logarithms, Exponentials and Numerical Methods Key Practice Solutions
 subject: Mathematics
 syllabus:
   - 9709
-parent: "[[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]"
+parent: "[Logarithms, Exponentials and Numerical Methods](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -12,7 +12,7 @@ tags:
 
 # Logarithms, Exponentials and Numerical Methods Key Practice Solutions
 
-Use these solutions to check method choice and algebra for [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/30 Key Practice Problems|Key Practice Problems]].
+Use these solutions to check method choice and algebra for [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Logarithms and Exponentials
 

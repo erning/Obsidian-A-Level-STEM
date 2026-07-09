@@ -44,17 +44,17 @@ Projectile and circular-motion models extend motion into two dimensions with cle
 
 ## Learning Materials
 
-- [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/02 Kinematics/00 Overview|Physics Kinematics]]
-- [[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Physics Motion in a Circle]]
+- [Physics Kinematics](../../../10%20Physics/01%20Topics/02%20Kinematics/00%20Overview.md)
+- [Physics Motion in a Circle](../../../10%20Physics/01%20Topics/12%20Motion%20in%20a%20Circle/00%20Overview.md)
 
 ## Common Traps
 

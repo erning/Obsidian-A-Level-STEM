@@ -46,19 +46,19 @@ This topic covers the physical components a computer uses to take in data, hold 
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/03 Hardware/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/03 Hardware/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/03 Hardware/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/03 Hardware/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/03 Hardware/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/03 Hardware/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] puts these memory types, buses, registers, logic gates, and storage ideas inside the CPU execution model.
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]] extends the logic-circuit work into Boolean algebra, adders, flip-flops, processor architectures, and virtual machines.
-- [[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]] depends on the OS being able to manage hardware devices, memory, files, and peripheral input/output.
-- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] explains the binary values that storage devices, sensors, ADCs, and logic circuits ultimately hold and manipulate.
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) puts these memory types, buses, registers, logic gates, and storage ideas inside the CPU execution model.
+- [Hardware and Virtual Machines](../15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md) extends the logic-circuit work into Boolean algebra, adders, flip-flops, processor architectures, and virtual machines.
+- [System Software](../05%20System%20Software/00%20Overview.md) depends on the OS being able to manage hardware devices, memory, files, and peripheral input/output.
+- [Information Representation](../01%20Information%20Representation/00%20Overview.md) explains the binary values that storage devices, sensors, ADCs, and logic circuits ultimately hold and manipulate.
 
 ## Common Traps
 

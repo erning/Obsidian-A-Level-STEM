@@ -72,6 +72,6 @@ $$
 
 ## Practical Links
 
-- [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/00 Overview|Measurement, Observation and Calculation]]
-- [[40 Chemistry/02 Practical Skills/Qualitative Analysis/00 Overview|Qualitative Analysis]]
-- [[40 Chemistry/04 Reference/Mathematical Tools for Chemistry|Mathematical Tools for Chemistry]]
+- [Measurement, Observation and Calculation](../02%20Practical%20Skills/Measurement%20Observation%20and%20Calculation/00%20Overview.md)
+- [Qualitative Analysis](../02%20Practical%20Skills/Qualitative%20Analysis/00%20Overview.md)
+- [Mathematical Tools for Chemistry](Mathematical%20Tools%20for%20Chemistry.md)

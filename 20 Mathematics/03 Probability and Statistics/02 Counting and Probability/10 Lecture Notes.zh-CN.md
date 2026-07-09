@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/00 Overview|Counting and Probability]]"
+parent: "[Counting and Probability](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -26,7 +26,7 @@ tags:
 
 ## 关联内容
 
-- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]
+- [Discrete Random Variables](../03%20Discrete%20Random%20Variables/00%20Overview.md)
 
 ## 学习顺序
 
@@ -38,7 +38,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/counting-and-probability.svg]]
+![counting-and-probability](../../../assets/generated/mathematics/counting-and-probability.svg)
 
 这张图用概率树展示多步实验怎样展开。树状图的好处是把每一步的条件变化看得很清楚。
 

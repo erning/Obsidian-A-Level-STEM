@@ -44,19 +44,19 @@ Organic synthesis brings the A Level organic course together. The aim is to iden
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/10 Lecture Notes|Lecture Notes]] teach functional-group recognition, multi-step route planning, reaction-map thinking, and route analysis.
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/10 Lecture Notes.zh-CN|中文讲义]] gives a concise Chinese companion explanation of A Level synthesis strategy.
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/20 Worked Examples|Worked Examples]] model retrosynthetic choices, reagent selection, by-products, and competing functional groups.
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/30 Key Practice Problems|Key Practice Problems]] provide active recall and route-planning prompts without answers.
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/31 Key Practice Solutions|Key Practice Solutions]] mirror the practice set with working and checks.
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/80 Review Checklist|Review Checklist]] is the final self-test before combining synthesis with analytical evidence.
+- [Lecture Notes](10%20Lecture%20Notes.md) teach functional-group recognition, multi-step route planning, reaction-map thinking, and route analysis.
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md) gives a concise Chinese companion explanation of A Level synthesis strategy.
+- [Worked Examples](20%20Worked%20Examples.md) model retrosynthetic choices, reagent selection, by-products, and competing functional groups.
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md) provide active recall and route-planning prompts without answers.
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md) mirror the practice set with working and checks.
+- [Review Checklist](80%20Review%20Checklist.md) is the final self-test before combining synthesis with analytical evidence.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|AS Organic Synthesis]] provides the first reaction-map and route-planning foundation.
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/00 Overview|An Introduction to A Level Organic Chemistry]] supplies A Level functional-group and mechanism language.
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/00 Overview|Hydrocarbons]], [[40 Chemistry/01 Topics/31 Halogen Compounds/00 Overview|Halogen Compounds]], [[40 Chemistry/01 Topics/32 Hydroxy Compounds/00 Overview|Hydroxy Compounds]], [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]], and [[40 Chemistry/01 Topics/34 Nitrogen Compounds/00 Overview|Nitrogen Compounds]] provide the reaction toolkit.
-- [[40 Chemistry/01 Topics/37 Analytical Techniques/00 Overview|Analytical Techniques]] helps confirm structures and purity after synthesis.
+- [AS Organic Synthesis](../21%20Organic%20Synthesis/00%20Overview.md) provides the first reaction-map and route-planning foundation.
+- [An Introduction to A Level Organic Chemistry](../29%20An%20Introduction%20to%20A%20Level%20Organic%20Chemistry/00%20Overview.md) supplies A Level functional-group and mechanism language.
+- [Hydrocarbons](../30%20Hydrocarbons/00%20Overview.md), [Halogen Compounds](../31%20Halogen%20Compounds/00%20Overview.md), [Hydroxy Compounds](../32%20Hydroxy%20Compounds/00%20Overview.md), [Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md), and [Nitrogen Compounds](../34%20Nitrogen%20Compounds/00%20Overview.md) provide the reaction toolkit.
+- [Analytical Techniques](../37%20Analytical%20Techniques/00%20Overview.md) helps confirm structures and purity after synthesis.
 
 ## Common Traps
 

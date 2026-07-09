@@ -2,7 +2,7 @@
 title: Hardware and Virtual Machines 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]]"
+parent: "[Hardware and Virtual Machines](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -328,5 +328,5 @@ $$X = C$$
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] 提供了本主题中加法器和触发器所用的逻辑门（AND、OR、NOT、NAND、NOR、XOR），以及触发器放大而成的 SRAM/DRAM 单元。
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] 是本主题延伸的 AS 基础：那里研究的单个冯·诺依曼 CPU 在此成为 SISD，寄存器被揭示由触发器构成，而 RISC/CISC 解释了为什么不同处理器有不同的指令集。
+- [Hardware](../03%20Hardware/00%20Overview.md) 提供了本主题中加法器和触发器所用的逻辑门（AND、OR、NOT、NAND、NOR、XOR），以及触发器放大而成的 SRAM/DRAM 单元。
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) 是本主题延伸的 AS 基础：那里研究的单个冯·诺依曼 CPU 在此成为 SISD，寄存器被揭示由触发器构成，而 RISC/CISC 解释了为什么不同处理器有不同的指令集。

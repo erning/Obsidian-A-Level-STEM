@@ -116,7 +116,7 @@ For a Paper 5 question:
 
 ## Connections
 
-- [[40 Chemistry/02 Practical Skills/Experimental Design and Safety/10 Lecture Notes|Experimental Design and Safety]] supplies variables, apparatus and safety.
-- [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/10 Lecture Notes|Measurement, Observation and Calculation]] supplies precision, graphs and error analysis.
-- [[40 Chemistry/02 Practical Skills/Qualitative Analysis/10 Lecture Notes|Qualitative Analysis]] covers observation-based conclusions.
-- [[40 Chemistry/04 Reference/Mathematical Tools for Chemistry|Mathematical Tools for Chemistry]] supports calculation and graph work.
+- [Experimental Design and Safety](../Experimental%20Design%20and%20Safety/10%20Lecture%20Notes.md) supplies variables, apparatus and safety.
+- [Measurement, Observation and Calculation](../Measurement%20Observation%20and%20Calculation/10%20Lecture%20Notes.md) supplies precision, graphs and error analysis.
+- [Qualitative Analysis](../Qualitative%20Analysis/10%20Lecture%20Notes.md) covers observation-based conclusions.
+- [Mathematical Tools for Chemistry](../../04%20Reference/Mathematical%20Tools%20for%20Chemistry.md) supports calculation and graph work.

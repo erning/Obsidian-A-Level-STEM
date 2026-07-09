@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]"
+parent: "[Normal and Poisson Distributions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Normal and Poisson Distributions Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/30 Key Practice Problems|Key Practice Problems]]. Use it to mark modelling, boundaries, and continuity correction as well as numerical answers.
+This note gives worked solutions for [Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to mark modelling, boundaries, and continuity correction as well as numerical answers.
 
 ## Problem 1
 

@@ -2,7 +2,7 @@
 title: Physical Quantities and Units Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physical Quantities and Units]]"
+parent: "[Physical Quantities and Units](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -26,7 +26,7 @@ The habit is simple:
 
 ## Visual guide
 
-![[assets/generated/physics/physical-quantities-and-units.svg]]
+![physical-quantities-and-units](../../../assets/generated/physics/physical-quantities-and-units.svg)
 
 This guide connects the main ideas of the topic: quantities need units, measurements need uncertainties, and vectors need components when directions matter.
 
@@ -571,5 +571,5 @@ You are ready to move on when you can do these without looking up the method:
 
 ## Connections
 
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]
-- [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]
+- [Measurement and Data Presentation](../../02%20Experimental%20Thinking/Measurement%20and%20Data%20Presentation/00%20Overview.md)
+- [Math Tools and Formulae](../../04%20Reference/Math%20Tools%20and%20Formulae.md)

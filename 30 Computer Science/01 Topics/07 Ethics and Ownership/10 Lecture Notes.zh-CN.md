@@ -2,7 +2,7 @@
 title: Ethics and Ownership 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]]"
+parent: "[Ethics and Ownership](00%20Overview.md)"
 status: active
 tags:
   - computerscience/foundations
@@ -136,5 +136,5 @@ AI 的影响体现在考纲明确点名的三个方面。
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]]（A Level）提供 AI 与机器学习系统如何构建和训练的技术基础，正是这些技术带来了本节所讨论的影响。
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] 提供了一名合乎伦理的专业人员在处理数据时必须尊重的安全措施、访问权限和隐私概念。
+- [Artificial Intelligence](../18%20Artificial%20Intelligence/00%20Overview.md)（A Level）提供 AI 与机器学习系统如何构建和训练的技术基础，正是这些技术带来了本节所讨论的影响。
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) 提供了一名合乎伦理的专业人员在处理数据时必须尊重的安全措施、访问权限和隐私概念。

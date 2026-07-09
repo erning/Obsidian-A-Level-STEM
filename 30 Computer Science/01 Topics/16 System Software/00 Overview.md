@@ -35,7 +35,7 @@ This A Level topic extends section 5 with the internals of an operating system (
 
 ## How to Study
 
-- Place this after [[30 Computer Science/01 Topics/05 System Software/00 Overview|5 System Software]].
+- Place this after [5 System Software](../05%20System%20Software/00%20Overview.md).
 - Trace a scheduling routine on a small set of processes with arrival and burst times.
 - Move an expression through infix, BNF, RPN, and back to check each stage.
 
@@ -47,19 +47,19 @@ This A Level topic extends section 5 with the internals of an operating system (
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/16 System Software/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/16 System Software/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/16 System Software/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/16 System Software/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/16 System Software/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/16 System Software/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]] is the foundation for OS purposes, utilities, translators, libraries, and IDE support; this topic opens up the internal mechanisms.
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] supplies interrupts, registers, program counter state, and fetch-execute ideas used when the kernel switches processes.
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]] connects through virtual machines, processor families, interrupt costs, and resource sharing.
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] and [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] connect to compilation, BNF grammar, RPN evaluation, and the source code that translators process.
+- [System Software](../05%20System%20Software/00%20Overview.md) is the foundation for OS purposes, utilities, translators, libraries, and IDE support; this topic opens up the internal mechanisms.
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) supplies interrupts, registers, program counter state, and fetch-execute ideas used when the kernel switches processes.
+- [Hardware and Virtual Machines](../15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md) connects through virtual machines, processor families, interrupt costs, and resource sharing.
+- [Programming](../11%20Programming/00%20Overview.md) and [Further Programming](../20%20Further%20Programming/00%20Overview.md) connect to compilation, BNF grammar, RPN evaluation, and the source code that translators process.
 
 ## Common Traps
 

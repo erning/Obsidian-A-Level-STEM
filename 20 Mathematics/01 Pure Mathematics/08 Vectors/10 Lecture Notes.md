@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/08 Vectors/00 Overview|Vectors]]"
+parent: "[Vectors](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -23,7 +23,7 @@ Vectors describe magnitude and direction. In pure mathematics they give a compac
 
 ## Visual Guide
 
-![[assets/generated/mathematics/vectors.svg]]
+![vectors](../../../assets/generated/mathematics/vectors.svg)
 
 Figure: The guide shows vector addition and a parametric line. Use it to keep the geometry visible while doing component algebra.
 
@@ -235,5 +235,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]]
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physics Vectors]]
+- [Matrices and Transformations](../10%20Matrices%20and%20Transformations/00%20Overview.md)
+- [Physics Vectors](../../../10%20Physics/01%20Topics/01%20Physical%20Quantities%20and%20Units/00%20Overview.md)

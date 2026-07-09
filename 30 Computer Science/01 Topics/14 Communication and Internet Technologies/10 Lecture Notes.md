@@ -2,7 +2,7 @@
 title: Communication and Internet Technologies Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]]"
+parent: "[Communication and Internet Technologies](00%20Overview.md)"
 status: active
 tags:
   - computerscience/networks
@@ -11,7 +11,7 @@ tags:
 
 # Communication and Internet Technologies Lecture Notes
 
-Computers on a network do not just send bytes and hope; they follow agreed **protocols** so that machines from different makers can understand each other, and they move that data with **switching** methods that decide how the journey from sender to receiver is organised. This A Level topic extends [[30 Computer Science/01 Topics/02 Communication/00 Overview|AS section 2 Communication]]: where the AS work covered the hardware, topologies and addressing that build a network, here we look at the rules that let hosts talk (the **TCP/IP protocol suite** and its application protocols) and at how data actually travels across the internet (circuit switching vs packet switching, and the role of the router).
+Computers on a network do not just send bytes and hope; they follow agreed **protocols** so that machines from different makers can understand each other, and they move that data with **switching** methods that decide how the journey from sender to receiver is organised. This A Level topic extends [AS section 2 Communication](../02%20Communication/00%20Overview.md): where the AS work covered the hardware, topologies and addressing that build a network, here we look at the rules that let hosts talk (the **TCP/IP protocol suite** and its application protocols) and at how data actually travels across the internet (circuit switching vs packet switching, and the role of the router).
 
 ## Source Route
 
@@ -203,8 +203,8 @@ A simple memory hook: circuit switching reserves a "private road" for your whole
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]] (AS section 2) is the foundation this topic extends: it covered the LAN/WAN hardware, topologies, IP addressing and DNS that the protocols and switching here rely on.
-- [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] builds directly on these protocols - **SSL/TLS** sits between the Application and Transport layers to add encryption and authentication, and many security threats exploit the very protocols described here.
+- [Communication](../02%20Communication/00%20Overview.md) (AS section 2) is the foundation this topic extends: it covered the LAN/WAN hardware, topologies, IP addressing and DNS that the protocols and switching here rely on.
+- [Security](../17%20Security/00%20Overview.md) builds directly on these protocols - **SSL/TLS** sits between the Application and Transport layers to add encryption and authentication, and many security threats exploit the very protocols described here.
 
 ## Study Sequence
 

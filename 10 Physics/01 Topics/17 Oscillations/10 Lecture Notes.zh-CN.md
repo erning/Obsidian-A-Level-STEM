@@ -2,7 +2,7 @@
 title: Oscillations 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]]"
+parent: "[Oscillations](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -28,7 +28,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/oscillations.svg]]
+![oscillations](../../../assets/generated/physics/oscillations.svg)
 
 这张图把简谐运动的位移、速度、加速度、能量交换、阻尼和共振放在一起。复习时可以先问：什么时候速度最大？什么时候加速度最大？能量在什么形式之间转换？
 
@@ -299,5 +299,5 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-- [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]
+- [Waves](../07%20Waves/00%20Overview.md)
+- [Further Calculus and Differential Equations](../../../20%20Mathematics/01%20Pure%20Mathematics/13%20Further%20Calculus%20and%20Differential%20Equations/00%20Overview.md)

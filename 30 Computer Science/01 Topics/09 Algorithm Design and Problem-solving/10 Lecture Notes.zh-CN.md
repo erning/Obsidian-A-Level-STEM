@@ -2,7 +2,7 @@
 title: Algorithm Design and Problem-solving 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]]"
+parent: "[Algorithm Design and Problem-solving](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -373,6 +373,6 @@ UNTIL NOT (Age < 0 OR Age > 120)
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]] 把这些技能推广到查找与排序算法、递归、抽象数据类型和复杂度分析。
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] 把这些设计变成用高级语言写成的真实代码。
-- [[30 Computer Science/04 Reference/Pseudocode and Programming Reference|Pseudocode and Programming Reference]] 是所有伪代码答题的记法参考。
+- [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md) 把这些技能推广到查找与排序算法、递归、抽象数据类型和复杂度分析。
+- [Programming](../11%20Programming/00%20Overview.md) 把这些设计变成用高级语言写成的真实代码。
+- [Pseudocode and Programming Reference](../../04%20Reference/Pseudocode%20and%20Programming%20Reference.md) 是所有伪代码答题的记法参考。

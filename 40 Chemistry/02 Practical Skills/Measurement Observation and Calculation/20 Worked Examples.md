@@ -10,7 +10,7 @@ tags:
 
 # Measurement, Observation and Calculation - Worked Examples
 
-These examples show precision, significant figures, percentage error and graph handling in action. They follow [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/10 Lecture Notes|the lecture notes]].
+These examples show precision, significant figures, percentage error and graph handling in action. They follow [the lecture notes](10%20Lecture%20Notes.md).
 
 ## Example 1: Significant figures in a titration calculation
 

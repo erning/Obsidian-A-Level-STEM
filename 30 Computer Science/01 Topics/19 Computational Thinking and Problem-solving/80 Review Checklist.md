@@ -2,7 +2,7 @@
 title: Computational Thinking and Problem-solving Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]]"
+parent: "[Computational Thinking and Problem-solving](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -55,7 +55,7 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Trace linked-list deletion when the target is the head node and when it is not.
 - [ ] Explain how circular queue pointers wrap using `MOD`.
 - [ ] Trace recursive factorial by pushing frames to the base case and unwinding return values.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] by explaining how earlier constructs become larger algorithms.
+- [ ] Connect this topic to [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) by explaining how earlier constructs become larger algorithms.
 
 ## Common Errors to Avoid
 
@@ -82,5 +82,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can implement stack and queue operations while checking full and empty states.
 - [ ] I can describe graphs and justify them for network-style data.
 - [ ] I can trace recursive code through stack frames and explain unwinding.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] by explaining how earlier ADT descriptions become algorithms.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] through recursion, ADTs, and implementation choices.
+- [ ] I can connect this topic to [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) by explaining how earlier ADT descriptions become algorithms.
+- [ ] I can connect this topic to [Further Programming](../20%20Further%20Programming/00%20Overview.md) through recursion, ADTs, and implementation choices.

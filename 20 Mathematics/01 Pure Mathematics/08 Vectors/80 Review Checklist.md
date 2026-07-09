@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/08 Vectors/00 Overview|Vectors]]"
+parent: "[Vectors](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -13,7 +13,7 @@ tags:
 
 # Vectors Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/01 Pure Mathematics/08 Vectors/10 Lecture Notes|Vectors Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Vectors Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

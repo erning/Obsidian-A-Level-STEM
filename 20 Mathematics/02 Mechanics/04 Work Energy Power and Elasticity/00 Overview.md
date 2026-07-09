@@ -44,17 +44,17 @@ Energy methods solve motion problems by tracking work, kinetic energy, potential
 
 ## Learning Materials
 
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Physics Work, Energy and Power]]
-- [[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Physics Deformation of Solids]]
+- [Physics Work, Energy and Power](../../../10%20Physics/01%20Topics/05%20Work%20Energy%20and%20Power/00%20Overview.md)
+- [Physics Deformation of Solids](../../../10%20Physics/01%20Topics/06%20Deformation%20of%20Solids/00%20Overview.md)
 
 ## Common Traps
 

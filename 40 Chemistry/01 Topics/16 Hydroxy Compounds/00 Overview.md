@@ -44,19 +44,19 @@ Hydroxy compounds at AS focus on alcohols: how they are made, classified and con
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]] links alcohols and halogenoalkanes by substitution.
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]] follows from alcohol oxidation.
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]] connects alcohols to acids and esters.
-- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/00 Overview|A Level Hydroxy Compounds]] extends hydroxy chemistry to phenol as well as alcohols.
+- [Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md) links alcohols and halogenoalkanes by substitution.
+- [Carbonyl Compounds](../17%20Carbonyl%20Compounds/00%20Overview.md) follows from alcohol oxidation.
+- [Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) connects alcohols to acids and esters.
+- [A Level Hydroxy Compounds](../32%20Hydroxy%20Compounds/00%20Overview.md) extends hydroxy chemistry to phenol as well as alcohols.
 
 ## Common Traps
 

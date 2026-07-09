@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/01 Data Representation and Summary/00 Overview|Data Representation and Summary]]"
+parent: "[Data Representation and Summary](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -22,7 +22,7 @@ Statistics begins by turning raw observations into something readable. A good re
 
 ## Visual Guide
 
-![[assets/generated/mathematics/data-representation-and-summary.svg]]
+![data-representation-and-summary](../../../assets/generated/mathematics/data-representation-and-summary.svg)
 
 Figure: use the guide to connect histogram shape, box-and-whisker summaries, and outliers.
 
@@ -203,7 +203,7 @@ The medians are equal at $22$, but group $B$ is less consistent because its $IQR
 
 ## Connections
 
-- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
+- [Sampling, Estimation and Hypothesis Tests](../06%20Sampling%20Estimation%20and%20Hypothesis%20Tests/00%20Overview.md)
 
 ## Study Sequence
 

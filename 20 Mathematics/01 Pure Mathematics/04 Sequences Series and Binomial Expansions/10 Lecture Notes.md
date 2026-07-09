@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]"
+parent: "[Sequences, Series and Binomial Expansions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -26,7 +26,7 @@ Keep the distinction between a term and a sum visible throughout this note. Many
 
 ## Visual Guide
 
-![[assets/generated/mathematics/sequences-series-and-binomial-expansions.svg]]
+![sequences-series-and-binomial-expansions](../../../assets/generated/mathematics/sequences-series-and-binomial-expansions.svg)
 
 Figure: The guide compares arithmetic accumulation, geometric growth, and binomial terms. Use it to remember that this topic is about recognising structure before expanding or summing.
 
@@ -331,5 +331,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/00 Overview|Proof and Mathematical Induction]]
-- [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]
+- [Proof and Mathematical Induction](../11%20Proof%20and%20Mathematical%20Induction/00%20Overview.md)
+- [Further Calculus and Differential Equations](../13%20Further%20Calculus%20and%20Differential%20Equations/00%20Overview.md)

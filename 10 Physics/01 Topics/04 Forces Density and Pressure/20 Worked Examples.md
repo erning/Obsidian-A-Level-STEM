@@ -2,7 +2,7 @@
 title: Forces, Density and Pressure Worked Examples
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Forces, Density and Pressure]]"
+parent: "[Forces, Density and Pressure](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

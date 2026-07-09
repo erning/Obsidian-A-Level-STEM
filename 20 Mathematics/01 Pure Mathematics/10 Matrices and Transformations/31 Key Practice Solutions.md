@@ -3,7 +3,7 @@ title: Matrices and Transformations Key Practice Solutions
 subject: Mathematics
 syllabus:
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]]"
+parent: "[Matrices and Transformations](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -12,7 +12,7 @@ tags:
 
 # Matrices and Transformations Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/30 Key Practice Problems|Matrices and Transformations Key Practice Problems]]. Use it to check multiplication order, determinant decisions, and eigenvector matching.
+This note gives worked solutions for [Matrices and Transformations Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check multiplication order, determinant decisions, and eigenvector matching.
 
 ## A. Matrix Algebra and Inverses
 

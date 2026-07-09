@@ -2,7 +2,7 @@
 title: Work, Energy and Power Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]]"
+parent: "[Work, Energy and Power](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -74,13 +74,13 @@ a cue to return to the lecture notes and redo one relevant calculation.
 ## Connections
 
 - [ ] I can connect work done by a resultant force to
-  [[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]].
+  [Dynamics](../03%20Dynamics/00%20Overview.md).
 - [ ] I can connect force components and displacement directions to
-  [[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Forces, Density and Pressure]].
+  [Forces, Density and Pressure](../04%20Forces%20Density%20and%20Pressure/00%20Overview.md).
 - [ ] I can connect area under a force-extension graph to
-  [[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]].
+  [Deformation of Solids](../06%20Deformation%20of%20Solids/00%20Overview.md).
 - [ ] I can connect this topic to the mathematical mechanics route in
-  [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]].
+  [Work, Energy, Power and Elasticity](../../../20%20Mathematics/02%20Mechanics/04%20Work%20Energy%20Power%20and%20Elasticity/00%20Overview.md).
 
 ## Ready to Move On When
 

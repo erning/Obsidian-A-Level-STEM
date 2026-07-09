@@ -2,7 +2,7 @@
 title: Data Types and Structures 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]]"
+parent: "[Data Types and Structures](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -274,5 +274,5 @@ CLOSEFILE "pupils.txt"
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]] 把这里定义的 ADT 发展成完整算法（压栈、出栈、入队、出队、遍历）。
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] 提供本讲义通篇使用的伪代码记法和追踪习惯。
+- [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md) 把这里定义的 ADT 发展成完整算法（压栈、出栈、入队、出队、遍历）。
+- [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) 提供本讲义通篇使用的伪代码记法和追踪习惯。

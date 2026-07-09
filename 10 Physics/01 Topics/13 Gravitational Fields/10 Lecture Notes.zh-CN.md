@@ -2,7 +2,7 @@
 title: Gravitational Fields 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]]"
+parent: "[Gravitational Fields](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -29,7 +29,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/gravitational-fields.svg]]
+![gravitational-fields](../../../assets/generated/physics/gravitational-fields.svg)
 
 这张图要分成两种图像来看：场线表示力的方向和场强相对大小；势能曲线表示每单位质量的能量，并且在把无穷远取为零势时为负。
 
@@ -386,6 +386,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]] 提供向心加速度和向心力。
-- [[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]] 会用到类似的场强、势和势能思想。
-- [[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]] 会用引力描述恒星、星系和宇宙结构。
+- [Motion in a Circle](../12%20Motion%20in%20a%20Circle/00%20Overview.md) 提供向心加速度和向心力。
+- [Electric Fields](../18%20Electric%20Fields/00%20Overview.md) 会用到类似的场强、势和势能思想。
+- [Astronomy and Cosmology](../25%20Astronomy%20and%20Cosmology/00%20Overview.md) 会用引力描述恒星、星系和宇宙结构。

@@ -44,19 +44,19 @@ System software sits between the hardware and the user's programs. This topic co
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/05 System Software/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/05 System Software/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/05 System Software/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/05 System Software/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/05 System Software/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/05 System Software/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]] extends this topic from OS roles and translator types into process scheduling, virtual memory, compilation stages, BNF, and RPN.
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] produces the source code that assemblers, compilers, interpreters, IDEs, and libraries support.
-- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] supplies the memory, storage, input/output devices, and peripherals that the OS manages through drivers and utilities.
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] explains why translated programs must become instructions that the CPU can fetch, decode, execute, and interrupt.
+- [System Software](../16%20System%20Software/00%20Overview.md) extends this topic from OS roles and translator types into process scheduling, virtual memory, compilation stages, BNF, and RPN.
+- [Programming](../11%20Programming/00%20Overview.md) produces the source code that assemblers, compilers, interpreters, IDEs, and libraries support.
+- [Hardware](../03%20Hardware/00%20Overview.md) supplies the memory, storage, input/output devices, and peripherals that the OS manages through drivers and utilities.
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) explains why translated programs must become instructions that the CPU can fetch, decode, execute, and interrupt.
 
 ## Common Traps
 

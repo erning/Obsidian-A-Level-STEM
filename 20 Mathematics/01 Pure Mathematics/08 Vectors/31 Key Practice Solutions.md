@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/08 Vectors/00 Overview|Vectors]]"
+parent: "[Vectors](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -13,7 +13,7 @@ tags:
 
 # Vectors Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/08 Vectors/30 Key Practice Problems|Vectors Key Practice Problems]]. Use it to check the method, the vector roles, and the final answer.
+This note gives worked solutions for [Vectors Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check the method, the vector roles, and the final answer.
 
 ## A. Position Vectors and Lines
 

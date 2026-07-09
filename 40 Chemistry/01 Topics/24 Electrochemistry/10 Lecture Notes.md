@@ -200,7 +200,7 @@ where $n$ is the number of moles of electrons transferred in the balanced cell r
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/06 Electrochemistry/00 Overview|AS Electrochemistry]]
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|A Level Chemical Energetics]]
-- [[40 Chemistry/01 Topics/28 Chemistry of Transition Elements/00 Overview|Chemistry of Transition Elements]]
-- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|A Level Equilibria]]
+- [AS Electrochemistry](../06%20Electrochemistry/00%20Overview.md)
+- [A Level Chemical Energetics](../23%20Chemical%20Energetics/00%20Overview.md)
+- [Chemistry of Transition Elements](../28%20Chemistry%20of%20Transition%20Elements/00%20Overview.md)
+- [A Level Equilibria](../25%20Equilibria/00%20Overview.md)

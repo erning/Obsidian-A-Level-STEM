@@ -2,7 +2,7 @@
 title: Further Programming Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]]"
+parent: "[Further Programming](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -11,7 +11,7 @@ tags:
 
 # Further Programming Key Practice Problems
 
-These problems cover A Level section 20 Further Programming: the four programming paradigms, object-oriented and declarative design, file processing for serial, sequential and random files, and exception handling. Attempt every problem on paper before checking the [[31 Key Practice Solutions|solutions file]]. No answers appear in this file so it can be used for active recall.
+These problems cover A Level section 20 Further Programming: the four programming paradigms, object-oriented and declarative design, file processing for serial, sequential and random files, and exception handling. Attempt every problem on paper before checking the [solutions file](31%20Key%20Practice%20Solutions.md). No answers appear in this file so it can be used for active recall.
 
 ## A. Paradigms
 

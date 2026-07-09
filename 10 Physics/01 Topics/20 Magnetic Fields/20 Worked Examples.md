@@ -2,7 +2,7 @@
 title: Magnetic Fields Worked Examples
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]]"
+parent: "[Magnetic Fields](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

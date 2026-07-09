@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]"
+parent: "[Work, Energy, Power and Elasticity](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Work, Energy, Power and Elasticity Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/10 Lecture Notes|Work, Energy, Power and Elasticity Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Work, Energy, Power and Elasticity Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

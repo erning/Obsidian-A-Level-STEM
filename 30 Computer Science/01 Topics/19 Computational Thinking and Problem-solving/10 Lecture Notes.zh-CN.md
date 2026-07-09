@@ -2,7 +2,7 @@
 title: Computational Thinking and Problem-solving 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]]"
+parent: "[Computational Thinking and Problem-solving](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -484,5 +484,5 @@ ENDFUNCTION
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] 是本节所扩展的 AS 基础——抽象、分解、三种基本结构以及伪代码记法都来自那里。
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] 定义了那些 ADT（栈、队列、链表）及其数组实现；本节把它们的操作写成完整算法。
+- [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) 是本节所扩展的 AS 基础——抽象、分解、三种基本结构以及伪代码记法都来自那里。
+- [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) 定义了那些 ADT（栈、队列、链表）及其数组实现；本节把它们的操作写成完整算法。

@@ -2,7 +2,7 @@
 title: Electric Fields Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]]"
+parent: "[Electric Fields](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -29,7 +29,7 @@ This topic has three linked ideas: force, field strength, and potential. Force d
 
 ## Visual Guide
 
-![[assets/generated/physics/electric-fields.svg]]
+![electric-fields](../../../assets/generated/physics/electric-fields.svg)
 
 Figure: Field lines show direction and relative strength; equipotentials show the energy landscape.
 
@@ -307,5 +307,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]]
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]
+- [Gravitational Fields](../13%20Gravitational%20Fields/00%20Overview.md)
+- [Capacitance](../19%20Capacitance/00%20Overview.md)

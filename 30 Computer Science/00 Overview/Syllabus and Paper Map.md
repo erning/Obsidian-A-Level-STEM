@@ -22,38 +22,38 @@ Calculators must not be used in any paper.
 | Paper 3 | Advanced Theory | 1 h 30 min | 13-20 | 25% A Level |
 | Paper 4 | Practical | 2 h 30 min | 19-20 (except low-level and declarative programming) | 25% A Level |
 
-Paper 2 answers are written in pseudocode, following the [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Pseudocode Guide 2027-2029.pdf|Pseudocode Guide 2027-2029]]. Paper 4 is a computer-based practical: candidates submit complete program code and evidence of testing in Java (console mode), Visual Basic .NET (console mode), or Python (console mode), without internet or email.
+Paper 2 answers are written in pseudocode, following the [Pseudocode Guide 2027-2029](../../assets/syllabus/9618%20-%20Computer%20Science/CAIE%20Computer%20Science%209618%20Pseudocode%20Guide%202027-2029.pdf). Paper 4 is a computer-based practical: candidates submit complete program code and evidence of testing in Java (console mode), Visual Basic .NET (console mode), or Python (console mode), without internet or email.
 
 ## Paper-to-Topic Map
 
 ### Paper 1: Theory Fundamentals (AS, sections 1-8)
 
-- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|1 Information Representation]]
-- [[30 Computer Science/01 Topics/02 Communication/00 Overview|2 Communication]]
-- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|3 Hardware]]
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|4 Processor Fundamentals]]
-- [[30 Computer Science/01 Topics/05 System Software/00 Overview|5 System Software]]
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|6 Security, Privacy and Data Integrity]]
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|7 Ethics and Ownership]]
-- [[30 Computer Science/01 Topics/08 Databases/00 Overview|8 Databases]]
+- [1 Information Representation](../01%20Topics/01%20Information%20Representation/00%20Overview.md)
+- [2 Communication](../01%20Topics/02%20Communication/00%20Overview.md)
+- [3 Hardware](../01%20Topics/03%20Hardware/00%20Overview.md)
+- [4 Processor Fundamentals](../01%20Topics/04%20Processor%20Fundamentals/00%20Overview.md)
+- [5 System Software](../01%20Topics/05%20System%20Software/00%20Overview.md)
+- [6 Security, Privacy and Data Integrity](../01%20Topics/06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md)
+- [7 Ethics and Ownership](../01%20Topics/07%20Ethics%20and%20Ownership/00%20Overview.md)
+- [8 Databases](../01%20Topics/08%20Databases/00%20Overview.md)
 
 ### Paper 2: Problem-solving and Programming Skills (AS, sections 9-12)
 
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|9 Algorithm Design and Problem-solving]]
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|10 Data Types and Structures]]
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|11 Programming]]
-- [[30 Computer Science/01 Topics/12 Software Development/00 Overview|12 Software Development]]
+- [9 Algorithm Design and Problem-solving](../01%20Topics/09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md)
+- [10 Data Types and Structures](../01%20Topics/10%20Data%20Types%20and%20Structures/00%20Overview.md)
+- [11 Programming](../01%20Topics/11%20Programming/00%20Overview.md)
+- [12 Software Development](../01%20Topics/12%20Software%20Development/00%20Overview.md)
 
 ### Paper 3: Advanced Theory (A Level, sections 13-20)
 
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|13 Data Representation]]
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|14 Communication and Internet Technologies]]
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|15 Hardware and Virtual Machines]]
-- [[30 Computer Science/01 Topics/16 System Software/00 Overview|16 System Software]]
-- [[30 Computer Science/01 Topics/17 Security/00 Overview|17 Security]]
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|18 Artificial Intelligence]]
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|19 Computational Thinking and Problem-solving]]
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|20 Further Programming]]
+- [13 Data Representation](../01%20Topics/13%20Data%20Representation/00%20Overview.md)
+- [14 Communication and Internet Technologies](../01%20Topics/14%20Communication%20and%20Internet%20Technologies/00%20Overview.md)
+- [15 Hardware and Virtual Machines](../01%20Topics/15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md)
+- [16 System Software](../01%20Topics/16%20System%20Software/00%20Overview.md)
+- [17 Security](../01%20Topics/17%20Security/00%20Overview.md)
+- [18 Artificial Intelligence](../01%20Topics/18%20Artificial%20Intelligence/00%20Overview.md)
+- [19 Computational Thinking and Problem-solving](../01%20Topics/19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md)
+- [20 Further Programming](../01%20Topics/20%20Further%20Programming/00%20Overview.md)
 
 ### Paper 4: Practical (A Level, sections 19-20)
 

@@ -10,7 +10,7 @@ tags:
 
 # Planning, Analysis and Evaluation - Worked Examples
 
-These examples model the four Paper 5 skills: planning, analysis, conclusion and evaluation. They follow [[40 Chemistry/02 Practical Skills/Planning Analysis and Evaluation/10 Lecture Notes|the lecture notes]].
+These examples model the four Paper 5 skills: planning, analysis, conclusion and evaluation. They follow [the lecture notes](10%20Lecture%20Notes.md).
 
 ## Example 1: Full plan: temperature and rate
 

@@ -2,7 +2,7 @@
 title: Dynamics Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]]"
+parent: "[Dynamics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -12,7 +12,7 @@ tags:
 
 # Dynamics Review Checklist
 
-Use this after working through [[10 Physics/01 Topics/03 Dynamics/10 Lecture Notes|Lecture Notes]], [[10 Physics/01 Topics/03 Dynamics/20 Worked Examples|Worked Examples]], and [[10 Physics/01 Topics/03 Dynamics/30 Key Practice Problems|Key Practice Problems]].
+Use this after working through [Lecture Notes](10%20Lecture%20Notes.md), [Worked Examples](20%20Worked%20Examples.md), and [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## Force Route
 
@@ -59,13 +59,13 @@ Use this after working through [[10 Physics/01 Topics/03 Dynamics/10 Lecture Not
 
 ## Ready to Connect
 
-You are ready to connect this topic to [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]] when you can:
+You are ready to connect this topic to [Work, Energy and Power](../05%20Work%20Energy%20and%20Power/00%20Overview.md) when you can:
 
 - say whether kinetic energy is conserved in a collision;
 - explain where "lost" kinetic energy goes in an inelastic collision;
 - compare force, impulse, momentum, work, and energy as different descriptions of an interaction.
 
-You are ready to connect this topic to [[20 Mathematics/02 Mechanics/03 Momentum Collisions and Impulse/00 Overview|Momentum, Collisions and Impulse]] when you can:
+You are ready to connect this topic to [Momentum, Collisions and Impulse](../../../20%20Mathematics/02%20Mechanics/03%20Momentum%20Collisions%20and%20Impulse/00%20Overview.md) when you can:
 
 - set up signed one-dimensional momentum equations;
 - write separate $x$ and $y$ momentum equations for two-dimensional problems;

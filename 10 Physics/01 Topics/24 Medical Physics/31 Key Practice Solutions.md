@@ -2,7 +2,7 @@
 title: Medical Physics Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/24 Medical Physics/00 Overview|Medical Physics]]"
+parent: "[Medical Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -13,7 +13,7 @@ tags:
 # Medical Physics Key Practice Solutions
 
 Use these solutions to check the physical chain, unit conversions, attenuation
-models, and final answers for [[10 Physics/01 Topics/24 Medical Physics/30 Key Practice Problems|Key Practice Problems]].
+models, and final answers for [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Ultrasound
 

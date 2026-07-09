@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]"
+parent: "[Algebra and Functions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -22,7 +22,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/algebra-and-functions.svg]]
+![algebra-and-functions](../../../assets/generated/mathematics/algebra-and-functions.svg)
 
 这张图用来快速理解“代数与函数”：把二次式、顶点、根和有理函数渐近线放在同一张图里看。
 
@@ -485,6 +485,6 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]：函数图像、坐标语言和判别式会继续用于直线、圆和相切问题。
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]：二项式展开和代数结构会在级数与展开式中继续出现。
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]：部分分式和有理函数图像是后续积分方法的直接准备。
+- [Coordinate Geometry and Graphs](../02%20Coordinate%20Geometry%20and%20Graphs/00%20Overview.md)：函数图像、坐标语言和判别式会继续用于直线、圆和相切问题。
+- [Sequences, Series and Binomial Expansions](../04%20Sequences%20Series%20and%20Binomial%20Expansions/00%20Overview.md)：二项式展开和代数结构会在级数与展开式中继续出现。
+- [Integration](../06%20Integration/00%20Overview.md)：部分分式和有理函数图像是后续积分方法的直接准备。

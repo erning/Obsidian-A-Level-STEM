@@ -2,7 +2,7 @@
 title: Data Types and Structures Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]]"
+parent: "[Data Types and Structures](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -53,8 +53,8 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Trace the front and rear pointers of a queue through enqueue and dequeue operations.
 - [ ] Explain how a linked list uses data values and next-pointers.
 - [ ] Explain why an ADT is not the same as its array implementation.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] by explaining how data types appear in declarations, expressions, and routine headers.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]] by explaining how ADT descriptions become full algorithms.
+- [ ] Connect this topic to [Programming](../11%20Programming/00%20Overview.md) by explaining how data types appear in declarations, expressions, and routine headers.
+- [ ] Connect this topic to [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md) by explaining how ADT descriptions become full algorithms.
 
 ## Common Errors to Avoid
 
@@ -80,5 +80,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can write the standard text-file read pattern and explain every file mode.
 - [ ] I can describe stack, queue, and linked-list behaviour independently of their storage.
 - [ ] I can explain how arrays can be used to implement stack, queue, and linked-list ADTs.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]] through records, fields, and structured data.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] through file organisation and stored data.
+- [ ] I can connect this topic to [Databases](../08%20Databases/00%20Overview.md) through records, fields, and structured data.
+- [ ] I can connect this topic to [Data Representation](../13%20Data%20Representation/00%20Overview.md) through file organisation and stored data.

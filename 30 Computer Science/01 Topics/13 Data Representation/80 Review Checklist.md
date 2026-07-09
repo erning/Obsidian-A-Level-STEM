@@ -2,7 +2,7 @@
 title: Data Representation Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]]"
+parent: "[Data Representation](00%20Overview.md)"
 status: active
 tags:
   - computerscience/data
@@ -55,7 +55,7 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Trace a floating-point value from mantissa and exponent to $\text{mantissa}\times2^{\text{exponent}}$.
 - [ ] Explain why a normalised positive mantissa begins $01$ and a normalised negative mantissa begins $10$.
 - [ ] Explain why storing $0.1_{10}$ or $0.2_{10}$ in binary floating point introduces rounding error.
-- [ ] Connect this topic back to [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]].
+- [ ] Connect this topic back to [Information Representation](../01%20Information%20Representation/00%20Overview.md).
 
 ## Common Errors to Avoid
 
@@ -79,6 +79,6 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can decode and encode fixed-width binary floating-point values using two's complement mantissa and exponent fields.
 - [ ] I can normalise positive and negative values and explain why normalisation improves precision and gives a unique form.
 - [ ] I can distinguish range, precision, approximation, rounding error, underflow, and overflow.
-- [ ] I can explain how this topic extends [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]].
-- [ ] I can connect user-defined types and file handling to [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]].
-- [ ] I can connect records, keys, and retrieval to [[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]].
+- [ ] I can explain how this topic extends [Information Representation](../01%20Information%20Representation/00%20Overview.md).
+- [ ] I can connect user-defined types and file handling to [Further Programming](../20%20Further%20Programming/00%20Overview.md).
+- [ ] I can connect records, keys, and retrieval to [Databases](../08%20Databases/00%20Overview.md).

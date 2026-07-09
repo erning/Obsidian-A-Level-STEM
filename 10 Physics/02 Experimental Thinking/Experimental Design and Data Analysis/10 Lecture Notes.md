@@ -2,7 +2,7 @@
 title: Experimental Design and Data Analysis Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]"
+parent: "[Experimental Design and Data Analysis](00%20Overview.md)"
 status: active
 tags:
   - physics/9702
@@ -26,7 +26,7 @@ The discipline running through all of it is simple:
 
 ## Visual guide
 
-![[assets/generated/physics/experimental-design-and-data-analysis.svg]]
+![experimental-design-and-data-analysis](../../../assets/generated/physics/experimental-design-and-data-analysis.svg)
 
 This guide links the stages of an experiment: the variables you set, the line of best fit with its error bars, the worst acceptable line that the error bars still allow, and the range of gradients that sets the uncertainty in your final constant.
 
@@ -318,8 +318,8 @@ After working through this note, you should be able to:
 
 ## Connections
 
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]
-- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]]
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]
-- [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]
+- [Measurement and Data Presentation](../Measurement%20and%20Data%20Presentation/00%20Overview.md)
+- [Oscillations](../../01%20Topics/17%20Oscillations/00%20Overview.md)
+- [Capacitance](../../01%20Topics/19%20Capacitance/00%20Overview.md)
+- [Nuclear Physics](../../01%20Topics/23%20Nuclear%20Physics/00%20Overview.md)
+- [Math Tools and Formulae](../../04%20Reference/Math%20Tools%20and%20Formulae.md)

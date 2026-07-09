@@ -2,7 +2,7 @@
 title: D.C. Circuits Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]]"
+parent: "[D.C. Circuits](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -83,11 +83,11 @@ loops, and output terminals labelled.
 ## Connections
 
 - [ ] I can connect circuit quantities to
-  [[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]].
+  [Electricity](../09%20Electricity/00%20Overview.md).
 - [ ] I can connect charge, p.d., and time-dependent circuit behaviour to
-  [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]].
+  [Capacitance](../19%20Capacitance/00%20Overview.md).
 - [ ] I can connect D.C. circuit ideas to
-  [[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]].
+  [Alternating Currents](../21%20Alternating%20Currents/00%20Overview.md).
 
 ## Ready to Move On When
 

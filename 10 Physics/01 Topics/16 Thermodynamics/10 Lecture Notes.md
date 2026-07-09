@@ -2,7 +2,7 @@
 title: Thermodynamics Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]"
+parent: "[Thermodynamics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -26,7 +26,7 @@ The central habit is to name the system before doing any calculation. Once the s
 
 ## Visual Guide
 
-![[assets/generated/physics/thermodynamics.svg]]
+![thermodynamics](../../../assets/generated/physics/thermodynamics.svg)
 
 Figure: Thermodynamics tracks heating, work, and the resulting change in internal energy.
 
@@ -59,7 +59,7 @@ The random kinetic part comes from molecular motion. In a solid, particles vibra
 
 A rise in temperature is related to an increase in internal energy. In many cases, this means the molecules have greater random kinetic energy. During a change of state, internal energy can also increase while temperature remains constant, because energy is going into changing molecular arrangement and separation rather than increasing average kinetic energy.
 
-For an ideal gas, intermolecular potential energy is neglected. Its internal energy is therefore associated with molecular kinetic energy. This is why the link between temperature and molecular kinetic energy from [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]] is so important.
+For an ideal gas, intermolecular potential energy is neglected. Its internal energy is therefore associated with molecular kinetic energy. This is why the link between temperature and molecular kinetic energy from [Ideal Gases](../15%20Ideal%20Gases/00%20Overview.md) is so important.
 
 ## 3. Heating and Work
 
@@ -278,5 +278,5 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]
-- [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]]
+- [Temperature](../14%20Temperature/00%20Overview.md)
+- [Ideal Gases](../15%20Ideal%20Gases/00%20Overview.md)

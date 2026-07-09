@@ -54,5 +54,5 @@ When drawing organic mechanisms, show:
 
 ## Connections
 
-- [[40 Chemistry/04 Reference/Chemical Formulae and Equations|Chemical Formulae and Equations]]
-- [[40 Chemistry/04 Reference/Data and Periodic Table|Data and Periodic Table]]
+- [Chemical Formulae and Equations](Chemical%20Formulae%20and%20Equations.md)
+- [Data and Periodic Table](Data%20and%20Periodic%20Table.md)

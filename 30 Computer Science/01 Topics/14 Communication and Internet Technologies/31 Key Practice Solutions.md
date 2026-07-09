@@ -2,7 +2,7 @@
 title: Communication and Internet Technologies Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]]"
+parent: "[Communication and Internet Technologies](00%20Overview.md)"
 status: active
 tags:
   - computerscience/networks
@@ -11,7 +11,7 @@ tags:
 
 # Communication and Internet Technologies Key Practice Solutions
 
-This note gives worked solutions for [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/30 Key Practice Problems|Communication and Internet Technologies Key Practice Problems]]. Each solution shows the full reasoning so you can find the step where your argument diverged, not just compare final answers.
+This note gives worked solutions for [Communication and Internet Technologies Key Practice Problems](30%20Key%20Practice%20Problems.md). Each solution shows the full reasoning so you can find the step where your argument diverged, not just compare final answers.
 
 ## A. Protocols and layers
 

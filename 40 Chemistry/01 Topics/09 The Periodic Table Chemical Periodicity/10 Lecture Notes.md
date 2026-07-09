@@ -295,7 +295,7 @@ For example, an element whose oxide is amphoteric and whose chloride gives an ac
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/01 Atomic Structure/00 Overview|Atomic Structure]]
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/00 Overview|Chemical Bonding]]
-- [[40 Chemistry/01 Topics/04 States of Matter/00 Overview|States of Matter]]
-- [[40 Chemistry/01 Topics/10 Group 2/00 Overview|Group 2]]
+- [Atomic Structure](../01%20Atomic%20Structure/00%20Overview.md)
+- [Chemical Bonding](../03%20Chemical%20Bonding/00%20Overview.md)
+- [States of Matter](../04%20States%20of%20Matter/00%20Overview.md)
+- [Group 2](../10%20Group%202/00%20Overview.md)

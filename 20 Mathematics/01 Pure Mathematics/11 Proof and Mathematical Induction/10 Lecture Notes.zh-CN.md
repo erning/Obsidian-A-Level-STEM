@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/11 Proof and Mathematical Induction/00 Overview|Proof and Mathematical Induction]]"
+parent: "[Proof and Mathematical Induction](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -25,7 +25,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/proof-and-mathematical-induction.svg]]
+![proof-and-mathematical-induction](../../../assets/generated/mathematics/proof-and-mathematical-induction.svg)
 
 这张图用来快速理解“证明与数学归纳法”：把基础步、归纳假设和归纳步连成一条逻辑链。
 
@@ -336,4 +336,4 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]：求和公式、递推关系和级数结果常常需要归纳法证明。
+- [Sequences, Series and Binomial Expansions](../04%20Sequences%20Series%20and%20Binomial%20Expansions/00%20Overview.md)：求和公式、递推关系和级数结果常常需要归纳法证明。

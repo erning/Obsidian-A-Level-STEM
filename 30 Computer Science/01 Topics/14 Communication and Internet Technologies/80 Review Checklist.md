@@ -2,7 +2,7 @@
 title: Communication and Internet Technologies Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]]"
+parent: "[Communication and Internet Technologies](00%20Overview.md)"
 status: active
 tags:
   - computerscience/networks
@@ -49,8 +49,8 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Trace packet switching through packet creation, independent routing, queuing, and reassembly.
 - [ ] Explain why circuit switching has setup delay even though delay is predictable once connected.
 - [ ] Explain why packet switching is efficient for bursty traffic but gives no guaranteed data rate.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]] by explaining how IP addressing, routers, DNS, and network hardware support protocols.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] by explaining how SSL/TLS adds protection to client-server communication.
+- [ ] Connect this topic to [Communication](../02%20Communication/00%20Overview.md) by explaining how IP addressing, routers, DNS, and network hardware support protocols.
+- [ ] Connect this topic to [Security](../17%20Security/00%20Overview.md) by explaining how SSL/TLS adds protection to client-server communication.
 
 ## Common Errors to Avoid
 
@@ -73,5 +73,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can match application protocols to realistic tasks and distinguish email-send from email-retrieve protocols.
 - [ ] I can compare circuit and packet switching using resource use, delay, robustness, data-rate guarantee, and billing.
 - [ ] I can trace one packet through routers and explain why each router only needs a routing table for the next hop.
-- [ ] I can explain how this topic extends [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]] from network structure into protocol behaviour.
-- [ ] I can see why SSL/TLS and certificates in [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]] need the protocol-stack context from this topic.
+- [ ] I can explain how this topic extends [Communication](../02%20Communication/00%20Overview.md) from network structure into protocol behaviour.
+- [ ] I can see why SSL/TLS and certificates in [Security](../17%20Security/00%20Overview.md) need the protocol-stack context from this topic.

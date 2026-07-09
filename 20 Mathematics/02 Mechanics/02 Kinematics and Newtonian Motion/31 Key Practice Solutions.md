@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]"
+parent: "[Kinematics and Newtonian Motion](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Kinematics and Newtonian Motion Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/30 Key Practice Problems|Kinematics and Newtonian Motion Key Practice Problems]]. Use it to check sign conventions, units, graph interpretation, and force diagrams. Take $g=10\ \mathrm{m\ s^{-2}}$ unless a question states otherwise.
+This note gives worked solutions for [Kinematics and Newtonian Motion Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check sign conventions, units, graph interpretation, and force diagrams. Take $g=10\ \mathrm{m\ s^{-2}}$ unless a question states otherwise.
 
 ## A. Constant Acceleration and Motion Graphs
 

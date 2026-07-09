@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]"
+parent: "[Further Calculus and Differential Equations](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -13,7 +13,7 @@ tags:
 
 # Further Calculus and Differential Equations Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/30 Key Practice Problems|Further Calculus and Differential Equations Key Practice Problems]]. Use it to check method choice, constants, domains, and final substitution back into the equation where possible.
+This note gives worked solutions for [Further Calculus and Differential Equations Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check method choice, constants, domains, and final substitution back into the equation where possible.
 
 ## A. Hyperbolic Functions and Further Calculus
 

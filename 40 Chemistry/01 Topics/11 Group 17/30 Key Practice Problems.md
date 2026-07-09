@@ -11,7 +11,7 @@ tags:
 
 # Group 17 - Key Practice Problems
 
-Keep answers out of this file during active recall. Use [[40 Chemistry/01 Topics/11 Group 17/31 Key Practice Solutions|31 Key Practice Solutions]] only after attempting the questions.
+Keep answers out of this file during active recall. Use [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md) only after attempting the questions.
 
 ## Questions
 

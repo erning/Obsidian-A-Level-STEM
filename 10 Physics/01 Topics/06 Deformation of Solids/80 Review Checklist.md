@@ -2,7 +2,7 @@
 title: Deformation of Solids Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]]"
+parent: "[Deformation of Solids](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -79,11 +79,11 @@ calculation.
 ## Connections
 
 - [ ] I can connect stress to
-  [[10 Physics/01 Topics/04 Forces Density and Pressure/00 Overview|Forces, Density and Pressure]].
+  [Forces, Density and Pressure](../04%20Forces%20Density%20and%20Pressure/00%20Overview.md).
 - [ ] I can connect graph area to
-  [[10 Physics/01 Topics/05 Work Energy and Power/00 Overview|Work, Energy and Power]].
+  [Work, Energy and Power](../05%20Work%20Energy%20and%20Power/00%20Overview.md).
 - [ ] I can connect spring modelling to
-  [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]].
+  [Work, Energy, Power and Elasticity](../../../20%20Mathematics/02%20Mechanics/04%20Work%20Energy%20Power%20and%20Elasticity/00%20Overview.md).
 
 ## Ready to Move On When
 

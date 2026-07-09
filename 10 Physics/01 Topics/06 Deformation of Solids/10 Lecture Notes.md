@@ -2,7 +2,7 @@
 title: Deformation of Solids Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/06 Deformation of Solids/00 Overview|Deformation of Solids]]"
+parent: "[Deformation of Solids](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -24,7 +24,7 @@ quantitatively.
 
 ## Visual guide
 
-![[assets/generated/physics/deformation-of-solids.svg]]
+![deformation-of-solids](../../../assets/generated/physics/deformation-of-solids.svg)
 
 The diagram links load, extension, Hooke's law, stress, strain, Young modulus,
 elastic behaviour, plastic behaviour, and elastic potential energy.
@@ -367,9 +367,9 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[10 Physics/01 Topics/04 Forces Density and Pressure/10 Lecture Notes|Forces, Density and Pressure]]
+- [Forces, Density and Pressure](../04%20Forces%20Density%20and%20Pressure/10%20Lecture%20Notes.md)
   introduced force per unit area, which becomes stress here.
-- [[10 Physics/01 Topics/05 Work Energy and Power/10 Lecture Notes|Work, Energy and Power]]
+- [Work, Energy and Power](../05%20Work%20Energy%20and%20Power/10%20Lecture%20Notes.md)
   introduced work done as area under a force-displacement graph.
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
+- [Work, Energy, Power and Elasticity](../../../20%20Mathematics/02%20Mechanics/04%20Work%20Energy%20Power%20and%20Elasticity/00%20Overview.md)
   develops the mechanics of springs and elastic energy.

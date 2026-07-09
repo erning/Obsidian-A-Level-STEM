@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/01 Data Representation and Summary/00 Overview|Data Representation and Summary]]"
+parent: "[Data Representation and Summary](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Data Representation and Summary Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/03 Probability and Statistics/01 Data Representation and Summary/30 Key Practice Problems|Data Representation and Summary Key Practice Problems]]. Use it to check representation choice, midpoint estimates, coded transformations, and comparison language.
+This note gives worked solutions for [Data Representation and Summary Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check representation choice, midpoint estimates, coded transformations, and comparison language.
 
 ## A. Data Types and Diagrams
 

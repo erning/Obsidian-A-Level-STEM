@@ -2,7 +2,7 @@
 title: Kinematics 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/02 Kinematics/00 Overview|Kinematics]]"
+parent: "[Kinematics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -25,7 +25,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/kinematics.svg]]
+![kinematics](../../../assets/generated/physics/kinematics.svg)
 
 这张图把运动学的核心关系放在一起：位移、速度、加速度、图像斜率、图像面积、自由落体和抛体运动的分量。
 
@@ -35,7 +35,7 @@ tags:
 
 - 2.1 Equations of motion
 
-教材主要在 Chapter 1: Kinematics: describing motion 和 Chapter 2: Accelerated motion 里讲。学习时还会反复用到 [[10 Physics/01 Topics/01 Physical Quantities and Units/10 Lecture Notes|Physical Quantities and Units]] 里的单位、矢量和正负方向。
+教材主要在 Chapter 1: Kinematics: describing motion 和 Chapter 2: Accelerated motion 里讲。学习时还会反复用到 [Physical Quantities and Units](../01%20Physical%20Quantities%20and%20Units/10%20Lecture%20Notes.md) 里的单位、矢量和正负方向。
 
 ## 1. 描述运动的基本量
 
@@ -575,6 +575,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/10 Lecture Notes|Physical Quantities and Units]]
-- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]]
-- [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]
+- [Physical Quantities and Units](../01%20Physical%20Quantities%20and%20Units/10%20Lecture%20Notes.md)
+- [Dynamics](../03%20Dynamics/00%20Overview.md)
+- [Kinematics and Newtonian Motion](../../../20%20Mathematics/02%20Mechanics/02%20Kinematics%20and%20Newtonian%20Motion/00%20Overview.md)

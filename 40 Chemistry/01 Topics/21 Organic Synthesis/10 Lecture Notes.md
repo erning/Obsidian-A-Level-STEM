@@ -161,12 +161,12 @@ When analysing a given route, comment on these only when they are chemically rel
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]]
-- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]]
-- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]]
-- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]]
-- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]]
-- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]]
-- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|Nitrogen Compounds]]
-- [[40 Chemistry/01 Topics/20 Polymerisation/00 Overview|Polymerisation]]
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|Analytical Techniques]]
+- [An Introduction to AS Level Organic Chemistry](../13%20An%20Introduction%20to%20AS%20Level%20Organic%20Chemistry/00%20Overview.md)
+- [Hydrocarbons](../14%20Hydrocarbons/00%20Overview.md)
+- [Halogen Compounds](../15%20Halogen%20Compounds/00%20Overview.md)
+- [Hydroxy Compounds](../16%20Hydroxy%20Compounds/00%20Overview.md)
+- [Carbonyl Compounds](../17%20Carbonyl%20Compounds/00%20Overview.md)
+- [Carboxylic Acids and Derivatives](../18%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md)
+- [Nitrogen Compounds](../19%20Nitrogen%20Compounds/00%20Overview.md)
+- [Polymerisation](../20%20Polymerisation/00%20Overview.md)
+- [Analytical Techniques](../22%20Analytical%20Techniques/00%20Overview.md)

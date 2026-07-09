@@ -2,7 +2,7 @@
 title: Further Programming Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]]"
+parent: "[Further Programming](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -34,7 +34,7 @@ A **programming paradigm** is a style or way of thinking about how a program is 
 
 ## 2. Low-level programming
 
-Low-level code uses the CPU's own instructions. Each **addressing mode** is the rule the CPU follows to locate the operand. This is a paradigm-level recap; use the instruction-set notation from [[30 Computer Science/01 Topics/04 Processor Fundamentals/10 Lecture Notes|Topic 4 Processor Fundamentals]]. Write CAIE operands plainly, such as `LDD 100`, and use memory notation such as `M[100]` only when explaining the effect.
+Low-level code uses the CPU's own instructions. Each **addressing mode** is the rule the CPU follows to locate the operand. This is a paradigm-level recap; use the instruction-set notation from [Topic 4 Processor Fundamentals](../04%20Processor%20Fundamentals/10%20Lecture%20Notes.md). Write CAIE operands plainly, such as `LDD 100`, and use memory notation such as `M[100]` only when explaining the effect.
 
 | Mode | How the operand is found | Mnemonic example | Effect |
 |------|--------------------------|------------------|--------|
@@ -307,9 +307,9 @@ The pattern is the same in all three Paper 4 languages: put the risky statements
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] - the AS foundation this topic extends.
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] - file organisations and record types used here.
-- [[30 Computer Science/04 Reference/Pseudocode and Programming Reference|Pseudocode and Programming Reference]] - file handling, exception and Paper 4 language equivalents.
+- [Programming](../11%20Programming/00%20Overview.md) - the AS foundation this topic extends.
+- [Data Representation](../13%20Data%20Representation/00%20Overview.md) - file organisations and record types used here.
+- [Pseudocode and Programming Reference](../../04%20Reference/Pseudocode%20and%20Programming%20Reference.md) - file handling, exception and Paper 4 language equivalents.
 
 ## Study Sequence
 

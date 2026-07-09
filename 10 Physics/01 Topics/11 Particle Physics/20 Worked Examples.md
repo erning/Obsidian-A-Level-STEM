@@ -2,7 +2,7 @@
 title: Particle Physics Worked Examples
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/11 Particle Physics/00 Overview|Particle Physics]]"
+parent: "[Particle Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

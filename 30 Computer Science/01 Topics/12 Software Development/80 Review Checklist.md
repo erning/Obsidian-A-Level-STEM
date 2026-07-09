@@ -2,7 +2,7 @@
 title: Software Development Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]]"
+parent: "[Software Development](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -54,7 +54,7 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Explain why white-box testing can target branches that black-box testing may not see.
 - [ ] Explain how a stub lets a calling module be tested before a called module exists.
 - [ ] Trace how boundary values catch off-by-one comparison errors.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] by explaining how routines are designed, tested, and changed.
+- [ ] Connect this topic to [Programming](../11%20Programming/00%20Overview.md) by explaining how routines are designed, tested, and changed.
 
 ## Common Errors to Avoid
 
@@ -78,5 +78,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can draw and explain a state-transition diagram for a reactive process.
 - [ ] I can classify errors, tests, test data, and maintenance changes from scenarios.
 - [ ] I can design a compact test plan that covers valid, invalid, and edge-case data.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] through decomposition and refinement.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] through robust file processing, exception handling, and maintainable design.
+- [ ] I can connect this topic to [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) through decomposition and refinement.
+- [ ] I can connect this topic to [Further Programming](../20%20Further%20Programming/00%20Overview.md) through robust file processing, exception handling, and maintainable design.

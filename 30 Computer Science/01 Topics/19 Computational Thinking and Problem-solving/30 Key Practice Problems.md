@@ -2,7 +2,7 @@
 title: Computational Thinking and Problem-solving Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]]"
+parent: "[Computational Thinking and Problem-solving](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -11,7 +11,7 @@ tags:
 
 # Computational Thinking and Problem-solving Key Practice Problems
 
-These problems cover the 9618 A Level section 19 syllabus: linear and binary search, insertion and bubble sort, abstract data type operations, the graph as an ADT, implementing one ADT from another, Big O notation, and recursion. Attempt every problem on paper before checking the [[31 Key Practice Solutions|solutions file]].
+These problems cover the 9618 A Level section 19 syllabus: linear and binary search, insertion and bubble sort, abstract data type operations, the graph as an ADT, implementing one ADT from another, Big O notation, and recursion. Attempt every problem on paper before checking the [solutions file](31%20Key%20Practice%20Solutions.md).
 
 ## A. Searching
 

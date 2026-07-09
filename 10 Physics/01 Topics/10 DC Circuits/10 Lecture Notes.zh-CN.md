@@ -2,7 +2,7 @@
 title: D.C. Circuits 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]]"
+parent: "[D.C. Circuits](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -26,7 +26,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/dc-circuits.svg]]
+![dc-circuits](../../../assets/generated/physics/dc-circuits.svg)
 
 这张图提醒你：先看电路结构，再计算。串联部分电流相同，并联支路电势差相同；Kirchhoff 定律用来检查电荷和能量是否守恒。
 
@@ -413,6 +413,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]] 提供电流、电势差、电阻、功率、LDR 和热敏电阻的基本定义。
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]] 会用电势差、电荷和随时间变化的电路。
-- [[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]] 会把电路思想推广到随时间变化的电流和电压。
+- [Electricity](../09%20Electricity/00%20Overview.md) 提供电流、电势差、电阻、功率、LDR 和热敏电阻的基本定义。
+- [Capacitance](../19%20Capacitance/00%20Overview.md) 会用电势差、电荷和随时间变化的电路。
+- [Alternating Currents](../21%20Alternating%20Currents/00%20Overview.md) 会把电路思想推广到随时间变化的电流和电压。

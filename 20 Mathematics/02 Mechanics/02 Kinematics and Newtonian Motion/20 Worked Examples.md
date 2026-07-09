@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]"
+parent: "[Kinematics and Newtonian Motion](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics

@@ -2,7 +2,7 @@
 title: Ethics and Ownership Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]]"
+parent: "[Ethics and Ownership](00%20Overview.md)"
 status: active
 tags:
   - computerscience/foundations
@@ -132,8 +132,8 @@ A good exam answer pairs each application with its relevant impact - for example
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]] (A Level) supplies the technical basis - how AI and machine-learning systems are built and trained - that underlies the impact discussed here.
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] provides the security measures, access rights and privacy concepts that an ethical professional must respect when handling data.
+- [Artificial Intelligence](../18%20Artificial%20Intelligence/00%20Overview.md) (A Level) supplies the technical basis - how AI and machine-learning systems are built and trained - that underlies the impact discussed here.
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) provides the security measures, access rights and privacy concepts that an ethical professional must respect when handling data.
 
 ## Study Sequence
 

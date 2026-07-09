@@ -2,7 +2,7 @@
 title: Nuclear Physics Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]"
+parent: "[Nuclear Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -24,7 +24,7 @@ Nuclear physics connects the structure of the nucleus with energy and probabilit
 
 ## Visual Guide
 
-![[assets/generated/physics/nuclear-physics.svg]]
+![nuclear-physics](../../../assets/generated/physics/nuclear-physics.svg)
 
 Figure: Binding energy per nucleon explains nuclear stability, while exponential decay describes the statistical behaviour of unstable nuclei.
 
@@ -304,6 +304,6 @@ You have the topic if you can do these without notes:
 
 ## Connections
 
-- [[10 Physics/01 Topics/11 Particle Physics/00 Overview|Particle Physics]]
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]
-- [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]
+- [Particle Physics](../11%20Particle%20Physics/00%20Overview.md)
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md)
+- [Logarithms, Exponentials and Numerical Methods](../../../20%20Mathematics/01%20Pure%20Mathematics/07%20Logarithms%20Exponentials%20and%20Numerical%20Methods/00%20Overview.md)

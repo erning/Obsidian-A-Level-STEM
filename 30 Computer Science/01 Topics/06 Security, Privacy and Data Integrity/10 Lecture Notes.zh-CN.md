@@ -2,7 +2,7 @@
 title: Security, Privacy and Data Integrity 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]]"
+parent: "[Security, Privacy and Data Integrity](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -210,5 +210,5 @@ tags:
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]]（A Level）在此之上继续展开加密协议、SSL/TLS、数字证书，以及支撑数字签名的公钥基础设施。
-- [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]] 讲的是网络与互联网，正是它们引入了本节所述的威胁，也正是它们的数据传输由奇偶校验和校验和来检查。
+- [Security](../17%20Security/00%20Overview.md)（A Level）在此之上继续展开加密协议、SSL/TLS、数字证书，以及支撑数字签名的公钥基础设施。
+- [Communication](../02%20Communication/00%20Overview.md) 讲的是网络与互联网，正是它们引入了本节所述的威胁，也正是它们的数据传输由奇偶校验和校验和来检查。

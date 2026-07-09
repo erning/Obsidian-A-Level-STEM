@@ -2,7 +2,7 @@
 title: Ethics and Ownership Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]]"
+parent: "[Ethics and Ownership](00%20Overview.md)"
 status: active
 tags:
   - computerscience/foundations
@@ -11,7 +11,7 @@ tags:
 
 # Ethics and Ownership Key Practice Problems
 
-These problems cover the core skills of 9618 AS Section 7. Attempt them on paper before reading [[30 Computer Science/01 Topics/07 Ethics and Ownership/31 Key Practice Solutions|the solutions]]. Most prompts are scenario-based, so aim to justify your answer against the alternatives rather than just naming a term. No answers are given here on purpose: the point is active recall and full written reasoning.
+These problems cover the core skills of 9618 AS Section 7. Attempt them on paper before reading [the solutions](31%20Key%20Practice%20Solutions.md). Most prompts are scenario-based, so aim to justify your answer against the alternatives rather than just naming a term. No answers are given here on purpose: the point is active recall and full written reasoning.
 
 ## A. Professional ethics
 
@@ -62,4 +62,4 @@ These problems cover the core skills of 9618 AS Section 7. Attempt them on paper
 
 ---
 
-After finishing, check your working against [[30 Computer Science/01 Topics/07 Ethics and Ownership/31 Key Practice Solutions|the solutions]] and re-attempt any question you could not complete in full.
+After finishing, check your working against [the solutions](31%20Key%20Practice%20Solutions.md) and re-attempt any question you could not complete in full.

@@ -48,20 +48,20 @@ Programs act on data, and the way data is grouped changes what the program can d
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] supplies the pseudocode notation and tracing habits used to process these structures.
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] uses these data types in declarations, expressions, procedures, and functions.
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]] turns stacks, queues, linked lists, trees, searches, and sorts into full algorithmic operations.
-- [[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]] connects records, fields, keys, and structured data storage to larger data management.
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] extends the storage view into file organisation and user-defined types.
+- [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) supplies the pseudocode notation and tracing habits used to process these structures.
+- [Programming](../11%20Programming/00%20Overview.md) uses these data types in declarations, expressions, procedures, and functions.
+- [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md) turns stacks, queues, linked lists, trees, searches, and sorts into full algorithmic operations.
+- [Databases](../08%20Databases/00%20Overview.md) connects records, fields, keys, and structured data storage to larger data management.
+- [Data Representation](../13%20Data%20Representation/00%20Overview.md) extends the storage view into file organisation and user-defined types.
 
 ## Common Traps
 

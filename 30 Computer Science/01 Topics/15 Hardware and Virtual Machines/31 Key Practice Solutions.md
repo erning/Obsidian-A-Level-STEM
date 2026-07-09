@@ -2,7 +2,7 @@
 title: Hardware and Virtual Machines Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]]"
+parent: "[Hardware and Virtual Machines](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -11,7 +11,7 @@ tags:
 
 # Hardware and Virtual Machines Key Practice Solutions
 
-These solutions correspond to [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/30 Key Practice Problems|Key Practice Problems]].
+These solutions correspond to [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Processors and architectures
 

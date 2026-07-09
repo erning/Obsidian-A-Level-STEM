@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]"
+parent: "[Coordinate Geometry and Graphs](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -15,7 +15,7 @@ tags:
 
 Coordinate geometry is the habit of turning a geometric statement into an algebraic condition, then using the picture to check whether the algebra makes sense. In this topic the main objects are points, straight lines, circles, and graphs of functions. The same coordinates can describe distance, gradient, intersection, tangency, and graph transformation.
 
-Use this note after [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]. Algebra supplies the equations; coordinate geometry gives them a spatial meaning.
+Use this note after [Algebra and Functions](../01%20Algebra%20and%20Functions/00%20Overview.md). Algebra supplies the equations; coordinate geometry gives them a spatial meaning.
 
 ## Source Route
 
@@ -25,7 +25,7 @@ Use this note after [[20 Mathematics/01 Pure Mathematics/01 Algebra and Function
 
 ## Visual Guide
 
-![[assets/generated/mathematics/coordinate-geometry-and-graphs.svg]]
+![coordinate-geometry-and-graphs](../../../assets/generated/mathematics/coordinate-geometry-and-graphs.svg)
 
 Figure: The diagram shows the main language of this topic in one picture: a line, a circle, a radius, and a tangent. While studying, keep asking which part of the picture is being translated into an equation.
 
@@ -261,7 +261,7 @@ Circle geometry can also simplify algebra. The angle in a semicircle is a right 
 
 The graph of an equation is the set of all points that satisfy it. This is why solving simultaneous equations gives intersections: at an intersection, the same point satisfies both equations.
 
-This idea connects coordinate geometry with [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]. A quadratic equation can be studied by solving it, factorising it, completing the square, or looking at the graph. Coordinate geometry asks you to move fluently between these representations.
+This idea connects coordinate geometry with [Algebra and Functions](../01%20Algebra%20and%20Functions/00%20Overview.md). A quadratic equation can be studied by solving it, factorising it, completing the square, or looking at the graph. Coordinate geometry asks you to move fluently between these representations.
 
 For example, if a question asks for values of $k$ for which the line $y=x+k$ meets the curve $y=x^2-4$, set
 
@@ -363,5 +363,5 @@ You are ready to move on when you can do the following without looking up the me
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/00 Overview|Algebra and Functions]]
-- [[20 Mathematics/01 Pure Mathematics/12 Polar Coordinates and Parametric Curves/00 Overview|Polar Coordinates and Parametric Curves]]
+- [Algebra and Functions](../01%20Algebra%20and%20Functions/00%20Overview.md)
+- [Polar Coordinates and Parametric Curves](../12%20Polar%20Coordinates%20and%20Parametric%20Curves/00%20Overview.md)

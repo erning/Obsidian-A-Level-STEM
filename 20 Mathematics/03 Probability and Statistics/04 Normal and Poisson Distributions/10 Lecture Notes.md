@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/04 Normal and Poisson Distributions/00 Overview|Normal and Poisson Distributions]]"
+parent: "[Normal and Poisson Distributions](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -24,7 +24,7 @@ The normal distribution models continuous variation around a centre. The Poisson
 
 ## Visual Guide
 
-![[assets/generated/mathematics/normal-and-poisson-distributions.svg]]
+![normal-and-poisson-distributions](../../../assets/generated/mathematics/normal-and-poisson-distributions.svg)
 
 Figure: use the guide to compare continuous normal area with discrete Poisson counts.
 
@@ -284,8 +284,8 @@ not $P(Y>35)$. The correction moves the continuous boundary halfway between the 
 
 ## Connections
 
-- [[20 Mathematics/03 Probability and Statistics/03 Discrete Random Variables/00 Overview|Discrete Random Variables]]
-- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
+- [Discrete Random Variables](../03%20Discrete%20Random%20Variables/00%20Overview.md)
+- [Sampling, Estimation and Hypothesis Tests](../06%20Sampling%20Estimation%20and%20Hypothesis%20Tests/00%20Overview.md)
 
 ## Study Sequence
 

@@ -45,17 +45,17 @@ Further statistics adds inference methods for categorical or rank data and algeb
 
 ## Learning Materials
 
-- [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/03 Probability and Statistics/07 Chi Squared Nonparametric and PGF/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[20 Mathematics/03 Probability and Statistics/06 Sampling Estimation and Hypothesis Tests/00 Overview|Sampling, Estimation and Hypothesis Tests]]
-- [[20 Mathematics/01 Pure Mathematics/04 Sequences Series and Binomial Expansions/00 Overview|Sequences, Series and Binomial Expansions]]
+- [Sampling, Estimation and Hypothesis Tests](../06%20Sampling%20Estimation%20and%20Hypothesis%20Tests/00%20Overview.md)
+- [Sequences, Series and Binomial Expansions](../../01%20Pure%20Mathematics/04%20Sequences%20Series%20and%20Binomial%20Expansions/00%20Overview.md)
 
 ## Common Traps
 

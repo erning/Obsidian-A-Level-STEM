@@ -43,18 +43,18 @@ A good experiment makes the model testable: it controls variables, gathers enoug
 
 ## Learning Materials
 
-- [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/20 Worked Examples|Worked Examples]]
-- [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]
+- [Measurement and Data Presentation](../Measurement%20and%20Data%20Presentation/00%20Overview.md)
+- [Capacitance](../../01%20Topics/19%20Capacitance/00%20Overview.md)
+- [Nuclear Physics](../../01%20Topics/23%20Nuclear%20Physics/00%20Overview.md)
 
 ## Common Traps
 

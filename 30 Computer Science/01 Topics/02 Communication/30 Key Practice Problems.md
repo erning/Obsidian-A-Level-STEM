@@ -2,7 +2,7 @@
 title: Communication Key Practice Problems
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]]"
+parent: "[Communication](00%20Overview.md)"
 status: active
 tags:
   - computerscience/networks

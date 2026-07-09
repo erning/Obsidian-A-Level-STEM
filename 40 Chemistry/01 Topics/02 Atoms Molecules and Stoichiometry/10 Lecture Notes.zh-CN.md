@@ -237,6 +237,6 @@ CAIE 要求计算答案的有效数字与题目给出或要求的一致。中间
 
 ## 连接
 
-- [[40 Chemistry/01 Topics/01 Atomic Structure/10 Lecture Notes|Atomic Structure]] supplies isotopes and relative mass ideas.
-- [[40 Chemistry/01 Topics/04 States of Matter/10 Lecture Notes|States of Matter]] uses $pV = nRT$ to connect gas measurements with amount of substance.
-- [[40 Chemistry/02 Practical Skills/00 Overview|Practical Skills]] uses stoichiometry in titration, gas collection and yield calculations.
+- [Atomic Structure](../01%20Atomic%20Structure/10%20Lecture%20Notes.md) supplies isotopes and relative mass ideas.
+- [States of Matter](../04%20States%20of%20Matter/10%20Lecture%20Notes.md) uses $pV = nRT$ to connect gas measurements with amount of substance.
+- [Practical Skills](../../02%20Practical%20Skills/00%20Overview.md) uses stoichiometry in titration, gas collection and yield calculations.

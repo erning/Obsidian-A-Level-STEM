@@ -46,17 +46,17 @@ Physics starts by making quantities measurable: a numerical magnitude, a unit, a
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/01 Physical Quantities and Units/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]
-- [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]
+- [Measurement and Data Presentation](../../02%20Experimental%20Thinking/Measurement%20and%20Data%20Presentation/00%20Overview.md)
+- [Math Tools and Formulae](../../04%20Reference/Math%20Tools%20and%20Formulae.md)
 
 ## Common Traps
 

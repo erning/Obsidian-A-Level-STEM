@@ -157,7 +157,7 @@ Roman numeral 表示 oxidation number，不表示原子个数。
 
 ## 与后续 electrochemistry 的关系
 
-AS Topic 6 的 redox 是后续 electrolysis、electrode processes 和 electrode potentials 的基础。Electrolysis 中，一个电极发生 oxidation，另一个电极发生 reduction；标准电极电势比较的是 half-equation 作为 reduction 发生的趋势。但这些细节属于 [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|A Level Electrochemistry]]。
+AS Topic 6 的 redox 是后续 electrolysis、electrode processes 和 electrode potentials 的基础。Electrolysis 中，一个电极发生 oxidation，另一个电极发生 reduction；标准电极电势比较的是 half-equation 作为 reduction 发生的趋势。但这些细节属于 [A Level Electrochemistry](../24%20Electrochemistry/00%20Overview.md)。
 
 ## 解题顺序
 
@@ -184,6 +184,6 @@ AS Topic 6 的 redox 是后续 electrolysis、electrode processes 和 electrode 
 
 ## 连接
 
-- [[40 Chemistry/01 Topics/11 Group 17/00 Overview|Group 17]]
-- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/00 Overview|Nitrogen and Sulfur]]
-- [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|A Level Electrochemistry]]
+- [Group 17](../11%20Group%2017/00%20Overview.md)
+- [Nitrogen and Sulfur](../12%20Nitrogen%20and%20Sulfur/00%20Overview.md)
+- [A Level Electrochemistry](../24%20Electrochemistry/00%20Overview.md)

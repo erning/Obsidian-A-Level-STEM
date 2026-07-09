@@ -47,20 +47,20 @@ This topic turns algorithm designs into working pseudocode. It covers variables 
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/11 Programming/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/11 Programming/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/11 Programming/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/11 Programming/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/11 Programming/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/11 Programming/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] supplies the designs, constructs, and refinement habits this topic implements as pseudocode.
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] supplies the types, arrays, records, files, and ADTs used in declarations and routines.
-- [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] places programming inside a design, testing, and maintenance cycle.
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] extends this foundation into programming paradigms, file processing, and exception handling.
-- Use the [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Pseudocode Guide 2027-2029.pdf|Pseudocode Guide]] as the notation reference.
+- [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) supplies the designs, constructs, and refinement habits this topic implements as pseudocode.
+- [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) supplies the types, arrays, records, files, and ADTs used in declarations and routines.
+- [Software Development](../12%20Software%20Development/00%20Overview.md) places programming inside a design, testing, and maintenance cycle.
+- [Further Programming](../20%20Further%20Programming/00%20Overview.md) extends this foundation into programming paradigms, file processing, and exception handling.
+- Use the [Pseudocode Guide](../../../assets/syllabus/9618%20-%20Computer%20Science/CAIE%20Computer%20Science%209618%20Pseudocode%20Guide%202027-2029.pdf) as the notation reference.
 
 ## Common Traps
 

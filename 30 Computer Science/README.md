@@ -14,19 +14,19 @@ This directory uses CAIE Computer Science 9618 as the main course framework for 
 
 PDF sources are kept under `assets/`:
 
-- [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Syllabus 2027-2029.pdf|Computer Science 9618 Syllabus 2027-2029]]
-- [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Syllabus Update 2027-2029.pdf|Computer Science 9618 Syllabus Update 2027-2029]]
-- [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Pseudocode Guide 2027-2029.pdf|Computer Science 9618 Pseudocode Guide 2027-2029]]
+- [Computer Science 9618 Syllabus 2027-2029](../assets/syllabus/9618%20-%20Computer%20Science/CAIE%20Computer%20Science%209618%20Syllabus%202027-2029.pdf)
+- [Computer Science 9618 Syllabus Update 2027-2029](../assets/syllabus/9618%20-%20Computer%20Science/CAIE%20Computer%20Science%209618%20Syllabus%20Update%202027-2029.pdf)
+- [Computer Science 9618 Pseudocode Guide 2027-2029](../assets/syllabus/9618%20-%20Computer%20Science/CAIE%20Computer%20Science%209618%20Pseudocode%20Guide%202027-2029.pdf)
 
 ## Entry Points
 
-- [[30 Computer Science/00 Overview/Learning Map|Learning Map]]
-- [[30 Computer Science/00 Overview/Learning Checklist|Learning Checklist]]
-- [[30 Computer Science/00 Overview/How to Study|How to Study]]
-- [[30 Computer Science/00 Overview/Syllabus and Paper Map|Syllabus and Paper Map]]
-- [[30 Computer Science/00 Overview/Textbook Chapter Map|Textbook Chapter Map]]
-- [[30 Computer Science/04 Reference/Pseudocode and Programming Reference|Pseudocode and Programming Reference]]
-- [[80 References/Terminology|Terminology]]
+- [Learning Map](00%20Overview/Learning%20Map.md)
+- [Learning Checklist](00%20Overview/Learning%20Checklist.md)
+- [How to Study](00%20Overview/How%20to%20Study.md)
+- [Syllabus and Paper Map](00%20Overview/Syllabus%20and%20Paper%20Map.md)
+- [Textbook Chapter Map](00%20Overview/Textbook%20Chapter%20Map.md)
+- [Pseudocode and Programming Reference](04%20Reference/Pseudocode%20and%20Programming%20Reference.md)
+- [Terminology](../80%20References/Terminology.md)
 
 ## Topic Groups
 
@@ -34,35 +34,35 @@ Topics are numbered to match the syllabus sections. Sections 1-12 are AS Level c
 
 ### Foundations
 
-- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]]
-- [[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]]
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]]
+- [Information Representation](01%20Topics/01%20Information%20Representation/00%20Overview.md)
+- [Communication](01%20Topics/02%20Communication/00%20Overview.md)
+- [Ethics and Ownership](01%20Topics/07%20Ethics%20and%20Ownership/00%20Overview.md)
 
 ### Computer Systems
 
-- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]]
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]]
-- [[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]]
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]]
+- [Hardware](01%20Topics/03%20Hardware/00%20Overview.md)
+- [Processor Fundamentals](01%20Topics/04%20Processor%20Fundamentals/00%20Overview.md)
+- [System Software](01%20Topics/05%20System%20Software/00%20Overview.md)
+- [Security, Privacy and Data Integrity](01%20Topics/06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md)
 
 ### Networks and Data
 
-- [[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]]
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]]
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]]
+- [Databases](01%20Topics/08%20Databases/00%20Overview.md)
+- [Data Representation](01%20Topics/13%20Data%20Representation/00%20Overview.md)
+- [Communication and Internet Technologies](01%20Topics/14%20Communication%20and%20Internet%20Technologies/00%20Overview.md)
 
 ### Algorithms and Programming
 
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]]
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]]
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]]
-- [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]]
+- [Algorithm Design and Problem-solving](01%20Topics/09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md)
+- [Data Types and Structures](01%20Topics/10%20Data%20Types%20and%20Structures/00%20Overview.md)
+- [Programming](01%20Topics/11%20Programming/00%20Overview.md)
+- [Software Development](01%20Topics/12%20Software%20Development/00%20Overview.md)
 
 ### Advanced Topics
 
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]]
-- [[30 Computer Science/01 Topics/16 System Software/00 Overview|System Software]]
-- [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]]
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]]
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]]
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]]
+- [Hardware and Virtual Machines](01%20Topics/15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md)
+- [System Software](01%20Topics/16%20System%20Software/00%20Overview.md)
+- [Security](01%20Topics/17%20Security/00%20Overview.md)
+- [Artificial Intelligence](01%20Topics/18%20Artificial%20Intelligence/00%20Overview.md)
+- [Computational Thinking and Problem-solving](01%20Topics/19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md)
+- [Further Programming](01%20Topics/20%20Further%20Programming/00%20Overview.md)

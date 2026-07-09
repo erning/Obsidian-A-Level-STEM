@@ -2,7 +2,7 @@
 title: Kinematics Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/02 Kinematics/00 Overview|Kinematics]]"
+parent: "[Kinematics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -12,7 +12,7 @@ tags:
 
 # Kinematics Key Practice Solutions
 
-These solutions correspond to [[10 Physics/01 Topics/02 Kinematics/30 Key Practice Problems|Key Practice Problems]].
+These solutions correspond to [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 Take $g=9.81\ \mathrm{m\ s^{-2}}$ where needed.
 

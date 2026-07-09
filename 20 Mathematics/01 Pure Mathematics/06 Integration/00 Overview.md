@@ -46,17 +46,17 @@ Integration is reverse differentiation, accumulated change, area, and a toolbox 
 
 ## Learning Materials
 
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]
-- [[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]]
+- [Differentiation](../05%20Differentiation/00%20Overview.md)
+- [Continuous Random Variables](../../03%20Probability%20and%20Statistics/05%20Continuous%20Random%20Variables/00%20Overview.md)
 
 ## Common Traps
 

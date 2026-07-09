@@ -2,7 +2,7 @@
 title: Experimental Design and Data Analysis Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]"
+parent: "[Experimental Design and Data Analysis](00%20Overview.md)"
 status: active
 tags:
   - physics/9702
@@ -13,7 +13,7 @@ tags:
 # Experimental Design and Data Analysis Key Practice Solutions
 
 Use these solutions to check planning logic, graph choice, uncertainty
-reasoning, and evaluation quality for [[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/30 Key Practice Problems|Key Practice Problems]].
+reasoning, and evaluation quality for [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Planning and Variables
 

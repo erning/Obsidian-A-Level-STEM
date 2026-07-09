@@ -2,7 +2,7 @@
 title: Artificial Intelligence 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]]"
+parent: "[Artificial Intelligence](00%20Overview.md)"
 status: active
 tags:
   - computerscience/advanced
@@ -237,7 +237,7 @@ $$y = mx + c$$
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]]
+- [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md)
   把**图作为抽象数据类型**来处理——本主题所搜索的结构，正是在那里实现的那一个。
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]]
+- [Ethics and Ownership](../07%20Ethics%20and%20Ownership/00%20Overview.md)
   考查这些 AI 方法的**影响与应用**；本主题是支撑它们的技术基础。

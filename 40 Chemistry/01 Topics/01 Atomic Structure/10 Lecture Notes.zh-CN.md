@@ -186,6 +186,6 @@ $$
 
 ## 连接
 
-- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/10 Lecture Notes|Atoms, Molecules and Stoichiometry]] uses isotope and relative mass ideas.
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/10 Lecture Notes|Chemical Bonding]] builds on electron arrangements and orbital shapes.
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]] uses atomic radius, ionic radius and ionisation energy trends.
+- [Atoms, Molecules and Stoichiometry](../02%20Atoms%20Molecules%20and%20Stoichiometry/10%20Lecture%20Notes.md) uses isotope and relative mass ideas.
+- [Chemical Bonding](../03%20Chemical%20Bonding/10%20Lecture%20Notes.md) builds on electron arrangements and orbital shapes.
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md) uses atomic radius, ionic radius and ionisation energy trends.

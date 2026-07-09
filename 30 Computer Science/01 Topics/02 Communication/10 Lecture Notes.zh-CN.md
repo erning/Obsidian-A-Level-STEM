@@ -2,7 +2,7 @@
 title: Communication 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]]"
+parent: "[Communication](00%20Overview.md)"
 status: active
 tags:
   - computerscience/networks
@@ -270,5 +270,5 @@ https://www.example.com/courses/page.html
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]]（A Level）在协议、交换和网络安全上继续展开。
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] 讲网络带来的威胁及对策。
+- [Communication and Internet Technologies](../14%20Communication%20and%20Internet%20Technologies/00%20Overview.md)（A Level）在协议、交换和网络安全上继续展开。
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) 讲网络带来的威胁及对策。

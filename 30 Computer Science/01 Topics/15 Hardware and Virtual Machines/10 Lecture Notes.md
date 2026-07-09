@@ -2,7 +2,7 @@
 title: Hardware and Virtual Machines Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|Hardware and Virtual Machines]]"
+parent: "[Hardware and Virtual Machines](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -436,10 +436,10 @@ You are ready to move on when you can answer these without notes.
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] supplies the
+- [Hardware](../03%20Hardware/00%20Overview.md) supplies the
   logic gates (AND, OR, NOT, NAND, NOR, XOR) from which the adders and flip-flops
   in this topic are built, and the SRAM/DRAM cells that flip-flops scale up into.
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]]
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md)
   is the AS foundation this topic extends: the single Von Neumann CPU studied
   there becomes SISD here, the registers are shown to be built from flip-flops,
   and RISC/CISC explain why different processors have different instruction sets.

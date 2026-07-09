@@ -2,7 +2,7 @@
 title: System Software Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]]"
+parent: "[System Software](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -11,7 +11,7 @@ tags:
 
 # System Software Key Practice Solutions
 
-This note gives worked solutions for [[30 Computer Science/01 Topics/05 System Software/30 Key Practice Problems|System Software Key Practice Problems]]. Each solution shows the full reasoning so you can find the step where your argument diverged, not just compare final answers.
+This note gives worked solutions for [System Software Key Practice Problems](30%20Key%20Practice%20Problems.md). Each solution shows the full reasoning so you can find the step where your argument diverged, not just compare final answers.
 
 ## A. Operating systems
 

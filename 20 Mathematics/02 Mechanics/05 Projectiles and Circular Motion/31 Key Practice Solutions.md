@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/00 Overview|Projectiles and Circular Motion]]"
+parent: "[Projectiles and Circular Motion](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Projectiles and Circular Motion Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/02 Mechanics/05 Projectiles and Circular Motion/30 Key Practice Problems|Projectiles and Circular Motion Key Practice Problems]]. Use it to check components, signs, units, and radial force equations. Take $g=10\ \mathrm{m\ s^{-2}}$ unless a question states otherwise.
+This note gives worked solutions for [Projectiles and Circular Motion Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check components, signs, units, and radial force equations. Take $g=10\ \mathrm{m\ s^{-2}}$ unless a question states otherwise.
 
 ## A. Projectile Components and Trajectories
 

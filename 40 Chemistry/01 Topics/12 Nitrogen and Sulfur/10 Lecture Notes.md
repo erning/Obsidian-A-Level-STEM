@@ -270,6 +270,6 @@ In exam answers, focus on the chemical species causing the effect, not only the 
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/11 Group 17/00 Overview|Group 17]]
-- [[40 Chemistry/01 Topics/07 Equilibria/00 Overview|Equilibria]]
-- [[40 Chemistry/01 Topics/06 Electrochemistry/00 Overview|Electrochemistry]]
+- [Group 17](../11%20Group%2017/00%20Overview.md)
+- [Equilibria](../07%20Equilibria/00%20Overview.md)
+- [Electrochemistry](../06%20Electrochemistry/00%20Overview.md)

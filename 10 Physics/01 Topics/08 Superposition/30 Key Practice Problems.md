@@ -2,7 +2,7 @@
 title: Superposition Key Practice Problems
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]"
+parent: "[Superposition](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

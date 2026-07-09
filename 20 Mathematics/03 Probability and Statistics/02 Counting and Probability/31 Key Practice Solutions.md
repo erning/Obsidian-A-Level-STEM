@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/00 Overview|Counting and Probability]]"
+parent: "[Counting and Probability](00%20Overview.md)"
 status: active
 tags:
   - mathematics/statistics
@@ -13,7 +13,7 @@ tags:
 
 # Counting and Probability Key Practice Solutions
 
-This note gives worked solutions for [[20 Mathematics/03 Probability and Statistics/02 Counting and Probability/30 Key Practice Problems|Counting and Probability Key Practice Problems]]. Use it to check whether order matters, whether replacement occurs, and whether events overlap.
+This note gives worked solutions for [Counting and Probability Key Practice Problems](30%20Key%20Practice%20Problems.md). Use it to check whether order matters, whether replacement occurs, and whether events overlap.
 
 ## A. Counting
 

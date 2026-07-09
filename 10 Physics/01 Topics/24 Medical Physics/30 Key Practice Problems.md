@@ -2,7 +2,7 @@
 title: Medical Physics Key Practice Problems
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/24 Medical Physics/00 Overview|Medical Physics]]"
+parent: "[Medical Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

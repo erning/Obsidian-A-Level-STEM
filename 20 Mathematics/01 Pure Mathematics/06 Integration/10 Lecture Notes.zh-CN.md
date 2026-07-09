@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]"
+parent: "[Integration](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -26,7 +26,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/integration.svg]]
+![integration](../../../assets/generated/mathematics/integration.svg)
 
 这张图用来快速理解“积分”：把曲线下面积理解成累积变化。
 
@@ -375,5 +375,5 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]：积分与微分互为核心反向过程，也共同用于面积、变化率和微分方程。
-- [[20 Mathematics/03 Probability and Statistics/05 Continuous Random Variables/00 Overview|Continuous Random Variables]]：连续随机变量的概率密度、分布函数和期望都依赖定积分。
+- [Differentiation](../05%20Differentiation/00%20Overview.md)：积分与微分互为核心反向过程，也共同用于面积、变化率和微分方程。
+- [Continuous Random Variables](../../03%20Probability%20and%20Statistics/05%20Continuous%20Random%20Variables/00%20Overview.md)：连续随机变量的概率密度、分布函数和期望都依赖定积分。

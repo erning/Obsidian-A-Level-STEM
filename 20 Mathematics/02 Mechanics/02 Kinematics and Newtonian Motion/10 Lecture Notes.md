@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]]"
+parent: "[Kinematics and Newtonian Motion](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -23,7 +23,7 @@ Kinematics describes motion. Newtonian motion explains motion by connecting forc
 
 ## Visual Guide
 
-![[assets/generated/mathematics/kinematics-and-newtonian-motion.svg]]
+![kinematics-and-newtonian-motion](../../../assets/generated/mathematics/kinematics-and-newtonian-motion.svg)
 
 Figure: use the diagram to connect motion graphs, calculus relationships, and the force model.
 
@@ -217,10 +217,10 @@ Start by identifying which information is given.
 
 ## Connections
 
-- [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]]
-- [[20 Mathematics/02 Mechanics/04 Work Energy Power and Elasticity/00 Overview|Work, Energy, Power and Elasticity]]
-- [[10 Physics/01 Topics/02 Kinematics/00 Overview|Physics Kinematics]]
-- [[10 Physics/01 Topics/03 Dynamics/00 Overview|Physics Dynamics]]
+- [Forces and Equilibrium](../01%20Forces%20and%20Equilibrium/00%20Overview.md)
+- [Work, Energy, Power and Elasticity](../04%20Work%20Energy%20Power%20and%20Elasticity/00%20Overview.md)
+- [Physics Kinematics](../../../10%20Physics/01%20Topics/02%20Kinematics/00%20Overview.md)
+- [Physics Dynamics](../../../10%20Physics/01%20Topics/03%20Dynamics/00%20Overview.md)
 
 ## Study Sequence
 

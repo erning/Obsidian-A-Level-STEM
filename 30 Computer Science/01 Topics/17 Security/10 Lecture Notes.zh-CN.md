@@ -2,7 +2,7 @@
 title: Security 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/17 Security/00 Overview|Security]]"
+parent: "[Security](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -205,5 +205,5 @@ Aisha 想给 Ben 发一份机密合同，同时让他能证明合同确实来自
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] —— AS 基础：威胁、简单防护、数据完整性。
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]] —— TLS 和证书实际运行所在的网络环境。
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) —— AS 基础：威胁、简单防护、数据完整性。
+- [Communication and Internet Technologies](../14%20Communication%20and%20Internet%20Technologies/00%20Overview.md) —— TLS 和证书实际运行所在的网络环境。

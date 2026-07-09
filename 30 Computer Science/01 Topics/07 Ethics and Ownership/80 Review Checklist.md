@@ -2,7 +2,7 @@
 title: Ethics and Ownership Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]]"
+parent: "[Ethics and Ownership](00%20Overview.md)"
 status: active
 tags:
   - computerscience/foundations
@@ -49,8 +49,8 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Trace a licence choice from project goal to allowed use, source access, modification, and redistribution.
 - [ ] Explain why shareware is not the same as free or open-source software.
 - [ ] Explain how AI can create a benefit and a cost in the same application.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] by explaining why protecting privacy and access rights is an ethical duty.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]] by explaining how technical AI systems create the impacts studied here.
+- [ ] Connect this topic to [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) by explaining why protecting privacy and access rights is an ethical duty.
+- [ ] Connect this topic to [Artificial Intelligence](../18%20Artificial%20Intelligence/00%20Overview.md) by explaining how technical AI systems create the impacts studied here.
 
 ## Common Errors to Avoid
 
@@ -73,5 +73,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can compare the four licence categories from memory and choose one for a scenario.
 - [ ] I can distinguish FSF copyleft, OSI permissiveness, shareware trials, and commercial closed-source licensing.
 - [ ] I can discuss AI impact across social, economic, and environmental dimensions without turning it into a list of applications only.
-- [ ] I can connect privacy and access-control duties to [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]].
-- [ ] I can connect the AI impact here to the technical systems studied in [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]].
+- [ ] I can connect privacy and access-control duties to [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md).
+- [ ] I can connect the AI impact here to the technical systems studied in [Artificial Intelligence](../18%20Artificial%20Intelligence/00%20Overview.md).

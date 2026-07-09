@@ -45,17 +45,17 @@ Nuclear physics connects mass, binding energy, stability, and random radioactive
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/23 Nuclear Physics/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/11 Particle Physics/00 Overview|Particle Physics]]
-- [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]
+- [Particle Physics](../11%20Particle%20Physics/00%20Overview.md)
+- [Logarithms, Exponentials and Numerical Methods](../../../20%20Mathematics/01%20Pure%20Mathematics/07%20Logarithms%20Exponentials%20and%20Numerical%20Methods/00%20Overview.md)
 
 ## Common Traps
 

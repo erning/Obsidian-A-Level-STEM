@@ -46,18 +46,18 @@ A Level Group 2 chemistry extends AS trend work by explaining thermal stability 
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/27 Group 2/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/27 Group 2/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/27 Group 2/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/27 Group 2/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/27 Group 2/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/27 Group 2/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/10 Group 2/00 Overview|AS Group 2]] supplies the basic reactions and first trend patterns for Group 2 elements.
-- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|Chemical Energetics]] gives the lattice and hydration language needed for solubility explanations.
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]] supports the wider periodic trend reasoning.
+- [AS Group 2](../10%20Group%202/00%20Overview.md) supplies the basic reactions and first trend patterns for Group 2 elements.
+- [Chemical Energetics](../23%20Chemical%20Energetics/00%20Overview.md) gives the lattice and hydration language needed for solubility explanations.
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md) supports the wider periodic trend reasoning.
 
 ## Common Traps
 

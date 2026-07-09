@@ -2,7 +2,7 @@
 title: Superposition 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/08 Superposition/00 Overview|Superposition]]"
+parent: "[Superposition](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -15,7 +15,7 @@ tags:
 
 叠加这一章讨论的是：当几个波同时经过同一个区域时，实际看到的位移是什么。一个波单独传播时，问题通常比较直观；两个波重叠后，就会出现驻波、衍射、干涉条纹和衍射光栅这些现象。
 
-这一章要接在 [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]] 后面学。前一章里的位移、相位、波长、频率、振幅和强度都要继续用。尤其要记住：位移有正负，相位表示振动走到周期中的哪一步，波长表示空间上重复一次的距离。
+这一章要接在 [Waves](../07%20Waves/00%20Overview.md) 后面学。前一章里的位移、相位、波长、频率、振幅和强度都要继续用。尤其要记住：位移有正负，相位表示振动走到周期中的哪一步，波长表示空间上重复一次的距离。
 
 ## 来源范围
 
@@ -26,7 +26,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/superposition.svg]]
+![superposition](../../../assets/generated/physics/superposition.svg)
 
 这张图提醒你：叠加本质上是在加位移。波峰遇到波峰，位移更大；波峰遇到大小相等的波谷，在那一瞬间可以互相抵消。
 
@@ -350,6 +350,6 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]] 提供波长、相位、振幅和强度的基本语言。
-- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]] 帮助理解相位和正弦振动。
-- [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]] 会用干涉和衍射来说明光和粒子的波动行为。
+- [Waves](../07%20Waves/00%20Overview.md) 提供波长、相位、振幅和强度的基本语言。
+- [Oscillations](../17%20Oscillations/00%20Overview.md) 帮助理解相位和正弦振动。
+- [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md) 会用干涉和衍射来说明光和粒子的波动行为。

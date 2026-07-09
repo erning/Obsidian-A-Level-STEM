@@ -2,7 +2,7 @@
 title: Databases Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]]"
+parent: "[Databases](00%20Overview.md)"
 status: active
 tags:
   - computerscience/data
@@ -11,7 +11,7 @@ tags:
 
 # Databases Key Practice Solutions
 
-Full working for every problem in [[30 Computer Science/01 Topics/08 Databases/30 Key Practice Problems|Databases Key Practice Problems]]. Normalised designs state the primary key (PK) and foreign keys (FK) of every table; SQL appears in fenced code blocks.
+Full working for every problem in [Databases Key Practice Problems](30%20Key%20Practice%20Problems.md). Normalised designs state the primary key (PK) and foreign keys (FK) of every table; SQL appears in fenced code blocks.
 
 ## A. Relational Concepts
 

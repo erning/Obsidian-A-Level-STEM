@@ -2,7 +2,7 @@
 title: Communication Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]]"
+parent: "[Communication](00%20Overview.md)"
 status: active
 tags:
   - computerscience/networks
@@ -263,8 +263,8 @@ DNS is what makes the human-friendly names of the WWW usable on the IP-numbered 
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]] (A Level) extends this with protocols, switching and security.
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] covers the threats that networks introduce and how they are countered.
+- [Communication and Internet Technologies](../14%20Communication%20and%20Internet%20Technologies/00%20Overview.md) (A Level) extends this with protocols, switching and security.
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) covers the threats that networks introduce and how they are countered.
 
 ## Study Sequence
 

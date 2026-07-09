@@ -48,19 +48,19 @@ This topic refreshes organic notation and naming for A Level, then introduces th
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/10 Lecture Notes|Lecture Notes]] teach the A Level organic language for functional groups, aromatic bonding, mechanism terms, and optical isomerism.
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/10 Lecture Notes.zh-CN|中文讲义]] gives a fast-reading companion explanation in simplified Chinese.
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/20 Worked Examples|Worked Examples]] model naming, mechanism classification, aromatic bonding explanations, and optical-isomerism reasoning.
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/30 Key Practice Problems|Key Practice Problems]] provide active recall prompts without answers.
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/31 Key Practice Solutions|Key Practice Solutions]] mirror the practice set with working and checks.
-- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/80 Review Checklist|Review Checklist]] is the final self-test before moving into the later A Level organic topics.
+- [Lecture Notes](10%20Lecture%20Notes.md) teach the A Level organic language for functional groups, aromatic bonding, mechanism terms, and optical isomerism.
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md) gives a fast-reading companion explanation in simplified Chinese.
+- [Worked Examples](20%20Worked%20Examples.md) model naming, mechanism classification, aromatic bonding explanations, and optical-isomerism reasoning.
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md) provide active recall prompts without answers.
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md) mirror the practice set with working and checks.
+- [Review Checklist](80%20Review%20Checklist.md) is the final self-test before moving into the later A Level organic topics.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]] provides the AS foundation in formulae, nomenclature, isomerism, and reaction types.
-- [[40 Chemistry/01 Topics/30 Hydrocarbons/00 Overview|Hydrocarbons]] applies aromatic bonding to arene reactions.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]] uses addition-elimination in acyl chloride chemistry.
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/00 Overview|Organic Synthesis]] depends on confident functional-group recognition.
+- [An Introduction to AS Level Organic Chemistry](../13%20An%20Introduction%20to%20AS%20Level%20Organic%20Chemistry/00%20Overview.md) provides the AS foundation in formulae, nomenclature, isomerism, and reaction types.
+- [Hydrocarbons](../30%20Hydrocarbons/00%20Overview.md) applies aromatic bonding to arene reactions.
+- [Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) uses addition-elimination in acyl chloride chemistry.
+- [Organic Synthesis](../36%20Organic%20Synthesis/00%20Overview.md) depends on confident functional-group recognition.
 
 ## Common Traps
 

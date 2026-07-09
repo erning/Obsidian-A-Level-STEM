@@ -2,7 +2,7 @@
 title: Motion in a Circle Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]]"
+parent: "[Motion in a Circle](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

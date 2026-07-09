@@ -45,17 +45,17 @@ Alternating current analysis connects sinusoidal time variation with power trans
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/21 Alternating Currents/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/21 Alternating Currents/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/21 Alternating Currents/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/21 Alternating Currents/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/21 Alternating Currents/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/21 Alternating Currents/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]
-- [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]]
+- [Capacitance](../19%20Capacitance/00%20Overview.md)
+- [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md)
 
 ## Common Traps
 

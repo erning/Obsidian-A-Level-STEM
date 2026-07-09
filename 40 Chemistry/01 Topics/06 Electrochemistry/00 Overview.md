@@ -25,12 +25,12 @@ AS electrochemistry is the language of redox. Reactions are understood through e
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/06 Electrochemistry/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/06 Electrochemistry/10 Lecture Notes.zh-CN|Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/06 Electrochemistry/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/06 Electrochemistry/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/06 Electrochemistry/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/06 Electrochemistry/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## What to Learn
 
@@ -58,9 +58,9 @@ Use both definitions of redox. Electron transfer is often easiest in half-equati
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/11 Group 17/00 Overview|Group 17]] uses redox ideas to compare halogens and halide ions.
-- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/00 Overview|Nitrogen and Sulfur]] uses oxidation number changes in atmospheric and industrial chemistry.
-- [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|A Level Electrochemistry]] extends redox into electrolysis, standard electrode potentials and cells.
+- [Group 17](../11%20Group%2017/00%20Overview.md) uses redox ideas to compare halogens and halide ions.
+- [Nitrogen and Sulfur](../12%20Nitrogen%20and%20Sulfur/00%20Overview.md) uses oxidation number changes in atmospheric and industrial chemistry.
+- [A Level Electrochemistry](../24%20Electrochemistry/00%20Overview.md) extends redox into electrolysis, standard electrode potentials and cells.
 
 ## Common Traps
 

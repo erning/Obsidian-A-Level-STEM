@@ -46,4 +46,4 @@ tags:
 - You can explain rate changes using collision frequency and effective collisions.
 - You can use the Boltzmann distribution to explain temperature and catalyst effects.
 - You can label $E_A$ and $\Delta H$ separately on a reaction pathway diagram.
-- You can connect catalyst effects here to equilibrium ideas in [[40 Chemistry/01 Topics/07 Equilibria/00 Overview|Equilibria]].
+- You can connect catalyst effects here to equilibrium ideas in [Equilibria](../07%20Equilibria/00%20Overview.md).

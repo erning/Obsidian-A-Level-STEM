@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/00 Overview|Forces and Equilibrium]]"
+parent: "[Forces and Equilibrium](00%20Overview.md)"
 status: active
 tags:
   - mathematics/mechanics
@@ -13,7 +13,7 @@ tags:
 
 # Forces and Equilibrium Review Checklist
 
-Use this after the worked examples and practice problems. Revisit [[20 Mathematics/02 Mechanics/01 Forces and Equilibrium/10 Lecture Notes|Forces and Equilibrium Lecture Notes]] if any item is uncertain.
+Use this after the worked examples and practice problems. Revisit [Forces and Equilibrium Lecture Notes](10%20Lecture%20Notes.md) if any item is uncertain.
 
 ## Ideas to Recall
 

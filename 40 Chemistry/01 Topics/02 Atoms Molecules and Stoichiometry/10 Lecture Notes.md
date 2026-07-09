@@ -219,7 +219,7 @@ $$
 
 At the same temperature and pressure, $1$ volume of methane reacts with $2$ volumes of oxygen.
 
-The ideal gas equation belongs mainly to [[40 Chemistry/01 Topics/04 States of Matter/10 Lecture Notes|States of Matter]], but the mole concept is the same.
+The ideal gas equation belongs mainly to [States of Matter](../04%20States%20of%20Matter/10%20Lecture%20Notes.md), but the mole concept is the same.
 
 ## Limiting and Excess Reagents
 
@@ -254,6 +254,6 @@ Do not lose significant figures unnecessarily in intermediate steps. Do not repo
 - Leaving spectator ions in an ionic equation.
 ## Connections
 
-- [[40 Chemistry/01 Topics/01 Atomic Structure/10 Lecture Notes|Atomic Structure]] supplies isotopes and relative mass ideas.
-- [[40 Chemistry/01 Topics/04 States of Matter/10 Lecture Notes|States of Matter]] uses $pV = nRT$ to connect gas measurements with amount of substance.
-- [[40 Chemistry/02 Practical Skills/00 Overview|Practical Skills]] uses stoichiometry in titration, gas collection and yield calculations.
+- [Atomic Structure](../01%20Atomic%20Structure/10%20Lecture%20Notes.md) supplies isotopes and relative mass ideas.
+- [States of Matter](../04%20States%20of%20Matter/10%20Lecture%20Notes.md) uses $pV = nRT$ to connect gas measurements with amount of substance.
+- [Practical Skills](../../02%20Practical%20Skills/00%20Overview.md) uses stoichiometry in titration, gas collection and yield calculations.

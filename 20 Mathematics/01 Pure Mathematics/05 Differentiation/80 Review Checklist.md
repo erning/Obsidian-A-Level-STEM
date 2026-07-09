@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]"
+parent: "[Differentiation](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -84,6 +84,6 @@ return to the lecture notes or worked examples.
 - [ ] I can differentiate implicit and parametric relations.
 - [ ] I can use the 9231 extension derivatives and Maclaurin formula when
       needed.
-- [ ] I can connect this topic to [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]],
-      [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]],
-      and [[20 Mathematics/02 Mechanics/02 Kinematics and Newtonian Motion/00 Overview|Kinematics and Newtonian Motion]].
+- [ ] I can connect this topic to [Integration](../06%20Integration/00%20Overview.md),
+      [Further Calculus and Differential Equations](../13%20Further%20Calculus%20and%20Differential%20Equations/00%20Overview.md),
+      and [Kinematics and Newtonian Motion](../../02%20Mechanics/02%20Kinematics%20and%20Newtonian%20Motion/00%20Overview.md).

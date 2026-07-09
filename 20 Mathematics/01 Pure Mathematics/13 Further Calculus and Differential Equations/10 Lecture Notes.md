@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]"
+parent: "[Further Calculus and Differential Equations](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -26,7 +26,7 @@ Further calculus extends the differentiation and integration toolkit. Differenti
 
 ## Visual Guide
 
-![[assets/generated/mathematics/further-calculus-and-differential-equations.svg]]
+![further-calculus-and-differential-equations](../../../assets/generated/mathematics/further-calculus-and-differential-equations.svg)
 
 Figure: The guide shows a slope field with solution curves. A differential equation gives local slope information; solving it finds curves that follow those slopes.
 
@@ -404,6 +404,6 @@ You are ready to move on when you can:
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]
-- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Physics Oscillations]]
+- [Differentiation](../05%20Differentiation/00%20Overview.md)
+- [Integration](../06%20Integration/00%20Overview.md)
+- [Physics Oscillations](../../../10%20Physics/01%20Topics/17%20Oscillations/00%20Overview.md)

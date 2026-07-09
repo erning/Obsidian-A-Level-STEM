@@ -13,13 +13,13 @@ tags:
 
 The authoritative source for wording, scope, and notation is the syllabus:
 
-- [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Syllabus 2027-2029.pdf|Computer Science 9618 Syllabus 2027-2029]]
-- [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Syllabus Update 2027-2029.pdf|Computer Science 9618 Syllabus Update 2027-2029]]
-- [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Pseudocode Guide 2027-2029.pdf|Computer Science 9618 Pseudocode Guide 2027-2029]]
+- [Computer Science 9618 Syllabus 2027-2029](../../assets/syllabus/9618%20-%20Computer%20Science/CAIE%20Computer%20Science%209618%20Syllabus%202027-2029.pdf)
+- [Computer Science 9618 Syllabus Update 2027-2029](../../assets/syllabus/9618%20-%20Computer%20Science/CAIE%20Computer%20Science%209618%20Syllabus%20Update%202027-2029.pdf)
+- [Computer Science 9618 Pseudocode Guide 2027-2029](../../assets/syllabus/9618%20-%20Computer%20Science/CAIE%20Computer%20Science%209618%20Pseudocode%20Guide%202027-2029.pdf)
 
 ## Placeholder Reading Framework
 
-When a coursebook is added under `assets/course-books/9618 - Computer Science/`, map chapters to syllabus sections here, following the same pattern used in [[20 Mathematics/00 Overview/Textbook Chapter Map|Mathematics]] and [[10 Physics/00 Overview/Textbook Chapter Map|Physics]]:
+When a coursebook is added under `assets/course-books/9618 - Computer Science/`, map chapters to syllabus sections here, following the same pattern used in [Mathematics](../../20%20Mathematics/00%20Overview/Textbook%20Chapter%20Map.md) and [Physics](../../10%20Physics/00%20Overview/Textbook%20Chapter%20Map.md):
 
 - AS theory (Paper 1, sections 1-8): data representation, communication, hardware, processor fundamentals, system software, security, ethics, databases.
 - AS problem-solving (Paper 2, sections 9-12): algorithm design, data types and structures, programming, software development.
@@ -31,4 +31,4 @@ When a coursebook is added under `assets/course-books/9618 - Computer Science/`,
 - Read the syllabus heading first so the coursebook section has a clear purpose.
 - Trace every algorithm and circuit by hand before reading the coursebook's explanation.
 - Record definitions, data formats, mechanisms, and traps; do not copy whole textbook explanations.
-- Cross-check all pseudocode against the official [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Pseudocode Guide 2027-2029.pdf|Pseudocode Guide]].
+- Cross-check all pseudocode against the official [Pseudocode Guide](../../assets/syllabus/9618%20-%20Computer%20Science/CAIE%20Computer%20Science%209618%20Pseudocode%20Guide%202027-2029.pdf).

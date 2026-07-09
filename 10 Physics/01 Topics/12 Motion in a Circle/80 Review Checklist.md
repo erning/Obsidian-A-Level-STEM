@@ -2,7 +2,7 @@
 title: Motion in a Circle Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]]"
+parent: "[Motion in a Circle](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -76,6 +76,6 @@ resultant before calculating.
       force that supplies it.
 - [ ] I can explain which quantities are constant and which change in uniform
       circular motion.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]],
-      [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]], and
-      [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]].
+- [ ] I can connect this topic to [Gravitational Fields](../13%20Gravitational%20Fields/00%20Overview.md),
+      [Oscillations](../17%20Oscillations/00%20Overview.md), and
+      [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md).

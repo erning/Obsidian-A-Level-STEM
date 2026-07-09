@@ -2,7 +2,7 @@
 title: Hardware Worked Examples
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]]"
+parent: "[Hardware](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems

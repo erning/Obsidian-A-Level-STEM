@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/08 Vectors/00 Overview|Vectors]]"
+parent: "[Vectors](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure

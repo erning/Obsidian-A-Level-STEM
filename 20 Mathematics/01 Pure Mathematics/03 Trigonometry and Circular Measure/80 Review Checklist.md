@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/03 Trigonometry and Circular Measure/00 Overview|Trigonometry and Circular Measure]]"
+parent: "[Trigonometry and Circular Measure](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -85,6 +85,6 @@ return to the lecture notes or worked examples.
 - [ ] I can prove and use identities without assuming the result.
 - [ ] I can work with reciprocal functions and their undefined values.
 - [ ] I can rewrite and use $a\sin\theta+b\cos\theta$ confidently.
-- [ ] I can connect this topic to [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]],
-      [[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]],
-      and [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]].
+- [ ] I can connect this topic to [Coordinate Geometry and Graphs](../02%20Coordinate%20Geometry%20and%20Graphs/00%20Overview.md),
+      [Differentiation](../05%20Differentiation/00%20Overview.md),
+      and [Integration](../06%20Integration/00%20Overview.md).

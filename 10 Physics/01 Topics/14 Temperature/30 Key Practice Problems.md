@@ -2,7 +2,7 @@
 title: Temperature Key Practice Problems
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/14 Temperature/00 Overview|Temperature]]"
+parent: "[Temperature](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

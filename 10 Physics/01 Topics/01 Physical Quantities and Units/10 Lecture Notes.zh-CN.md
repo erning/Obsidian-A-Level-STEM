@@ -2,7 +2,7 @@
 title: Physical Quantities and Units 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/01 Physical Quantities and Units/00 Overview|Physical Quantities and Units]]"
+parent: "[Physical Quantities and Units](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -29,7 +29,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/physical-quantities-and-units.svg]]
+![physical-quantities-and-units](../../../assets/generated/physics/physical-quantities-and-units.svg)
 
 这张图把本章的几件事放在一起：物理量要带单位，测量值要带不确定度，矢量问题要把方向和分量说清楚。
 
@@ -576,5 +576,5 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]
-- [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]
+- [Measurement and Data Presentation](../../02%20Experimental%20Thinking/Measurement%20and%20Data%20Presentation/00%20Overview.md)
+- [Math Tools and Formulae](../../04%20Reference/Math%20Tools%20and%20Formulae.md)

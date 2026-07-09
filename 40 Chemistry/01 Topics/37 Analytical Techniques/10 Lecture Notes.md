@@ -114,6 +114,6 @@ If two structures fit one piece of evidence, keep both possibilities until anoth
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|AS Analytical Techniques]]
-- [[40 Chemistry/01 Topics/36 Organic Synthesis/00 Overview|A Level Organic Synthesis]]
-- [[40 Chemistry/01 Topics/04 Reference/Data and Periodic Table/00 Overview|Data and Periodic Table]]
+- [AS Analytical Techniques](../22%20Analytical%20Techniques/00%20Overview.md)
+- [A Level Organic Synthesis](../36%20Organic%20Synthesis/00%20Overview.md)
+- [Data and Periodic Table](../../04%20Reference/Data%20and%20Periodic%20Table.md)

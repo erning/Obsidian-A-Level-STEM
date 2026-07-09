@@ -46,17 +46,17 @@ Algebra and functions provide the language for equations, transformations, domai
 
 ## Learning Materials
 
-- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/10 Lecture Notes|Lecture Notes]]
-- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/10 Lecture Notes.zh-CN|中文讲义]]
-- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/20 Worked Examples|Worked Examples]]
-- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/30 Key Practice Problems|Key Practice Problems]]
-- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/31 Key Practice Solutions|Key Practice Solutions]]
-- [[20 Mathematics/01 Pure Mathematics/01 Algebra and Functions/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[20 Mathematics/01 Pure Mathematics/06 Integration/00 Overview|Integration]]
-- [[20 Mathematics/01 Pure Mathematics/09 Complex Numbers/00 Overview|Complex Numbers]]
+- [Integration](../06%20Integration/00%20Overview.md)
+- [Complex Numbers](../09%20Complex%20Numbers/00%20Overview.md)
 
 ## Common Traps
 

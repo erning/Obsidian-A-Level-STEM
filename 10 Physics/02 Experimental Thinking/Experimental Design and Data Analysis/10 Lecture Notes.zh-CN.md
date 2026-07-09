@@ -2,7 +2,7 @@
 title: Experimental Design and Data Analysis 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]"
+parent: "[Experimental Design and Data Analysis](00%20Overview.md)"
 status: active
 tags:
   - physics/9702
@@ -27,7 +27,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/experimental-design-and-data-analysis.svg]]
+![experimental-design-and-data-analysis](../../../assets/generated/physics/experimental-design-and-data-analysis.svg)
 
 这张图把一次实验的几个阶段连起来：你设定的变量、带误差棒的最佳拟合直线、误差棒仍然允许的可接受最差直线，以及由斜率范围决定的最终常量的不确定度。
 
@@ -319,8 +319,8 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/02 Experimental Thinking/Measurement and Data Presentation/00 Overview|Measurement and Data Presentation]]
-- [[10 Physics/01 Topics/17 Oscillations/00 Overview|Oscillations]]
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]
-- [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]]
-- [[10 Physics/04 Reference/Math Tools and Formulae|Math Tools and Formulae]]
+- [Measurement and Data Presentation](../Measurement%20and%20Data%20Presentation/00%20Overview.md)
+- [Oscillations](../../01%20Topics/17%20Oscillations/00%20Overview.md)
+- [Capacitance](../../01%20Topics/19%20Capacitance/00%20Overview.md)
+- [Nuclear Physics](../../01%20Topics/23%20Nuclear%20Physics/00%20Overview.md)
+- [Math Tools and Formulae](../../04%20Reference/Math%20Tools%20and%20Formulae.md)

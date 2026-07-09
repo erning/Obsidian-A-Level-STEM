@@ -2,7 +2,7 @@
 title: Particle Physics Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/11 Particle Physics/00 Overview|Particle Physics]]"
+parent: "[Particle Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -87,5 +87,5 @@ to the worked examples and rebuild the bookkeeping from first principles.
       simple mesons.
 - [ ] I can explain beta minus and beta plus decay at both nuclear and quark
       levels.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]
-      and [[10 Physics/01 Topics/23 Nuclear Physics/00 Overview|Nuclear Physics]].
+- [ ] I can connect this topic to [Quantum Physics](../22%20Quantum%20Physics/00%20Overview.md)
+      and [Nuclear Physics](../23%20Nuclear%20Physics/00%20Overview.md).

@@ -2,7 +2,7 @@
 title: Information Representation 中文讲义
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]]"
+parent: "[Information Representation](00%20Overview.md)"
 status: active
 tags:
   - computerscience/foundations
@@ -200,5 +200,5 @@ $$\text{BBBBBWWWWBB} \;\to\; 5\text{B}\,4\text{W}\,2\text{B}$$
 
 ## 关联内容
 
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]]：溢出标志位直接进入 CPU 的状态寄存器。
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]]（A Level 扩展）：整数、浮点、奇偶校验和纠错都建立在本章之上。
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md)：溢出标志位直接进入 CPU 的状态寄存器。
+- [Data Representation](../13%20Data%20Representation/00%20Overview.md)（A Level 扩展）：整数、浮点、奇偶校验和纠错都建立在本章之上。

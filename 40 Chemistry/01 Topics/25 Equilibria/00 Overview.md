@@ -46,20 +46,20 @@ A Level equilibria deepens AS reversible-reaction ideas through acid-base system
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/25 Equilibria/10 Lecture Notes|Lecture Notes]]
-- [[40 Chemistry/01 Topics/25 Equilibria/10 Lecture Notes.zh-CN|Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/25 Equilibria/20 Worked Examples|Worked Examples]]
-- [[40 Chemistry/01 Topics/25 Equilibria/30 Key Practice Problems|Key Practice Problems]]
-- [[40 Chemistry/01 Topics/25 Equilibria/31 Key Practice Solutions|Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/25 Equilibria/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 - Scope is checked against the local CAIE Chemistry 9701 syllabus sections 25.1-25.2. No Chemistry coursebook alignment is claimed.
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/07 Equilibria/00 Overview|AS Equilibria]] supplies dynamic equilibrium, equilibrium constants, and Le Chatelier reasoning.
-- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]] uses acid strength and substituent effects.
-- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/00 Overview|Nitrogen Compounds]] uses base strength, conjugate acids, zwitterions, and pH-dependent charge.
-- [[40 Chemistry/01 Topics/37 Analytical Techniques/00 Overview|Analytical Techniques]] connects partition ideas with chromatography.
+- [AS Equilibria](../07%20Equilibria/00%20Overview.md) supplies dynamic equilibrium, equilibrium constants, and Le Chatelier reasoning.
+- [Carboxylic Acids and Derivatives](../33%20Carboxylic%20Acids%20and%20Derivatives/00%20Overview.md) uses acid strength and substituent effects.
+- [Nitrogen Compounds](../34%20Nitrogen%20Compounds/00%20Overview.md) uses base strength, conjugate acids, zwitterions, and pH-dependent charge.
+- [Analytical Techniques](../37%20Analytical%20Techniques/00%20Overview.md) connects partition ideas with chromatography.
 
 ## Common Traps
 

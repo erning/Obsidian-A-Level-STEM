@@ -10,7 +10,7 @@ tags:
 
 # Pseudocode and Programming Reference
 
-This reference summarises the pseudocode notation used in CAIE Computer Science 9618 Paper 2, and gives equivalent Paper 4 programming patterns in Java, Visual Basic .NET, and Python. The authoritative source for pseudocode is the [[assets/syllabus/9618 - Computer Science/CAIE Computer Science 9618 Pseudocode Guide 2027-2029.pdf|Pseudocode Guide for Teachers 2027-2029]]; this note is a quick lookup.
+This reference summarises the pseudocode notation used in CAIE Computer Science 9618 Paper 2, and gives equivalent Paper 4 programming patterns in Java, Visual Basic .NET, and Python. The authoritative source for pseudocode is the [Pseudocode Guide for Teachers 2027-2029](../../assets/syllabus/9618%20-%20Computer%20Science/CAIE%20Computer%20Science%209618%20Pseudocode%20Guide%202027-2029.pdf); this note is a quick lookup.
 
 ## Pseudocode Conventions
 

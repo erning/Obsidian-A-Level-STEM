@@ -2,7 +2,7 @@
 title: Algorithm Design and Problem-solving Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]]"
+parent: "[Algorithm Design and Problem-solving](00%20Overview.md)"
 status: active
 tags:
   - computerscience/programming
@@ -53,8 +53,8 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Explain why a module should usually have one clear purpose.
 - [ ] Trace how a logic statement changes value when parentheses are moved.
 - [ ] Explain why refinement should expand all steps at one level before moving deeper.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] by explaining how chosen identifiers later become arrays, records, files, or ADTs.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] by explaining how designs become working pseudocode.
+- [ ] Connect this topic to [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) by explaining how chosen identifiers later become arrays, records, files, or ADTs.
+- [ ] Connect this topic to [Programming](../11%20Programming/00%20Overview.md) by explaining how designs become working pseudocode.
 
 ## Common Errors to Avoid
 
@@ -78,5 +78,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can choose and write sequence, selection, and iteration constructs confidently.
 - [ ] I can refine a vague high-level step until it is ready to program.
 - [ ] I can trace my own pseudocode and find where a condition, loop, or update goes wrong.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]] and explain what is extended there.
-- [ ] I can connect this topic to [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] by explaining how decomposition becomes structure charts and module testing.
+- [ ] I can connect this topic to [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md) and explain what is extended there.
+- [ ] I can connect this topic to [Software Development](../12%20Software%20Development/00%20Overview.md) by explaining how decomposition becomes structure charts and module testing.

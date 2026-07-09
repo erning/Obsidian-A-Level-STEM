@@ -2,7 +2,7 @@
 title: Processor Fundamentals Key Practice Solutions
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]]"
+parent: "[Processor Fundamentals](00%20Overview.md)"
 status: active
 tags:
   - computerscience/computer-systems
@@ -11,7 +11,7 @@ tags:
 
 # Processor Fundamentals Key Practice Solutions
 
-These solutions correspond to [[30 Computer Science/01 Topics/04 Processor Fundamentals/30 Key Practice Problems|Key Practice Problems]]. Trace tables give one row per executed instruction; bit manipulation is shown with masks in full binary.
+These solutions correspond to [Key Practice Problems](30%20Key%20Practice%20Problems.md). Trace tables give one row per executed instruction; bit manipulation is shown with masks in full binary.
 
 ## A. Architecture and registers
 

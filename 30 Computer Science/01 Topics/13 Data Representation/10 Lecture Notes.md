@@ -2,7 +2,7 @@
 title: Data Representation Lecture Notes
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]]"
+parent: "[Data Representation](00%20Overview.md)"
 status: active
 tags:
   - computerscience/data
@@ -271,8 +271,8 @@ A finite binary field cannot represent every real number. Four consequences:
 
 ## Connections
 
-- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] - the AS foundation: number bases, two's complement integers, text/image/sound encoding that this topic builds on.
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] - uses the user-defined types here (records, classes, pointers) and the file modes for real programs.
+- [Information Representation](../01%20Information%20Representation/00%20Overview.md) - the AS foundation: number bases, two's complement integers, text/image/sound encoding that this topic builds on.
+- [Further Programming](../20%20Further%20Programming/00%20Overview.md) - uses the user-defined types here (records, classes, pointers) and the file modes for real programs.
 
 ## Study Sequence
 

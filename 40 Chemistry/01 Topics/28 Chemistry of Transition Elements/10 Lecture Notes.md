@@ -377,7 +377,7 @@ For a stability constant:
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]]
-- [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|Electrochemistry]]
-- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|Equilibria]]
-- [[40 Chemistry/01 Topics/26 Reaction Kinetics/00 Overview|Reaction Kinetics]]
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md)
+- [Electrochemistry](../24%20Electrochemistry/00%20Overview.md)
+- [Equilibria](../25%20Equilibria/00%20Overview.md)
+- [Reaction Kinetics](../26%20Reaction%20Kinetics/00%20Overview.md)

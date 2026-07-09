@@ -32,7 +32,7 @@ This A Level topic extends section 11 with programming paradigms (low-level, imp
 
 ## How to Study
 
-- Place this after [[30 Computer Science/01 Topics/11 Programming/00 Overview|11 Programming]] and [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|13 Data Representation]].
+- Place this after [11 Programming](../11%20Programming/00%20Overview.md) and [13 Data Representation](../13%20Data%20Representation/00%20Overview.md).
 - For OOP, model a small system with classes before writing any code.
 - Practise Paper 4 in one chosen language (Java, Visual Basic .NET, or Python) so that syntax becomes automatic.
 
@@ -46,21 +46,21 @@ This A Level topic extends section 11 with programming paradigms (low-level, imp
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/20 Further Programming/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/20 Further Programming/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/20 Further Programming/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/20 Further Programming/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/20 Further Programming/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/20 Further Programming/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] is the procedural foundation this topic extends into larger paradigms, files, and exception handling.
-- [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] provides the testing, maintenance, and design context for writing robust programs.
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] supplies the addressing modes and low-level execution ideas used in the low-level programming part of this topic.
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] supplies the file organisations and record types used here.
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]] connects through ADTs, recursion, and algorithmic reasoning.
-- See [[30 Computer Science/04 Reference/Pseudocode and Programming Reference|Pseudocode and Programming Reference]] for Java, Visual Basic .NET, and Python patterns.
+- [Programming](../11%20Programming/00%20Overview.md) is the procedural foundation this topic extends into larger paradigms, files, and exception handling.
+- [Software Development](../12%20Software%20Development/00%20Overview.md) provides the testing, maintenance, and design context for writing robust programs.
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) supplies the addressing modes and low-level execution ideas used in the low-level programming part of this topic.
+- [Data Representation](../13%20Data%20Representation/00%20Overview.md) supplies the file organisations and record types used here.
+- [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md) connects through ADTs, recursion, and algorithmic reasoning.
+- See [Pseudocode and Programming Reference](../../04%20Reference/Pseudocode%20and%20Programming%20Reference.md) for Java, Visual Basic .NET, and Python patterns.
 
 ## Common Traps
 

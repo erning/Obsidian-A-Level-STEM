@@ -165,7 +165,7 @@ Roman numerals do not show the number of atoms. They show oxidation number.
 
 ## Link To Later Electrochemistry
 
-The AS redox tools in this topic are the foundation for later electrolysis and electrode potential work. In electrolysis, half-equations describe oxidation at one electrode and reduction at the other. In electrochemical cells, standard electrode potentials compare the tendency of half-equations to occur as reductions. Those detailed applications belong to [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|A Level Electrochemistry]].
+The AS redox tools in this topic are the foundation for later electrolysis and electrode potential work. In electrolysis, half-equations describe oxidation at one electrode and reduction at the other. In electrochemical cells, standard electrode potentials compare the tendency of half-equations to occur as reductions. Those detailed applications belong to [A Level Electrochemistry](../24%20Electrochemistry/00%20Overview.md).
 
 ## Working Routine
 
@@ -197,6 +197,6 @@ Do not forget disproportionation. If one element in a reactant appears in two pr
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/11 Group 17/00 Overview|Group 17]]
-- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/00 Overview|Nitrogen and Sulfur]]
-- [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|A Level Electrochemistry]]
+- [Group 17](../11%20Group%2017/00%20Overview.md)
+- [Nitrogen and Sulfur](../12%20Nitrogen%20and%20Sulfur/00%20Overview.md)
+- [A Level Electrochemistry](../24%20Electrochemistry/00%20Overview.md)

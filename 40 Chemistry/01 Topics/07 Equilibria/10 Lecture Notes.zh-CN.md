@@ -244,6 +244,6 @@ $K_c$ 或 $K_p$ 题：先从 balanced equation 写表达式，再处理 concentr
 
 ## 连接
 
-- [[40 Chemistry/01 Topics/05 Chemical Energetics/10 Lecture Notes|Chemical Energetics]]
-- [[40 Chemistry/01 Topics/08 Reaction Kinetics/10 Lecture Notes|Reaction Kinetics]]
-- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|A Level Equilibria]]
+- [Chemical Energetics](../05%20Chemical%20Energetics/10%20Lecture%20Notes.md)
+- [Reaction Kinetics](../08%20Reaction%20Kinetics/10%20Lecture%20Notes.md)
+- [A Level Equilibria](../25%20Equilibria/00%20Overview.md)

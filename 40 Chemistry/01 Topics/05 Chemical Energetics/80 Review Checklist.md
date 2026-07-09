@@ -43,4 +43,4 @@ tags:
 - You can calculate a calorimetry enthalpy change and justify the negative sign.
 - You can choose between bond energy, formation enthalpy and combustion enthalpy methods.
 - You can spot whether a Hess cycle answer has the sign reversed.
-- You can link activation energy here to collision theory in [[40 Chemistry/01 Topics/08 Reaction Kinetics/00 Overview|Reaction Kinetics]].
+- You can link activation energy here to collision theory in [Reaction Kinetics](../08%20Reaction%20Kinetics/00%20Overview.md).

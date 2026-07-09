@@ -2,7 +2,7 @@
 title: Experimental Design and Data Analysis Worked Examples
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/02 Experimental Thinking/Experimental Design and Data Analysis/00 Overview|Experimental Design and Data Analysis]]"
+parent: "[Experimental Design and Data Analysis](00%20Overview.md)"
 status: active
 tags:
   - physics/9702

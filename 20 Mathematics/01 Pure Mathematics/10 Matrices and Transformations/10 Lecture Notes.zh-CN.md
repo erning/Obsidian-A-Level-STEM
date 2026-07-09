@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/10 Matrices and Transformations/00 Overview|Matrices and Transformations]]"
+parent: "[Matrices and Transformations](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure
@@ -24,7 +24,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/mathematics/matrices-and-transformations.svg]]
+![matrices-and-transformations](../../../assets/generated/mathematics/matrices-and-transformations.svg)
 
 这张图用来快速理解“矩阵与变换”：观察矩阵怎样把一个网格变形。
 
@@ -460,5 +460,5 @@ $$
 
 ## 关联内容
 
-- [[20 Mathematics/01 Pure Mathematics/08 Vectors/00 Overview|Vectors]]：矩阵变换作用在向量上，不变方向和特征向量也需要向量语言。
-- [[20 Mathematics/01 Pure Mathematics/02 Coordinate Geometry and Graphs/00 Overview|Coordinate Geometry and Graphs]]：二维变换、图形检查和不变直线都依赖坐标几何。
+- [Vectors](../08%20Vectors/00%20Overview.md)：矩阵变换作用在向量上，不变方向和特征向量也需要向量语言。
+- [Coordinate Geometry and Graphs](../02%20Coordinate%20Geometry%20and%20Graphs/00%20Overview.md)：二维变换、图形检查和不变直线都依赖坐标几何。

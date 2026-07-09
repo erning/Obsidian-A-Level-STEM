@@ -2,7 +2,7 @@
 title: Gravitational Fields Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]]"
+parent: "[Gravitational Fields](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -28,7 +28,7 @@ Keep the distinction clear:
 
 ## Visual Guide
 
-![[assets/generated/physics/gravitational-fields.svg]]
+![gravitational-fields](../../../assets/generated/physics/gravitational-fields.svg)
 
 The visual guide separates two pictures: field lines show force direction and relative field strength; the potential curve shows energy per unit mass and is negative when zero is chosen at infinity.
 
@@ -385,6 +385,6 @@ You should be able to answer these without looking back:
 
 ## Connections
 
-- [[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]] supplies centripetal acceleration and centripetal force.
-- [[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]] uses parallel ideas: field strength, potential, and potential energy.
-- [[10 Physics/01 Topics/25 Astronomy and Cosmology/00 Overview|Astronomy and Cosmology]] uses gravity to describe stars, galaxies, and cosmic structure.
+- [Motion in a Circle](../12%20Motion%20in%20a%20Circle/00%20Overview.md) supplies centripetal acceleration and centripetal force.
+- [Electric Fields](../18%20Electric%20Fields/00%20Overview.md) uses parallel ideas: field strength, potential, and potential energy.
+- [Astronomy and Cosmology](../25%20Astronomy%20and%20Cosmology/00%20Overview.md) uses gravity to describe stars, galaxies, and cosmic structure.

@@ -2,7 +2,7 @@
 title: Quantum Physics Key Practice Problems
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/22 Quantum Physics/00 Overview|Quantum Physics]]"
+parent: "[Quantum Physics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic

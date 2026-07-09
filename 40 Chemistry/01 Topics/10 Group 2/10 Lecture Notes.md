@@ -282,6 +282,6 @@ When a Group 2 question asks for a prediction, identify the compound type first:
 
 ## Connections
 
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]]
-- [[40 Chemistry/01 Topics/27 Group 2/00 Overview|A Level Group 2]]
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/00 Overview|Chemical Bonding]]
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md)
+- [A Level Group 2](../27%20Group%202/00%20Overview.md)
+- [Chemical Bonding](../03%20Chemical%20Bonding/00%20Overview.md)

@@ -2,7 +2,7 @@
 title: Alternating Currents 中文讲义
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]]"
+parent: "[Alternating Currents](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -17,7 +17,7 @@ tags:
 
 ## 图示导读
 
-![[assets/generated/physics/alternating-currents.svg]]
+![alternating-currents](../../../assets/generated/physics/alternating-currents.svg)
 
 这张图用来对应几个最重要的量：峰值、周期、频率、相位和有效值（r.m.s.）。
 
@@ -213,7 +213,7 @@ $$
 
 ## 关联内容
 
-- [[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]]
-- [[10 Physics/01 Topics/10 DC Circuits/00 Overview|DC Circuits]]
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]
-- [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]]
+- [Electricity](../09%20Electricity/00%20Overview.md)
+- [DC Circuits](../10%20DC%20Circuits/00%20Overview.md)
+- [Capacitance](../19%20Capacitance/00%20Overview.md)
+- [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md)

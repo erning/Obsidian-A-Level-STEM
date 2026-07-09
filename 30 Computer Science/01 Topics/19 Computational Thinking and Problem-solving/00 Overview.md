@@ -33,7 +33,7 @@ This A Level topic extends section 9 with the standard searching and sorting alg
 
 ## How to Study
 
-- Place this after [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|9 Algorithm Design and Problem-solving]] and [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|10 Data Types and Structures]].
+- Place this after [9 Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) and [10 Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md).
 - Trace every search and sort on a small data set before analysing it.
 - For recursion, draw the call stack and watch each call push and then unwind.
 
@@ -45,20 +45,20 @@ This A Level topic extends section 9 with the standard searching and sorting alg
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] is the foundation this topic extends: abstraction, decomposition, constructs, pseudocode, and tracing all carry forward.
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] supplies the arrays, stacks, queues, linked lists, and files that these algorithms operate on.
-- [[30 Computer Science/01 Topics/11 Programming/00 Overview|Programming]] supplies the routine structure, parameter passing, and control-flow fluency needed to write these algorithms cleanly.
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] reuses the same algorithmic thinking in paradigms, files, exception handling, and low-level links.
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]] depends on algorithm choice, data representation, and complexity limits when systems scale.
+- [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) is the foundation this topic extends: abstraction, decomposition, constructs, pseudocode, and tracing all carry forward.
+- [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) supplies the arrays, stacks, queues, linked lists, and files that these algorithms operate on.
+- [Programming](../11%20Programming/00%20Overview.md) supplies the routine structure, parameter passing, and control-flow fluency needed to write these algorithms cleanly.
+- [Further Programming](../20%20Further%20Programming/00%20Overview.md) reuses the same algorithmic thinking in paradigms, files, exception handling, and low-level links.
+- [Artificial Intelligence](../18%20Artificial%20Intelligence/00%20Overview.md) depends on algorithm choice, data representation, and complexity limits when systems scale.
 
 ## Common Traps
 

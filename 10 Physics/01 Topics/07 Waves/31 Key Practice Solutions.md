@@ -2,7 +2,7 @@
 title: Waves Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]"
+parent: "[Waves](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -12,7 +12,7 @@ tags:
 
 # Waves Key Practice Solutions
 
-These solutions correspond to [[10 Physics/01 Topics/07 Waves/30 Key Practice Problems|Key Practice Problems]].
+These solutions correspond to [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Wave Quantities and Phase
 

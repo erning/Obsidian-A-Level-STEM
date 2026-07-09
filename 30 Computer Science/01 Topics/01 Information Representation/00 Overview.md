@@ -48,19 +48,19 @@ Everything in a computer is stored as bits. This topic covers how numbers, text,
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/01 Information Representation/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/01 Information Representation/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/01 Information Representation/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/01 Information Representation/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/01 Information Representation/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/01 Information Representation/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]] extends the same bit-level ideas into floating-point numbers, user-defined data types, and file organisation.
-- [[30 Computer Science/01 Topics/04 Processor Fundamentals/00 Overview|Processor Fundamentals]] uses binary arithmetic, overflow, shifts, masks, and character-sized data as part of low-level execution.
-- [[30 Computer Science/01 Topics/03 Hardware/00 Overview|Hardware]] gives the physical context for storage devices, displays, speakers, microphones, and the logic circuits that make binary possible.
-- [[30 Computer Science/01 Topics/05 System Software/00 Overview|System Software]] uses compression, files, and translators that all depend on accurate representation of data.
+- [Data Representation](../13%20Data%20Representation/00%20Overview.md) extends the same bit-level ideas into floating-point numbers, user-defined data types, and file organisation.
+- [Processor Fundamentals](../04%20Processor%20Fundamentals/00%20Overview.md) uses binary arithmetic, overflow, shifts, masks, and character-sized data as part of low-level execution.
+- [Hardware](../03%20Hardware/00%20Overview.md) gives the physical context for storage devices, displays, speakers, microphones, and the logic circuits that make binary possible.
+- [System Software](../05%20System%20Software/00%20Overview.md) uses compression, files, and translators that all depend on accurate representation of data.
 
 ## Common Traps
 

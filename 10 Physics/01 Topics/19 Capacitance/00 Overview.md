@@ -47,17 +47,17 @@ A capacitor stores charge and energy; an RC circuit turns that storage into an e
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/19 Capacitance/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/19 Capacitance/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/19 Capacitance/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/19 Capacitance/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/19 Capacitance/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/19 Capacitance/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/10 DC Circuits/00 Overview|D.C. Circuits]]
-- [[20 Mathematics/01 Pure Mathematics/07 Logarithms Exponentials and Numerical Methods/00 Overview|Logarithms, Exponentials and Numerical Methods]]
+- [D.C. Circuits](../10%20DC%20Circuits/00%20Overview.md)
+- [Logarithms, Exponentials and Numerical Methods](../../../20%20Mathematics/01%20Pure%20Mathematics/07%20Logarithms%20Exponentials%20and%20Numerical%20Methods/00%20Overview.md)
 
 ## Common Traps
 

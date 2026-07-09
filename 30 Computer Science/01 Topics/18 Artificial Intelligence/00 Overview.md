@@ -30,7 +30,7 @@ This A Level topic covers the core ideas behind modern AI: graphs as a structure
 
 ## How to Study
 
-- Note that AI also appears in [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|7 Ethics and Ownership]] as impact and applications; this topic is the technical basis.
+- Note that AI also appears in [7 Ethics and Ownership](../07%20Ethics%20and%20Ownership/00%20Overview.md) as impact and applications; this topic is the technical basis.
 - Compare Dijkstra and A\* on what each guarantees (shortest path versus heuristic-guided search).
 - Place learning methods on a spectrum: supervised (labelled data), unsupervised (unlabelled), and reinforcement (reward signal).
 
@@ -42,20 +42,20 @@ This A Level topic covers the core ideas behind modern AI: graphs as a structure
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/18 Artificial Intelligence/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|9 Algorithm Design and Problem-solving]] prepares the tracing discipline used when following Dijkstra's algorithm and A\* step by step.
-- [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|19 Computational Thinking and Problem-solving]] treats the graph as an abstract data type: the structure searched here is the structure implemented and reasoned about there.
-- [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|13 Data Representation]] connects to the way learning systems turn examples, labels, weights, and continuous predicted values into data that can be stored and processed.
-- [[30 Computer Science/01 Topics/15 Hardware and Virtual Machines/00 Overview|15 Hardware and Virtual Machines]] extends the performance side: larger search spaces and neural-network models depend on processing power, memory, and sometimes parallel execution.
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|7 Ethics and Ownership]] covers the social, economic, environmental, and responsibility questions raised by these technical methods.
+- [9 Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) prepares the tracing discipline used when following Dijkstra's algorithm and A\* step by step.
+- [19 Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md) treats the graph as an abstract data type: the structure searched here is the structure implemented and reasoned about there.
+- [13 Data Representation](../13%20Data%20Representation/00%20Overview.md) connects to the way learning systems turn examples, labels, weights, and continuous predicted values into data that can be stored and processed.
+- [15 Hardware and Virtual Machines](../15%20Hardware%20and%20Virtual%20Machines/00%20Overview.md) extends the performance side: larger search spaces and neural-network models depend on processing power, memory, and sometimes parallel execution.
+- [7 Ethics and Ownership](../07%20Ethics%20and%20Ownership/00%20Overview.md) covers the social, economic, environmental, and responsibility questions raised by these technical methods.
 
 ## Common Traps
 

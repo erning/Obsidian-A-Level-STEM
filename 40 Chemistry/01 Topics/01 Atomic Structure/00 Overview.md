@@ -47,18 +47,18 @@ Atomic structure explains how protons, neutrons and electrons determine the iden
 
 ## Learning Materials
 
-- [[40 Chemistry/01 Topics/01 Atomic Structure/10 Lecture Notes|10 Lecture Notes]]
-- [[40 Chemistry/01 Topics/01 Atomic Structure/10 Lecture Notes.zh-CN|10 Lecture Notes.zh-CN]]
-- [[40 Chemistry/01 Topics/01 Atomic Structure/20 Worked Examples|20 Worked Examples]]
-- [[40 Chemistry/01 Topics/01 Atomic Structure/30 Key Practice Problems|30 Key Practice Problems]]
-- [[40 Chemistry/01 Topics/01 Atomic Structure/31 Key Practice Solutions|31 Key Practice Solutions]]
-- [[40 Chemistry/01 Topics/01 Atomic Structure/80 Review Checklist|80 Review Checklist]]
+- [10 Lecture Notes](10%20Lecture%20Notes.md)
+- [10 Lecture Notes.zh-CN](10%20Lecture%20Notes.zh-CN.md)
+- [20 Worked Examples](20%20Worked%20Examples.md)
+- [30 Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [31 Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [80 Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/00 Overview|Atoms, Molecules and Stoichiometry]] uses isotopic masses and relative atomic mass.
-- [[40 Chemistry/01 Topics/03 Chemical Bonding/00 Overview|Chemical Bonding]] depends on electron arrangement and outer shell electrons.
-- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]] uses atomic radius, ionisation energy and electronic structure to explain trends.
+- [Atoms, Molecules and Stoichiometry](../02%20Atoms%20Molecules%20and%20Stoichiometry/00%20Overview.md) uses isotopic masses and relative atomic mass.
+- [Chemical Bonding](../03%20Chemical%20Bonding/00%20Overview.md) depends on electron arrangement and outer shell electrons.
+- [The Periodic Table: Chemical Periodicity](../09%20The%20Periodic%20Table%20Chemical%20Periodicity/00%20Overview.md) uses atomic radius, ionisation energy and electronic structure to explain trends.
 
 ## Common Traps
 

@@ -2,7 +2,7 @@
 title: Artificial Intelligence Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/18 Artificial Intelligence/00 Overview|Artificial Intelligence]]"
+parent: "[Artificial Intelligence](00%20Overview.md)"
 status: active
 tags:
   - computerscience/advanced
@@ -57,8 +57,8 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Explain why RL uses rewards from an environment instead of labelled examples.
 - [ ] Explain why unsupervised learning is harder to evaluate than supervised learning.
 - [ ] Trace back propagation as a forward calculation followed by backwards error assignment and weight adjustment.
-- [ ] Connect graph search to [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] and [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]].
-- [ ] Connect AI applications and limitations to [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]].
+- [ ] Connect graph search to [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) and [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md).
+- [ ] Connect AI applications and limitations to [Ethics and Ownership](../07%20Ethics%20and%20Ownership/00%20Overview.md).
 
 ## Common Errors to Avoid
 
@@ -86,6 +86,6 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can decide whether a learning task is supervised or unsupervised from the presence or absence of labels.
 - [ ] I can describe back propagation in order and explain the role of the learning rate.
 - [ ] I can distinguish regression from classification and use $y = mx + c$ as the simple linear regression model.
-- [ ] I can connect graph search in this topic to [[30 Computer Science/01 Topics/09 Algorithm Design and Problem-solving/00 Overview|Algorithm Design and Problem-solving]] and graph ADTs in [[30 Computer Science/01 Topics/19 Computational Thinking and Problem-solving/00 Overview|Computational Thinking and Problem-solving]].
-- [ ] I can see how training data and model outputs connect to [[30 Computer Science/01 Topics/13 Data Representation/00 Overview|Data Representation]].
-- [ ] I can explain why AI's technical methods also need the impact and responsibility ideas in [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]].
+- [ ] I can connect graph search in this topic to [Algorithm Design and Problem-solving](../09%20Algorithm%20Design%20and%20Problem-solving/00%20Overview.md) and graph ADTs in [Computational Thinking and Problem-solving](../19%20Computational%20Thinking%20and%20Problem-solving/00%20Overview.md).
+- [ ] I can see how training data and model outputs connect to [Data Representation](../13%20Data%20Representation/00%20Overview.md).
+- [ ] I can explain why AI's technical methods also need the impact and responsibility ideas in [Ethics and Ownership](../07%20Ethics%20and%20Ownership/00%20Overview.md).

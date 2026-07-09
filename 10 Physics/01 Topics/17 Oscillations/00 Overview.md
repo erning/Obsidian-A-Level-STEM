@@ -46,17 +46,17 @@ Oscillations describe repeated motion around equilibrium, with SHM as the centra
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/17 Oscillations/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/17 Oscillations/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/17 Oscillations/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/17 Oscillations/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/17 Oscillations/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/17 Oscillations/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/07 Waves/00 Overview|Waves]]
-- [[20 Mathematics/01 Pure Mathematics/13 Further Calculus and Differential Equations/00 Overview|Further Calculus and Differential Equations]]
+- [Waves](../07%20Waves/00%20Overview.md)
+- [Further Calculus and Differential Equations](../../../20%20Mathematics/01%20Pure%20Mathematics/13%20Further%20Calculus%20and%20Differential%20Equations/00%20Overview.md)
 
 ## Common Traps
 

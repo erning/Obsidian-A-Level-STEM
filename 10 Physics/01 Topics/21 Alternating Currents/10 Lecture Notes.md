@@ -2,7 +2,7 @@
 title: Alternating Currents Lecture Notes
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]]"
+parent: "[Alternating Currents](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -24,7 +24,7 @@ Alternating current analysis is about electrical quantities that vary with time.
 
 ## Visual Guide
 
-![[assets/generated/physics/alternating-currents.svg]]
+![alternating-currents](../../../assets/generated/physics/alternating-currents.svg)
 
 Figure: A sinusoidal waveform is described by its peak value, period, frequency, phase, and r.m.s. value.
 
@@ -214,7 +214,7 @@ You have the topic if you can do these without notes:
 
 ## Connections
 
-- [[10 Physics/01 Topics/09 Electricity/00 Overview|Electricity]]
-- [[10 Physics/01 Topics/10 DC Circuits/00 Overview|DC Circuits]]
-- [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]]
-- [[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]]
+- [Electricity](../09%20Electricity/00%20Overview.md)
+- [DC Circuits](../10%20DC%20Circuits/00%20Overview.md)
+- [Capacitance](../19%20Capacitance/00%20Overview.md)
+- [Magnetic Fields](../20%20Magnetic%20Fields/00%20Overview.md)

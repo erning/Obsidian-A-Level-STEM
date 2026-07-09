@@ -2,7 +2,7 @@
 title: Magnetic Fields Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]]"
+parent: "[Magnetic Fields](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -89,6 +89,6 @@ the angle in the formula and the direction rule separately.
 - [ ] I can sketch current-produced magnetic fields and explain wire forces.
 - [ ] I can calculate flux, flux linkage, and induced e.m.f.
 - [ ] I can use Lenz's law to identify what change is being opposed.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/12 Motion in a Circle/00 Overview|Motion in a Circle]],
-      [[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]],
-      and [[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]].
+- [ ] I can connect this topic to [Motion in a Circle](../12%20Motion%20in%20a%20Circle/00%20Overview.md),
+      [Electric Fields](../18%20Electric%20Fields/00%20Overview.md),
+      and [Alternating Currents](../21%20Alternating%20Currents/00%20Overview.md).

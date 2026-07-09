@@ -2,7 +2,7 @@
 title: Dynamics Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/03 Dynamics/00 Overview|Dynamics]]"
+parent: "[Dynamics](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -12,7 +12,7 @@ tags:
 
 # Dynamics Key Practice Solutions
 
-These solutions correspond to [[10 Physics/01 Topics/03 Dynamics/30 Key Practice Problems|Key Practice Problems]].
+These solutions correspond to [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 Take $g=9.81\ \mathrm{m\ s^{-2}}$ where needed.
 

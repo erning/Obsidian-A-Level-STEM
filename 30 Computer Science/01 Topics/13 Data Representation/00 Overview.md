@@ -38,7 +38,7 @@ This A Level topic extends section 1 with the data types programmers define, the
 
 ## How to Study
 
-- Place this topic directly after [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|1 Information Representation]] so the same idea (everything is bits) extends naturally.
+- Place this topic directly after [1 Information Representation](../01%20Information%20Representation/00%20Overview.md) so the same idea (everything is bits) extends naturally.
 - For floating-point, draw the mantissa and exponent fields and track sign, magnitude, and scale separately.
 - Normalise by asking whether the mantissa uses its most significant bits efficiently.
 
@@ -50,19 +50,19 @@ This A Level topic extends section 1 with the data types programmers define, the
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/13 Data Representation/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/13 Data Representation/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/13 Data Representation/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/13 Data Representation/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/13 Data Representation/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/13 Data Representation/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/01 Information Representation/00 Overview|Information Representation]] is the foundation for the number bases, two's complement, storage sizes, and bit-level thinking used here.
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] prepares the idea that data has type, structure, and operations; this topic formalises larger user-defined types and file organisation.
-- [[30 Computer Science/01 Topics/20 Further Programming/00 Overview|Further Programming]] uses records, classes, pointers, file modes, and floating-point limits in real programs.
-- [[30 Computer Science/01 Topics/08 Databases/00 Overview|Databases]] connects to records, keys, file organisation, and the need to retrieve structured data accurately.
+- [Information Representation](../01%20Information%20Representation/00%20Overview.md) is the foundation for the number bases, two's complement, storage sizes, and bit-level thinking used here.
+- [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) prepares the idea that data has type, structure, and operations; this topic formalises larger user-defined types and file organisation.
+- [Further Programming](../20%20Further%20Programming/00%20Overview.md) uses records, classes, pointers, file modes, and floating-point limits in real programs.
+- [Databases](../08%20Databases/00%20Overview.md) connects to records, keys, file organisation, and the need to retrieve structured data accurately.
 
 ## Common Traps
 

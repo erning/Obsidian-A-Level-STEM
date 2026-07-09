@@ -2,7 +2,7 @@
 title: Alternating Currents Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/21 Alternating Currents/00 Overview|Alternating Currents]]"
+parent: "[Alternating Currents](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -13,7 +13,7 @@ tags:
 # Alternating Currents Key Practice Solutions
 
 Use these solutions to check the setup, waveform reading, units, and final
-answers for [[10 Physics/01 Topics/21 Alternating Currents/30 Key Practice Problems|Key Practice Problems]].
+answers for [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Sinusoidal Waveforms
 

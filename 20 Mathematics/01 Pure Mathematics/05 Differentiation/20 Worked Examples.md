@@ -4,7 +4,7 @@ subject: Mathematics
 syllabus:
   - 9709
   - 9231
-parent: "[[20 Mathematics/01 Pure Mathematics/05 Differentiation/00 Overview|Differentiation]]"
+parent: "[Differentiation](00%20Overview.md)"
 status: active
 tags:
   - mathematics/pure

@@ -2,7 +2,7 @@
 title: Communication Review Checklist
 subject: Computer Science
 syllabus: 9618
-parent: "[[30 Computer Science/01 Topics/02 Communication/00 Overview|Communication]]"
+parent: "[Communication](00%20Overview.md)"
 status: active
 tags:
   - computerscience/networks
@@ -49,8 +49,8 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] Explain why IPv6 was introduced and compare its address space with IPv4 using powers of two.
 - [ ] Explain why a mesh topology tolerates a failed link while a bus topology does not.
 - [ ] Explain why fibre is strong for long-distance, high-bandwidth links and why wireless media bring security and interference issues.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]] by explaining how protocols and packet switching build on IP, routers, and DNS.
-- [ ] Connect this topic to [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] by explaining how network connectivity introduces threats and data-transfer checks.
+- [ ] Connect this topic to [Communication and Internet Technologies](../14%20Communication%20and%20Internet%20Technologies/00%20Overview.md) by explaining how protocols and packet switching build on IP, routers, and DNS.
+- [ ] Connect this topic to [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) by explaining how network connectivity introduces threats and data-transfer checks.
 
 ## Common Errors to Avoid
 
@@ -74,5 +74,5 @@ Use this as a self-test after reading the notes and attempting the practice prob
 - [ ] I can distinguish the internet, the WWW, URL structure, IP addressing, and DNS in one coherent explanation.
 - [ ] I can explain CSMA/CD as a timed process rather than as a single definition.
 - [ ] I can diagnose a streaming scenario using bit rate, bandwidth, buffering, and latency.
-- [ ] I can explain how this topic prepares for [[30 Computer Science/01 Topics/14 Communication and Internet Technologies/00 Overview|Communication and Internet Technologies]].
-- [ ] I can connect network threats and transfer checks to [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] and protected communication in [[30 Computer Science/01 Topics/17 Security/00 Overview|Security]].
+- [ ] I can explain how this topic prepares for [Communication and Internet Technologies](../14%20Communication%20and%20Internet%20Technologies/00%20Overview.md).
+- [ ] I can connect network threats and transfer checks to [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) and protected communication in [Security](../17%20Security/00%20Overview.md).

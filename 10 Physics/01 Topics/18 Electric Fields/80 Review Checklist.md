@@ -2,7 +2,7 @@
 title: Electric Fields Review Checklist
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/18 Electric Fields/00 Overview|Electric Fields]]"
+parent: "[Electric Fields](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -68,5 +68,5 @@ direction.
 - [ ] I can describe how charged particles move in a uniform electric field.
 - [ ] I can use Coulomb's law and point-charge field expressions.
 - [ ] I can explain potential gradient and equipotentials.
-- [ ] I can connect this topic to [[10 Physics/01 Topics/13 Gravitational Fields/00 Overview|Gravitational Fields]]
-      and [[10 Physics/01 Topics/19 Capacitance/00 Overview|Capacitance]].
+- [ ] I can connect this topic to [Gravitational Fields](../13%20Gravitational%20Fields/00%20Overview.md)
+      and [Capacitance](../19%20Capacitance/00%20Overview.md).

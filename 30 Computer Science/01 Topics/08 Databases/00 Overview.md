@@ -46,19 +46,19 @@ A database stores related data so it can be queried, kept consistent, and protec
 
 ## Learning Materials
 
-- [[30 Computer Science/01 Topics/08 Databases/10 Lecture Notes|Lecture Notes]]
-- [[30 Computer Science/01 Topics/08 Databases/10 Lecture Notes.zh-CN|中文讲义]]
-- [[30 Computer Science/01 Topics/08 Databases/20 Worked Examples|Worked Examples]]
-- [[30 Computer Science/01 Topics/08 Databases/30 Key Practice Problems|Key Practice Problems]]
-- [[30 Computer Science/01 Topics/08 Databases/31 Key Practice Solutions|Key Practice Solutions]]
-- [[30 Computer Science/01 Topics/08 Databases/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections and Extensions
 
-- [[30 Computer Science/01 Topics/06 Security, Privacy and Data Integrity/00 Overview|Security, Privacy and Data Integrity]] supplies the validation, verification, access rights, backup, and integrity ideas that reappear as DBMS features.
-- [[30 Computer Science/01 Topics/10 Data Types and Structures/00 Overview|Data Types and Structures]] shares the idea of structured records, fields, data types, and relationships between stored values.
-- [[30 Computer Science/01 Topics/12 Software Development/00 Overview|Software Development]] connects database design to larger system work: requirements, data modelling, testing, and maintenance.
-- [[30 Computer Science/01 Topics/07 Ethics and Ownership/00 Overview|Ethics and Ownership]] adds the responsibility side of storing personal data, controlling access, and respecting ownership.
+- [Security, Privacy and Data Integrity](../06%20Security%2C%20Privacy%20and%20Data%20Integrity/00%20Overview.md) supplies the validation, verification, access rights, backup, and integrity ideas that reappear as DBMS features.
+- [Data Types and Structures](../10%20Data%20Types%20and%20Structures/00%20Overview.md) shares the idea of structured records, fields, data types, and relationships between stored values.
+- [Software Development](../12%20Software%20Development/00%20Overview.md) connects database design to larger system work: requirements, data modelling, testing, and maintenance.
+- [Ethics and Ownership](../07%20Ethics%20and%20Ownership/00%20Overview.md) adds the responsibility side of storing personal data, controlling access, and respecting ownership.
 
 ## Common Traps
 

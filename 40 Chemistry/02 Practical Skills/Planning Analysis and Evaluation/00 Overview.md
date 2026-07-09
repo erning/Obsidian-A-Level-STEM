@@ -50,6 +50,6 @@ The Paper 5 skill areas are planning; analysis; drawing conclusions; and evaluat
 
 ## Connections
 
-- [[40 Chemistry/02 Practical Skills/Experimental Design and Safety/00 Overview|Experimental Design and Safety]]
-- [[40 Chemistry/02 Practical Skills/Measurement Observation and Calculation/00 Overview|Measurement, Observation and Calculation]]
-- [[40 Chemistry/04 Reference/Mathematical Tools for Chemistry|Mathematical Tools for Chemistry]]
+- [Experimental Design and Safety](../Experimental%20Design%20and%20Safety/00%20Overview.md)
+- [Measurement, Observation and Calculation](../Measurement%20Observation%20and%20Calculation/00%20Overview.md)
+- [Mathematical Tools for Chemistry](../../04%20Reference/Mathematical%20Tools%20for%20Chemistry.md)

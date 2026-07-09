@@ -14,10 +14,10 @@ When adding or changing an English term, check the relevant CAIE syllabus or cou
 
 ## Subject Terminology
 
-- [[80 References/Terminology - Physics|Terminology - Physics]]
-- [[80 References/Terminology - Mathematics and Further Mathematics|Terminology - Mathematics and Further Mathematics]]
-- [[80 References/Terminology - Computer Science|Terminology - Computer Science]]
-- [[80 References/Terminology - Chemistry|Terminology - Chemistry]]
+- [Terminology - Physics](Terminology%20-%20Physics.md)
+- [Terminology - Mathematics and Further Mathematics](Terminology%20-%20Mathematics%20and%20Further%20Mathematics.md)
+- [Terminology - Computer Science](Terminology%20-%20Computer%20Science.md)
+- [Terminology - Chemistry](Terminology%20-%20Chemistry.md)
 
 ## Maintenance Notes
 

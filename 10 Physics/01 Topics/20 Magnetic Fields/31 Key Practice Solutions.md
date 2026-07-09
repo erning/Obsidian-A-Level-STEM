@@ -2,7 +2,7 @@
 title: Magnetic Fields Key Practice Solutions
 subject: Physics
 syllabus: 9702
-parent: "[[10 Physics/01 Topics/20 Magnetic Fields/00 Overview|Magnetic Fields]]"
+parent: "[Magnetic Fields](00%20Overview.md)"
 status: active
 tags:
   - physics/9702/topic
@@ -13,7 +13,7 @@ tags:
 # Magnetic Fields Key Practice Solutions
 
 Use these solutions to check the setup, direction reasoning, units, and final
-answers for [[10 Physics/01 Topics/20 Magnetic Fields/30 Key Practice Problems|Key Practice Problems]].
+answers for [Key Practice Problems](30%20Key%20Practice%20Problems.md).
 
 ## A. Field Patterns and Conductor Forces
 

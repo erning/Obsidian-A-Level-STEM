@@ -46,17 +46,17 @@ Temperature is a state variable connected to thermal equilibrium, energy transfe
 
 ## Learning Materials
 
-- [[10 Physics/01 Topics/14 Temperature/10 Lecture Notes|Lecture Notes]]
-- [[10 Physics/01 Topics/14 Temperature/10 Lecture Notes.zh-CN|中文讲义]]
-- [[10 Physics/01 Topics/14 Temperature/20 Worked Examples|Worked Examples]]
-- [[10 Physics/01 Topics/14 Temperature/30 Key Practice Problems|Key Practice Problems]]
-- [[10 Physics/01 Topics/14 Temperature/31 Key Practice Solutions|Key Practice Solutions]]
-- [[10 Physics/01 Topics/14 Temperature/80 Review Checklist|Review Checklist]]
+- [Lecture Notes](10%20Lecture%20Notes.md)
+- [中文讲义](10%20Lecture%20Notes.zh-CN.md)
+- [Worked Examples](20%20Worked%20Examples.md)
+- [Key Practice Problems](30%20Key%20Practice%20Problems.md)
+- [Key Practice Solutions](31%20Key%20Practice%20Solutions.md)
+- [Review Checklist](80%20Review%20Checklist.md)
 
 ## Connections
 
-- [[10 Physics/01 Topics/15 Ideal Gases/00 Overview|Ideal Gases]]
-- [[10 Physics/01 Topics/16 Thermodynamics/00 Overview|Thermodynamics]]
+- [Ideal Gases](../15%20Ideal%20Gases/00%20Overview.md)
+- [Thermodynamics](../16%20Thermodynamics/00%20Overview.md)
 
 ## Common Traps
 
