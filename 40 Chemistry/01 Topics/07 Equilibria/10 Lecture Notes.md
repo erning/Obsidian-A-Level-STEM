@@ -252,7 +252,7 @@ Typical curve patterns:
 - weak acid with strong alkali: equivalence point above pH 7;
 - weak acid with weak alkali: smaller pH change near equivalence, so indicator choice is more difficult.
 
-## Worked-Thinking Routine
+## Working Routine
 
 For a Le Chatelier question, state the disturbance, identify which direction minimises it, then describe the new position. Mention rate only if a catalyst or temperature-rate point is being asked.
 
@@ -260,6 +260,13 @@ For a $K_c$ or $K_p$ question, write the expression first. Then calculate concen
 
 For an acid-base question, decide whether the question is about proton transfer, extent of dissociation, pH trend, neutralisation or indicator choice. Do not mix up strong with concentrated.
 
+## Common Mistakes
+
+- Saying equilibrium means the reaction has stopped; both rates continue but are equal.
+- Forgetting that only temperature changes the value of K.
+- Mixing up a shift in position with a change in K.
+- Writing solids or pure liquids into a Kc expression.
+- Confusing a strong acid with a concentrated acid.
 ## Quick Self-Checks
 
 - Can you define dynamic equilibrium without saying the reaction stops?
@@ -268,7 +275,7 @@ For an acid-base question, decide whether the question is about proton transfer,
 - Can you say which changes affect equilibrium position and which affect the value of $K$?
 - Can you explain the difference between a strong acid and a concentrated acid?
 
-## Nearby Notes
+## Connections
 
 - [[40 Chemistry/01 Topics/05 Chemical Energetics/10 Lecture Notes|Chemical Energetics]]
 - [[40 Chemistry/01 Topics/08 Reaction Kinetics/10 Lecture Notes|Reaction Kinetics]]

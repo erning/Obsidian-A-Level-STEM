@@ -1,5 +1,5 @@
 ---
-title: "16 Hydroxy Compounds - Lecture Notes zh-CN"
+title: "16 Hydroxy Compounds - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 16 Hydroxy Compounds - Lecture Notes zh-CN
+# 16 Hydroxy Compounds - Lecture Notes
 
-## 来源范围
+## 范围
 
 本笔记对应 CAIE Chemistry 9701 AS Level Topic 16.1：alcohols。不声称与任何 Chemistry coursebook 对齐。
 

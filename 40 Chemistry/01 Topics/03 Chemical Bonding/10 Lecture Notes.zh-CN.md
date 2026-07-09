@@ -214,3 +214,9 @@ Dot-and-cross diagrams 用不同符号表示不同原子提供的外层电子。
 - expanded octet 或奇电子粒子。
 
 画离子图时要标出离子电荷。画共价图时，不只画成键电子对，也要画出影响形状或配位键的孤电子对。
+
+## 连接
+
+- [[40 Chemistry/01 Topics/01 Atomic Structure/10 Lecture Notes|Atomic Structure]] supplies electronic configuration and orbital ideas.
+- [[40 Chemistry/01 Topics/04 States of Matter/10 Lecture Notes|States of Matter]] applies bonding and intermolecular forces to structures and properties.
+- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]] uses $\sigma$ and $\pi$ bonding in organic molecules.

@@ -200,3 +200,10 @@ The numerical value depends on the polarities of the solute and solvents. A pola
 - Omitting powers in $K_{sp}$ expressions.
 - Using concentrations in a buffer ratio when moles after reaction are required first.
 - Reversing the definition of $K_{pc}$ without noticing.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/07 Equilibria/00 Overview|AS Equilibria]]
+- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|A Level Chemical Energetics]]
+- [[40 Chemistry/01 Topics/26 Reaction Kinetics/00 Overview|A Level Reaction Kinetics]]
+- [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|A Level Electrochemistry]]

@@ -100,6 +100,11 @@ Some polymers can be degraded by the action of light. This breaks bonds or creat
 
 Polyesters and polyamides are biodegradable by acidic and alkaline hydrolysis because their ester and amide links can be broken. Hydrolysis cuts the chain at these functional groups. This is why the chemical link in the backbone matters more than the word "polymer" itself.
 
+## Working Routine
+
+- Decide addition or condensation from the functional groups: alkenes give addition; diols, diacids and diamines give condensation.
+- Draw repeat units by cutting out the small molecule (water or HCl) and adding continuation bonds.
+- For biodegradability, look for ester or amide links in the backbone that can be hydrolysed.
 ## Common Mistakes
 
 - Calling any polymer with two monomers an addition polymer.
@@ -107,3 +112,9 @@ Polyesters and polyamides are biodegradable by acidic and alkaline hydrolysis be
 - Drawing repeat units without continuation bonds.
 - Cutting a repeat unit at the wrong place and producing impossible monomers.
 - Assuming all polymers biodegrade at similar rates.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/20 Polymerisation/00 Overview|AS Polymerisation]]
+- [[40 Chemistry/01 Topics/36 Organic Synthesis/00 Overview|A Level Organic Synthesis]]
+- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|A Level Carboxylic Acids and Derivatives]]

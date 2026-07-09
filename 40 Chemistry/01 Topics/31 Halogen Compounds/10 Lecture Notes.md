@@ -64,9 +64,20 @@ This topic depends on the distinction from Topic 30.
 
 The products look similar if written too quickly, so always identify whether the halogen is directly attached to the ring.
 
+## Working Routine
+
+- First decide whether the halogen is attached directly to the ring or to a side-chain carbon.
+- Explain the low reactivity of halogenoarenes through the partial double-bond character of the aryl C-X bond.
+- Produce halogenoarenes by electrophilic substitution with a Lewis acid catalyst.
 ## Common Mistakes
 
 - Calling $\ce{C6H5CH2Cl}$ a halogenoarene. It is an aryl-substituted halogenoalkane because chlorine is on the side-chain.
 - Applying AS $S_N1$ or $S_N2$ mechanisms directly to chlorobenzene.
 - Explaining low reactivity only by saying "benzene is stable" without discussing the aryl $\ce{C-Cl}$ bond.
 - Forgetting the Lewis acid catalyst for producing halogenoarenes.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|AS Halogen Compounds]]
+- [[40 Chemistry/01 Topics/30 Hydrocarbons/00 Overview|A Level Hydrocarbons]]
+- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|A Level Carboxylic Acids and Derivatives]]

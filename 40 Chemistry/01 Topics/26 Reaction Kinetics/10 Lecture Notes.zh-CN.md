@@ -1,5 +1,5 @@
 ---
-title: 26 Reaction Kinetics - Lecture Notes.zh-CN
+title: "26 Reaction Kinetics - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/physical-chemistry
 ---
 
-# 26 Reaction Kinetics - Lecture Notes.zh-CN
+# 26 Reaction Kinetics - Lecture Notes
 
-## 来源范围
+## 范围
 
 本笔记对应 CAIE Chemistry 9701 2025-2027 syllabus 的 A Level subject content 26.1-26.2：simple rate equations、orders of reaction、rate constants、half-life、mechanisms、rate-determining step、intermediates、temperature effects，以及 homogeneous and heterogeneous catalysts。不声称对齐任何 Chemistry coursebook。
 

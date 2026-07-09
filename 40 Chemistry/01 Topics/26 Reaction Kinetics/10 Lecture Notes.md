@@ -178,3 +178,9 @@ through steps involving $\ce{Fe^{2+}}$ and $\ce{Fe^{3+}}$ being interconverted.
 - Treating half-life as concentration-independent for every reaction.
 - Calling an intermediate a catalyst when it is not regenerated.
 - Saying a catalyst changes the equilibrium yield; it changes rate, not the equilibrium position.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/08 Reaction Kinetics/00 Overview|AS Reaction Kinetics]]
+- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|A Level Equilibria]]
+- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|A Level Chemical Energetics]]

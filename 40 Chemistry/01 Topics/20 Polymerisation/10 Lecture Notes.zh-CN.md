@@ -1,5 +1,5 @@
 ---
-title: "20 Polymerisation - 中文讲义"
+title: "20 Polymerisation - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,7 +9,7 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 20 Polymerisation - 中文讲义
+# 20 Polymerisation - Lecture Notes
 
 ## 范围
 
@@ -138,3 +138,9 @@ PVC 含有氯，燃烧时可能产生酸性、有害的含氯气体，例如 hyd
 3. $\ce{-CH2-CH(CH3)-}$ 对应的单体是什么？
 4. 为什么很多 poly(alkene)s 不容易被生物降解？
 5. 为什么燃烧 PVC 可能有害？
+
+## 连接
+
+- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]]
+- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]]
+- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|Analytical Techniques]]

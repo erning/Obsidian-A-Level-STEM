@@ -1,5 +1,5 @@
 ---
-title: "36 Organic Synthesis - 中文讲义"
+title: "36 Organic Synthesis - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 36 Organic Synthesis - 中文讲义
+# 36 Organic Synthesis - Lecture Notes
 
-## 来源范围
+## 范围
 
 本讲义依据 CAIE Chemistry 9701 A Level Topic 36.1 Organic synthesis。这里不声称对齐任何教材。
 

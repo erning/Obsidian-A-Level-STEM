@@ -1,5 +1,5 @@
 ---
-title: "29 An Introduction to A Level Organic Chemistry - 中文讲义"
+title: "29 An Introduction to A Level Organic Chemistry - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 29 An Introduction to A Level Organic Chemistry - 中文讲义
+# 29 An Introduction to A Level Organic Chemistry - Lecture Notes
 
-## 来源范围
+## 范围
 
 本讲义依据 CAIE Chemistry 9701 A Level Topic 29：有机物的式、官能团和命名，特征有机反应术语，芳香族分子的形状，以及旋光异构。这里不声称对齐任何教材。
 

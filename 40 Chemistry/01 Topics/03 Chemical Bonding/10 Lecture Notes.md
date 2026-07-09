@@ -219,6 +219,19 @@ They can show:
 
 For ionic diagrams, show charges on ions. For covalent diagrams, show lone pairs as well as bonding pairs when they matter for shape or coordinate bonding.
 
+## Working Routine
+
+- For shape, count the electron regions around the central atom, note any lone pairs, then apply VSEPR.
+- For polarity, check each bond's polarity, then check whether the molecular shape cancels the dipoles.
+- For intermolecular forces, identify the functional groups and rank hydrogen bonding above permanent-dipole and London forces.
+- In dot-and-cross diagrams, include lone pairs whenever they affect shape or dative bonding.
+## Common Mistakes
+
+- Calling methane polar; the tetrahedral shape cancels the tiny C-H bond dipoles.
+- Forgetting that London dispersion forces exist in all molecules, including polar ones.
+- Treating hydrogen bonding as separate from permanent dipole forces; it is a special case of them.
+- Counting a double bond as two regions in VSEPR; it counts as one.
+- Omitting lone pairs when a dot-and-cross diagram determines shape.
 ## Connections
 
 - [[40 Chemistry/01 Topics/01 Atomic Structure/10 Lecture Notes|Atomic Structure]] supplies electronic configuration and orbital ideas.

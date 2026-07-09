@@ -1,5 +1,5 @@
 ---
-title: "Group 17 - Lecture Notes zh-CN"
+title: "Group 17 - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 topic: "11 Group 17"
@@ -10,9 +10,9 @@ tags:
   - zh-CN
 ---
 
-# Group 17 - Lecture Notes zh-CN
+# Group 17 - Lecture Notes
 
-## 学习范围
+## 范围
 
 本节对应 CAIE Chemistry 9701 AS Level 第 11 节 Group 17。内容包括 chlorine、bromine、iodine 的物理性质；卤素的反应性；hydrogen halides；halide ion 与银离子、氨水、浓硫酸的反应；chlorine 与氢氧化钠和水的反应。这里不声称与任何 Chemistry coursebook 对齐。
 

@@ -180,6 +180,20 @@ For ethanol, the group is $\ce{CH3CH(OH)-H}$, so ethanol gives a positive test. 
 
 Alcohols are less acidic than water. Sodium reacts with both water and alcohols, but alcohols do not react significantly with aqueous sodium hydroxide. Alkyl groups tend to donate electron density and make the alkoxide ion, $\ce{RO-}$, slightly less stable than hydroxide, $\ce{OH-}$.
 
-## Study Routine
+## Working Routine
 
 For alcohol reactions, identify the alcohol class first. Then choose conditions: distillation or reflux for primary alcohol oxidation, aqueous or ethanolic conditions for links to halogenoalkanes, and concentrated acid or heated catalyst for dehydration.
+
+## Common Mistakes
+
+- Using distillation when the target is a carboxylic acid; reflux is required.
+- Using NaBH4 to reduce a carboxylic acid; LiAlH4 is required.
+- Claiming tertiary alcohols oxidise under these conditions; they do not.
+- Forgetting that the tri-iodomethane test needs a CH3CH(OH)- group.
+- Writing the reaction with sodium without showing hydrogen gas.
+## Connections
+
+- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]]
+- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]]
+- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]]
+- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]]

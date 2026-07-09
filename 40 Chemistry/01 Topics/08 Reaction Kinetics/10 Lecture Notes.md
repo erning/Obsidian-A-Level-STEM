@@ -162,7 +162,7 @@ Good experimental design changes one variable at a time. For example, to test co
 
 Repeats help identify anomalous times. Graphs help show whether rate changes during a reaction. Rates often decrease over time because reactant concentrations fall, causing fewer effective collisions per second.
 
-## Worked-Thinking Routine
+## Working Routine
 
 For a rate explanation, ask: did collision frequency change, did the fraction of particles above $E_A$ change, or did the mechanism change?
 
@@ -170,6 +170,13 @@ For a data question, identify the measured quantity, calculate change divided by
 
 For a catalyst question, say "different mechanism with lower activation energy" and then link this to the Boltzmann distribution or pathway diagram.
 
+## Common Mistakes
+
+- Explaining a rate increase by more collisions only; the key is more frequent effective collisions.
+- Saying a catalyst is used up; it is regenerated.
+- Claiming a catalyst changes the equilibrium yield; it changes rate only.
+- Stopping the temperature explanation at particles moving faster; the shift in the fraction above the activation energy matters more.
+- Drawing the Boltzmann curve not starting at the origin.
 ## Quick Self-Checks
 
 - Can you explain why rate usually decreases during a reaction?
@@ -178,7 +185,7 @@ For a catalyst question, say "different mechanism with lower activation energy" 
 - Can you show why a catalyst changes $E_A$ but not $\Delta H$?
 - Can you distinguish homogeneous and heterogeneous catalysts?
 
-## Nearby Notes
+## Connections
 
 - [[40 Chemistry/01 Topics/05 Chemical Energetics/10 Lecture Notes|Chemical Energetics]]
 - [[40 Chemistry/01 Topics/07 Equilibria/10 Lecture Notes|Equilibria]]

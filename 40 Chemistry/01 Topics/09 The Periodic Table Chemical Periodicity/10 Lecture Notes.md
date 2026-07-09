@@ -273,6 +273,18 @@ When given data for an unknown element, ask:
 
 For example, an element whose oxide is amphoteric and whose chloride gives an acidic solution is likely to be near the metal to non-metal boundary. In Period 3, that points strongly towards aluminium.
 
+## Working Routine
+
+- Name the trend, then link it to structure and bonding, or to nuclear charge and shielding.
+- For an unknown element, classify its oxide (basic, amphoteric or acidic) and the behaviour of its chloride with water.
+- Use the exact products the syllabus specifies, such as P4O10 and SO2.
+## Common Mistakes
+
+- Writing the formula of phosphorus(V) oxide as PO5 or P2O5 instead of P4O10.
+- Forgetting that aluminium oxide and hydroxide are amphoteric.
+- Saying silicon(IV) oxide reacts with water; it does not.
+- Explaining the melting-point trend without naming the structure change from metallic to giant covalent to simple molecular.
+- Giving neutral pH for the covalent chlorides SiCl4 and PCl5, which hydrolyse to acidic solutions.
 ## Quick Self-Checks
 
 - Can you explain why atomic radius decreases across Period 3 without saying shielding increases a lot?
@@ -280,3 +292,10 @@ For example, an element whose oxide is amphoteric and whose chloride gives an ac
 - Can you write equations for the specified reactions with oxygen and chlorine?
 - Can you classify $\ce{Na2O}$, $\ce{MgO}$, $\ce{Al2O3}$, $\ce{P4O10}$, $\ce{SO2}$ and $\ce{SO3}$ as basic, amphoteric or acidic?
 - Can you predict pH after $\ce{SiCl4}$ or $\ce{PCl5}$ is added to water?
+
+## Connections
+
+- [[40 Chemistry/01 Topics/01 Atomic Structure/00 Overview|Atomic Structure]]
+- [[40 Chemistry/01 Topics/03 Chemical Bonding/00 Overview|Chemical Bonding]]
+- [[40 Chemistry/01 Topics/04 States of Matter/00 Overview|States of Matter]]
+- [[40 Chemistry/01 Topics/10 Group 2/00 Overview|Group 2]]

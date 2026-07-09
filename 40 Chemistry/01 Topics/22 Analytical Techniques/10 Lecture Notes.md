@@ -219,6 +219,12 @@ A good structure-deduction answer follows this order:
 
 If two structures fit one piece of data, keep both until another clue separates them.
 
+## Working Routine
+
+- Start from the molecular ion peak for the molecular mass.
+- Use the [M+1]+ peak to estimate the carbon count and the [M+2]+ peak to test for chlorine or bromine.
+- Use infrared data to find functional groups, then confirm them with chemical tests.
+- Combine every clue before proposing a structure.
 ## Common Mistakes
 
 - Treating one infrared absorption as complete proof of a structure.

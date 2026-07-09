@@ -147,6 +147,19 @@ Isomers have the same molecular formula but different arrangements of atoms.
 
 **Optical isomerism** arises when a molecule has a chiral centre, usually a carbon atom attached to four different groups. The two optical isomers are called enantiomers. AS candidates should be able to identify chiral centres in structural formulae, including cyclic compounds, and should know that molecules can contain more than one chiral centre. Meso compounds and terms such as diastereoisomer are not required.
 
-## Study Routine
+## Working Routine
 
 For any new organic molecule, first identify the formula type, then the functional group, then the family name, then possible isomerism. For any reaction, identify the functional group that changes, the reagent and conditions, the reaction type, and the mechanism class if one is specified in the syllabus.
+
+## Common Mistakes
+
+- Treating R and R' as necessarily different; they may be the same.
+- Naming an ester with the acid part first; the alkyl group from the alcohol is named first.
+- Calling a carbon chiral without checking that its four attached groups are all different.
+- Confusing homolytic with heterolytic fission when assigning radicals and ions.
+- Forgetting that cis/trans isomerism needs each double-bond carbon to bear two different groups.
+## Connections
+
+- [[40 Chemistry/01 Topics/03 Chemical Bonding/00 Overview|Chemical Bonding]]
+- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]]
+- [[40 Chemistry/01 Topics/04 Reference/Organic Structures and Nomenclature/00 Overview|Organic Structures and Nomenclature]]

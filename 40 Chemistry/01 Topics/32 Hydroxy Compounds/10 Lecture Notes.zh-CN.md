@@ -1,5 +1,5 @@
 ---
-title: "32 Hydroxy Compounds - 中文讲义"
+title: "32 Hydroxy Compounds - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 32 Hydroxy Compounds - 中文讲义
+# 32 Hydroxy Compounds - Lecture Notes
 
-## 来源范围
+## 范围
 
 本讲义依据 CAIE Chemistry 9701 A Level Topic 32：32.1 Alcohols 和 32.2 Phenol。这里不声称对齐任何教材。
 

@@ -184,6 +184,11 @@ To predict movement:
 3. Above the isoelectric point, the species is overall negative.
 4. At the isoelectric point, there is no overall movement.
 
+## Working Routine
+
+- Rank basicity by the availability of the nitrogen lone pair: ethylamine above ammonia above phenylamine above amides.
+- Use diazonium chemistry below 10 degrees Celsius, then couple with phenol to make an azo dye.
+- For amino acids, decide the charge at the stated pH before predicting movement in electrophoresis.
 ## Common Mistakes
 
 - Assuming amides are as basic as amines.
@@ -191,3 +196,10 @@ To predict movement:
 - Missing the below $10\,^\circ\mathrm{C}$ condition for diazonium salt formation.
 - Omitting the $\ce{NaOH(aq)}$ step after reducing nitrobenzene with tin and hydrochloric acid.
 - Predicting amino acid movement in electrophoresis without first deciding the charge at the stated pH.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|AS Nitrogen Compounds]]
+- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|A Level Carboxylic Acids and Derivatives]]
+- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/00 Overview|A Level Hydroxy Compounds]]
+- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/00 Overview|An Introduction to A Level Organic Chemistry]]

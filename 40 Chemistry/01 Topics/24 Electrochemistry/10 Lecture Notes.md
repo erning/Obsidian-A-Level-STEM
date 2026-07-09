@@ -71,7 +71,7 @@ An electrolytic method can determine the Avogadro constant by measuring current,
 
 ## Standard Electrode Potentials
 
-A **standard electrode potential**, $E^\circ$, is a standard reduction potential measured relative to the standard hydrogen electrode. It is measured under standard conditions, usually $298\ \text{K}$, $1\ \text{mol dm}^{-3}$ aqueous ions, and $100\ \text{kPa}$ gases.
+A **standard electrode potential**, $E^\circ$, is a standard reduction potential measured relative to the standard hydrogen electrode. It is measured under standard conditions, usually $298\ \text{K}$, $1\ \text{mol dm}^{-3}$ aqueous ions, and $101\ \text{kPa}$ gases.
 
 The standard hydrogen electrode has:
 
@@ -197,3 +197,10 @@ where $n$ is the number of moles of electrons transferred in the balanced cell r
 - Reversing a half-equation but mishandling the sign when calculating a cell potential.
 - Multiplying $E^\circ$ values by stoichiometric coefficients.
 - Applying standard electrode potentials to non-standard concentrations without comment.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/06 Electrochemistry/00 Overview|AS Electrochemistry]]
+- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|A Level Chemical Energetics]]
+- [[40 Chemistry/01 Topics/28 Chemistry of Transition Elements/00 Overview|Chemistry of Transition Elements]]
+- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|A Level Equilibria]]

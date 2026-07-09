@@ -1,5 +1,5 @@
 ---
-title: "22 Analytical Techniques - 中文讲义"
+title: "22 Analytical Techniques - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,7 +9,7 @@ tags:
   - chemistry/9701/analysis
 ---
 
-# 22 Analytical Techniques - 中文讲义
+# 22 Analytical Techniques - Lecture Notes
 
 ## 范围
 
@@ -210,3 +210,12 @@ $$
 4. Fehling's reagent 出现橙红色沉淀说明什么？
 5. 为什么 qualitative analysis 中 “no change” 也要记录？
 6. $R_f$ 比较的是哪两个距离？
+
+## 连接
+
+- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]]
+- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]]
+- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|Nitrogen Compounds]]
+- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]]
+- [[40 Chemistry/02 Practical Skills/Qualitative Analysis/00 Overview|Qualitative Analysis]]
+- [[40 Chemistry/04 Reference/Data and Periodic Table|Data and Periodic Table]]

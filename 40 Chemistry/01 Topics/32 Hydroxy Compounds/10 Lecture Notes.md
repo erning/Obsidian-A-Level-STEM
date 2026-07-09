@@ -99,6 +99,11 @@ Other phenolic compounds, such as naphthol, contain $\ce{-OH}$ directly attached
 
 The exact product positions depend on the aromatic system, but the reasoning starts from the same idea: the phenolic $\ce{-OH}$ group interacts with the aromatic $\pi$ system.
 
+## Working Routine
+
+- Keep phenol separate from alcohols: its -OH is bonded directly to an aromatic ring.
+- Explain phenol's acidity through the stabilisation of the phenoxide ion by delocalisation into the ring.
+- Choose milder conditions for phenol's nitration and bromination than for benzene, because the -OH group activates the ring.
 ## Common Mistakes
 
 - Treating phenol as a normal alcohol in every reaction.
@@ -106,3 +111,10 @@ The exact product positions depend on the aromatic system, but the reasoning sta
 - Using concentrated acid nitration conditions for phenol when dilute $\ce{HNO3(aq)}$ at room temperature is in the syllabus.
 - Forgetting that phenol reacts with bromine water without the Lewis acid catalyst needed for benzene.
 - Missing the 2-, 4- and 6-directing effect of the phenolic $\ce{-OH}$ group.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|AS Hydroxy Compounds]]
+- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|A Level Carboxylic Acids and Derivatives]]
+- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/00 Overview|A Level Nitrogen Compounds]]
+- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/00 Overview|An Introduction to A Level Organic Chemistry]]

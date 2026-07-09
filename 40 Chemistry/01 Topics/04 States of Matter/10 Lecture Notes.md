@@ -156,6 +156,18 @@ Typical patterns:
 
 Always explain the property using particles, structure and attraction. For example, "high melting point" is not enough; say which attractions require much energy to overcome.
 
+## Working Routine
+
+- For ideal-gas calculations, convert to Pa, m^3 and K before using pV = nRT.
+- To deduce structure from properties, ask the four questions: melting point, solid conductivity, molten or aqueous conductivity, and solubility.
+- To find Mr from gas data, first obtain n from pV = nRT, then use M = m/n.
+## Common Mistakes
+
+- Using kPa or cm3 directly in pV = nRT without converting to Pa and m3.
+- Forgetting to convert degrees Celsius to kelvin.
+- Saying simple molecular substances have low melting points because covalent bonds are weak; the covalent bonds are strong, the intermolecular forces are weak.
+- Calling C60 a giant structure; it is simple molecular.
+- Explaining graphite's conductivity without linking it to delocalised electrons in the layers.
 ## Connections
 
 - [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/10 Lecture Notes|Atoms, Molecules and Stoichiometry]] supplies amount of substance for gas calculations.

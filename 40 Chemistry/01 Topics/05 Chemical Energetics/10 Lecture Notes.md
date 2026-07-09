@@ -153,7 +153,7 @@ $$
 
 This sign order is different from the formation formula because the arrows in the cycle usually point from each substance down to the common combustion products. If unsure, draw the cycle and follow arrows rather than relying on memory.
 
-## Worked-Thinking Routine
+## Working Routine
 
 When solving an energetics problem, use this order.
 
@@ -181,7 +181,7 @@ Do not treat bond energy calculations as perfect experimental values when averag
 - Can you decide whether $n$ in $\Delta H = -mc\Delta T/n$ is the amount of fuel, water formed or limiting reactant?
 - Can you build the same Hess calculation by adding equations and by drawing an energy cycle?
 
-## Nearby Notes
+## Connections
 
 - [[40 Chemistry/01 Topics/08 Reaction Kinetics/10 Lecture Notes|Reaction Kinetics]]
 - [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|A Level Chemical Energetics]]

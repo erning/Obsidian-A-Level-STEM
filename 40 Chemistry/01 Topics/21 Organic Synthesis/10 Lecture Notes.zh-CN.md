@@ -1,5 +1,5 @@
 ---
-title: "21 Organic Synthesis - 中文讲义"
+title: "21 Organic Synthesis - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,7 +9,7 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 21 Organic Synthesis - 中文讲义
+# 21 Organic Synthesis - Lecture Notes
 
 ## 范围
 
@@ -146,3 +146,15 @@ tags:
 3. 哪些 AS 反应会让碳数增加 1？
 4. alcohol 氧化时，什么时候写 distillation，什么时候写 reflux？
 5. 合成路线的每一步必须包含哪些信息？
+
+## 连接
+
+- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]]
+- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]]
+- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]]
+- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]]
+- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]]
+- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]]
+- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|Nitrogen Compounds]]
+- [[40 Chemistry/01 Topics/20 Polymerisation/00 Overview|Polymerisation]]
+- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|Analytical Techniques]]

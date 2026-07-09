@@ -131,6 +131,11 @@ For example, poly(chloroethene), PVC, contains chlorine. Burning PVC can produce
 
 Good answers should connect the disposal problem to chemical structure. Poly(alkene)s have strong covalent bonds and usually lack easily hydrolysed functional groups, so they persist in the environment.
 
+## Working Routine
+
+- For a repeat unit, change C=C into C-C, keep all side groups, then add brackets, continuation bonds and n.
+- To recover the monomer, cut one repeat unit and restore the double bond.
+- For disposal, link non-biodegradability to the strong C-C backbone and the absence of hydrolysable groups.
 ## Common Mistakes
 
 - Leaving the $\ce{C=C}$ double bond in the addition polymer repeat unit.

@@ -179,7 +179,7 @@ Successive ionisation energies always increase for the same element because each
 
 For example, if the large jump is between the second and third ionisation energies, the atom has two outer-shell electrons and is in Group 2.
 
-## Study Routine
+## Working Routine
 
 For particle-count questions, write $Z$, $A$, charge, then calculate protons, neutrons and electrons in that order.
 
@@ -187,6 +187,13 @@ For electronic configurations, count electrons first, fill in the order $1s$, $2
 
 For ionisation energy explanations, name the trend and then identify the factor that changes. Avoid saying only "it is harder to remove"; explain why the attraction is stronger or weaker.
 
+## Common Mistakes
+
+- Writing an ionisation-energy equation without the (g) state symbol.
+- Saying shielding increases a lot across a period; it changes little because electrons enter the same shell.
+- Swapping the two dips: the Group 2 to Group 13 drop comes from the higher-energy p sub-shell, and the Group 15 to Group 16 drop from spin-pair repulsion.
+- Removing 3d electrons before 4s when forming a transition metal ion.
+- Quoting ionic-radius trends without considering the ion's charge.
 ## Connections
 
 - [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/10 Lecture Notes|Atoms, Molecules and Stoichiometry]] uses isotope and relative mass ideas.

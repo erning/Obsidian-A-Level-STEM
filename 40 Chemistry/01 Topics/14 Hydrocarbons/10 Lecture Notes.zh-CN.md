@@ -1,5 +1,5 @@
 ---
-title: "14 Hydrocarbons - Lecture Notes zh-CN"
+title: "14 Hydrocarbons - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 14 Hydrocarbons - Lecture Notes zh-CN
+# 14 Hydrocarbons - Lecture Notes
 
-## 来源范围
+## 范围
 
 本笔记对应 CAIE Chemistry 9701 AS Level Topic 14：14.1 alkanes 和 14.2 alkenes。不声称与任何 Chemistry coursebook 对齐。
 

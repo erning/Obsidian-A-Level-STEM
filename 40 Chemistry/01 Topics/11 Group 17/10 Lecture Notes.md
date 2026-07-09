@@ -264,6 +264,18 @@ $$
 \ce{Cl2(aq) + 2OH-(aq) -> Cl-(aq) + ClO-(aq) + H2O(l)}
 $$
 
+## Working Routine
+
+- For oxidising and reducing strength, use the trends Cl2 > Br2 > I2 (oxidising) and I- > Br- > Cl- (reducing).
+- To identify a halide, acidify with dilute nitric acid, add silver nitrate, note the precipitate colour, then test its solubility in ammonia.
+- For chlorine disproportionation, assign oxidation numbers to every chlorine-containing species.
+## Common Mistakes
+
+- Reversing the oxidising-strength trend; chlorine is the strongest oxidising agent, not iodine.
+- Adding silver nitrate without first acidifying, so carbonate or hydroxide ions interfere.
+- Forgetting that iodide can reduce concentrated sulfuric acid as far as hydrogen sulfide or sulfur.
+- Identifying a halogen from its colour alone without confirmatory tests.
+- Failing to recognise the reaction of chlorine with sodium hydroxide as disproportionation.
 ## Quick Self-Checks
 
 - Can you explain why iodine is less volatile than chlorine?
@@ -273,3 +285,9 @@ $$
 - Can you identify $\ce{Cl-}$, $\ce{Br-}$ and $\ce{I-}$ using silver ions and aqueous ammonia?
 - Can you write balanced equations for the reactions of halides with concentrated sulfuric acid?
 - Can you use oxidation numbers to prove that chlorine disproportionates in sodium hydroxide?
+
+## Connections
+
+- [[40 Chemistry/01 Topics/06 Electrochemistry/00 Overview|Electrochemistry]]
+- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]]
+- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]]

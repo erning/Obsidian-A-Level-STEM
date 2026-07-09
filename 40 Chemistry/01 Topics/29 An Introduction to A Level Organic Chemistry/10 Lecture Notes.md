@@ -124,3 +124,9 @@ When faced with a new A Level organic molecule:
 - Using addition language for arene reactions that actually proceed by electrophilic substitution.
 - Forgetting that amides and amines have different functional groups and very different basicity.
 - Translating old AS rules directly into A Level cases without checking the new bonding environment.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]]
+- [[40 Chemistry/01 Topics/30 Hydrocarbons/00 Overview|A Level Hydrocarbons]]
+- [[40 Chemistry/01 Topics/04 Reference/Organic Structures and Nomenclature/00 Overview|Organic Structures and Nomenclature]]

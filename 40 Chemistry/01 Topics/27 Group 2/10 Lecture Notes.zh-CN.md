@@ -1,5 +1,5 @@
 ---
-title: 27 Group 2 - Lecture Notes.zh-CN
+title: "27 Group 2 - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,7 +9,7 @@ tags:
   - chemistry/9701/inorganic-chemistry
 ---
 
-# 27 Group 2 - Lecture Notes.zh-CN
+# 27 Group 2 - Lecture Notes
 
 ## 范围
 
@@ -194,3 +194,9 @@ $$
 - 你能分别说出 $\ce{M(OH)2}$ 和 $\ce{MSO4}$ 的溶解度趋势吗？
 - 你能用 lattice energy 和 hydration enthalpy 解释这两个相反趋势吗？
 - 你能把观察、趋势和解释分开写吗？
+
+## 连接
+
+- [[40 Chemistry/01 Topics/10 Group 2/00 Overview|AS Group 2]]
+- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|Chemical Energetics]]
+- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]]

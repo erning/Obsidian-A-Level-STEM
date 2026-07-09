@@ -1,5 +1,5 @@
 ---
-title: "Group 2 - Lecture Notes zh-CN"
+title: "Group 2 - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 topic: "10 Group 2"
@@ -10,9 +10,9 @@ tags:
   - zh-CN
 ---
 
-# Group 2 - Lecture Notes zh-CN
+# Group 2 - Lecture Notes
 
-## 学习范围
+## 范围
 
 本节对应 CAIE Chemistry 9701 AS Level 第 10 节 Group 2。范围是 magnesium 到 barium 及其化合物：金属与氧气、水、稀盐酸和稀硫酸反应；氧化物、氢氧化物和碳酸盐与水和稀酸反应；硝酸盐和碳酸盐的热分解；氢氧化物和硫酸盐的溶解度趋势。这里不声称与任何 Chemistry coursebook 对齐。
 

@@ -239,6 +239,19 @@ CAIE expects answers to reflect the significant figures given or requested. Keep
 
 Do not lose significant figures unnecessarily in intermediate steps. Do not report more significant figures than the data justifies.
 
+## Working Routine
+
+- Convert every quantity to moles before using the equation ratio.
+- Find the limiting reagent by dividing each mole amount by its coefficient; the smallest value is limiting.
+- At constant temperature and pressure, use mole ratios directly as gas volume ratios.
+- Carry units through every line and round only at the end to the correct number of significant figures.
+## Common Mistakes
+
+- Using mass ratios instead of mole ratios.
+- Forgetting to convert cm3 to dm3 (or m3) before dividing.
+- Giving an answer to more significant figures than the data justify.
+- Calculating from the excess reagent instead of the limiting reagent.
+- Leaving spectator ions in an ionic equation.
 ## Connections
 
 - [[40 Chemistry/01 Topics/01 Atomic Structure/10 Lecture Notes|Atomic Structure]] supplies isotopes and relative mass ideas.

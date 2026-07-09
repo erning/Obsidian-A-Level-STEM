@@ -1,5 +1,5 @@
 ---
-title: "15 Halogen Compounds - Lecture Notes zh-CN"
+title: "15 Halogen Compounds - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 15 Halogen Compounds - Lecture Notes zh-CN
+# 15 Halogen Compounds - Lecture Notes
 
-## 来源范围
+## 范围
 
 本笔记对应 CAIE Chemistry 9701 AS Level Topic 15.1：halogenoalkanes。不声称与任何 Chemistry coursebook 对齐。
 

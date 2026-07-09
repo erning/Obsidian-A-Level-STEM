@@ -98,6 +98,12 @@ Good structure deduction uses all data.
 
 If two structures fit one piece of evidence, keep both possibilities until another piece distinguishes them.
 
+## Working Routine
+
+- Use chromatography to judge purity or mixture composition before spectroscopy.
+- Count carbon environments from the carbon-13 NMR spectrum, allowing for symmetry.
+- In proton NMR, combine chemical shift, integration, the n+1 splitting and D2O exchange.
+- Keep two candidate structures until a further clue separates them.
 ## Common Mistakes
 
 - Confusing $R_f$ value with retention time.
@@ -105,3 +111,9 @@ If two structures fit one piece of evidence, keep both possibilities until anoth
 - Using carbon-13 NMR peak heights as if they gave carbon ratios.
 - Applying the $n+1$ rule without checking adjacent equivalent protons.
 - Forgetting that $\ce{O-H}$ and $\ce{N-H}$ protons can exchange with $\ce{D2O}$.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|AS Analytical Techniques]]
+- [[40 Chemistry/01 Topics/36 Organic Synthesis/00 Overview|A Level Organic Synthesis]]
+- [[40 Chemistry/01 Topics/04 Reference/Data and Periodic Table/00 Overview|Data and Periodic Table]]

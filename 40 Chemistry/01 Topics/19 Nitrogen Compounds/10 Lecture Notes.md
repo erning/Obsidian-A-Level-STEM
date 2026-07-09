@@ -162,6 +162,11 @@ Nitrogen compounds can be recognised using structure and spectroscopy evidence:
 
 Spectral evidence is strongest when it fits the reaction route and the molecular formula. A $\ce{C#N}$ absorption alone suggests a nitrile group, but the structure still has to match carbon count and other data.
 
+## Working Routine
+
+- To lengthen the carbon chain, convert a halogenoalkane to a nitrile with KCN, then hydrolyse.
+- To make a primary amine, react a halogenoalkane with ammonia in ethanol under pressure.
+- To make a hydroxynitrile, react an aldehyde or ketone with HCN using KCN as catalyst.
 ## Common Mistakes
 
 - Forgetting that $\ce{KCN}$ substitution increases the carbon chain length by one.

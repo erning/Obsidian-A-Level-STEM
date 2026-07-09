@@ -1,5 +1,5 @@
 ---
-title: "17 Carbonyl Compounds - Lecture Notes zh-CN"
+title: "17 Carbonyl Compounds - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 17 Carbonyl Compounds - Lecture Notes zh-CN
+# 17 Carbonyl Compounds - Lecture Notes
 
-## 来源范围
+## 范围
 
 本笔记对应 CAIE Chemistry 9701 AS Level Topic 17.1：aldehydes and ketones。不声称与任何 Chemistry coursebook 对齐。
 

@@ -1,5 +1,5 @@
 ---
-title: 24 Electrochemistry - Lecture Notes.zh-CN
+title: "24 Electrochemistry - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/physical-chemistry
 ---
 
-# 24 Electrochemistry - Lecture Notes.zh-CN
+# 24 Electrochemistry - Lecture Notes
 
-## 来源范围
+## 范围
 
 本笔记对应 CAIE Chemistry 9701 2025-2027 syllabus 的 A Level subject content 24.1-24.2：electrolysis、standard electrode potentials、standard cell potentials、Nernst equation，以及 cell potential 与 Gibbs free energy 的联系。不声称对齐任何 Chemistry coursebook。
 
@@ -71,7 +71,7 @@ $$
 
 ## Standard Electrode Potentials
 
-**Standard electrode potential**，$E^\circ$，是相对于 standard hydrogen electrode 测得的标准还原电势。常用标准条件包括 $298\ \text{K}$、水溶液中离子浓度 $1\ \text{mol dm}^{-3}$、气体压强 $100\ \text{kPa}$。
+**Standard electrode potential**，$E^\circ$，是相对于 standard hydrogen electrode 测得的标准还原电势。常用标准条件包括 $298\ \text{K}$、水溶液中离子浓度 $1\ \text{mol dm}^{-3}$、气体压强 $101\ \text{kPa}$。
 
 standard hydrogen electrode 的半反应为：
 

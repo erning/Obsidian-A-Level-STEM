@@ -8,7 +8,7 @@ tags:
   - chemistry/9701/physical-chemistry
 ---
 
-# Electrochemistry - Lecture Notes.zh-CN
+# Electrochemistry - Lecture Notes
 
 ## 范围
 
@@ -181,3 +181,9 @@ AS Topic 6 的 redox 是后续 electrolysis、electrode processes 和 electrode 
 - 为什么 $\ce{Fe^{2+} -> Fe^{3+} + e-}$ 是 oxidation？
 - 怎样判断一个物种是 oxidising agent 还是 reducing agent？
 - 怎样从 oxidation number 判断 disproportionation？
+
+## 连接
+
+- [[40 Chemistry/01 Topics/11 Group 17/00 Overview|Group 17]]
+- [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/00 Overview|Nitrogen and Sulfur]]
+- [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|A Level Electrochemistry]]

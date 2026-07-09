@@ -218,6 +218,11 @@ When planning a route, write each step with:
 - the reaction type;
 - any required final acidification.
 
+## Working Routine
+
+- For a carboxylic acid, confirm it with a carbonate (effervescence and CO2), then choose the route.
+- To name an ester, name the alkyl group from the alcohol first and the carboxylate part from the acid second.
+- For hydrolysis, decide acid or alkali, and remember to acidify after alkaline hydrolysis.
 ## Common Mistakes
 
 - Writing ester hydrolysis products without considering whether the conditions are acidic or alkaline.

@@ -1,5 +1,5 @@
 ---
-title: 23 Chemical Energetics - Lecture Notes.zh-CN
+title: "23 Chemical Energetics - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/physical-chemistry
 ---
 
-# 23 Chemical Energetics - Lecture Notes.zh-CN
+# 23 Chemical Energetics - Lecture Notes
 
-## 来源范围
+## 范围
 
 本笔记对应 CAIE Chemistry 9701 2025-2027 syllabus 的 A Level subject content 23.1-23.4：lattice energy and Born-Haber cycles、enthalpies of solution and hydration、entropy change 和 Gibbs free energy change。不声称对齐任何 Chemistry coursebook。
 

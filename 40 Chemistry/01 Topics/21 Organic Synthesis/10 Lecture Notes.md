@@ -131,7 +131,7 @@ The syllabus asks you to analyse possible by-products. Common AS examples includ
 
 When analysing a given route, comment on these only when they are chemically relevant. Do not invent by-products unrelated to the reaction conditions.
 
-## Worked-Thinking Routine for Route Questions
+## Working Routine
 
 1. Count carbon atoms in the starting material and target.
 2. Identify all functional groups in both.

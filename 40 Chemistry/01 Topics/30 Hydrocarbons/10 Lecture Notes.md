@@ -119,6 +119,11 @@ In electrophilic substitution, a substituent already on the ring influences wher
 
 For example, methylbenzene tends to form 2- and 4-nitromethylbenzene on nitration. Benzoic acid tends to form 3-nitrobenzoic acid.
 
+## Working Routine
+
+- Decide from the conditions whether the reaction happens in the aromatic ring or in the side-chain.
+- For electrophilic substitution, draw the electrophile attacking the ring and a proton then leaving to restore aromaticity.
+- Use the directing effect of the group already on the ring to predict the position of substitution.
 ## Common Mistakes
 
 - Using alkene electrophilic addition mechanisms for benzene.
@@ -126,3 +131,10 @@ For example, methylbenzene tends to form 2- and 4-nitromethylbenzene on nitratio
 - Confusing ring halogenation with side-chain halogenation.
 - Omitting the temperature range for nitration.
 - Predicting a directing effect without identifying the group already on the ring.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|AS Hydrocarbons]]
+- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/00 Overview|An Introduction to A Level Organic Chemistry]]
+- [[40 Chemistry/01 Topics/31 Halogen Compounds/00 Overview|A Level Halogen Compounds]]
+- [[40 Chemistry/01 Topics/33 Carboxylic Acids and Derivatives/00 Overview|A Level Carboxylic Acids and Derivatives]]

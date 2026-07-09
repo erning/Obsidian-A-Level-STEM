@@ -1,5 +1,5 @@
 ---
-title: "19 Nitrogen Compounds - 中文讲义"
+title: "19 Nitrogen Compounds - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,7 +9,7 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 19 Nitrogen Compounds - 中文讲义
+# 19 Nitrogen Compounds - Lecture Notes
 
 ## 范围
 
@@ -156,3 +156,11 @@ $$
 3. hydroxynitrile 中有哪些官能团？
 4. 腈在碱性条件下水解后，如果目标是羧酸，还需要哪一步？
 5. 哪一个红外吸收区间能强烈提示 nitrile group？
+
+## 连接
+
+- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]]
+- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]]
+- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|Carboxylic Acids and Derivatives]]
+- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]]
+- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|Analytical Techniques]]

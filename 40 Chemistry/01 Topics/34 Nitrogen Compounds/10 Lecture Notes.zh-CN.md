@@ -1,5 +1,5 @@
 ---
-title: "34 Nitrogen Compounds - 中文讲义"
+title: "34 Nitrogen Compounds - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 34 Nitrogen Compounds - 中文讲义
+# 34 Nitrogen Compounds - Lecture Notes
 
-## 来源范围
+## 范围
 
 本讲义依据 CAIE Chemistry 9701 A Level Topic 34：primary and secondary amines、phenylamine and azo compounds、amides 和 amino acids。这里不声称对齐任何教材。
 

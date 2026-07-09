@@ -8,7 +8,7 @@ tags:
   - chemistry/9701/physical-chemistry
 ---
 
-# Equilibria - Lecture Notes.zh-CN
+# Equilibria - Lecture Notes
 
 ## 范围
 
@@ -241,3 +241,9 @@ $K_c$ 或 $K_p$ 题：先从 balanced equation 写表达式，再处理 concentr
 - $K_c$ 和 $K_p$ 表达式中的指数从哪里来？
 - 哪些改变会影响 equilibrium position？哪些会改变 $K$？
 - Strong acid 和 concentrated acid 的区别是什么？
+
+## 连接
+
+- [[40 Chemistry/01 Topics/05 Chemical Energetics/10 Lecture Notes|Chemical Energetics]]
+- [[40 Chemistry/01 Topics/08 Reaction Kinetics/10 Lecture Notes|Reaction Kinetics]]
+- [[40 Chemistry/01 Topics/25 Equilibria/00 Overview|A Level Equilibria]]

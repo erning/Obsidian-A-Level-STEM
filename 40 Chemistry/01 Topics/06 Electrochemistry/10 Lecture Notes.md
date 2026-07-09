@@ -167,7 +167,7 @@ Roman numerals do not show the number of atoms. They show oxidation number.
 
 The AS redox tools in this topic are the foundation for later electrolysis and electrode potential work. In electrolysis, half-equations describe oxidation at one electrode and reduction at the other. In electrochemical cells, standard electrode potentials compare the tendency of half-equations to occur as reductions. Those detailed applications belong to [[40 Chemistry/01 Topics/24 Electrochemistry/00 Overview|A Level Electrochemistry]].
 
-## Worked-Thinking Routine
+## Working Routine
 
 For an unfamiliar redox equation:
 
@@ -195,7 +195,7 @@ Do not forget disproportionation. If one element in a reactant appears in two pr
 - Can you identify the oxidising agent in a reaction without reversing the roles?
 - Can you recognise a disproportionation reaction from oxidation numbers?
 
-## Nearby Notes
+## Connections
 
 - [[40 Chemistry/01 Topics/11 Group 17/00 Overview|Group 17]]
 - [[40 Chemistry/01 Topics/12 Nitrogen and Sulfur/00 Overview|Nitrogen and Sulfur]]

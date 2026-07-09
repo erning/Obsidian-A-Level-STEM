@@ -93,6 +93,11 @@ Molecules with several functional groups require selectivity. Acyl chlorides rea
 
 When a molecule contains more than one reactive site, explain why the chosen reagent reacts where you say it does.
 
+## Working Routine
+
+- Count carbons at the start and target, and note where the skeleton must change.
+- Build aromatic targets via nitration, reduction, diazotisation or Friedel-Crafts steps as needed.
+- For each step, write the reagents, conditions and the small-molecule by-product.
 ## Common Mistakes
 
 - Giving a product without reagents and conditions.
@@ -100,3 +105,9 @@ When a molecule contains more than one reactive site, explain why the chosen rea
 - Forgetting that a nitrile route adds one carbon.
 - Ignoring by-products such as $\ce{HCl}$ in acyl chloride reactions.
 - Planning forwards only and getting stuck after the first familiar reaction.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|AS Organic Synthesis]]
+- [[40 Chemistry/01 Topics/29 An Introduction to A Level Organic Chemistry/00 Overview|An Introduction to A Level Organic Chemistry]]
+- [[40 Chemistry/01 Topics/37 Analytical Techniques/00 Overview|A Level Analytical Techniques]]

@@ -199,7 +199,7 @@ If a question gives decomposition temperatures, the more thermally stable compou
 
 If a question gives enthalpy changes or solubility data, identify the trend first. Then explain it using the relative magnitudes of lattice energy and hydration enthalpy. A data statement such as "solubility decreases from $\ce{MgSO4}$ to $\ce{BaSO4}$" is not the explanation by itself.
 
-## Answer Routines
+## Working Routine
 
 For thermal stability:
 

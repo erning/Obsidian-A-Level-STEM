@@ -1,5 +1,5 @@
 ---
-title: "37 Analytical Techniques - 中文讲义"
+title: "37 Analytical Techniques - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/analysis
 ---
 
-# 37 Analytical Techniques - 中文讲义
+# 37 Analytical Techniques - Lecture Notes
 
-## 来源范围
+## 范围
 
 本讲义依据 CAIE Chemistry 9701 A Level Topic 37：thin-layer chromatography、gas / liquid chromatography、carbon-13 NMR spectroscopy 和 proton NMR spectroscopy。这里不声称对齐任何教材。
 

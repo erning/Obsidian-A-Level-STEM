@@ -202,6 +202,20 @@ $$
 \ce{n CH2=CHCH3 -> [-CH2-CH(CH3)-]_{n}}
 $$
 
-## Study Routine
+## Working Routine
 
 For alkanes, think strong non-polar bonds, combustion, cracking and free-radical substitution. For alkenes, think electron-rich double bond, electrophilic addition, oxidation and polymerisation.
+
+## Common Mistakes
+
+- Showing only termination in a free-radical mechanism; initiation and propagation are required.
+- Applying an alkene addition mechanism to an alkane.
+- Predicting the wrong major product from HBr and propene; the secondary carbocation dominates (Markovnikov).
+- Forgetting that hot concentrated acidified KMnO4 cleaves the carbon-carbon double bond.
+- Saying alkanes are unreactive only because they are non-polar; the strong C-H and C-C bonds also matter.
+## Connections
+
+- [[40 Chemistry/01 Topics/13 An Introduction to AS Level Organic Chemistry/00 Overview|An Introduction to AS Level Organic Chemistry]]
+- [[40 Chemistry/01 Topics/15 Halogen Compounds/00 Overview|Halogen Compounds]]
+- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]]
+- [[40 Chemistry/01 Topics/20 Polymerisation/00 Overview|Polymerisation]]

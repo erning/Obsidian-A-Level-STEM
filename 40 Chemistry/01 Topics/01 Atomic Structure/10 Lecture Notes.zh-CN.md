@@ -183,3 +183,9 @@ $$
 电子排布题先确定电子数，再按 $1s$、$2s$、$2p$、$3s$、$3p$、$4s$、$3d$、$4p$ 填入；处理离子时尤其注意电子数和移去顺序。
 
 解释电离能趋势时，不要只说“更难移去”。要明确是哪一个因素变化了：核电荷、半径、屏蔽，还是 spin-pair repulsion。
+
+## 连接
+
+- [[40 Chemistry/01 Topics/02 Atoms Molecules and Stoichiometry/10 Lecture Notes|Atoms, Molecules and Stoichiometry]] uses isotope and relative mass ideas.
+- [[40 Chemistry/01 Topics/03 Chemical Bonding/10 Lecture Notes|Chemical Bonding]] builds on electron arrangements and orbital shapes.
+- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]] uses atomic radius, ionic radius and ionisation energy trends.

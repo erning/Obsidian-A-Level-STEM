@@ -254,7 +254,7 @@ $$
 \ce{Ba^{2+}(aq) + SO4^{2-}(aq) -> BaSO4(s)}
 $$
 
-## Prediction Routine
+## Working Routine
 
 When a Group 2 question asks for a prediction, identify the compound type first:
 
@@ -265,6 +265,13 @@ When a Group 2 question asks for a prediction, identify the compound type first:
 5. Acid with carbonate? Expect salt, $\ce{CO2}$ and water.
 6. Acid with metal? Expect salt and $\ce{H2}$.
 
+## Common Mistakes
+
+- Reversing the two solubility trends: hydroxides become more soluble down the group, sulfates less soluble.
+- Writing barium sulfate as soluble; it is very insoluble, which is the basis of the sulfate test.
+- Forgetting that the thermal stability of carbonates and nitrates increases down the group.
+- Giving the wrong decomposition products for nitrates.
+- Saying reactivity decreases down the group; it increases.
 ## Quick Self-Checks
 
 - Can you write the general formulae $\ce{MO}$, $\ce{M(OH)2}$, $\ce{MCO3}$, $\ce{M(NO3)2}$ and $\ce{MSO4}$?
@@ -272,3 +279,9 @@ When a Group 2 question asks for a prediction, identify the compound type first:
 - Can you keep the hydroxide and sulfate solubility trends separate?
 - Can you state which carbonate or nitrate is most thermally stable?
 - Can you use gas tests for $\ce{H2}$, $\ce{CO2}$ and $\ce{O2}$ in these reactions?
+
+## Connections
+
+- [[40 Chemistry/01 Topics/09 The Periodic Table Chemical Periodicity/00 Overview|The Periodic Table: Chemical Periodicity]]
+- [[40 Chemistry/01 Topics/27 Group 2/00 Overview|A Level Group 2]]
+- [[40 Chemistry/01 Topics/03 Chemical Bonding/00 Overview|Chemical Bonding]]

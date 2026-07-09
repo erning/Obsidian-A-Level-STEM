@@ -8,7 +8,7 @@ tags:
   - chemistry/9701/physical-chemistry
 ---
 
-# Chemical Energetics - Lecture Notes.zh-CN
+# Chemical Energetics - Lecture Notes
 
 ## 范围
 
@@ -150,3 +150,9 @@ $$
 - Exothermic pathway diagram 上，$E_A$ 和 $\Delta H$ 分别是哪两段竖直距离？
 - $\Delta H = -mc\Delta T/n$ 中的 $n$ 在燃烧题、中和题中分别通常代表什么？
 - 用 Hess cycle 时，逆着箭头走为什么要变号？
+
+## 连接
+
+- [[40 Chemistry/01 Topics/08 Reaction Kinetics/10 Lecture Notes|Reaction Kinetics]]
+- [[40 Chemistry/01 Topics/23 Chemical Energetics/00 Overview|A Level Chemical Energetics]]
+- [[40 Chemistry/02 Practical Skills/00 Overview|Practical Skills]]

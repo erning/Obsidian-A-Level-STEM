@@ -1,5 +1,5 @@
 ---
-title: "The Periodic Table: Chemical Periodicity - Lecture Notes zh-CN"
+title: "The Periodic Table: Chemical Periodicity - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 topic: "09 The Periodic Table: Chemical Periodicity"
@@ -10,9 +10,9 @@ tags:
   - zh-CN
 ---
 
-# The Periodic Table: Chemical Periodicity - Lecture Notes zh-CN
+# The Periodic Table: Chemical Periodicity - Lecture Notes
 
-## 学习范围
+## 范围
 
 本节对应 CAIE Chemistry 9701 AS Level 第 9 节：The Periodic Table: chemical periodicity。重点是第 3 周期元素的物理性质周期性、指定反应、氧化物和氯化物的酸碱行为，以及用周期性推断未知元素性质。这里不声称与任何 Chemistry coursebook 对齐。
 

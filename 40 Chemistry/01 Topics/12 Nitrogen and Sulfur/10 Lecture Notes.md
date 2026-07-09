@@ -246,6 +246,18 @@ $$
 
 In exam answers, focus on the chemical species causing the effect, not only the environmental description.
 
+## Working Routine
+
+- Explain the low reactivity of nitrogen using both the strong triple bond and the lack of polarity.
+- For acid rain, name the species (SO2, SO3, NO2) and show the oxidation or catalytic step.
+- For the catalytic role of nitrogen oxides, show NO2 being used and then regenerated.
+## Common Mistakes
+
+- Explaining nitrogen's low reactivity by bond strength alone; the lack of polarity also matters.
+- Forgetting that NO and NO2 catalyse the oxidation of sulfur dioxide to sulfur trioxide.
+- Describing the catalytic converter as absorbing NOx; it reduces NOx to N2 and oxidises CO and hydrocarbons.
+- Omitting the role of PAN in photochemical smog.
+- Confusing the direct acid-rain role of NO2 with its catalytic role.
 ## Quick Self-Checks
 
 - Can you explain nitrogen's low reactivity using both triple bond strength and lack of polarity?
@@ -255,3 +267,9 @@ In exam answers, focus on the chemical species causing the effect, not only the 
 - Can you state natural and man-made sources of $\ce{NOx}$?
 - Can you write catalytic converter equations for removal of $\ce{NO}$ or $\ce{NO2}$?
 - Can you explain how $\ce{NO}$ and $\ce{NO2}$ contribute to photochemical smog and acid rain?
+
+## Connections
+
+- [[40 Chemistry/01 Topics/11 Group 17/00 Overview|Group 17]]
+- [[40 Chemistry/01 Topics/07 Equilibria/00 Overview|Equilibria]]
+- [[40 Chemistry/01 Topics/06 Electrochemistry/00 Overview|Electrochemistry]]

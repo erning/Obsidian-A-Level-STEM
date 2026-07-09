@@ -156,6 +156,11 @@ Relative ease:
 
 acyl chlorides > alkyl chlorides > halogenoarenes
 
+## Working Routine
+
+- Place acyl chlorides at the centre: they react at room temperature with water, alcohols, phenol, ammonia and amines.
+- Explain acidity trends through the stability of the conjugate base, including delocalisation and inductive effects.
+- Rank ease of hydrolysis as acyl chlorides above alkyl chlorides above halogenoarenes.
 ## Common Mistakes
 
 - Forgetting $\ce{HCl}$ as a by-product in acyl chloride reactions.
@@ -163,3 +168,10 @@ acyl chlorides > alkyl chlorides > halogenoarenes
 - Writing halogenoalkane substitution mechanisms for acyl chlorides.
 - Explaining acidity trends without discussing conjugate-base stability.
 - Forgetting that methanoic acid and ethanedioic acid can be further oxidised.
+
+## Connections
+
+- [[40 Chemistry/01 Topics/18 Carboxylic Acids and Derivatives/00 Overview|AS Carboxylic Acids and Derivatives]]
+- [[40 Chemistry/01 Topics/32 Hydroxy Compounds/00 Overview|A Level Hydroxy Compounds]]
+- [[40 Chemistry/01 Topics/34 Nitrogen Compounds/00 Overview|A Level Nitrogen Compounds]]
+- [[40 Chemistry/01 Topics/31 Halogen Compounds/00 Overview|A Level Halogen Compounds]]

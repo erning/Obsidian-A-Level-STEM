@@ -234,3 +234,9 @@ $$
 CAIE 要求计算答案的有效数字与题目给出或要求的一致。中间过程可以保留更多位，最后再四舍五入。
 
 不要在中间步骤过早舍入，也不要给出超过数据精度支持的有效数字。
+
+## 连接
+
+- [[40 Chemistry/01 Topics/01 Atomic Structure/10 Lecture Notes|Atomic Structure]] supplies isotopes and relative mass ideas.
+- [[40 Chemistry/01 Topics/04 States of Matter/10 Lecture Notes|States of Matter]] uses $pV = nRT$ to connect gas measurements with amount of substance.
+- [[40 Chemistry/02 Practical Skills/00 Overview|Practical Skills]] uses stoichiometry in titration, gas collection and yield calculations.

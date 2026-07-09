@@ -1,5 +1,5 @@
 ---
-title: "18 Carboxylic Acids and Derivatives - 中文讲义"
+title: "18 Carboxylic Acids and Derivatives - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,7 +9,7 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 18 Carboxylic Acids and Derivatives - 中文讲义
+# 18 Carboxylic Acids and Derivatives - Lecture Notes
 
 ## 范围
 
@@ -202,3 +202,11 @@ $$
 3. methyl ethanoate 中 $\ce{-OCH3}$ 部分来自哪一种反应物？
 4. 羧酸与碳酸盐反应的关键现象是什么？
 5. 为什么腈水解常用于增长碳链后的羧酸合成？
+
+## 连接
+
+- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]]
+- [[40 Chemistry/01 Topics/17 Carbonyl Compounds/00 Overview|Carbonyl Compounds]]
+- [[40 Chemistry/01 Topics/19 Nitrogen Compounds/00 Overview|Nitrogen Compounds]]
+- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]]
+- [[40 Chemistry/01 Topics/22 Analytical Techniques/00 Overview|Analytical Techniques]]

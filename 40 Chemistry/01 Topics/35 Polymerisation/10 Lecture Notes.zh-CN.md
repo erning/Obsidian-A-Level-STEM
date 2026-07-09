@@ -1,5 +1,5 @@
 ---
-title: "35 Polymerisation - 中文讲义"
+title: "35 Polymerisation - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 35 Polymerisation - 中文讲义
+# 35 Polymerisation - Lecture Notes
 
-## 来源范围
+## 范围
 
 本讲义依据 CAIE Chemistry 9701 A Level Topic 35：condensation polymerisation、判断 polymerisation 类型，以及 degradable polymers。这里不声称对齐任何教材。
 

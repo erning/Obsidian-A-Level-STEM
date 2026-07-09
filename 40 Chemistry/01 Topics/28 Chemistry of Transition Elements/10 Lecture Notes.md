@@ -162,6 +162,14 @@ $$
 
 The colour changes from pink to blue. Adding water reverses the equilibrium because water becomes the ligand in excess.
 
+With excess ammonia, cobalt(II) also undergoes ligand exchange. The pink $\ce{[Co(H2O)6]^2+}$ forms the straw-coloured $\ce{[Co(NH3)6]^2+}$:
+
+$$
+\ce{[Co(H2O)6]^2+(aq) + 6NH3(aq) <=> [Co(NH3)6]^2+(aq) + 6H2O(l)}
+$$
+
+This $\ce{[Co(NH3)6]^2+}$ is readily oxidised by air to the brown $\ce{[Co(NH3)6]^3+}$, so the observed colour often becomes brown.
+
 Hydroxide ions often form precipitates with copper(II) and cobalt(II) ions:
 
 $$
@@ -334,7 +342,7 @@ $$
 
 A large $K_\mathrm{stab}$ means the equilibrium lies far to the right and the complex ion is stable. Ligand exchange can be explained by comparing stability constants: the more stable complex is favoured at equilibrium.
 
-## Answer Routines
+## Working Routine
 
 For a complex ion formula:
 

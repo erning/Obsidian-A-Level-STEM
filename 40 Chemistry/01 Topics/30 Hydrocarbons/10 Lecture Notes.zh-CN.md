@@ -1,5 +1,5 @@
 ---
-title: "30 Hydrocarbons - 中文讲义"
+title: "30 Hydrocarbons - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 status: active
@@ -9,9 +9,9 @@ tags:
   - chemistry/9701/organic-chemistry
 ---
 
-# 30 Hydrocarbons - 中文讲义
+# 30 Hydrocarbons - Lecture Notes
 
-## 来源范围
+## 范围
 
 本讲义依据 CAIE Chemistry 9701 A Level Topic 30.1 Arenes。这里不声称对齐任何教材。
 

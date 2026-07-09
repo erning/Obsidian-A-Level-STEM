@@ -169,6 +169,20 @@ $$
 
 $S_N1$ is favoured for tertiary halogenoalkanes because alkyl groups stabilise the carbocation by inductive effects. Secondary halogenoalkanes can react by a mixture of $S_N1$ and $S_N2$, depending on structure and conditions.
 
-## Study Routine
+## Working Routine
 
 For any halogenoalkane reaction, decide first whether the reagent is acting as a nucleophile or as a base. Then choose substitution or elimination, check the solvent, and identify the likely mechanism from the halogenoalkane class.
+
+## Common Mistakes
+
+- Using aqueous sodium hydroxide for elimination; ethanolic sodium hydroxide is required.
+- Forgetting that reaction with KCN lengthens the carbon chain by one.
+- Applying an SN2 pathway to a tertiary halogenoalkane, which reacts mainly by SN1.
+- Saying the C-X bond strength increases from chlorine to iodine; it decreases, so iodoalkanes hydrolyse fastest.
+- Reporting the silver nitrate test without warming or noting the precipitate colour.
+## Connections
+
+- [[40 Chemistry/01 Topics/14 Hydrocarbons/00 Overview|Hydrocarbons]]
+- [[40 Chemistry/01 Topics/16 Hydroxy Compounds/00 Overview|Hydroxy Compounds]]
+- [[40 Chemistry/01 Topics/11 Group 17/00 Overview|Group 17]]
+- [[40 Chemistry/01 Topics/21 Organic Synthesis/00 Overview|Organic Synthesis]]

@@ -1,5 +1,5 @@
 ---
-title: "Nitrogen and Sulfur - Lecture Notes zh-CN"
+title: "Nitrogen and Sulfur - Lecture Notes.zh-CN"
 subject: Chemistry
 syllabus: 9701
 topic: "12 Nitrogen and Sulfur"
@@ -10,9 +10,9 @@ tags:
   - zh-CN
 ---
 
-# Nitrogen and Sulfur - Lecture Notes zh-CN
+# Nitrogen and Sulfur - Lecture Notes
 
-## 学习范围
+## 范围
 
 本节对应 CAIE Chemistry 9701 AS Level 第 12 节 Nitrogen and sulfur。内容包括 nitrogen 反应性低的原因、ammonia 作为 Bronsted-Lowry base、ammonium ion 的形成、ammonium salts 被碱释放出 ammonia、nitrogen oxides、发动机尾气中的催化去除、photochemical smog，以及 nitrogen oxides 和 sulfur dioxide 参与 acid rain 的化学过程。这里不声称与任何 Chemistry coursebook 对齐。
 
